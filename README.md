@@ -985,6 +985,7 @@
 
 ## Jupyter Notebook 
 
+- [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 - [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [openai/CLIP](https://github.com/openai/CLIP) - CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
@@ -2260,7 +2261,7 @@
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [nonara/ts-patch](https://github.com/nonara/ts-patch) - Augment the TypeScript compiler to support extended functionality
 - [LeDDGroup/typescript-transform-paths](https://github.com/LeDDGroup/typescript-transform-paths) - Transforms module resolution paths using TypeScript path mapping and/or custom paths
-- [johannschopplich/uncreate](https://github.com/johannschopplich/uncreate) - 🚥 Minimal, type-safe REST client using JS proxies (36 loc)
+- [johannschopplich/unrested](https://github.com/johannschopplich/unrested) - 🚥 Minimal, type-safe REST client using JS proxies (36 loc)
 - [nuxt/bridge](https://github.com/nuxt/bridge) - 🌉 Experience Nuxt 3 features on existing Nuxt 2 projects
 - [dethcrypto/TypeChain](https://github.com/dethcrypto/TypeChain) - 🔌 TypeScript bindings for Ethereum smart contracts
 - [upjs/facile-validator](https://github.com/upjs/facile-validator) - Laravel-inspired validation for HTML forms, built for simplicity of use 🍬

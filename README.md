@@ -1698,7 +1698,7 @@
 - [huggingface/hf-hub](https://github.com/huggingface/hf-hub) - Rust client for the huggingface hub aiming for minimal subset of features over `huggingface-hub` python package
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [AmineDiro/cria](https://github.com/AmineDiro/cria) - OpenAI compatible API for serving LLAMA-2 model
-- [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Vector database plugin for Postgres, written in Rust, specifically designed for LLM. 20x faster than pgvector
+- [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Vector database plugin for Postgres, written in Rust, specifically designed for LLM
 - [NiklasEi/bevy_common_assets](https://github.com/NiklasEi/bevy_common_assets) - Collection of asset loaders for common file formats
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [Gadersd/stable-diffusion-burn](https://github.com/Gadersd/stable-diffusion-burn) - Stable Diffusion v1.4 ported to Rust's burn framework
@@ -1803,7 +1803,7 @@
 - [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) - Zero-cost asynchronous programming in Rust
 - [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
 - [dirs-dev/dirs-rs](https://github.com/dirs-dev/dirs-rs) - a low-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs) - An implementation of the diffusers api in Rust
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch.
@@ -2014,12 +2014,15 @@
 
 ## TypeScript 
 
+- [microsoft/azurechatgpt](https://github.com/microsoft/azurechatgpt) - 🤖 Azure ChatGPT: Private & secure ChatGPT for internal enterprise use 💼
+- [cschroeter/park-ui](https://github.com/cschroeter/park-ui) - Beautifully designed components built with Ark UI and Panda CSS.
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [actions-rs/toolchain](https://github.com/actions-rs/toolchain) - 🛠️ GitHub Action for `rustup` commands
 - [dsherret/ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
 - [mdbetancourt/eslint-plugin-neverthrow](https://github.com/mdbetancourt/eslint-plugin-neverthrow) - 
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
 - [Menci/vite-plugin-wasm](https://github.com/Menci/vite-plugin-wasm) - Add WebAssembly ESM integration (aka. Webpack's `asyncWebAssembly`) to Vite and support `wasm-pack` generated modules.
+- [Dave136/vue-email](https://github.com/Dave136/vue-email) - Write email templates with vue
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [huggingface/huggingface.js](https://github.com/huggingface/huggingface.js) - Utilities to use the Hugging Face hub API
 - [ariym/whisper-node](https://github.com/ariym/whisper-node) - NodeJS bindings for OpenAI's Whisper. (C++ CPU version by ggerganov)
@@ -2537,7 +2540,6 @@
 
 ## Vue 
 
-- [Dave136/vue-email](https://github.com/Dave136/vue-email) - Write email templates with vue
 - [radix-vue/radix-vue](https://github.com/radix-vue/radix-vue) - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.
 - [Tresjs/nuxt](https://github.com/Tresjs/nuxt) - TresJS integration for Nuxt.
 - [nuxtlabs/ui](https://github.com/nuxtlabs/ui) - Fully styled and customizable components for Nuxt.

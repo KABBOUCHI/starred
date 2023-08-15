@@ -725,7 +725,7 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [felangel/equatable](https://github.com/felangel/equatable) - A Dart package that helps to implement value based equality without needing to explicitly override == and hashCode.
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
-- [bdlukaa/fluent_ui](https://github.com/bdlukaa/fluent_ui) - Implements Microsoft's Fluent Design System in Flutter.
+- [bdlukaa/fluent_ui](https://github.com/bdlukaa/fluent_ui) - Implements Microsoft's WinUI3 in Flutter.
 - [subosito/flutter-action](https://github.com/subosito/flutter-action) - Flutter environment for use in GitHub Actions. It works on Linux, Windows, and macOS.
 - [rrousselGit/riverpod](https://github.com/rrousselGit/riverpod) - A simple way to access state while robust and testable.
 - [FlutterGen/flutter_gen](https://github.com/FlutterGen/flutter_gen) - The Flutter code generator for your assets, fonts, colors, … — Get rid of all String-based APIs.
@@ -920,7 +920,7 @@
 - [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue) - 🥳 Really simple Electron + Vite + Vue boilerplate.
 - [electron-vite/vite-plugin-electron](https://github.com/electron-vite/vite-plugin-electron) - :electron: Electron⚡️Vite core repo
 - [Level/level](https://github.com/Level/level) - Universal abstract-level database for Node.js and browsers.
-- [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A Native GOG and Epic Games Launcher for Linux, Windows and Mac.
+- [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A Native GOG, Amazon and Epic Games Launcher for Linux, Windows and Mac.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
@@ -1055,7 +1055,7 @@
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [felangel/equatable](https://github.com/felangel/equatable) - A Dart package that helps to implement value based equality without needing to explicitly override == and hashCode.
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
-- [bdlukaa/fluent_ui](https://github.com/bdlukaa/fluent_ui) - Implements Microsoft's Fluent Design System in Flutter.
+- [bdlukaa/fluent_ui](https://github.com/bdlukaa/fluent_ui) - Implements Microsoft's WinUI3 in Flutter.
 - [macosui/macos_ui](https://github.com/macosui/macos_ui) - Flutter widgets and themes implementing the current macOS design language.
 - [bmw-tech/lumberdash](https://github.com/bmw-tech/lumberdash) - Do you need logs? Lumberdash is the answer!
 - [subosito/flutter-action](https://github.com/subosito/flutter-action) - Flutter environment for use in GitHub Actions. It works on Linux, Windows, and macOS.
@@ -2016,7 +2016,7 @@
 - [svenluijten/forge-cli](https://github.com/svenluijten/forge-cli) - 🔥 A command line utility to interact with your Laravel Forge servers, sites, and more.
 - [pipe-dream/laravel-create](https://github.com/pipe-dream/laravel-create) - Create Laravel projects really fast
 - [stefanzweifel/laravel-stats](https://github.com/stefanzweifel/laravel-stats) - 📈 Get insights about your Laravel or Lumen Project
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - The open-source status page system 🚦
+- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
 - [inertiajs/pingcrm](https://github.com/inertiajs/pingcrm) - A demo application to illustrate how Inertia.js works.
 - [cretueusebiu/vform](https://github.com/cretueusebiu/vform) - Handle Laravel-Vue forms and validation with ease.
 - [SpartnerNL/laravel-excel-docs](https://github.com/SpartnerNL/laravel-excel-docs) - Laravel Excel Docs
@@ -2145,7 +2145,7 @@
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
-- [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A Native GOG and Epic Games Launcher for Linux, Windows and Mac.
+- [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A Native GOG, Amazon and Epic Games Launcher for Linux, Windows and Mac.
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
@@ -2554,7 +2554,8 @@
 
 ## others 
 
-- [microsoft/azurechatgpt](https://github.com/microsoft/azurechatgpt) - 🤖 Azure ChatGPT: Private & secure ChatGPT for internal enterprise use 💼
+- [unjs/untun](https://github.com/unjs/untun) - 🚇 Tunnel your local HTTP(s) server to the world! powered by  Cloudflare Quick Tunnels.
+- [antfu/shikiji](https://github.com/antfu/shikiji) - An ESM-focused rewrite of shiki, and a little bit more.
 - [cschroeter/park-ui](https://github.com/cschroeter/park-ui) - Beautifully designed components built with Ark UI and Panda CSS.
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 - [zaycev/bevy-magic-light-2d](https://github.com/zaycev/bevy-magic-light-2d) - Experiment with computing 2D shading, lighting and shadows with Bevy Engine
@@ -2712,7 +2713,7 @@
 - [paritytech/jsonrpsee](https://github.com/paritytech/jsonrpsee) - Rust JSON-RPC library on top of async/await
 - [nuxt-experiments/nuxt-remote-config](https://github.com/nuxt-experiments/nuxt-remote-config) - 
 - [degatchi/mev-template-rs](https://github.com/degatchi/mev-template-rs) - Bootstrap your MEV bot strategies with a simple boilerplate to build on top of.
-- [unjs/unhead](https://github.com/unjs/unhead) - △ Universal document &lt;head&gt; tag manager. Tiny, adaptable and full-featured.
+- [unjs/unhead](https://github.com/unjs/unhead) - Universal document &lt;head&gt; tag manager. Tiny, adaptable and full-featured.
 - [geelen/npx-import](https://github.com/geelen/npx-import) - 
 - [remorses/esbuild-plugins](https://github.com/remorses/esbuild-plugins) - Collection of useful esbuild js plugins
 - [SergioBenitez/cookie-rs](https://github.com/SergioBenitez/cookie-rs) - HTTP cookie parsing and cookie jar management for Rust.
@@ -3755,7 +3756,7 @@
 - [brefphp/bref](https://github.com/brefphp/bref) - Serverless PHP on AWS Lambda
 - [stefanzweifel/laravel-stats](https://github.com/stefanzweifel/laravel-stats) - 📈 Get insights about your Laravel or Lumen Project
 - [box-project/box](https://github.com/box-project/box) - 📦🚀 Fast, zero config application bundler with PHARs.
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - The open-source status page system 🚦
+- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
 - [dwightwatson/active](https://github.com/dwightwatson/active) - Laravel helper for recognising the current route, controller and action.
 - [nuwave/lighthouse](https://github.com/nuwave/lighthouse) - A framework for serving GraphQL from Laravel
 - [spatie/laravel-searchable](https://github.com/spatie/laravel-searchable) - Pragmatically search through models and other sources
@@ -4074,6 +4075,7 @@
 
 ## rust 
 
+- [rust-math/intel-mkl-src](https://github.com/rust-math/intel-mkl-src) - Redistribute Intel MKL as a crate
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [coreylowman/dfdx](https://github.com/coreylowman/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
 - [coreylowman/cudarc](https://github.com/coreylowman/cudarc) - Safe rust wrapper around CUDA toolkit
@@ -4734,7 +4736,7 @@
 - [Atinux/nuxt-todos-edge](https://github.com/Atinux/nuxt-todos-edge) - A todos application with user authentication, SSR and SQLite, working on the edge.
 - [HunYan-io/vite-plugin-vue-nested-sfc](https://github.com/HunYan-io/vite-plugin-vue-nested-sfc) - Nest SFCs within your SFC.
 - [chakra-ui/ark](https://github.com/chakra-ui/ark) - A headless library for building reusable, scalable design systems that works for a wide range of JS frameworks.
-- [oku-ui/primitives](https://github.com/oku-ui/primitives) - Vue port of Radix UI Primitives. Components, icons, colors, and templates for building high-quality, accessible UI. Free and open-source. A project developed by @productdevbookcom
+- [oku-ui/primitives](https://github.com/oku-ui/primitives) - Vue Radix UI Primitives 1:1 . Components, icons, colors, and templates for building high-quality, accessible UI. Free and open-source. A project developed by @productdevbookcom
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [Baroshem/nuxt-security](https://github.com/Baroshem/nuxt-security) - 🛡 Security Module for Nuxt based on OWASP Top 10 and Helmet
 - [nuxt/hackernews](https://github.com/nuxt/hackernews) - HackerNews clone built with Nuxt.
@@ -4998,7 +5000,7 @@
 - [Tarektouati/vue-use-web](https://github.com/Tarektouati/vue-use-web) - 🕸 Web APIs implemented as Vue.js composition functions
 - [JohMun/vue-tags-input](https://github.com/JohMun/vue-tags-input) - A tags input component for VueJS
 - [nuxt/press](https://github.com/nuxt/press) - [Deprecated] Minimalist Markdown Publishing for Nuxt.js
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - The open-source status page system 🚦
+- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
 - [BinarCode/vue2-transitions](https://github.com/BinarCode/vue2-transitions) - ✨ Reusable Vue 2 transition components
 - [ktsn/vue-route-generator](https://github.com/ktsn/vue-route-generator) - Vue Router route config generator
 - [KABBOUCHI/laravel-mix-vue-auto-routing](https://github.com/KABBOUCHI/laravel-mix-vue-auto-routing) - A quick Laravel Mix extension to generate "Vue Router" routing automatically.
@@ -5103,6 +5105,7 @@
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [moxystudio/node-cross-spawn](https://github.com/moxystudio/node-cross-spawn) - A cross platform solution to node's spawn and spawnSync
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
+- [bdlukaa/fluent_ui](https://github.com/bdlukaa/fluent_ui) - Implements Microsoft's WinUI3 in Flutter.
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.

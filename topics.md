@@ -78,6 +78,7 @@
 - [game-engine](#game-engine)
 - [gamedev](#gamedev)
 - [games](#games)
+- [gis](#gis)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -442,6 +443,7 @@
 
 ## bash 
 
+- [rust-shell-script/rust_cmd_lib](https://github.com/rust-shell-script/rust_cmd_lib) - Common rust command-line macros and utilities, to write shell-script like tasks in a clean, natural and rusty way
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
@@ -1246,6 +1248,10 @@
 
 - [AnyRPG/AnyRPGCore](https://github.com/AnyRPG/AnyRPGCore) - Open source Role Playing Game engine for Unity 3D written in C#.
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+
+## gis 
+
+- [domlysz/BlenderGIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data
 
 ## git 
 
@@ -2554,6 +2560,9 @@
 
 ## others 
 
+- [mdit-vue/unplugin-vue-markdown](https://github.com/mdit-vue/unplugin-vue-markdown) - Compile Markdown to Vue component
+- [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
+- [m1guelpf/pingcrm-rs](https://github.com/m1guelpf/pingcrm-rs) - A demo application to illustrate an Axum + Inertia.js workflow.
 - [unjs/untun](https://github.com/unjs/untun) - 🚇 Tunnel your local HTTP(s) server to the world! powered by  Cloudflare Quick Tunnels.
 - [antfu/shikiji](https://github.com/antfu/shikiji) - An ESM-focused rewrite of shiki, and a little bit more.
 - [cschroeter/park-ui](https://github.com/cschroeter/park-ui) - Beautifully designed components built with Ark UI and Panda CSS.
@@ -3012,7 +3021,7 @@
 - [unjs/ufo](https://github.com/unjs/ufo) - 🔗 URL utils for humans
 - [antfu/vscode-browse-lite](https://github.com/antfu/vscode-browse-lite) - 🚀 An embedded browser in VS Code
 - [BlankSourceCode/vscode-devtools](https://github.com/BlankSourceCode/vscode-devtools) - A VSCode extension to host the chrome devtools inside of a webview.
-- [unjs/h3](https://github.com/unjs/h3) - ⚡️ Minimal h(ttp) framework built for high performance and portability
+- [unjs/h3](https://github.com/unjs/h3) - ⚡️ Minimal H(TTP) framework built for high performance and portability
 - [posva/2021-amsterdam-demos](https://github.com/posva/2021-amsterdam-demos) - 
 - [antfu/vitesse-nuxt-bridge](https://github.com/antfu/vitesse-nuxt-bridge) - 🏕 Vitesse experience for Nuxt 2 and Vue 2
 - [underfin/vite-plugin-vue2](https://github.com/underfin/vite-plugin-vue2) - Vue2 plugin for Vite
@@ -4075,6 +4084,10 @@
 
 ## rust 
 
+- [GREsau/schemars](https://github.com/GREsau/schemars) - Generate JSON Schema documents from Rust code
+- [rust-shell-script/rust_cmd_lib](https://github.com/rust-shell-script/rust_cmd_lib) - Common rust command-line macros and utilities, to write shell-script like tasks in a clean, natural and rusty way
+- [oscartbeaumont/specta](https://github.com/oscartbeaumont/specta) - Easily export your Rust types to other languages
+- [pyrossh/rust-embed](https://github.com/pyrossh/rust-embed) - Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
 - [rust-math/intel-mkl-src](https://github.com/rust-math/intel-mkl-src) - Redistribute Intel MKL as a crate
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [coreylowman/dfdx](https://github.com/coreylowman/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
@@ -4271,6 +4284,7 @@
 
 ## server 
 
+- [pyrossh/rust-embed](https://github.com/pyrossh/rust-embed) - Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [Hebilicious/server-block-nuxt](https://github.com/Hebilicious/server-block-nuxt) - Use &lt;server&gt; tags in your Nuxt pages components
 - [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
@@ -4301,6 +4315,8 @@
 
 ## shell 
 
+- [Winetricks/winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
+- [rust-shell-script/rust_cmd_lib](https://github.com/rust-shell-script/rust_cmd_lib) - Common rust command-line macros and utilities, to write shell-script like tasks in a clean, natural and rusty way
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
@@ -4496,6 +4512,7 @@
 
 ## typescript 
 
+- [oscartbeaumont/specta](https://github.com/oscartbeaumont/specta) - Easily export your Rust types to other languages
 - [dsherret/ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖

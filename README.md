@@ -1688,6 +1688,7 @@
 
 ## Rust 
 
+- [systeminit/si](https://github.com/systeminit/si) - The System Initiative software
 - [GREsau/schemars](https://github.com/GREsau/schemars) - Generate JSON Schema documents from Rust code
 - [rust-shell-script/rust_cmd_lib](https://github.com/rust-shell-script/rust_cmd_lib) - Common rust command-line macros and utilities, to write shell-script like tasks in a clean, natural and rusty way
 - [oscartbeaumont/specta](https://github.com/oscartbeaumont/specta) - Easily export your Rust types to other languages
@@ -2372,7 +2373,7 @@
 - [unjs/unctx](https://github.com/unjs/unctx) - 🍦 Composables in vanilla JS
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [supabase-community/nuxt-supabase](https://github.com/supabase-community/nuxt-supabase) - A supa simple wrapper around Supabase.js to enable usage within Nuxt.
-- [nuxt/postcss8](https://github.com/nuxt/postcss8) - Opt-in to postcss 8 in Nuxt apps.
+- [nuxt/postcss8](https://github.com/nuxt/postcss8) - Opt-in to postcss 8 in Nuxt 2 apps.
 - [unjs/ufo](https://github.com/unjs/ufo) - 🔗 URL utils for humans
 - [antfu/vscode-browse-lite](https://github.com/antfu/vscode-browse-lite) - 🚀 An embedded browser in VS Code
 - [BlankSourceCode/vscode-devtools](https://github.com/BlankSourceCode/vscode-devtools) - A VSCode extension to host the chrome devtools inside of a webview.

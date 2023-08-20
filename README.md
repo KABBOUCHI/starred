@@ -1688,6 +1688,10 @@
 
 ## Rust 
 
+- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - Open-source solution to deploy, scale, and operate your multiplayer game
+- [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust  Compile Time ORM robustness,async, pure Rust Dynamic SQL
+- [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - A cargo-subcommand to speed up Rust Docker builds using Docker layer caching.
+- [m1guelpf/ensemble](https://github.com/m1guelpf/ensemble) - A Laravel-inspired ORM for Rust
 - [systeminit/si](https://github.com/systeminit/si) - The System Initiative software
 - [GREsau/schemars](https://github.com/GREsau/schemars) - Generate JSON Schema documents from Rust code
 - [rust-shell-script/rust_cmd_lib](https://github.com/rust-shell-script/rust_cmd_lib) - Common rust command-line macros and utilities, to write shell-script like tasks in a clean, natural and rusty way
@@ -1756,7 +1760,7 @@
 - [Brendonovich/prisma-client-rust](https://github.com/Brendonovich/prisma-client-rust) - Type-safe database access for Rust
 - [djc/askama](https://github.com/djc/askama) - Type-safe, compiled Jinja-like templates for Rust
 - [djeedai/bevy_hanabi](https://github.com/djeedai/bevy_hanabi) - 🎆 Hanabi — a GPU particle system plugin for the Bevy game engine.
-- [m1guelpf/cog-rust](https://github.com/m1guelpf/cog-rust) - Rust containers for machine learning
+- [m1guelpf/cog-rust](https://github.com/m1guelpf/cog-rust) - Rust containers for machine learning.
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
 - [keyvank/femtoGPT](https://github.com/keyvank/femtoGPT) - Pure Rust implementation of a minimal Generative Pretrained Transformer
 - [Razaekel/noise-rs](https://github.com/Razaekel/noise-rs) - Procedural noise generation library for Rust.
@@ -2022,6 +2026,7 @@
 
 ## TypeScript 
 
+- [johannschopplich/nuxt-prepare](https://github.com/johannschopplich/nuxt-prepare) - 🦎 Run initialization steps at build time
 - [mdit-vue/unplugin-vue-markdown](https://github.com/mdit-vue/unplugin-vue-markdown) - Compile Markdown to Vue component
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 - [unjs/untun](https://github.com/unjs/untun) - 🚇 Tunnel your local HTTP(s) server to the world! powered by  Cloudflare Quick Tunnels.
@@ -2058,7 +2063,7 @@
 - [praeclarum/webgpu-torch](https://github.com/praeclarum/webgpu-torch) - Tensor computation with WebGPU acceleration
 - [Tresjs/tres](https://github.com/Tresjs/tres) - Declarative ThreeJS using Vue Components
 - [Atinux/nuxt-todos-edge](https://github.com/Atinux/nuxt-todos-edge) - A todos application with user authentication, SSR and SQLite, working on the edge.
-- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 📝 The editor framework for the web.
+- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🍬 The infra for building collaborative editors
 - [webfansplz/vite-plugin-vue-devtools](https://github.com/webfansplz/vite-plugin-vue-devtools) - Vite + Vue DevTools = DX  🔥
 - [johannschopplich/unlazy](https://github.com/johannschopplich/unlazy) - 🪧 Universal lazy loading library for placeholder images leveraging native browser APIs
 - [HunYan-io/vite-plugin-vue-nested-sfc](https://github.com/HunYan-io/vite-plugin-vue-nested-sfc) - Nest SFCs within your SFC.
@@ -2194,7 +2199,7 @@
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [Mojang/ore-ui](https://github.com/Mojang/ore-ui) - 💎 Building blocks to construct game UIs using web tech.
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
-- [solidjs-community/solid-three](https://github.com/solidjs-community/solid-three) - 
+- [solidjs-community/solid-three](https://github.com/solidjs-community/solid-three) - port of @react-three/fiber for solid
 - [NovusTheory/vue-nodegui](https://github.com/NovusTheory/vue-nodegui) - NodeGUI but with Vue
 - [justjavac/vue-cli-renderer](https://github.com/justjavac/vue-cli-renderer) - 
 - [lmiller1990/vue-pdf-renderer-demo](https://github.com/lmiller1990/vue-pdf-renderer-demo) - Demo on building a custom Vue 3 PDF renderer
@@ -2439,7 +2444,7 @@
 - [preset/preset](https://github.com/preset/preset) - Elegant, ecosystem-agnostic preset mechanism
 - [antfu/vitesse](https://github.com/antfu/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
 - [antfu/taze](https://github.com/antfu/taze) - 🥦 A modern cli tool that keeps your deps fresh
-- [nuxt/typescript](https://github.com/nuxt/typescript) - TypeScript Support for Nuxt.js
+- [nuxt/typescript](https://github.com/nuxt/typescript) - TypeScript Support for Nuxt 2
 - [coreui/coreui-icons](https://github.com/coreui/coreui-icons) - CoreUI Free Icons -  Premium designed free icon set with marks in SVG, Webfont and raster formats
 - [vuedx/preview](https://github.com/vuedx/preview) - Quick prototyping and UI feedback tool built on top Vite
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component

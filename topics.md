@@ -2565,6 +2565,9 @@
 
 ## others 
 
+- [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
+- [aevyrie/bevy_framepace](https://github.com/aevyrie/bevy_framepace) - Framepacing and framelimiting for Bevy
+- [gschup/bevy_ggrs](https://github.com/gschup/bevy_ggrs) - Bevy plugin for the GGRS P2P rollback networking library.
 - [unjs/httpxy](https://github.com/unjs/httpxy) - 🔀 A Full-Featured HTTP and WebSocket Proxy for Node.js
 - [mdenchev/bevy_aseprite](https://github.com/mdenchev/bevy_aseprite) - 
 - [awslabs/aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
@@ -3546,7 +3549,6 @@
 - [fideloper/TrustedProxy](https://github.com/fideloper/TrustedProxy) - Laravel Proxy Package for handling sessions when behind load balancers or other intermediaries.
 - [vinterskogen/laravel-uploaded-image](https://github.com/vinterskogen/laravel-uploaded-image) - Gracefully deal with resizing, cropping and scaling uploaded images in Laravel apps
 - [Unity-Technologies/VolumetricLighting](https://github.com/Unity-Technologies/VolumetricLighting) - Lighting effects implemented for the Adam demo: volumetric fog, area lights and tube lights
-- [wappalyzer/wappalyzer](https://github.com/wappalyzer/wappalyzer) - Identify technology on websites.
 - [KABBOUCHI/konsole](https://github.com/KABBOUCHI/konsole) - Konsole is command line interface for Unity.
 - [btxsqdr/unity-multi-threading](https://github.com/btxsqdr/unity-multi-threading) - unity3d multi threading helper class with two examples
 - [vux427/PortalFX](https://github.com/vux427/PortalFX) - 
@@ -3645,6 +3647,7 @@
 
 ## p2p 
 
+- [johanhelsing/matchbox](https://github.com/johanhelsing/matchbox) - Painless peer-to-peer WebRTC networking for rust wasm (and native!)
 - [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [kaichaosun/rlt](https://github.com/kaichaosun/rlt) - Localtunnel implementation in Rust, expose local API to the public.
@@ -4093,6 +4096,8 @@
 
 ## rust 
 
+- [djeedai/bevy_tweening](https://github.com/djeedai/bevy_tweening) - Tweening animation plugin for the Bevy game engine.
+- [johanhelsing/matchbox](https://github.com/johanhelsing/matchbox) - Painless peer-to-peer WebRTC networking for rust wasm (and native!)
 - [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - Open-source solution to deploy, scale, and operate your multiplayer game
 - [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust  Compile Time ORM robustness,async, pure Rust Dynamic SQL
 - [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - A cargo-subcommand to speed up Rust Docker builds using Docker layer caching.

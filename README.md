@@ -1592,7 +1592,7 @@
 - [codekerala/spa-laravel-vuejs](https://github.com/codekerala/spa-laravel-vuejs) - Single Page Application with Laravel 5.3 and Vue.js 2.1.x
 - [austintoddj/canvas](https://github.com/austintoddj/canvas) - Publishing on your own terms
 - [proengsoft/laravel-jsvalidation](https://github.com/proengsoft/laravel-jsvalidation) - Laravel Javascript Validation
-- [the-control-group/voyager](https://github.com/the-control-group/voyager) - Voyager - The Missing Laravel Admin
+- [thedevdojo/voyager](https://github.com/thedevdojo/voyager) - Voyager - The Missing Laravel Admin
 - [thedevdojo/chatter](https://github.com/thedevdojo/chatter) - Chatter is a Simple Laravel Forum Package
 - [massimo-me/PokemonGo-Farm](https://github.com/massimo-me/PokemonGo-Farm) - [Unmantained] Web app to manage and run your PokémonGo-Bot - Gotta Catch 'Em All 👻
 - [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
@@ -1611,6 +1611,7 @@
 
 ## Python 
 
+- [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
 - [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 - [huggingface/safetensors](https://github.com/huggingface/safetensors) - Simple, safe way to store and distribute tensors
@@ -1695,6 +1696,8 @@
 
 ## Rust 
 
+- [edouardpoitras/bevy_text_popup](https://github.com/edouardpoitras/bevy_text_popup) - Bevy plugin to easily create UI text popups using events
+- [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust
 - [bluealloy/revm](https://github.com/bluealloy/revm) - Rust Ethereum virtual machine (revm) Is EVM written in rust that is focused on speed and simplicity
 - [aevyrie/bevy_framepace](https://github.com/aevyrie/bevy_framepace) - Framepacing and framelimiting for Bevy
 - [djeedai/bevy_tweening](https://github.com/djeedai/bevy_tweening) - Tweening animation plugin for the Bevy game engine.
@@ -2040,6 +2043,8 @@
 
 ## TypeScript 
 
+- [nuxt/cli](https://github.com/nuxt/cli) - ⚡️ Next Gen CLI Experience for Nuxt [WIP]
+- [nuxtlabs/remark-mdc](https://github.com/nuxtlabs/remark-mdc) - Remark plugin to support MDC syntax.
 - [unjs/httpxy](https://github.com/unjs/httpxy) - 🔀 A Full-Featured HTTP and WebSocket Proxy for Node.js
 - [johannschopplich/nuxt-prepare](https://github.com/johannschopplich/nuxt-prepare) - 🦎 Run initialization steps at build time
 - [mdit-vue/unplugin-vue-markdown](https://github.com/mdit-vue/unplugin-vue-markdown) - Compile Markdown to Vue component
@@ -2078,7 +2083,7 @@
 - [praeclarum/webgpu-torch](https://github.com/praeclarum/webgpu-torch) - Tensor computation with WebGPU acceleration
 - [Tresjs/tres](https://github.com/Tresjs/tres) - Declarative ThreeJS using Vue Components
 - [Atinux/nuxt-todos-edge](https://github.com/Atinux/nuxt-todos-edge) - A todos application with user authentication, SSR and SQLite, working on the edge.
-- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🍬 The infra for building collaborative editors
+- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🎨 The toolkit for building collaborative editors.
 - [webfansplz/vite-plugin-vue-devtools](https://github.com/webfansplz/vite-plugin-vue-devtools) - Vite + Vue DevTools = DX  🔥
 - [johannschopplich/unlazy](https://github.com/johannschopplich/unlazy) - 🪧 Universal lazy loading library for placeholder images leveraging native browser APIs
 - [HunYan-io/vite-plugin-vue-nested-sfc](https://github.com/HunYan-io/vite-plugin-vue-nested-sfc) - Nest SFCs within your SFC.

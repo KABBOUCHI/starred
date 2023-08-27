@@ -1168,6 +1168,7 @@
 
 - [ggez/ggez](https://github.com/ggez/ggez) - Rust library to create a Good Game Easily
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
+- [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
 - [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Functional, minimal, data-oriented, ultra-high performance ECS library written in JavaScript
@@ -2151,6 +2152,7 @@
 
 ## linux 
 
+- [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) - A technical explainer by @kognise of how your computer runs programs, from start to finish.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
@@ -2183,6 +2185,7 @@
 
 ## mac 
 
+- [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 
 ## machine-learning 
@@ -2569,6 +2572,9 @@
 
 ## others 
 
+- [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
+- [nogibjj/rust-candle-demos](https://github.com/nogibjj/rust-candle-demos) - Demos using Rust Candle
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [nuxt/cli](https://github.com/nuxt/cli) - ⚡️ Next Gen CLI Experience for Nuxt [WIP]
 - [edouardpoitras/bevy_text_popup](https://github.com/edouardpoitras/bevy_text_popup) - Bevy plugin to easily create UI text popups using events
 - [nuxtlabs/remark-mdc](https://github.com/nuxtlabs/remark-mdc) - Remark plugin to support MDC syntax.

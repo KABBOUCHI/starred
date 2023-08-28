@@ -1704,6 +1704,7 @@
 
 ## Rust 
 
+- [drakmaniso/bevy_pixel_camera](https://github.com/drakmaniso/bevy_pixel_camera) - A simple pixel-perfect camera plugin for Bevy, suitable for pixel-art.
 - [edouardpoitras/bevy_text_popup](https://github.com/edouardpoitras/bevy_text_popup) - Bevy plugin to easily create UI text popups using events
 - [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust
 - [bluealloy/revm](https://github.com/bluealloy/revm) - Rust Ethereum virtual machine (revm) Is EVM written in rust that is focused on speed and simplicity

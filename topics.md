@@ -536,7 +536,7 @@
 ## cli 
 
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
-- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library to build rich terminal user interfaces (TUIs) and dashboards
+- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [beerose/semantic-search](https://github.com/beerose/semantic-search) - 🕵️‍♀️ An OpenAI-powered CLI to build a semantic search index from your MDX files.
@@ -1594,7 +1594,6 @@
 - [cfug/dio](https://github.com/cfug/dio) - A powerful HTTP client for Dart and Flutter, which supports global settings, Interceptors, FormData, aborting and canceling a request, files uploading and downloading, requests timeout, custom adapter
 - [symfony/psr-http-message-bridge](https://github.com/symfony/psr-http-message-bridge) - PSR HTTP message bridge
 - [php-fig/http-message](https://github.com/php-fig/http-message) - The purpose of this PSR is to provide a set of common interfaces for HTTP messages as described in RFC 7230 and RFC 7231
-- [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 
 ## icon-font 
 
@@ -1924,7 +1923,7 @@
 - [torchlight-api/torchlight-laravel](https://github.com/torchlight-api/torchlight-laravel) - A Laravel client for Torchlight - the syntax highlighting API.
 - [multicaret/laravel-acquaintances](https://github.com/multicaret/laravel-acquaintances) - This package gives Eloquent models the ability to manage friendships (with groups), followships along with Likes, favorites..etc.
 - [qcod/laravel-gamify](https://github.com/qcod/laravel-gamify) - Gamify your Laravel app with Reputation Points & Achievements Badges support
-- [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
+- [mongodb-php/laravel-mongodb](https://github.com/mongodb-php/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [spatie/laravel-schedule-monitor](https://github.com/spatie/laravel-schedule-monitor) - Monitor scheduled tasks in a Laravel app
 - [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) - IDE Helper for Laravel
 - [Silvanite/brandenburg](https://github.com/Silvanite/brandenburg) - Laravel Authentication Package
@@ -2310,7 +2309,7 @@
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
 - [aravindnc/mongoose-paginate-v2](https://github.com/aravindnc/mongoose-paginate-v2) - A custom pagination library for Mongoose with customizable labels.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
-- [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
+- [mongodb-php/laravel-mongodb](https://github.com/mongodb-php/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [mblarsen/mongoose-hidden](https://github.com/mblarsen/mongoose-hidden) - A Mongoose schema plugin for filtering properties you usually do not want to sent client-side like passwords and IDs.
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
@@ -2429,6 +2428,7 @@
 
 ## nodejs 
 
+- [yisibl/resvg-js](https://github.com/yisibl/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.
 - [ariym/whisper-node](https://github.com/ariym/whisper-node) - NodeJS bindings for OpenAI's Whisper. (C++ CPU version by ggerganov)
 - [Atome-FE/llama-node](https://github.com/Atome-FE/llama-node) - Believe in AI democratization. llama for nodejs backed by llama-rs, llama.cpp and rwkv.cpp, work locally on your laptop CPU. support llama/alpaca/gpt4all/vicuna/rwkv model.
 - [matmen/ImageScript](https://github.com/matmen/ImageScript) - zero-dependency JavaScript image manipulation
@@ -2572,10 +2572,12 @@
 
 ## others 
 
+- [nuxt-modules/mdc](https://github.com/nuxt-modules/mdc) - MDC supercharges regular Markdown to write documents interacting deeply with any Vue component.
+- [RazrFalcon/resvg](https://github.com/RazrFalcon/resvg) - An SVG rendering library.
 - [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
 - [nogibjj/rust-candle-demos](https://github.com/nogibjj/rust-candle-demos) - Demos using Rust Candle
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
-- [nuxt/cli](https://github.com/nuxt/cli) - ⚡️ Next Gen CLI Experience for Nuxt [WIP]
+- [nuxt/cli](https://github.com/nuxt/cli) - ⚡️ Nuxt Generation CLI Experience.
 - [edouardpoitras/bevy_text_popup](https://github.com/edouardpoitras/bevy_text_popup) - Bevy plugin to easily create UI text popups using events
 - [nuxtlabs/remark-mdc](https://github.com/nuxtlabs/remark-mdc) - Remark plugin to support MDC syntax.
 - [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
@@ -2615,7 +2617,7 @@
 - [Menci/vite-plugin-wasm](https://github.com/Menci/vite-plugin-wasm) - Add WebAssembly ESM integration (aka. Webpack's `asyncWebAssembly`) to Vite and support `wasm-pack` generated modules.
 - [kieler/elkjs](https://github.com/kieler/elkjs) - ELK's layout algorithms for JavaScript
 - [d3/d3-hierarchy](https://github.com/d3/d3-hierarchy) - 2D layout algorithms for visualizing hierarchical data.
-- [m1guelpf/dyson](https://github.com/m1guelpf/dyson) - Open-source ML model manager
+- [m1guelpf/dyson](https://github.com/m1guelpf/dyson) - Your self-hosted ML model interface
 - [Rust-SDL2/rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2) - SDL2 bindings for Rust
 - [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust.
 - [guoyww/AnimateDiff](https://github.com/guoyww/AnimateDiff) - Official implementation of AnimateDiff.
@@ -3899,6 +3901,7 @@
 
 ## pixel-art 
 
+- [drakmaniso/bevy_pixel_camera](https://github.com/drakmaniso/bevy_pixel_camera) - A simple pixel-perfect camera plugin for Bevy, suitable for pixel-art.
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 
@@ -4109,6 +4112,7 @@
 
 ## rust 
 
+- [yisibl/resvg-js](https://github.com/yisibl/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.
 - [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust
 - [bluealloy/revm](https://github.com/bluealloy/revm) - Rust Ethereum virtual machine (revm) Is EVM written in rust that is focused on speed and simplicity
 - [djeedai/bevy_tweening](https://github.com/djeedai/bevy_tweening) - Tweening animation plugin for the Bevy game engine.
@@ -4126,7 +4130,7 @@
 - [coreylowman/dfdx](https://github.com/coreylowman/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
 - [coreylowman/cudarc](https://github.com/coreylowman/cudarc) - Safe rust wrapper around CUDA toolkit
 - [NiklasEi/bevy_common_assets](https://github.com/NiklasEi/bevy_common_assets) - Collection of asset loaders for common file formats
-- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library to build rich terminal user interfaces (TUIs) and dashboards
+- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
 - [actions-rs/toolchain](https://github.com/actions-rs/toolchain) - 🛠️ GitHub Action for `rustup` commands
 - [xkevio/kevboy](https://github.com/xkevio/kevboy) - A Game Boy and Game Boy Color emulator in Rust.
 - [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
@@ -4493,7 +4497,7 @@
 
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust
-- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library to build rich terminal user interfaces (TUIs) and dashboards
+- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust

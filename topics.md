@@ -267,6 +267,7 @@
 
 ## android 
 
+- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
@@ -1000,7 +1001,7 @@
 - [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 - [alloy-rs/core](https://github.com/alloy-rs/core) - High-performance, well-tested & documented core libraries for Ethereum, in Rust
 - [sjinzh/awesome-rust-list](https://github.com/sjinzh/awesome-rust-list) - A collection of some awesome public Rust programming language projects.
-- [safe-global/safe-client-gateway](https://github.com/safe-global/safe-client-gateway) - Gateway service for Safe apps that serves transaction data conforming with the UI of our mobile apps
+- [5afe/safe-client-gateway](https://github.com/5afe/safe-client-gateway) - Gateway service for Safe apps that serves transaction data conforming with the UI of our mobile apps
 - [smlxl/evm.codes](https://github.com/smlxl/evm.codes) - Source for evm.codes an Ethereum Virtual Machine Opcodes Interactive Reference
 - [RevokeCash/revoke.cash](https://github.com/RevokeCash/revoke.cash) - ❌ Revoke or update your token allowances
 - [wagmi-dev/viem](https://github.com/wagmi-dev/viem) - TypeScript Interface for Ethereum
@@ -1127,7 +1128,7 @@
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [goravel/goravel](https://github.com/goravel/goravel) - A Golang framework for web artisans. Tribute to Laravel.
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
-- [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - Salvo is a powerful and simplest web server framework in Rust world
+- [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - A powerful web framework that can make your work easier
 - [m1guelpf/lil-http-rs](https://github.com/m1guelpf/lil-http-rs) - A Rust web framework with no external dependencies
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Fast, and friendly Bun web framework
 - [saru-tora/anansi](https://github.com/saru-tora/anansi) - A simple full-stack web framework for Rust
@@ -1342,6 +1343,7 @@
 
 ## google 
 
+- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [socialite-manager/socialite](https://github.com/socialite-manager/socialite) - [Social login]Socialite is an OAuth1/OAuth2 Authentication tool.
 
 ## google-cloud 
@@ -1594,6 +1596,7 @@
 - [cfug/dio](https://github.com/cfug/dio) - A powerful HTTP client for Dart and Flutter, which supports global settings, Interceptors, FormData, aborting and canceling a request, files uploading and downloading, requests timeout, custom adapter
 - [symfony/psr-http-message-bridge](https://github.com/symfony/psr-http-message-bridge) - PSR HTTP message bridge
 - [php-fig/http-message](https://github.com/php-fig/http-message) - The purpose of this PSR is to provide a set of common interfaces for HTTP messages as described in RFC 7230 and RFC 7231
+- [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 
 ## icon-font 
 
@@ -1923,7 +1926,7 @@
 - [torchlight-api/torchlight-laravel](https://github.com/torchlight-api/torchlight-laravel) - A Laravel client for Torchlight - the syntax highlighting API.
 - [multicaret/laravel-acquaintances](https://github.com/multicaret/laravel-acquaintances) - This package gives Eloquent models the ability to manage friendships (with groups), followships along with Likes, favorites..etc.
 - [qcod/laravel-gamify](https://github.com/qcod/laravel-gamify) - Gamify your Laravel app with Reputation Points & Achievements Badges support
-- [mongodb-php/laravel-mongodb](https://github.com/mongodb-php/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
+- [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [spatie/laravel-schedule-monitor](https://github.com/spatie/laravel-schedule-monitor) - Monitor scheduled tasks in a Laravel app
 - [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) - IDE Helper for Laravel
 - [Silvanite/brandenburg](https://github.com/Silvanite/brandenburg) - Laravel Authentication Package
@@ -2309,7 +2312,7 @@
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
 - [aravindnc/mongoose-paginate-v2](https://github.com/aravindnc/mongoose-paginate-v2) - A custom pagination library for Mongoose with customizable labels.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
-- [mongodb-php/laravel-mongodb](https://github.com/mongodb-php/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
+- [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [mblarsen/mongoose-hidden](https://github.com/mblarsen/mongoose-hidden) - A Mongoose schema plugin for filtering properties you usually do not want to sent client-side like passwords and IDs.
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
@@ -2572,6 +2575,8 @@
 
 ## others 
 
+- [maxday/lambda-perf](https://github.com/maxday/lambda-perf) - Lambda Cold Starts analysis, updated daily
+- [gamedolphin/unrust](https://github.com/gamedolphin/unrust) - 
 - [nuxt-modules/mdc](https://github.com/nuxt-modules/mdc) - MDC supercharges regular Markdown to write documents interacting deeply with any Vue component.
 - [RazrFalcon/resvg](https://github.com/RazrFalcon/resvg) - An SVG rendering library.
 - [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
@@ -4112,6 +4117,7 @@
 
 ## rust 
 
+- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [yisibl/resvg-js](https://github.com/yisibl/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.
 - [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust
 - [bluealloy/revm](https://github.com/bluealloy/revm) - Rust Ethereum virtual machine (revm) Is EVM written in rust that is focused on speed and simplicity
@@ -4162,7 +4168,7 @@
 - [keyvank/femtoGPT](https://github.com/keyvank/femtoGPT) - Pure Rust implementation of a minimal Generative Pretrained Transformer
 - [Razaekel/noise-rs](https://github.com/Razaekel/noise-rs) - Procedural noise generation library for Rust.
 - [NiklasEi/bevy_asset_loader](https://github.com/NiklasEi/bevy_asset_loader) - Bevy plugin helping with asset loading and organization
-- [safe-global/safe-client-gateway](https://github.com/safe-global/safe-client-gateway) - Gateway service for Safe apps that serves transaction data conforming with the UI of our mobile apps
+- [5afe/safe-client-gateway](https://github.com/5afe/safe-client-gateway) - Gateway service for Safe apps that serves transaction data conforming with the UI of our mobile apps
 - [nuclia/nucliadb](https://github.com/nuclia/nucliadb) - NucliaDB, The vector database optimized for documents and video search
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations
@@ -4170,7 +4176,7 @@
 - [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [cwabcorp/cwab](https://github.com/cwabcorp/cwab) - A simple, fast, and efficient background job processor for Rust
 - [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust!
-- [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - Salvo is a powerful and simplest web server framework in Rust world
+- [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - A powerful web framework that can make your work easier
 - [kaichaosun/rlt](https://github.com/kaichaosun/rlt) - Localtunnel implementation in Rust, expose local API to the public.
 - [stuarth/inertia-rs](https://github.com/stuarth/inertia-rs) - Inertia.js for Rust
 - [supabase/edge-runtime](https://github.com/supabase/edge-runtime) - A server based on Deno runtime, capable of running JavaScript, TypeScript, and WASM services.
@@ -5090,7 +5096,7 @@
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
-- [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - Salvo is a powerful and simplest web server framework in Rust world
+- [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - A powerful web framework that can make your work easier
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Fast, and friendly Bun web framework

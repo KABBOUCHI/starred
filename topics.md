@@ -2593,7 +2593,7 @@
 - [awslabs/aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
 - [johannschopplich/nuxt-prepare](https://github.com/johannschopplich/nuxt-prepare) - 🦎 Run initialization steps at build time
 - [systeminit/si](https://github.com/systeminit/si) - The System Initiative software
-- [mdit-vue/unplugin-vue-markdown](https://github.com/mdit-vue/unplugin-vue-markdown) - Compile Markdown to Vue component
+- [unplugin/unplugin-vue-markdown](https://github.com/unplugin/unplugin-vue-markdown) - Compile Markdown to Vue component
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 - [m1guelpf/pingcrm-rs](https://github.com/m1guelpf/pingcrm-rs) - A demo application to illustrate an Axum + Inertia.js workflow.
 - [unjs/untun](https://github.com/unjs/untun) - 🚇 Tunnel your local HTTP(s) server to the world! powered by  Cloudflare Quick Tunnels.
@@ -2641,7 +2641,7 @@
 - [rhedgeco/UnityRustNative](https://github.com/rhedgeco/UnityRustNative) - A system for compiling native rust plugins and hot reloading in the Unity Engine.
 - [StarArawn/bevy_ecs_tilemap](https://github.com/StarArawn/bevy_ecs_tilemap) - A tilemap rendering crate for bevy which is more ECS friendly.
 - [Trouv/bevy_ecs_ldtk](https://github.com/Trouv/bevy_ecs_ldtk) - ECS-friendly ldtk plugin for bevy, leveraging bevy_ecs_tilemap
-- [sxzz/unplugin-macros](https://github.com/sxzz/unplugin-macros) - Macros plugin for bundlers.
+- [unplugin/unplugin-macros](https://github.com/unplugin/unplugin-macros) - Macros plugin for bundlers.
 - [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - A modern, extensible GitHub API Client for Rust.
 - [nikolay-govorov/nanoid](https://github.com/nikolay-govorov/nanoid) - A tiny, secure, URL-friendly, unique string ID generator for Rust
 - [adonisjs/attachment-lite](https://github.com/adonisjs/attachment-lite) - Turn any field on your Lucid models to an attachment data type
@@ -3000,7 +3000,7 @@
 - [Instadapp/assembly](https://github.com/Instadapp/assembly) - The Open Source Dashboard for the Instadapp Protocol
 - [lepikhinb/laravel-fluent](https://github.com/lepikhinb/laravel-fluent) - 
 - [pestphp/pest-plugin-parallel](https://github.com/pestphp/pest-plugin-parallel) - The Pest Parallel Plugin
-- [antfu/unplugin-auto-import](https://github.com/antfu/unplugin-auto-import) - Auto import APIs on-demand for Vite, Webpack and Rollup
+- [unplugin/unplugin-auto-import](https://github.com/unplugin/unplugin-auto-import) - Auto import APIs on-demand for Vite, Webpack and Rollup
 - [Akryum/peeky](https://github.com/Akryum/peeky) - A fast and fun test runner for Vite & Node 🐈️ Powered by Vite ⚡️
 - [Askedio/laravel-soft-cascade](https://github.com/Askedio/laravel-soft-cascade) - Cascade Delete & Restore when using Laravel SoftDeletes
 - [posva/pinia-plugin-debounce](https://github.com/posva/pinia-plugin-debounce) - Config-based action debouncing made easy
@@ -4860,7 +4860,7 @@
 - [nuxt/framework](https://github.com/nuxt/framework) - Old repo of Nuxt 3 framework, now on nuxt/nuxt
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [Instadapp/vue-web3](https://github.com/Instadapp/vue-web3) - Vue 2/3 wrapper for web3 built on top of react-web3@v6
-- [antfu/unplugin-vue2-script-setup](https://github.com/antfu/unplugin-vue2-script-setup) - 💡 Bring `&lt;script setup&gt;` to Vue 2.
+- [unplugin/unplugin-vue2-script-setup](https://github.com/unplugin/unplugin-vue2-script-setup) - 💡 Bring `&lt;script setup&gt;` to Vue 2.
 - [wheatjs/vueuse-playground](https://github.com/wheatjs/vueuse-playground) - An online playground for VueUse
 - [nuxt/starter](https://github.com/nuxt/starter) - Create a new Nuxt project, module, layer or start from a theme with our collection of starters.
 - [Maronato/vue-toastification](https://github.com/Maronato/vue-toastification) - Vue notifications made easy!
@@ -5138,7 +5138,7 @@
 - [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - The most popular and open-source library of Tailwind CSS components
 - [vue-macros/vue-macros](https://github.com/vue-macros/vue-macros) - Explore and extend more macros and syntax sugar to Vue.
-- [antfu/unplugin-vue-components](https://github.com/antfu/unplugin-vue-components) - 📲 On-demand components auto importing for Vue
+- [unplugin/unplugin-vue-components](https://github.com/unplugin/unplugin-vue-components) - 📲 On-demand components auto importing for Vue
 - [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, and more
 - [GoogleChromeLabs/critters](https://github.com/GoogleChromeLabs/critters) - 🦔 A Webpack plugin to inline your critical CSS and lazy-load the rest.
 - [harlan-zw/nuxt-webpack-optimisations](https://github.com/harlan-zw/nuxt-webpack-optimisations) - Make your Nuxt.js webpack builds faster ⚡

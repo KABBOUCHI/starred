@@ -2182,7 +2182,7 @@
 - [assaf/queue-run](https://github.com/assaf/queue-run) - 👋 Web 2.0 framework to make building back-ends and APIs easy and fun: HTTP, FIFO queues, WebSocket, and more …
 - [felixmosh/bull-board](https://github.com/felixmosh/bull-board) - 🎯 Queue background jobs inspector
 - [pk910/PoWFaucet](https://github.com/pk910/PoWFaucet) - Modularized faucet for EVM chains with different protection methods (Captcha, Mining, IP, Mainnet Balance, Gitcoin Passport and more)
-- [verful/adonis-package-template](https://github.com/verful/adonis-package-template) - A template for AdonisJS packages
+- [verful/adonis-package-boilerplate](https://github.com/verful/adonis-package-boilerplate) - A boilerplate for AdonisJS packages
 - [kbariotis/node-cron-expression](https://github.com/kbariotis/node-cron-expression) - Declarative functional cron expression builder
 - [unjs/ungh](https://github.com/unjs/ungh) - 🐙 Unlimited access to github API
 - [LinusBorg/vue-mixable](https://github.com/LinusBorg/vue-mixable) - Turn Vue Mixins into Composables with a simple wrapper function

@@ -681,6 +681,7 @@
 
 ## css 
 
+- [biomejs/biome](https://github.com/biomejs/biome) - Toolchain of the web
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [joe-bell/cva](https://github.com/joe-bell/cva) - Class Variance Authority
 - [dcastil/tailwind-merge](https://github.com/dcastil/tailwind-merge) - Merge Tailwind CSS classes without style conflicts
@@ -1664,6 +1665,7 @@
 
 ## javascript 
 
+- [biomejs/biome](https://github.com/biomejs/biome) - Toolchain of the web
 - [chr15m/jsfxr](https://github.com/chr15m/jsfxr) - JavaScript sound effects generator.
 - [dsherret/ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
 - [belladoreai/llama-tokenizer-js](https://github.com/belladoreai/llama-tokenizer-js) - JS tokenizer for LLaMA
@@ -2577,6 +2579,7 @@
 
 ## others 
 
+- [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 - [maxday/lambda-perf](https://github.com/maxday/lambda-perf) - Lambda Cold Starts analysis, updated daily
 - [gamedolphin/unrust](https://github.com/gamedolphin/unrust) - 
 - [nuxt-modules/mdc](https://github.com/nuxt-modules/mdc) - MDC supercharges regular Markdown to write documents interacting deeply with any Vue component.
@@ -4118,6 +4121,7 @@
 
 ## rust 
 
+- [marc2332/freya](https://github.com/marc2332/freya) - Native GUI library for 🦀 Rust  powered by 🧬 Dioxus and 🎨 Skia.
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [yisibl/resvg-js](https://github.com/yisibl/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.
 - [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust
@@ -4559,6 +4563,7 @@
 
 ## typescript 
 
+- [biomejs/biome](https://github.com/biomejs/biome) - Toolchain of the web
 - [oscartbeaumont/specta](https://github.com/oscartbeaumont/specta) - Easily export your Rust types to other languages
 - [dsherret/ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
@@ -5094,6 +5099,7 @@
 
 ## web 
 
+- [biomejs/biome](https://github.com/biomejs/biome) - Toolchain of the web
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.

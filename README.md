@@ -183,7 +183,7 @@
 - [Armour/Multiplayer-FPS](https://github.com/Armour/Multiplayer-FPS) - :video_game: A multiplayer first person shooter game based on Unity Game Engine
 - [AmplifyCreations/AmplifyMotion](https://github.com/AmplifyCreations/AmplifyMotion) - Full source-code for Amplify Motion plugin for Unity
 - [ClaytonIndustries/QuickSave](https://github.com/ClaytonIndustries/QuickSave) - Quick Save is a plugin that makes it easy to save and load content to / from files in Unity games
-- [wave-harmonic/crest](https://github.com/wave-harmonic/crest) - An advanced ocean system implemented in Unity
+- [wave-harmonic/crest](https://github.com/wave-harmonic/crest) - A class-leading water system implemented in Unity
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [marian42/wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse) - Walk through an infinite, procedurally generated city
 - [hs-pp/Datastores-2018](https://github.com/hs-pp/Datastores-2018) - 
@@ -1705,8 +1705,10 @@
 
 ## Rust 
 
+- [hwchen/keyring-rs](https://github.com/hwchen/keyring-rs) - Cross-platform library and utility to manage passwords
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [marc2332/freya](https://github.com/marc2332/freya) - Native GUI library for 🦀 Rust  powered by 🧬 Dioxus and 🎨 Skia.
-- [biomejs/biome](https://github.com/biomejs/biome) - Toolchain of the web
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them.
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [gamedolphin/unrust](https://github.com/gamedolphin/unrust) - 
 - [RazrFalcon/resvg](https://github.com/RazrFalcon/resvg) - An SVG rendering library.

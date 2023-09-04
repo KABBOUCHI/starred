@@ -681,7 +681,7 @@
 
 ## css 
 
-- [biomejs/biome](https://github.com/biomejs/biome) - Toolchain of the web
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them.
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [joe-bell/cva](https://github.com/joe-bell/cva) - Class Variance Authority
 - [dcastil/tailwind-merge](https://github.com/dcastil/tailwind-merge) - Merge Tailwind CSS classes without style conflicts
@@ -1665,7 +1665,7 @@
 
 ## javascript 
 
-- [biomejs/biome](https://github.com/biomejs/biome) - Toolchain of the web
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them.
 - [chr15m/jsfxr](https://github.com/chr15m/jsfxr) - JavaScript sound effects generator.
 - [dsherret/ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
 - [belladoreai/llama-tokenizer-js](https://github.com/belladoreai/llama-tokenizer-js) - JS tokenizer for LLaMA
@@ -2157,6 +2157,7 @@
 
 ## linux 
 
+- [hwchen/keyring-rs](https://github.com/hwchen/keyring-rs) - Cross-platform library and utility to manage passwords
 - [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) - A technical explainer by @kognise of how your computer runs programs, from start to finish.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
@@ -2218,6 +2219,7 @@
 
 ## macos 
 
+- [hwchen/keyring-rs](https://github.com/hwchen/keyring-rs) - Cross-platform library and utility to manage passwords
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
@@ -2579,6 +2581,7 @@
 
 ## others 
 
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 - [maxday/lambda-perf](https://github.com/maxday/lambda-perf) - Lambda Cold Starts analysis, updated daily
 - [gamedolphin/unrust](https://github.com/gamedolphin/unrust) - 
@@ -2736,7 +2739,6 @@
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [setzer22/egui_node_graph](https://github.com/setzer22/egui_node_graph) - Build your node graph applications in Rust, using egui
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
-- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) - Zero-cost asynchronous programming in Rust
 - [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
 - [dirs-dev/dirs-rs](https://github.com/dirs-dev/dirs-rs) - a low-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows
@@ -4121,6 +4123,7 @@
 
 ## rust 
 
+- [hwchen/keyring-rs](https://github.com/hwchen/keyring-rs) - Cross-platform library and utility to manage passwords
 - [marc2332/freya](https://github.com/marc2332/freya) - Native GUI library for 🦀 Rust  powered by 🧬 Dioxus and 🎨 Skia.
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [yisibl/resvg-js](https://github.com/yisibl/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.
@@ -4202,6 +4205,7 @@
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
 - [m1guelpf/lil-http-rs](https://github.com/m1guelpf/lil-http-rs) - A Rust web framework with no external dependencies
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch.
@@ -4563,7 +4567,7 @@
 
 ## typescript 
 
-- [biomejs/biome](https://github.com/biomejs/biome) - Toolchain of the web
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them.
 - [oscartbeaumont/specta](https://github.com/oscartbeaumont/specta) - Easily export your Rust types to other languages
 - [dsherret/ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
@@ -4731,7 +4735,7 @@
 - [UnityTech/UIWidgets](https://github.com/UnityTech/UIWidgets) - UIWidget is a Unity Package which helps developers to create, debug and deploy efficient, cross-platform Apps.
 - [djkaty/Il2CppInspector](https://github.com/djkaty/Il2CppInspector) - Powerful automated tool for reverse engineering Unity IL2CPP binaries
 - [neuecc/UniRx](https://github.com/neuecc/UniRx) - Reactive Extensions for Unity
-- [wave-harmonic/crest](https://github.com/wave-harmonic/crest) - An advanced ocean system implemented in Unity
+- [wave-harmonic/crest](https://github.com/wave-harmonic/crest) - A class-leading water system implemented in Unity
 - [marian42/wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse) - Walk through an infinite, procedurally generated city
 - [ThusSpokeNomad/GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Game Network Programming Resources
 - [keijiro/Kino](https://github.com/keijiro/Kino) - A collection of custom post processing effects for Unity
@@ -4772,6 +4776,7 @@
 
 ## vim 
 
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [prettier/vim-prettier](https://github.com/prettier/vim-prettier) - A Vim plugin for Prettier
 - [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
@@ -5099,7 +5104,7 @@
 
 ## web 
 
-- [biomejs/biome](https://github.com/biomejs/biome) - Toolchain of the web
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them.
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
@@ -5168,6 +5173,7 @@
 
 ## windows 
 
+- [hwchen/keyring-rs](https://github.com/hwchen/keyring-rs) - Cross-platform library and utility to manage passwords
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.

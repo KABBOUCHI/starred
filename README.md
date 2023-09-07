@@ -1707,6 +1707,10 @@
 
 ## Rust 
 
+- [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
+- [bitshifter/glam-rs](https://github.com/bitshifter/glam-rs) - A simple and fast linear algebra library for games and graphics
+- [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
+- [SapphoTech/Integra](https://github.com/SapphoTech/Integra) - 
 - [Jake-Shadle/xwin](https://github.com/Jake-Shadle/xwin) - A utility for downloading and packaging the Microsoft CRT headers and libraries, and Windows SDK headers and libraries needed for compiling and linking programs targeting Windows.
 - [hwchen/keyring-rs](https://github.com/hwchen/keyring-rs) - Cross-platform library and utility to manage passwords
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
@@ -2599,6 +2603,7 @@
 
 ## Vue 
 
+- [selemondev/nuxt-ui-vue](https://github.com/selemondev/nuxt-ui-vue) - Fully styled and customizable components from Nuxt UI to Vue 3.
 - [radix-vue/radix-vue](https://github.com/radix-vue/radix-vue) - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.
 - [Tresjs/nuxt](https://github.com/Tresjs/nuxt) - TresJS integration for Nuxt.
 - [nuxtlabs/ui](https://github.com/nuxtlabs/ui) - Fully styled and customizable components for Nuxt.

@@ -562,6 +562,7 @@
 
 ## JavaScript 
 
+- [hectorm/otpauth](https://github.com/hectorm/otpauth) - One Time Password (HOTP/TOTP) library for Node.js, Deno, Bun and browsers.
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [UstymUkhman/vite-plugin-glsl](https://github.com/UstymUkhman/vite-plugin-glsl) - :spider_web: Import, inline (and compress) GLSL shader files :electric_plug:
 - [maxday/lambda-perf](https://github.com/maxday/lambda-perf) - Lambda Cold Starts analysis, updated daily
@@ -1620,6 +1621,7 @@
 
 ## Python 
 
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.
@@ -2606,7 +2608,7 @@
 - [selemondev/nuxt-ui-vue](https://github.com/selemondev/nuxt-ui-vue) - Fully styled and customizable components from Nuxt UI to Vue 3.
 - [radix-vue/radix-vue](https://github.com/radix-vue/radix-vue) - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.
 - [Tresjs/nuxt](https://github.com/Tresjs/nuxt) - TresJS integration for Nuxt.
-- [nuxtlabs/ui](https://github.com/nuxtlabs/ui) - Fully styled and customizable components for Nuxt.
+- [nuxt/ui](https://github.com/nuxt/ui) - Fully styled and customizable components for Nuxt.
 - [henrycunh/golem](https://github.com/henrycunh/golem) - ✨ A beautiful UI for ChatGPT and other conversational models
 - [hugoattal/OrbitalMarket](https://github.com/hugoattal/OrbitalMarket) - Enhanced marketplace platform for the Unreal Engine marketplace
 - [nuxt/hackernews](https://github.com/nuxt/hackernews) - HackerNews clone built with Nuxt.

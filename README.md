@@ -1710,6 +1710,8 @@
 
 ## Rust 
 
+- [Bluefinger/bevy_turborand](https://github.com/Bluefinger/bevy_turborand) - A plugin to enable random number generation for the Bevy game engine.
+- [pop-os/cosmic-text](https://github.com/pop-os/cosmic-text) - Pure Rust multi-line text handling
 - [politrons/FunctionalRust](https://github.com/politrons/FunctionalRust) - 
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
 - [bitshifter/glam-rs](https://github.com/bitshifter/glam-rs) - A simple and fast linear algebra library for games and graphics
@@ -2060,7 +2062,7 @@
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
 - [lucyllewy/macOS-Linux-VM-with-Rosetta](https://github.com/lucyllewy/macOS-Linux-VM-with-Rosetta) - 
-- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon
+- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1 & M2
 - [Dimillian/RedditOS](https://github.com/Dimillian/RedditOS) - The product name is Curiosity, a SwiftUI Reddit client for macOS Big Sur
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
@@ -2131,7 +2133,7 @@
 - [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
 - [unjs/citty](https://github.com/unjs/citty) - 🌆 Elegant CLI Builder
 - [nuxt-modules/supabase](https://github.com/nuxt-modules/supabase) - Supabase module for Nuxt.
-- [johannschopplich/nuxt-gtag](https://github.com/johannschopplich/nuxt-gtag) - 🔸 Google Analytics integration for Nuxt
+- [johannschopplich/nuxt-gtag](https://github.com/johannschopplich/nuxt-gtag) - 🔸 Google Analytics integration with consent management
 - [antfu/vue-template-promise](https://github.com/antfu/vue-template-promise) - Template as Promise in Vue
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.
 - [Baroshem/nuxt-security](https://github.com/Baroshem/nuxt-security) - 🛡 Security Module for Nuxt based on OWASP Top 10 and Helmet

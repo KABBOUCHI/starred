@@ -506,7 +506,6 @@
 
 ## HTML 
 
-- [selemondev/nuxt-ui-vue](https://github.com/selemondev/nuxt-ui-vue) - Fully styled and customizable components from Nuxt UI to Vue 3.
 - [Tresjs/cientos](https://github.com/Tresjs/cientos) - Collection of useful helpers and fully functional, ready-made abstractions for TresJS
 - [tc39/proposal-array-grouping](https://github.com/tc39/proposal-array-grouping) - A proposal to make grouping of array items easier
 - [nuxt/assets](https://github.com/nuxt/assets) - 🎨 Unified Assets and Templates for Nuxt
@@ -1655,7 +1654,6 @@
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [ryangjchandler/template-rust-cli](https://github.com/ryangjchandler/template-rust-cli) - A template for command-line Rust projects.
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [sketchfab/blender-plugin](https://github.com/sketchfab/blender-plugin) - 
@@ -1713,6 +1711,7 @@
 
 ## Rust 
 
+- [MrGVSV/bevy_enum_filter](https://github.com/MrGVSV/bevy_enum_filter) - Filter by enum variant in Bevy queries
 - [vleue/jornet](https://github.com/vleue/jornet) - The social game server for all your game jams!
 - [nabijaczleweli/rust-embed-resource](https://github.com/nabijaczleweli/rust-embed-resource) - A Cargo build script library to handle compilation and inclusion of Windows resources, in the most resilient fashion imaginable
 - [rust-lang/hashbrown](https://github.com/rust-lang/hashbrown) - Rust port of Google's SwissTable hash map
@@ -2468,7 +2467,7 @@
 - [jfet97/vue-use-infinite-scroll](https://github.com/jfet97/vue-use-infinite-scroll) - A Vue composition function that makes infinite scroll a breeze.
 - [renoki-co/echo-server](https://github.com/renoki-co/echo-server) - Echo Server is a container-ready, multi-scalable Node.js application used to host your own Socket.IO server for Laravel Broadcasting.
 - [Yummygum/flagpack-core](https://github.com/Yummygum/flagpack-core) - Flagpack contains 250+ flag icons to easily use within your code project.
-- [vueuse/head](https://github.com/vueuse/head) - Document head management for Vue. Powered by Unhead.
+- [vueuse/head](https://github.com/vueuse/head) - Document head management for Vue. Powered by Unhead. - 🌇 Sunset
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [nuxt/vercel-builder](https://github.com/nuxt/vercel-builder) - Vercel Builder for Nuxt
@@ -2621,6 +2620,7 @@
 ## Vue 
 
 - [radix-vue/shadcn-vue](https://github.com/radix-vue/shadcn-vue) - Vue port of shadcn-ui
+- [selemondev/nuxt-ui-vue](https://github.com/selemondev/nuxt-ui-vue) - Fully styled and customizable components from Nuxt UI to Vue 3.
 - [radix-vue/radix-vue](https://github.com/radix-vue/radix-vue) - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.
 - [Tresjs/nuxt](https://github.com/Tresjs/nuxt) - TresJS integration for Nuxt.
 - [nuxt/ui](https://github.com/nuxt/ui) - Fully styled and customizable components for Nuxt.

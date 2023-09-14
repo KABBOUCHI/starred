@@ -2616,6 +2616,7 @@
 
 ## others 
 
+- [MrGVSV/bevy_enum_filter](https://github.com/MrGVSV/bevy_enum_filter) - Filter by enum variant in Bevy queries
 - [nabijaczleweli/rust-embed-resource](https://github.com/nabijaczleweli/rust-embed-resource) - A Cargo build script library to handle compilation and inclusion of Windows resources, in the most resilient fashion imaginable
 - [rust-lang/hashbrown](https://github.com/rust-lang/hashbrown) - Rust port of Google's SwissTable hash map
 - [laundmo/bevy_screen_diagnostics](https://github.com/laundmo/bevy_screen_diagnostics) - On-screen diagnostics
@@ -2795,7 +2796,6 @@
 - [nuxt/nuxt.new](https://github.com/nuxt/nuxt.new) - Create a new Nuxt project from your address bar.
 - [KABBOUCHI/adonisjs-scheduler](https://github.com/KABBOUCHI/adonisjs-scheduler) - Task scheduler for AdonisJS
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
-- [ryangjchandler/template-rust-cli](https://github.com/ryangjchandler/template-rust-cli) - A template for command-line Rust projects.
 - [joshstevens19/ethereum-multicall](https://github.com/joshstevens19/ethereum-multicall) - Ability to call many ethereum constant function calls in 1 JSONRPC request
 - [mds1/multicall](https://github.com/mds1/multicall) - Multicall: Aggregate multiple constant function call results into one
 - [ronniedroid/getnf](https://github.com/ronniedroid/getnf) - A better way to install NerdFonts
@@ -3133,7 +3133,7 @@
 - [kiliman/tailwindui-crawler](https://github.com/kiliman/tailwindui-crawler) - tailwindui-crawler downloads the component HTML files locally
 - [wjakob/instant-meshes](https://github.com/wjakob/instant-meshes) - Interactive field-aligned mesh generator
 - [spatie/period](https://github.com/spatie/period) - Complex period comparisons
-- [vueuse/head](https://github.com/vueuse/head) - Document head management for Vue. Powered by Unhead.
+- [vueuse/head](https://github.com/vueuse/head) - Document head management for Vue. Powered by Unhead. - 🌇 Sunset
 - [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
 - [b-init/ImagePaste](https://github.com/b-init/ImagePaste) - A simple Blender addon to grab images from your clipboard and paste as a reference image in viewport or onto the image editor.
 - [lepikhinb/tinymotion](https://github.com/lepikhinb/tinymotion) - 

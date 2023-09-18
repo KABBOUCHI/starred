@@ -1711,6 +1711,11 @@
 
 ## Rust 
 
+- [james-j-obrien/bevy_vector_shapes](https://github.com/james-j-obrien/bevy_vector_shapes) - A library for rendering vector shapes using the Bevy game engine
+- [dimforge/parry](https://github.com/dimforge/parry) - 2D and 3D collision-detection library for Rust.
+- [Jondolf/bevy_xpbd](https://github.com/Jondolf/bevy_xpbd) - 2D and 3D physics engine based on Extended Position Based Dynamics for Bevy.
+- [AmadiMichael/evm_simulator_rs](https://github.com/AmadiMichael/evm_simulator_rs) - CLI based transaction simulator supporting any EVM chain, written in Rust.
+- [foxzool/bevy_cronjob](https://github.com/foxzool/bevy_cronjob) - A simple helper to run cronjobs (at repeated schedule) in Bevy.
 - [MrGVSV/bevy_enum_filter](https://github.com/MrGVSV/bevy_enum_filter) - Filter by enum variant in Bevy queries
 - [vleue/jornet](https://github.com/vleue/jornet) - The social game server for all your game jams!
 - [nabijaczleweli/rust-embed-resource](https://github.com/nabijaczleweli/rust-embed-resource) - A Cargo build script library to handle compilation and inclusion of Windows resources, in the most resilient fashion imaginable
@@ -2171,7 +2176,7 @@
 - [botisan-ai/gpt3-tokenizer](https://github.com/botisan-ai/gpt3-tokenizer) - Isomorphic JavaScript/TypeScript Tokenizer for GPT-3 and Codex Models by OpenAI.
 - [vite-pwa/nuxt](https://github.com/vite-pwa/nuxt) - Zero-config PWA Plugin for Nuxt 3
 - [Tahul/pinceau-vscode](https://github.com/Tahul/pinceau-vscode) - ⚙️ IntelliSense integration for Pinceau features
-- [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
 - [nuxtlabs/vscode-mdc](https://github.com/nuxtlabs/vscode-mdc) - Provides syntax highlighting and colon matching for MDC (Markdown Components) files for Nuxt Content.
 - [volarjs/volar.js](https://github.com/volarjs/volar.js) - 🚧
 - [ueberdosis/hocuspocus](https://github.com/ueberdosis/hocuspocus) - The Y.js WebSocket backend

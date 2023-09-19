@@ -1002,6 +1002,7 @@
 
 ## eslint 
 
+- [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic) - Monorepo for ESLint Stylistic plugins and configs
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - The most popular and open-source library of Tailwind CSS components
 - [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config presets
 - [productdevbook/oku-nuxt3-template](https://github.com/productdevbook/oku-nuxt3-template) - Nuxt 3 best starter repo, Tailwindcss, Sass, Headless UI, Vue, Pinia, Vite, Eslint, i18n, Naive UI

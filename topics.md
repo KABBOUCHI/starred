@@ -1011,6 +1011,7 @@
 
 ## ethereum 
 
+- [EnsoFinance/transaction-simulator](https://github.com/EnsoFinance/transaction-simulator) - Ethereum transaction simulator leveraging Foundry's codebase
 - [bluealloy/revm](https://github.com/bluealloy/revm) - Rust Ethereum virtual machine (revm) Is EVM written in rust that is focused on speed and simplicity
 - [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 - [alloy-rs/core](https://github.com/alloy-rs/core) - High-performance, well-tested & documented core libraries for Ethereum, in Rust
@@ -1182,6 +1183,8 @@
 
 ## game 
 
+- [Aunmag/shooter-rs](https://github.com/Aunmag/shooter-rs) - 2D top-down shooter
+- [iiYese/aery](https://github.com/iiYese/aery) - A plugin that enables a subset of entity relationship features for bevy
 - [ggez/ggez](https://github.com/ggez/ggez) - Rust library to create a Good Game Easily
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
@@ -1201,6 +1204,8 @@
 
 ## game-development 
 
+- [iiYese/aery](https://github.com/iiYese/aery) - A plugin that enables a subset of entity relationship features for bevy
+- [JoJoJet/bevy-trait-query](https://github.com/JoJoJet/bevy-trait-query) - adds trait queries to the bevy game engine
 - [vleue/jornet](https://github.com/vleue/jornet) - The social game server for all your game jams!
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - Open-source solution to deploy, scale, and operate your multiplayer game
@@ -1413,7 +1418,6 @@
 - [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
 - [CnCNet/cncnet-yr-client-package](https://github.com/CnCNet/cncnet-yr-client-package) - The official CnCNet Yuri's Revenge package for online.
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
-- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [Enet4/faiss-rs](https://github.com/Enet4/faiss-rs) - Rust language bindings for Faiss
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
@@ -1454,6 +1458,7 @@
 - [kevinmarrec/h3-typebox](https://github.com/kevinmarrec/h3-typebox) - Schema validation utilities for h3, using typebox & ajv
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [tinylibs/tinyspy](https://github.com/tinylibs/tinyspy) - 🕵🏻‍♂️ minimal fork of nanospy, with more features
+- [octokit/core.js](https://github.com/octokit/core.js) - Extendable client for GitHub's REST & GraphQL APIs
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [nuxt/bridge](https://github.com/nuxt/bridge) - 🌉 Experience Nuxt 3 features on existing Nuxt 2 projects
@@ -1693,6 +1698,7 @@
 
 ## javascript 
 
+- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [hectorm/otpauth](https://github.com/hectorm/otpauth) - One Time Password (HOTP/TOTP) library for Node.js, Deno, Bun and browsers.
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them.
@@ -1940,6 +1946,7 @@
 
 ## laravel 
 
+- [nunomaduro/pail](https://github.com/nunomaduro/pail) - Effortlessly tail Logs in Laravel 🪣
 - [m1guelpf/ensemble](https://github.com/m1guelpf/ensemble) - A Laravel-inspired ORM for Rust
 - [NativePHP/laravel](https://github.com/NativePHP/laravel) - Laravel wrapper for the NativePHP framework
 - [goravel/goravel](https://github.com/goravel/goravel) - A Golang framework for web artisans. Tribute to Laravel.
@@ -2067,7 +2074,7 @@
 - [svenluijten/forge-cli](https://github.com/svenluijten/forge-cli) - 🔥 A command line utility to interact with your Laravel Forge servers, sites, and more.
 - [pipe-dream/laravel-create](https://github.com/pipe-dream/laravel-create) - Create Laravel projects really fast
 - [stefanzweifel/laravel-stats](https://github.com/stefanzweifel/laravel-stats) - 📈 Get insights about your Laravel or Lumen Project
-- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
 - [inertiajs/pingcrm](https://github.com/inertiajs/pingcrm) - A demo application to illustrate how Inertia.js works.
 - [cretueusebiu/vform](https://github.com/cretueusebiu/vform) - Handle Laravel-Vue forms and validation with ease.
 - [SpartnerNL/laravel-excel-docs](https://github.com/SpartnerNL/laravel-excel-docs) - Laravel Excel Docs
@@ -2446,6 +2453,7 @@
 
 ## node 
 
+- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [hectorm/otpauth](https://github.com/hectorm/otpauth) - One Time Password (HOTP/TOTP) library for Node.js, Deno, Bun and browsers.
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
@@ -2476,6 +2484,7 @@
 
 ## nodejs 
 
+- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [hectorm/otpauth](https://github.com/hectorm/otpauth) - One Time Password (HOTP/TOTP) library for Node.js, Deno, Bun and browsers.
 - [yisibl/resvg-js](https://github.com/yisibl/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.
@@ -2623,6 +2632,11 @@
 
 ## others 
 
+- [bevyengine/naga_oil](https://github.com/bevyengine/naga_oil) - 
+- [wgsl-analyzer/wgsl-analyzer](https://github.com/wgsl-analyzer/wgsl-analyzer) - a language server implementation for the WGSL shading language
+- [gfx-rs/naga](https://github.com/gfx-rs/naga) - Universal shader translation in Rust
+- [Toqozz/bevy_debug_lines](https://github.com/Toqozz/bevy_debug_lines) - A prototype plugin providing a simple line drawing api for bevy.
+- [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [james-j-obrien/bevy_vector_shapes](https://github.com/james-j-obrien/bevy_vector_shapes) - A library for rendering vector shapes using the Bevy game engine
 - [AmadiMichael/evm_simulator_rs](https://github.com/AmadiMichael/evm_simulator_rs) - CLI based transaction simulator supporting any EVM chain, written in Rust.
 - [foxzool/bevy_cronjob](https://github.com/foxzool/bevy_cronjob) - A simple helper to run cronjobs (at repeated schedule) in Bevy.
@@ -2969,7 +2983,6 @@
 - [KABBOUCHI/BigNumber.php](https://github.com/KABBOUCHI/BigNumber.php) - A PHP package for arbitrary-precision decimal and non-decimal arithmetic inspired by bignumber.js
 - [yukaige/web3.php](https://github.com/yukaige/web3.php) - A simple encapsulation of Web3 framework in PHP environment
 - [Melchyore/adonis-cache](https://github.com/Melchyore/adonis-cache) - Cache package for AdonisJS V5
-- [octokit/core.js](https://github.com/octokit/core.js) - Extendable client for GitHub's REST & GraphQL APIs
 - [acornjs/acorn](https://github.com/acornjs/acorn) - A small, fast, JavaScript-based JavaScript parser
 - [benjamn/recast](https://github.com/benjamn/recast) - JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator
 - [laravel/vite-plugin](https://github.com/laravel/vite-plugin) - Laravel plugin for Vite.
@@ -3760,6 +3773,7 @@
 
 ## php 
 
+- [nunomaduro/pail](https://github.com/nunomaduro/pail) - Effortlessly tail Logs in Laravel 🪣
 - [NativePHP/laravel](https://github.com/NativePHP/laravel) - Laravel wrapper for the NativePHP framework
 - [DirectoryLister/DirectoryLister](https://github.com/DirectoryLister/DirectoryLister) - 📂 Directory Lister is the easiest way to expose the contents of any web-accessible folder for browsing and sharing.
 - [anystack-sh/porter](https://github.com/anystack-sh/porter) - Spin up your development background processes with ease 🪄
@@ -3859,7 +3873,6 @@
 - [brefphp/bref](https://github.com/brefphp/bref) - Serverless PHP on AWS Lambda
 - [stefanzweifel/laravel-stats](https://github.com/stefanzweifel/laravel-stats) - 📈 Get insights about your Laravel or Lumen Project
 - [box-project/box](https://github.com/box-project/box) - 📦🚀 Fast, zero config application bundler with PHARs.
-- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
 - [dwightwatson/active](https://github.com/dwightwatson/active) - Laravel helper for recognising the current route, controller and action.
 - [nuwave/lighthouse](https://github.com/nuwave/lighthouse) - A framework for serving GraphQL from Laravel
 - [spatie/laravel-searchable](https://github.com/spatie/laravel-searchable) - Pragmatically search through models and other sources
@@ -4182,6 +4195,13 @@
 
 ## rust 
 
+- [kellnr/kellnr](https://github.com/kellnr/kellnr) - The registry for Rust crates
+- [EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
+- [Aunmag/shooter-rs](https://github.com/Aunmag/shooter-rs) - 2D top-down shooter
+- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
+- [iiYese/aery](https://github.com/iiYese/aery) - A plugin that enables a subset of entity relationship features for bevy
+- [JoJoJet/bevy-trait-query](https://github.com/JoJoJet/bevy-trait-query) - adds trait queries to the bevy game engine
+- [EnsoFinance/transaction-simulator](https://github.com/EnsoFinance/transaction-simulator) - Ethereum transaction simulator leveraging Foundry's codebase
 - [Jondolf/bevy_xpbd](https://github.com/Jondolf/bevy_xpbd) - 2D and 3D physics engine based on Extended Position Based Dynamics for Bevy.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends
 - [politrons/FunctionalRust](https://github.com/politrons/FunctionalRust) - 
@@ -5147,7 +5167,6 @@
 - [Tarektouati/vue-use-web](https://github.com/Tarektouati/vue-use-web) - 🕸 Web APIs implemented as Vue.js composition functions
 - [JohMun/vue-tags-input](https://github.com/JohMun/vue-tags-input) - A tags input component for VueJS
 - [nuxt/press](https://github.com/nuxt/press) - [Deprecated] Minimalist Markdown Publishing for Nuxt.js
-- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
 - [BinarCode/vue2-transitions](https://github.com/BinarCode/vue2-transitions) - ✨ Reusable Vue 2 transition components
 - [ktsn/vue-route-generator](https://github.com/ktsn/vue-route-generator) - Vue Router route config generator
 - [KABBOUCHI/laravel-mix-vue-auto-routing](https://github.com/KABBOUCHI/laravel-mix-vue-auto-routing) - A quick Laravel Mix extension to generate "Vue Router" routing automatically.

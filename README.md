@@ -79,7 +79,7 @@
 - [vorot93/libmdbx-rs](https://github.com/vorot93/libmdbx-rs) - Rust bindings for MDBX
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
-- [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
+- [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
@@ -493,7 +493,7 @@
 - [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
-- [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
+- [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 - [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
@@ -655,7 +655,6 @@
 - [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Functional, minimal, data-oriented, ultra-high performance ECS library written in JavaScript
 - [moxystudio/node-cross-spawn](https://github.com/moxystudio/node-cross-spawn) - A cross platform solution to node's spawn and spawnSync
 - [almost-full-stack/graphcraft](https://github.com/almost-full-stack/graphcraft) - Rapildy build and extend GraphQL API based on Sequelize models. This library helps you focus on business logic while taking care of GraphQL schema automatically.
-- [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config presets
 - [hapijs/joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
 - [tc39/proposal-type-annotations](https://github.com/tc39/proposal-type-annotations) - ECMAScript proposal for type syntax that is erased - Stage 1
 - [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code
@@ -1130,7 +1129,7 @@
 
 ## PHP 
 
-- [nunomaduro/pail](https://github.com/nunomaduro/pail) - Effortlessly tail Logs in Laravel 🪣
+- [laravel/pail](https://github.com/laravel/pail) - Effortlessly tail Logs in Laravel 🪣
 - [livewire/volt](https://github.com/livewire/volt) - Volt is an elegantly crafted functional API for Livewire.
 - [NativePHP/laravel](https://github.com/NativePHP/laravel) - Laravel wrapper for the NativePHP framework
 - [pgvector/pgvector-php](https://github.com/pgvector/pgvector-php) - pgvector support for PHP
@@ -1715,6 +1714,10 @@
 
 ## Rust 
 
+- [Leafwing-Studios/leafwing_abilities](https://github.com/Leafwing-Studios/leafwing_abilities) - An ability management suite for Bevy.
+- [IceSentry/bevy_ui_styled](https://github.com/IceSentry/bevy_ui_styled) - 
+- [johanhelsing/bevy_pancam](https://github.com/johanhelsing/bevy_pancam) - A  bevy plugin for panning orthographic cameras
+- [Ralith/hecs](https://github.com/Ralith/hecs) - A handy ECS
 - [kellnr/kellnr](https://github.com/kellnr/kellnr) - The registry for Rust crates
 - [bevyengine/naga_oil](https://github.com/bevyengine/naga_oil) - 
 - [wgsl-analyzer/wgsl-analyzer](https://github.com/wgsl-analyzer/wgsl-analyzer) - a language server implementation for the WGSL shading language
@@ -2373,6 +2376,7 @@
 - [unjs/nitro](https://github.com/unjs/nitro) - Create, build and deploy universal web servers. The open engine powering Nuxt and open to everyone.
 - [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 - [vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa) - Zero-config PWA for Vite
+- [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config presets
 - [Tahul/vue-composable-starter](https://github.com/Tahul/vue-composable-starter) - 🪝 Minimalist starting point for your next Vue Composable
 - [antfu/vite-plugin-glob](https://github.com/antfu/vite-plugin-glob) - The design experiment for import.meta.glob from Vite.
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
@@ -2482,7 +2486,7 @@
 - [ngryman/reading-time](https://github.com/ngryman/reading-time) - :books: Medium's like reading time estimation.
 - [harlan-zw/nuxt-webpack-optimisations](https://github.com/harlan-zw/nuxt-webpack-optimisations) - Make your Nuxt.js webpack builds faster ⚡
 - [ream/ream](https://github.com/ream/ream) - A Vue 3 framework, powered by Vite.
-- [esbuild-kit/esbuild-loader](https://github.com/esbuild-kit/esbuild-loader) - Webpack loader for esbuild: Speed up your build ⚡️
+- [privatenumber/esbuild-loader](https://github.com/privatenumber/esbuild-loader) - Webpack loader for esbuild: Speed up your build ⚡️
 - [auchenberg/vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview) - A real browser preview inside your editor that you can debug.
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [jfet97/vue-use-infinite-scroll](https://github.com/jfet97/vue-use-infinite-scroll) - A Vue composition function that makes infinite scroll a breeze.

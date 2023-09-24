@@ -1714,6 +1714,11 @@
 
 ## Rust 
 
+- [lain-dono/shaderlab](https://github.com/lain-dono/shaderlab) - 
+- [lain-dono/egui_docking](https://github.com/lain-dono/egui_docking) - 
+- [Adanos020/egui_dock](https://github.com/Adanos020/egui_dock) - Docking support for egui – an immediate-mode GUI library for Rust
+- [jakobhellermann/bevy_mod_debugdump](https://github.com/jakobhellermann/bevy_mod_debugdump) - 
+- [tbillington/bevy_best_practices](https://github.com/tbillington/bevy_best_practices) - An opionated set of Best Practices for the Bevy game engine
 - [Leafwing-Studios/leafwing_abilities](https://github.com/Leafwing-Studios/leafwing_abilities) - An ability management suite for Bevy.
 - [IceSentry/bevy_ui_styled](https://github.com/IceSentry/bevy_ui_styled) - 
 - [johanhelsing/bevy_pancam](https://github.com/johanhelsing/bevy_pancam) - A  bevy plugin for panning orthographic cameras
@@ -1758,7 +1763,7 @@
 - [drakmaniso/bevy_pixel_camera](https://github.com/drakmaniso/bevy_pixel_camera) - A simple pixel-perfect camera plugin for Bevy, suitable for pixel-art.
 - [edouardpoitras/bevy_text_popup](https://github.com/edouardpoitras/bevy_text_popup) - Bevy plugin to easily create UI text popups using events
 - [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust
-- [bluealloy/revm](https://github.com/bluealloy/revm) - Rust Ethereum virtual machine (revm) Is EVM written in rust that is focused on speed and simplicity
+- [bluealloy/revm](https://github.com/bluealloy/revm) - Ethereum Virtual Machine written in rust that is fast and simple to use
 - [aevyrie/bevy_framepace](https://github.com/aevyrie/bevy_framepace) - Framepacing and framelimiting for Bevy
 - [djeedai/bevy_tweening](https://github.com/djeedai/bevy_tweening) - Tweening animation plugin for the Bevy game engine.
 - [gschup/bevy_ggrs](https://github.com/gschup/bevy_ggrs) - Bevy plugin for the GGRS P2P rollback networking library.

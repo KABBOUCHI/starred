@@ -1129,7 +1129,7 @@
 
 ## PHP 
 
-- [laravel/pail](https://github.com/laravel/pail) - Effortlessly tail Logs in Laravel 🪣
+- [laravel/pail](https://github.com/laravel/pail) - Easily delve into your Laravel application's log files directly from the console. 🪣
 - [livewire/volt](https://github.com/livewire/volt) - Volt is an elegantly crafted functional API for Livewire.
 - [NativePHP/laravel](https://github.com/NativePHP/laravel) - Laravel wrapper for the NativePHP framework
 - [pgvector/pgvector-php](https://github.com/pgvector/pgvector-php) - pgvector support for PHP
@@ -2108,6 +2108,7 @@
 
 ## TypeScript 
 
+- [ddahan/ui-libs](https://github.com/ddahan/ui-libs) - 
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, and vanilla TypeScript or JavaScript

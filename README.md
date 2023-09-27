@@ -454,7 +454,7 @@
 ## Elixir 
 
 - [blockscout/blockscout](https://github.com/blockscout/blockscout) - Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [edgurgel/poxa](https://github.com/edgurgel/poxa) - Pusher server implementation compatible with Pusher client libraries.
 
 ## GDScript 
@@ -743,6 +743,7 @@
 - [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
 - [mjbvz/vscode-lit-html](https://github.com/mjbvz/vscode-lit-html) - Adds syntax highlighting for html inside of JavaScript and TypeScript tagged template strings
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
+- [Kruithne/wow.export](https://github.com/Kruithne/wow.export) - 📦 Export Toolkit for World of Warcraft
 - [Selzier/wow.export.unity](https://github.com/Selzier/wow.export.unity) - 📦 Export Toolkit for World of Warcraft
 - [scottcharlesworth/laravel-mix-polyfill](https://github.com/scottcharlesworth/laravel-mix-polyfill) - A Laravel Mix extension to include polyfills by using Babel, core-js, and regenerator-runtime
 - [madhusudanbabar/k-domains](https://github.com/madhusudanbabar/k-domains) - A simple module to manage multiple subdomains with just one project
@@ -2518,7 +2519,6 @@
 - [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
 - [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
-- [Kruithne/wow.export](https://github.com/Kruithne/wow.export) - 📦 Export Toolkit for World of Warcraft
 - [nuxt/image](https://github.com/nuxt/image) - Plug-and-play image optimization for Nuxt applications.
 - [lmiller1990/spreadsheet](https://github.com/lmiller1990/spreadsheet) - Demo of building a spreadsheet engine + Vue UI layer
 - [nodegui/vue-nodegui](https://github.com/nodegui/vue-nodegui) - Build performant, native and cross-platform desktop applications with native Vue + powerful CSS like styling.🚀

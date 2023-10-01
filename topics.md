@@ -1011,6 +1011,7 @@
 
 ## ethereum 
 
+- [latticexyz/mud](https://github.com/latticexyz/mud) - MUD is an engine for Autonomous Worlds
 - [EnsoFinance/transaction-simulator](https://github.com/EnsoFinance/transaction-simulator) - Ethereum transaction simulator leveraging Foundry's codebase
 - [bluealloy/revm](https://github.com/bluealloy/revm) - Ethereum Virtual Machine written in rust that is fast and simple to use
 - [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
@@ -1183,6 +1184,7 @@
 
 ## game 
 
+- [latticexyz/mud](https://github.com/latticexyz/mud) - MUD is an engine for Autonomous Worlds
 - [Aunmag/shooter-rs](https://github.com/Aunmag/shooter-rs) - 2D top-down shooter
 - [iiYese/aery](https://github.com/iiYese/aery) - A plugin that enables a subset of entity relationship features for bevy
 - [ggez/ggez](https://github.com/ggez/ggez) - Rust library to create a Good Game Easily
@@ -1417,6 +1419,7 @@
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Vector database plugin for Postgres, written in Rust, specifically designed for LLM
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D raster & vector editor that melds traditional layers & tools with a modern node-based, fully non-destructive procedural workflow.
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 - [danielroe/fontaine](https://github.com/danielroe/fontaine) - Automatic font fallback based on font metrics
@@ -1557,6 +1560,7 @@
 - [nunomaduro/collision](https://github.com/nunomaduro/collision) - 💥 Collision is a beautiful error reporting tool for command-line applications
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services
 - [lcobucci/jwt](https://github.com/lcobucci/jwt) - A simple library to work with JSON Web Token and JSON Web Signature
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
 - [dragonmantank/cron-expression](https://github.com/dragonmantank/cron-expression) - CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
 - [doctrine/annotations](https://github.com/doctrine/annotations) - Annotations Docblock Parser
 - [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
@@ -2641,6 +2645,8 @@
 
 ## others 
 
+- [taskforcesh/bullmq-proxy](https://github.com/taskforcesh/bullmq-proxy) - A WebSockets based proxy for accessing BullMQ Queues
+- [antfu/eslint-flat-config-viewer](https://github.com/antfu/eslint-flat-config-viewer) - A visual tool to help you view and understand your ESLint Flat config.
 - [fralonra/wgshadertoy](https://github.com/fralonra/wgshadertoy) - A WGSL playground inspired by Shadertoy.
 - [google/angle](https://github.com/google/angle) - A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android.
 - [linebender/velato](https://github.com/linebender/velato) - 

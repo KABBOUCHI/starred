@@ -1716,6 +1716,8 @@
 
 ## Rust 
 
+- [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
+- [SDesya74/bevy_mod_static_inventory](https://github.com/SDesya74/bevy_mod_static_inventory) - 
 - [fralonra/wgshadertoy](https://github.com/fralonra/wgshadertoy) - A WGSL playground inspired by Shadertoy.
 - [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4
 - [linebender/velato](https://github.com/linebender/velato) - 

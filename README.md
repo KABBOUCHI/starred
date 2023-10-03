@@ -1047,6 +1047,7 @@
 
 ## Others 
 
+- [zackify/cli.rs](https://github.com/zackify/cli.rs) - use {yourproject}.cli.rs!
 - [chalex-eth/awesome-ethers-rs](https://github.com/chalex-eth/awesome-ethers-rs) - A curated list of awesome of rust and ethers-rs
 - [sjinzh/awesome-rust-list](https://github.com/sjinzh/awesome-rust-list) - A collection of some awesome public Rust programming language projects.
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
@@ -1716,6 +1717,11 @@
 
 ## Rust 
 
+- [polako-rs/polako](https://github.com/polako-rs/polako) - Open app & game engine on the top of the `bevy` with all the good.
+- [lee-orr/dexterous_developer](https://github.com/lee-orr/dexterous_developer) - A hot reload system for the Bevy game engine
+- [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust.
+- [servo/rust-smallvec](https://github.com/servo/rust-smallvec) - "Small vector" optimization for Rust: store up to a small number of items on the stack
+- [orhun/daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter! 📇
 - [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
 - [SDesya74/bevy_mod_static_inventory](https://github.com/SDesya74/bevy_mod_static_inventory) - 
 - [fralonra/wgshadertoy](https://github.com/fralonra/wgshadertoy) - A WGSL playground inspired by Shadertoy.
@@ -2429,7 +2435,7 @@
 - [Instadapp/dsa-connect](https://github.com/Instadapp/dsa-connect) - Development quickstart to interact with DSA smart contracts.
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
 - [nuxt/modules](https://github.com/nuxt/modules) - Discover the Nuxt modules to add any CMS, Database, UI, Auth and integrations into your Vue application.
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
+- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [quirrel-dev/quirrel](https://github.com/quirrel-dev/quirrel) - The Task Queueing Solution for Serverless.

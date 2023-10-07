@@ -478,6 +478,7 @@
 
 ## blockchain 
 
+- [EnsoFinance/temper](https://github.com/EnsoFinance/temper) - Temper your expectations - Ethereum Transaction Simulator
 - [bluealloy/revm](https://github.com/bluealloy/revm) - Ethereum Virtual Machine written in rust that is fast and simple to use
 - [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 - [alloy-rs/core](https://github.com/alloy-rs/core) - High-performance, well-tested & documented core libraries for Ethereum, in Rust
@@ -1006,6 +1007,7 @@
 - [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
 - [tinyhttp/tinyhttp](https://github.com/tinyhttp/tinyhttp) - 🦄 0-legacy, tiny & fast web framework as a replacement of Express
 - [dmnd/dedent](https://github.com/dmnd/dedent) - ⬅️ ES6 string tag that strips indentation from multi-line strings.
+- [WeAreAthlon/frontend-webpack-boilerplate](https://github.com/WeAreAthlon/frontend-webpack-boilerplate) - Simple starter webpack 5 project template supporting SASS/PostCSS, Babel ES7, browser syncing, code linting. Easy project setup having multiple features and developer friendly tools.
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 - [Shopify/draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
@@ -1022,7 +1024,7 @@
 ## ethereum 
 
 - [latticexyz/mud](https://github.com/latticexyz/mud) - MUD is an engine for Autonomous Worlds
-- [EnsoFinance/transaction-simulator](https://github.com/EnsoFinance/transaction-simulator) - Ethereum transaction simulator leveraging Foundry's codebase
+- [EnsoFinance/temper](https://github.com/EnsoFinance/temper) - Temper your expectations - Ethereum Transaction Simulator
 - [bluealloy/revm](https://github.com/bluealloy/revm) - Ethereum Virtual Machine written in rust that is fast and simple to use
 - [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 - [alloy-rs/core](https://github.com/alloy-rs/core) - High-performance, well-tested & documented core libraries for Ethereum, in Rust
@@ -1230,6 +1232,7 @@
 - [deepnight/ldtk](https://github.com/deepnight/ldtk) - Modern, lightweight and efficient 2D level editor
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
 - [NiklasEi/bevy_asset_loader](https://github.com/NiklasEi/bevy_asset_loader) - Bevy plugin helping with asset loading and organization
+- [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 - [UPBGE/upbge](https://github.com/UPBGE/upbge) - UPBGE, the best integrated game engine in Blender
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [NiklasEi/bevy_game_template](https://github.com/NiklasEi/bevy_game_template) - Template for a Bevy game including CI/CD for web, Windows, Linux, macOS, iOS and Android
@@ -2666,6 +2669,8 @@
 
 ## others 
 
+- [polako-rs/constructivism](https://github.com/polako-rs/constructivism) - Construct complex structures within single call + simple compile-time meta-inheritance model with mixins.
+- [OffchainLabs/stylus-sdk-rs](https://github.com/OffchainLabs/stylus-sdk-rs) - Rust Smart Contracts on Arbitrum
 - [polako-rs/polako](https://github.com/polako-rs/polako) - Open app & game engine on the top of the `bevy` with all the good.
 - [lee-orr/dexterous_developer](https://github.com/lee-orr/dexterous_developer) - A hot reload system for the Bevy game engine
 - [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust.
@@ -3189,7 +3194,7 @@
 - [wesbos/chit-chats-snipcart-integration](https://github.com/wesbos/chit-chats-snipcart-integration) - Begin app
 - [davidcallanan/os-series](https://github.com/davidcallanan/os-series) - 
 - [Akryum/vue-observe-visibility](https://github.com/Akryum/vue-observe-visibility) - Detect when an element is becoming visible or hidden on the page.
-- [RealPeha/This-Repo-Has-1766-Stars](https://github.com/RealPeha/This-Repo-Has-1766-Stars) - Yes, it's true :purple_heart: [temporarily not working]
+- [RealPeha/This-Repo-Has-1753-Stars](https://github.com/RealPeha/This-Repo-Has-1753-Stars) - Yes, it's true :purple_heart: [temporarily not working]
 - [xsoulspace/vuefer](https://github.com/xsoulspace/vuefer) - Vue3 styled like Flutter with Tailwind CSS
 - [IndexXuan/vue-cli-plugin-vite](https://github.com/IndexXuan/vue-cli-plugin-vite) - Use vite today, with vue-cli.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
@@ -4260,7 +4265,7 @@
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [iiYese/aery](https://github.com/iiYese/aery) - A plugin that enables a subset of entity relationship features for bevy
 - [JoJoJet/bevy-trait-query](https://github.com/JoJoJet/bevy-trait-query) - adds trait queries to the bevy game engine
-- [EnsoFinance/transaction-simulator](https://github.com/EnsoFinance/transaction-simulator) - Ethereum transaction simulator leveraging Foundry's codebase
+- [EnsoFinance/temper](https://github.com/EnsoFinance/temper) - Temper your expectations - Ethereum Transaction Simulator
 - [Jondolf/bevy_xpbd](https://github.com/Jondolf/bevy_xpbd) - 2D and 3D physics engine based on Extended Position Based Dynamics for Bevy.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends
 - [politrons/FunctionalRust](https://github.com/politrons/FunctionalRust) - 

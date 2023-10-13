@@ -1523,6 +1523,7 @@
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 on-demand confetti gun
 - [doctrine/dbal](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [bitfumes/laravel-packer](https://github.com/bitfumes/laravel-packer) - Awesome Command Line Tool for speeding up your package creation.
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [beyondcode/forge-cli](https://github.com/beyondcode/forge-cli) - An opinionated Laravel Forge CLI tool
@@ -2677,6 +2678,7 @@
 
 ## others 
 
+- [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [josfeenstra/hedron](https://github.com/josfeenstra/hedron) - An all-in-one 3D modelling library, written in Rust
 - [polako-rs/constructivism](https://github.com/polako-rs/constructivism) - Construct complex structures within single call + simple compile-time meta-inheritance model with mixins.
 - [OffchainLabs/stylus-sdk-rs](https://github.com/OffchainLabs/stylus-sdk-rs) - Rust Smart Contracts on Arbitrum
@@ -3756,7 +3758,7 @@
 - [maxogden/menubar](https://github.com/maxogden/menubar) - ➖ high level way to create menubar desktop applications with electron
 - [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
 - [louischatriot/nedb](https://github.com/louischatriot/nedb) - The JavaScript Database, for Node.js, nw.js, electron and the browser
-- [AtaS/lowercase-dashed-route](https://github.com/AtaS/lowercase-dashed-route) - Makes ASP.NET MVC routes dashed (hyphenated) and lowercase i.e. yoursite.com/account/user-profile
+- [atas/lowercase-dashed-route](https://github.com/atas/lowercase-dashed-route) - Makes ASP.NET MVC routes dashed (hyphenated) and lowercase i.e. yoursite.com/account/user-profile
 - [lawloretienne/ImageGallery](https://github.com/lawloretienne/ImageGallery) - A gallery used to host an array of images
 - [codekerala/spa-laravel-vuejs](https://github.com/codekerala/spa-laravel-vuejs) - Single Page Application with Laravel 5.3 and Vue.js 2.1.x
 - [proengsoft/laravel-jsvalidation](https://github.com/proengsoft/laravel-jsvalidation) - Laravel Javascript Validation

@@ -237,6 +237,7 @@
 
 ## ai 
 
+- [hotshotco/Hotshot-XL](https://github.com/hotshotco/Hotshot-XL) - ✨ Hotshot-XL: State-of-the-art AI text-to-GIF model trained to work alongside Stable Diffusion XL
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
 - [ariym/whisper-node](https://github.com/ariym/whisper-node) - NodeJS bindings for OpenAI's Whisper. (C++ CPU version by ggerganov)
 - [Atome-FE/llama-node](https://github.com/Atome-FE/llama-node) - Believe in AI democratization. llama for nodejs backed by llama-rs, llama.cpp and rwkv.cpp, work locally on your laptop CPU. support llama/alpaca/gpt4all/vicuna/rwkv model.
@@ -1611,7 +1612,7 @@
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [codestudiohq/laravel-totem](https://github.com/codestudiohq/laravel-totem) - Manage Your Laravel Schedule From A Web Dashboard
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
-- [tighten/ziggy](https://github.com/tighten/ziggy) - Use your Laravel named routes in JavaScript
+- [tighten/ziggy](https://github.com/tighten/ziggy) - Use your Laravel routes in JavaScript.
 - [spatie/browsershot](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string
 - [JetBrains/resharper-unity](https://github.com/JetBrains/resharper-unity) - Unity support for both ReSharper and Rider
 - [laravel-zero/laravel-zero](https://github.com/laravel-zero/laravel-zero) - A PHP framework for console artisans
@@ -1910,7 +1911,7 @@
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
-- [tighten/ziggy](https://github.com/tighten/ziggy) - Use your Laravel named routes in JavaScript
+- [tighten/ziggy](https://github.com/tighten/ziggy) - Use your Laravel routes in JavaScript.
 - [crazychicken/t-scroll](https://github.com/crazychicken/t-scroll) - A modern reveal-on-scroll library with useful options and animations. (Animate Elements On Reveal)
 - [needim/noty](https://github.com/needim/noty) - ⛔️ DEPRECATED - Dependency-free notification library that makes it easy to create alert - success - error - warning - information - confirmation messages as an alternative the standard alert dialog.
 - [KABBOUCHI/vue-tippy](https://github.com/KABBOUCHI/vue-tippy) - VueJS Tooltip powered by Tippy.js
@@ -2207,7 +2208,7 @@
 - [studio-net/laravel-scoresearch](https://github.com/studio-net/laravel-scoresearch) - Laravel entity search engine based on scoring
 - [spatie/eloquent-sortable](https://github.com/spatie/eloquent-sortable) - Sortable behaviour for Eloquent models
 - [codestudiohq/laravel-totem](https://github.com/codestudiohq/laravel-totem) - Manage Your Laravel Schedule From A Web Dashboard
-- [tighten/ziggy](https://github.com/tighten/ziggy) - Use your Laravel named routes in JavaScript
+- [tighten/ziggy](https://github.com/tighten/ziggy) - Use your Laravel routes in JavaScript.
 - [sahibalejandro/form-object](https://github.com/sahibalejandro/form-object) - Form object to use with Vue components for sending data to a Laravel application using axios.
 - [laravel/horizon](https://github.com/laravel/horizon) - Dashboard and code-driven configuration for Laravel queues.
 - [Jorijn/laravel-security-checker](https://github.com/Jorijn/laravel-security-checker) - Added Laravel functionality to Enlightn Security Checker. Adds a command to check for, and optionally emails you, vulnerabilities when they affect you.

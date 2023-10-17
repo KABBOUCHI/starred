@@ -743,7 +743,7 @@
 - [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
 - [Rich-Harris/shimport](https://github.com/Rich-Harris/shimport) - Use JavaScript modules in all browsers, including dynamic imports
 - [dougmoscrop/serverless-http](https://github.com/dougmoscrop/serverless-http) - Use your existing middleware framework (e.g. Express, Koa) in AWS Lambda 🎉
-- [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 on-demand confetti gun
+- [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
 - [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
 - [mjbvz/vscode-lit-html](https://github.com/mjbvz/vscode-lit-html) - Adds syntax highlighting for html inside of JavaScript and TypeScript tagged template strings
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
@@ -2171,6 +2171,7 @@
 - [mezg0/vue-ui](https://github.com/mezg0/vue-ui) - 
 - [Kaperskyguru/adonis-cache](https://github.com/Kaperskyguru/adonis-cache) - AdonisJS Cache makes it seamless to implement any Caching strategy in AdonisJS 5 applications.
 - [danielroe/fontaine](https://github.com/danielroe/fontaine) - Automatic font fallback based on font metrics
+- [Tresjs/nuxt](https://github.com/Tresjs/nuxt) - TresJS integration for Nuxt.
 - [dan-kwiat/openai-edge](https://github.com/dan-kwiat/openai-edge) - 
 - [Vuepic/vue-datepicker](https://github.com/Vuepic/vue-datepicker) - Datepicker component for Vue 3
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components.
@@ -2681,7 +2682,6 @@
 - [radix-vue/shadcn-vue](https://github.com/radix-vue/shadcn-vue) - Vue port of shadcn-ui
 - [selemondev/nuxt-ui-vue](https://github.com/selemondev/nuxt-ui-vue) - :construction: WIP Fully styled and customizable components from Nuxt UI to Vue 3.
 - [radix-vue/radix-vue](https://github.com/radix-vue/radix-vue) - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.
-- [Tresjs/nuxt](https://github.com/Tresjs/nuxt) - TresJS integration for Nuxt.
 - [nuxt/ui](https://github.com/nuxt/ui) - Fully styled and customizable components for Nuxt.
 - [Tresjs/cientos](https://github.com/Tresjs/cientos) - Collection of useful helpers and fully functional, ready-made abstractions for TresJS
 - [henrycunh/golem](https://github.com/henrycunh/golem) - ✨ A beautiful UI for ChatGPT and other conversational models

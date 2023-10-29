@@ -524,7 +524,7 @@
 ## chatgpt 
 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
-- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS 2023 Oral] Visual Instruction Tuning: LLaVA (Large Language-and-Vision Assistant) built towards GPT-4V level capabilities.
+- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning: LLaVA (Large Language-and-Vision Assistant) built towards GPT-4V level capabilities.
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Vector database plugin for Postgres, written in Rust, specifically designed for LLM
 - [sjinzh/awesome-rust-list](https://github.com/sjinzh/awesome-rust-list) - A collection of some awesome public Rust programming language projects.
@@ -556,6 +556,7 @@
 
 ## cli 
 
+- [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
@@ -1443,6 +1444,7 @@
 
 ## hacktoberfest 
 
+- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Optimizer and compiler/toolchain library for WebAssembly
 - [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
 - [orhun/daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter! 📇
@@ -1452,6 +1454,7 @@
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [marc2332/freya](https://github.com/marc2332/freya) - Native GUI library for 🦀 Rust  powered by 🧬 Dioxus and 🎨 Skia.
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Vector database plugin for Postgres, written in Rust, specifically designed for LLM
+- [NiklasEi/bevy_common_assets](https://github.com/NiklasEi/bevy_common_assets) - Collection of asset loaders for common file formats
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D raster & vector editor that melds traditional layers & tools with a modern node-based, fully non-destructive procedural workflow.
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
@@ -1669,6 +1672,7 @@
 
 ## http 
 
+- [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
@@ -2517,6 +2521,7 @@
 
 ## node 
 
+- [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [hectorm/otpauth](https://github.com/hectorm/otpauth) - One Time Password (HOTP/TOTP) library for Node.js, Deno, Bun and browsers.
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
@@ -2696,6 +2701,7 @@
 
 ## others 
 
+- [rustwasm/twiggy](https://github.com/rustwasm/twiggy) - Twiggy🌱 is a code size profiler
 - [servo/mozjs](https://github.com/servo/mozjs) - Servo's SpiderMonkey fork
 - [wasmerio/winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️
 - [peterboyer/unenum](https://github.com/peterboyer/unenum) - 0kb, Rust-like ADT/Enums for TypeScript.
@@ -3231,7 +3237,7 @@
 - [wesbos/chit-chats-snipcart-integration](https://github.com/wesbos/chit-chats-snipcart-integration) - Begin app
 - [davidcallanan/os-series](https://github.com/davidcallanan/os-series) - 
 - [Akryum/vue-observe-visibility](https://github.com/Akryum/vue-observe-visibility) - Detect when an element is becoming visible or hidden on the page.
-- [RealPeha/This-Repo-Has-1753-Stars](https://github.com/RealPeha/This-Repo-Has-1753-Stars) - Yes, it's true :purple_heart: [temporarily not working]
+- [RealPeha/This-Repo-Has-1751-Stars](https://github.com/RealPeha/This-Repo-Has-1751-Stars) - Yes, it's true :purple_heart:
 - [xsoulspace/vuefer](https://github.com/xsoulspace/vuefer) - Vue3 styled like Flutter with Tailwind CSS
 - [IndexXuan/vue-cli-plugin-vite](https://github.com/IndexXuan/vue-cli-plugin-vite) - Use vite today, with vue-cli.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
@@ -5011,7 +5017,7 @@
 - [Tresjs/cientos](https://github.com/Tresjs/cientos) - Collection of useful helpers and fully functional, ready-made abstractions for TresJS
 - [Tresjs/tres](https://github.com/Tresjs/tres) - Declarative ThreeJS using Vue Components
 - [Atinux/nuxt-todos-edge](https://github.com/Atinux/nuxt-todos-edge) - A full-stack application with authentication, SSR and SQLite, running on the edge with Nuxt 3.
-- [HunYan-io/vite-plugin-vue-nested-sfc](https://github.com/HunYan-io/vite-plugin-vue-nested-sfc) - Nest SFCs within your SFC.
+- [hunyan-io/vite-plugin-vue-nested-sfc](https://github.com/hunyan-io/vite-plugin-vue-nested-sfc) - Nest SFCs within your SFC.
 - [chakra-ui/ark](https://github.com/chakra-ui/ark) - A headless library for building reusable, scalable design systems that works for a wide range of JS frameworks.
 - [oku-ui/primitives](https://github.com/oku-ui/primitives) - Vue Radix UI Primitives 1:1 . Components, icons, colors, and templates for building high-quality, accessible UI. Free and open-source. A project developed by @productdevbookcom
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀

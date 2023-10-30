@@ -1053,6 +1053,8 @@
 
 ## Others 
 
+- [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
+- [php-youtubers/directory](https://github.com/php-youtubers/directory) - Curated a list of PHP YouTubers. 📋
 - [zackify/cli.rs](https://github.com/zackify/cli.rs) - use {yourproject}.cli.rs!
 - [chalex-eth/awesome-ethers-rs](https://github.com/chalex-eth/awesome-ethers-rs) - A curated list of awesome of rust and ethers-rs
 - [sjinzh/awesome-rust-list](https://github.com/sjinzh/awesome-rust-list) - A collection of some awesome public Rust programming language projects.
@@ -1725,6 +1727,9 @@
 
 ## Rust 
 
+- [raphlinus/pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
+- [bitflags/bitflags](https://github.com/bitflags/bitflags) - A macro to generate structures which behave like bitflags
+- [bjorn/raccoin](https://github.com/bjorn/raccoin) - Crypto Portfolio and Tax Reporting Tool
 - [rustwasm/twiggy](https://github.com/rustwasm/twiggy) - Twiggy🌱 is a code size profiler
 - [servo/mozjs](https://github.com/servo/mozjs) - Servo's SpiderMonkey fork
 - [wasmerio/winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️
@@ -2424,7 +2429,7 @@
 - [unjs/nitro](https://github.com/unjs/nitro) - Create, build and deploy universal web servers. The open engine powering Nuxt and open to everyone.
 - [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 - [vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa) - Zero-config PWA for Vite
-- [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config presets
+- [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config preset
 - [Tahul/vue-composable-starter](https://github.com/Tahul/vue-composable-starter) - 🪝 Minimalist starting point for your next Vue Composable
 - [antfu/vite-plugin-glob](https://github.com/antfu/vite-plugin-glob) - The design experiment for import.meta.glob from Vite.
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)

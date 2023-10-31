@@ -1841,7 +1841,7 @@
 - [express-validator/express-validator](https://github.com/express-validator/express-validator) - An express.js middleware for validator.js.
 - [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [lancedikson/bowser](https://github.com/lancedikson/bowser) - a browser detector
+- [bowser-js/bowser](https://github.com/bowser-js/bowser) - a browser detector
 - [tc39/ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
 - [sindresorhus/execa](https://github.com/sindresorhus/execa) - Process execution for humans
 - [inspect-js/object-inspect](https://github.com/inspect-js/object-inspect) - string representations of objects in node and the browser

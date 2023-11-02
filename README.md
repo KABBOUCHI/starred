@@ -575,6 +575,7 @@
 
 ## JavaScript 
 
+- [wasmerio/winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️
 - [pocka/rusted](https://github.com/pocka/rusted) - Rust-style programming in javascript
 - [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [berstend/puppeteer-extra](https://github.com/berstend/puppeteer-extra) - 💯  Teach puppeteer new tricks through plugins.
@@ -1734,7 +1735,6 @@
 - [bjorn/raccoin](https://github.com/bjorn/raccoin) - Crypto Portfolio and Tax Reporting Tool
 - [rustwasm/twiggy](https://github.com/rustwasm/twiggy) - Twiggy🌱 is a code size profiler
 - [servo/mozjs](https://github.com/servo/mozjs) - Servo's SpiderMonkey fork
-- [wasmerio/winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️
 - [gamedolphin/bevity](https://github.com/gamedolphin/bevity) - 
 - [gfx-rs/metal-rs](https://github.com/gfx-rs/metal-rs) - Rust bindings for Metal
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
@@ -2119,6 +2119,7 @@
 
 ## Solidity 
 
+- [latticexyz/mud](https://github.com/latticexyz/mud) - MUD is an engine for Autonomous Worlds
 - [mds1/multicall](https://github.com/mds1/multicall) - Multicall: Aggregate multiple constant function call results into one
 - [d-xo/weird-erc20](https://github.com/d-xo/weird-erc20) - weird erc20 tokens
 - [prettier-solidity/prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity) - A Prettier plugin for automatically formatting your Solidity code.
@@ -2154,7 +2155,6 @@
 - [peterboyer/unenum](https://github.com/peterboyer/unenum) - 0kb, Rust-like ADT/Enums for TypeScript.
 - [nuxtrdev/nuxtr-vscode](https://github.com/nuxtrdev/nuxtr-vscode) - An extension offering commands and tools to make your experience with Nuxt more pleasant.
 - [taskforcesh/bullmq-proxy](https://github.com/taskforcesh/bullmq-proxy) - A WebSockets based proxy for accessing BullMQ Queues
-- [latticexyz/mud](https://github.com/latticexyz/mud) - MUD is an engine for Autonomous Worlds
 - [ddahan/ui-libs](https://github.com/ddahan/ui-libs) - A UI Lib Picker for Vue 3 / Nuxt 3
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder

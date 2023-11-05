@@ -1476,7 +1476,6 @@
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [smogon/pokemon-showdown-client](https://github.com/smogon/pokemon-showdown-client) - The client for Pokémon Showdown
-- [trobonox/kanri](https://github.com/trobonox/kanri) - 🪐 Modern offline Kanban board app for Windows, MacOS and Linux. Built with simplicity and user experience in mind.
 - [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
 - [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust.
 - [sagebind/isahc](https://github.com/sagebind/isahc) - The practical HTTP client that is fun to use.
@@ -1616,7 +1615,6 @@
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
 - [spatie/laravel-query-builder](https://github.com/spatie/laravel-query-builder) - Easily build Eloquent queries from API requests
 - [SocialiteProviders/Providers](https://github.com/SocialiteProviders/Providers) - A Collection of Providers for Laravel Socialite
-- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
 - [tighten/collect](https://github.com/tighten/collect) - A Collections-only split from Laravel's Illuminate Support
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) - Associate files with Eloquent models
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
@@ -3243,7 +3241,7 @@
 - [wesbos/chit-chats-snipcart-integration](https://github.com/wesbos/chit-chats-snipcart-integration) - Begin app
 - [davidcallanan/os-series](https://github.com/davidcallanan/os-series) - 
 - [Akryum/vue-observe-visibility](https://github.com/Akryum/vue-observe-visibility) - Detect when an element is becoming visible or hidden on the page.
-- [RealPeha/This-Repo-Has-1751-Stars](https://github.com/RealPeha/This-Repo-Has-1751-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1752-Stars](https://github.com/RealPeha/This-Repo-Has-1752-Stars) - Yes, it's true :purple_heart:
 - [xsoulspace/vuefer](https://github.com/xsoulspace/vuefer) - Vue3 styled like Flutter with Tailwind CSS
 - [IndexXuan/vue-cli-plugin-vite](https://github.com/IndexXuan/vue-cli-plugin-vite) - Use vite today, with vue-cli.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser

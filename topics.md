@@ -1445,6 +1445,7 @@
 
 ## hacktoberfest 
 
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Optimizer and compiler/toolchain library for WebAssembly
 - [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
@@ -1474,7 +1475,6 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
-- [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [smogon/pokemon-showdown-client](https://github.com/smogon/pokemon-showdown-client) - The client for Pokémon Showdown
 - [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
 - [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust.
@@ -2301,6 +2301,7 @@
 
 ## machine-learning 
 
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [coreylowman/dfdx](https://github.com/coreylowman/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [burn-rs/burn](https://github.com/burn-rs/burn) - Burn - A Flexible and Comprehensive Deep Learning Framework in Rust
@@ -2496,6 +2497,7 @@
 
 ## neural-network 
 
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [coreylowman/dfdx](https://github.com/coreylowman/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
 - [burn-rs/burn](https://github.com/burn-rs/burn) - Burn - A Flexible and Comprehensive Deep Learning Framework in Rust
 - [keyvank/femtoGPT](https://github.com/keyvank/femtoGPT) - Pure Rust implementation of a minimal Generative Pretrained Transformer
@@ -3241,7 +3243,7 @@
 - [wesbos/chit-chats-snipcart-integration](https://github.com/wesbos/chit-chats-snipcart-integration) - Begin app
 - [davidcallanan/os-series](https://github.com/davidcallanan/os-series) - 
 - [Akryum/vue-observe-visibility](https://github.com/Akryum/vue-observe-visibility) - Detect when an element is becoming visible or hidden on the page.
-- [RealPeha/This-Repo-Has-1752-Stars](https://github.com/RealPeha/This-Repo-Has-1752-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1753-Stars](https://github.com/RealPeha/This-Repo-Has-1753-Stars) - Yes, it's true :purple_heart:
 - [xsoulspace/vuefer](https://github.com/xsoulspace/vuefer) - Vue3 styled like Flutter with Tailwind CSS
 - [IndexXuan/vue-cli-plugin-vite](https://github.com/IndexXuan/vue-cli-plugin-vite) - Use vite today, with vue-cli.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
@@ -4307,6 +4309,7 @@
 
 ## rust 
 
+- [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [ToluClassics/candle-tutorial](https://github.com/ToluClassics/candle-tutorial) - Tutorial for Porting PyTorch Transformer Models to Candle (Rust)
 - [raphlinus/pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
@@ -4725,6 +4728,7 @@
 
 ## terminal 
 
+- [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
@@ -5324,6 +5328,7 @@
 
 ## web 
 
+- [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them.
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.

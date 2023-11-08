@@ -292,6 +292,8 @@
 
 ## C++ 
 
+- [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
+- [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
 - [google/angle](https://github.com/google/angle) - A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
@@ -724,7 +726,7 @@
 - [tailwindlabs/tailwindcss-jit](https://github.com/tailwindlabs/tailwindcss-jit) - 
 - [bradoyler/route-cache](https://github.com/bradoyler/route-cache) - ⚡ Caching middleware for Express (w/ expiration)
 - [Akryum/vue-observe-visibility](https://github.com/Akryum/vue-observe-visibility) - Detect when an element is becoming visible or hidden on the page.
-- [RealPeha/This-Repo-Has-1753-Stars](https://github.com/RealPeha/This-Repo-Has-1753-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1755-Stars](https://github.com/RealPeha/This-Repo-Has-1755-Stars) - Yes, it's true :purple_heart:
 - [maoberlehner/vue-lazy-hydration](https://github.com/maoberlehner/vue-lazy-hydration) - Lazy Hydration of Server-Side Rendered Vue.js Components
 - [QingWei-Li/vue-trend](https://github.com/QingWei-Li/vue-trend) - 🌈 Simple, elegant spark lines for Vue.js
 - [tailwindlabs/tailwindcss-from-zero-to-production](https://github.com/tailwindlabs/tailwindcss-from-zero-to-production) - Source code for the "Tailwind CSS Up and Running" screencast series.
@@ -782,6 +784,7 @@
 - [laravel/jetstream-js](https://github.com/laravel/jetstream-js) - 
 - [beyondcode/livewire-devtools](https://github.com/beyondcode/livewire-devtools) - Chrome and Firefox DevTools extension for debugging Livewire applications
 - [ndelvalle/v-click-outside](https://github.com/ndelvalle/v-click-outside) - 🔲 Vue directive to react on clicks outside an element without stopping the event propagation
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [damianstasik/vue-svg-loader](https://github.com/damianstasik/vue-svg-loader) - 🔨 webpack loader that lets you use SVG files as Vue components
 - [nuxt-community/mdx-module](https://github.com/nuxt-community/mdx-module) - MDX module for Nuxt 2
 - [KABBOUCHI/vue-inline-data](https://github.com/KABBOUCHI/vue-inline-data) - 
@@ -1729,6 +1732,9 @@
 
 ## Rust 
 
+- [Amanieu/parking_lot](https://github.com/Amanieu/parking_lot) - Compact and efficient synchronization primitives for Rust. Also provides an API for creating custom synchronization primitives.
+- [rambler-digital-solutions/actix-web-validator](https://github.com/rambler-digital-solutions/actix-web-validator) - Rust library for providing validation mechanism to actix-web with Validator crate.
+- [qdrant/rust-client](https://github.com/qdrant/rust-client) - Rust client for Qdrant vector search engine
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [ToluClassics/candle-tutorial](https://github.com/ToluClassics/candle-tutorial) - Tutorial for Porting PyTorch Transformer Models to Candle (Rust)
@@ -2152,6 +2158,11 @@
 
 ## TypeScript 
 
+- [Atinux/nuxt-auth-utils](https://github.com/Atinux/nuxt-auth-utils) - Minimal Auth module for Nuxt 3.
+- [connectrpc/connect-es](https://github.com/connectrpc/connect-es) - The TypeScript implementation of Connect: Protobuf RPC that works.
+- [bufbuild/protobuf-es](https://github.com/bufbuild/protobuf-es) - Protocol Buffers for ECMAScript. The only JavaScript Protobuf library that is fully-compliant with Protobuf conformance tests.
+- [timostamm/protobuf-ts](https://github.com/timostamm/protobuf-ts) - Protobuf and RPC for TypeScript
+- [qdrant/qdrant-js](https://github.com/qdrant/qdrant-js) - JavaScript/Typescript SDK for Qdrant Vector Database
 - [harlan-zw/nuxt-og-image](https://github.com/harlan-zw/nuxt-og-image) - Enlightened runtime images generated with Vue templates.
 - [Julien-R44/bentocache](https://github.com/Julien-R44/bentocache) - 🍱 Bentocache is a robust multi-tier caching solution for Node.js applications
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
@@ -2207,8 +2218,7 @@
 - [smlxl/evm.codes](https://github.com/smlxl/evm.codes) - Source for evm.codes an Ethereum Virtual Machine Opcodes Interactive Reference
 - [praeclarum/webgpu-torch](https://github.com/praeclarum/webgpu-torch) - Tensor computation with WebGPU acceleration
 - [Tresjs/tres](https://github.com/Tresjs/tres) - Declarative ThreeJS using Vue Components
-- [Atinux/nuxt-todos-edge](https://github.com/Atinux/nuxt-todos-edge) - A full-stack application with authentication, SSR and SQLite, running on the edge with Nuxt 3.
-- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🎨 BlockSuite is the open-source collaborative editing project behind AFFiNE.
+- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🎨 BlockSuite is an open-source project for block-based collaborative editing.
 - [webfansplz/vite-plugin-vue-devtools](https://github.com/webfansplz/vite-plugin-vue-devtools) - Vite + Vue DevTools = DX  🔥
 - [johannschopplich/unlazy](https://github.com/johannschopplich/unlazy) - 🪧 Universal lazy loading library for placeholder images leveraging native browser APIs
 - [hunyan-io/vite-plugin-vue-nested-sfc](https://github.com/hunyan-io/vite-plugin-vue-nested-sfc) - Nest SFCs within your SFC.
@@ -2578,7 +2588,6 @@
 - [cocopon/tweakpane](https://github.com/cocopon/tweakpane) - :control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes
 - [MarshallOfSound/electron-devtools-installer](https://github.com/MarshallOfSound/electron-devtools-installer) - An easy way to ensure Chrome DevTools extensions into Electron
 - [Arthie/xwind](https://github.com/Arthie/xwind) - Tailwind CSS as a templating language in JS and CSS-in-JS
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [GoogleChromeLabs/bubblewrap](https://github.com/GoogleChromeLabs/bubblewrap) - Bubblewrap is a Command Line Interface (CLI) that helps developers to create a Project for an Android application that launches an existing Progressive Web App (PWAs) using a Trusted Web Activity.
 - [hfour/wsrun](https://github.com/hfour/wsrun) - Command runner for Yarn workspaces. Dependency aware.
@@ -2620,7 +2629,7 @@
 - [ycmjason/vuminal](https://github.com/ycmjason/vuminal) - Create terminal applications with the power of Vue 3.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [vuedx/languagetools](https://github.com/vuedx/languagetools) - A collection of tools for better IDE experience.
-- [edge-js/edge](https://github.com/edge-js/edge) - Node.js templating engine with fresh air
+- [edge-js/edge](https://github.com/edge-js/edge) - Node.js template with a breath of fresh air
 - [perry-mitchell/iocane](https://github.com/perry-mitchell/iocane) - An odorless, tasteless NodeJS crypto library that dissolves instantly in liquid
 - [LottieFiles/lottie-player](https://github.com/LottieFiles/lottie-player) - Lottie viewer/player as an easy to use web component! https://lottiefiles.com/web-player
 - [youzan/vant](https://github.com/youzan/vant) - A lightweight, customizable Vue UI library for mobile web apps.
@@ -2704,6 +2713,7 @@
 
 ## Vue 
 
+- [nuxt-ui-pro/starter](https://github.com/nuxt-ui-pro/starter) - Nuxt UI Pro minimal starter.
 - [nuxt/nuxt.com](https://github.com/nuxt/nuxt.com) - The Nuxt website, made with Nuxt.
 - [antfu/eslint-flat-config-viewer](https://github.com/antfu/eslint-flat-config-viewer) - A visual tool to help you view and understand your ESLint Flat config.
 - [radix-vue/shadcn-vue](https://github.com/radix-vue/shadcn-vue) - Vue port of shadcn-ui
@@ -2712,6 +2722,7 @@
 - [nuxt/ui](https://github.com/nuxt/ui) - Fully styled and customizable components for Nuxt.
 - [Tresjs/cientos](https://github.com/Tresjs/cientos) - Collection of useful helpers and fully functional, ready-made abstractions for TresJS
 - [henrycunh/golem](https://github.com/henrycunh/golem) - ✨ A beautiful UI for ChatGPT and other conversational models
+- [Atinux/nuxt-todos-edge](https://github.com/Atinux/nuxt-todos-edge) - A full-stack application with authentication, SSR and SQLite, running on the edge with Nuxt 3.
 - [hugoattal/OrbitalMarket](https://github.com/hugoattal/OrbitalMarket) - Enhanced marketplace platform for the Unreal Engine marketplace
 - [nuxt/hackernews](https://github.com/nuxt/hackernews) - HackerNews clone built with Nuxt.
 - [Youhan/maya-nuxt-template](https://github.com/Youhan/maya-nuxt-template) - A personal photography portfolio template built with Nuxt.js and Tailwind CSS.

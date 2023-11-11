@@ -582,7 +582,7 @@
 - [webfansplz/temir](https://github.com/webfansplz/temir) - Vue for interactive command-line apps
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [sapegin/mrm](https://github.com/sapegin/mrm) - Codemods for your project config files
-- [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx) - ⚡️ TypeScript Execute (tsx): Node.js enhanced with esbuild to run TypeScript & ESM
+- [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute: Node.js enhanced to run TypeScript & ESM
 - [wena-cli/wena](https://github.com/wena-cli/wena) - Wena is a micro-framework that provides an elegant starting point for your console application.
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -2542,7 +2542,7 @@
 - [af/envalid](https://github.com/af/envalid) - Environment variable validation for Node.js
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
-- [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx) - ⚡️ TypeScript Execute (tsx): Node.js enhanced with esbuild to run TypeScript & ESM
+- [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute: Node.js enhanced to run TypeScript & ESM
 - [apocas/dockerode](https://github.com/apocas/dockerode) - Docker + Node = Dockerode (Node.js module for Docker's Remote API)
 - [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
 - [esbuild-kit/esno](https://github.com/esbuild-kit/esno) - Alias to `tsx`
@@ -2715,6 +2715,9 @@
 
 ## others 
 
+- [scrippt-tech/orca](https://github.com/scrippt-tech/orca) - LLM Orchestrator built in Rust
+- [vuejs/core-vapor](https://github.com/vuejs/core-vapor) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [rive-app/rive-bevy](https://github.com/rive-app/rive-bevy) - 
 - [edge-js/edge-vscode](https://github.com/edge-js/edge-vscode) - Official extension for VSCode
 - [Atinux/nuxt-auth-utils](https://github.com/Atinux/nuxt-auth-utils) - Minimal Auth module for Nuxt 3.
 - [Amanieu/parking_lot](https://github.com/Amanieu/parking_lot) - Compact and efficient synchronization primitives for Rust. Also provides an API for creating custom synchronization primitives.
@@ -4867,7 +4870,7 @@
 - [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router) - Next-gen file based typed routing for vue router
 - [wobsoriano/h3-zod](https://github.com/wobsoriano/h3-zod) - TypeScript-first schema validation for h3 and Nuxt applications
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
-- [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx) - ⚡️ TypeScript Execute (tsx): Node.js enhanced with esbuild to run TypeScript & ESM
+- [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute: Node.js enhanced to run TypeScript & ESM
 - [PuruVJ/neodrag](https://github.com/PuruVJ/neodrag) - One Draggable to rule them all 💍
 - [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.

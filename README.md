@@ -577,6 +577,7 @@
 
 ## JavaScript 
 
+- [kogosoftwarellc/open-api](https://github.com/kogosoftwarellc/open-api) - A Monorepo of various packages to power OpenAPI in node
 - [wasmerio/winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️
 - [pocka/rusted](https://github.com/pocka/rusted) - Rust-style programming in javascript
 - [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
@@ -2142,6 +2143,7 @@
 
 ## Swift 
 
+- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0
 - [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
@@ -2160,6 +2162,7 @@
 
 ## TypeScript 
 
+- [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
 - [vuejs/core-vapor](https://github.com/vuejs/core-vapor) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [edge-js/edge-vscode](https://github.com/edge-js/edge-vscode) - Official extension for VSCode
 - [Atinux/nuxt-auth-utils](https://github.com/Atinux/nuxt-auth-utils) - Minimal Auth module for Nuxt 3.

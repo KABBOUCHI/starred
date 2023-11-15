@@ -76,6 +76,7 @@
 
 ## C 
 
+- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [webgpu-native/webgpu-headers](https://github.com/webgpu-native/webgpu-headers) - 
 - [vorot93/libmdbx-rs](https://github.com/vorot93/libmdbx-rs) - Rust bindings for MDBX
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
@@ -1733,6 +1734,7 @@
 
 ## Rust 
 
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A suite of high-performance tools for JavaScript and TypeScript written in Rust.
 - [scrippt-tech/orca](https://github.com/scrippt-tech/orca) - LLM Orchestrator built in Rust
 - [rive-app/rive-bevy](https://github.com/rive-app/rive-bevy) - 
 - [Amanieu/parking_lot](https://github.com/Amanieu/parking_lot) - Compact and efficient synchronization primitives for Rust. Also provides an API for creating custom synchronization primitives.
@@ -2162,6 +2164,7 @@
 
 ## TypeScript 
 
+- [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
 - [vultix/ts-results](https://github.com/vultix/ts-results) - A typescript implementation of Rust's Result object.
 - [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
 - [vuejs/core-vapor](https://github.com/vuejs/core-vapor) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.

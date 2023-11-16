@@ -584,7 +584,6 @@
 - [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [berstend/puppeteer-extra](https://github.com/berstend/puppeteer-extra) - 💯  Teach puppeteer new tricks through plugins.
 - [bgrins/TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript
-- [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic) - Monorepo for ESLint Stylistic plugins and configs
 - [radix-vue/radix-icons](https://github.com/radix-vue/radix-icons) - 
 - [hectorm/otpauth](https://github.com/hectorm/otpauth) - One Time Password (HOTP/TOTP) library for Node.js, Deno, Bun and browsers.
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
@@ -1734,7 +1733,14 @@
 
 ## Rust 
 
-- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A suite of high-performance tools for JavaScript and TypeScript written in Rust.
+- [bitswired/rustgpt](https://github.com/bitswired/rustgpt) - 
+- [alloy-rs/svm-rs](https://github.com/alloy-rs/svm-rs) - Solidity-Compiler Version Manager
+- [anton-rs/op-up](https://github.com/anton-rs/op-up) - Composable OP Stack Orchestration
+- [a16z/magi](https://github.com/a16z/magi) - A blazing fast OP Stack rollup client written in Rust
+- [fdeantoni/prost-wkt](https://github.com/fdeantoni/prost-wkt) - Prost Well-Known-Types serialization and deserialization.
+- [dtolnay/inventory](https://github.com/dtolnay/inventory) - Typed distributed plugin registration
+- [dtolnay/erased-serde](https://github.com/dtolnay/erased-serde) - Type-erased Serialize, Serializer and Deserializer traits
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [scrippt-tech/orca](https://github.com/scrippt-tech/orca) - LLM Orchestrator built in Rust
 - [rive-app/rive-bevy](https://github.com/rive-app/rive-bevy) - 
 - [Amanieu/parking_lot](https://github.com/Amanieu/parking_lot) - Compact and efficient synchronization primitives for Rust. Also provides an API for creating custom synchronization primitives.
@@ -2182,6 +2188,7 @@
 - [taskforcesh/bullmq-proxy](https://github.com/taskforcesh/bullmq-proxy) - A WebSockets based proxy for accessing BullMQ Queues
 - [ddahan/ui-libs](https://github.com/ddahan/ui-libs) - A UI Lib Picker for Vue 3 / Nuxt 3
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
+- [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic) - Monorepo for ESLint Stylistic plugins and configs
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster.

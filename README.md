@@ -105,7 +105,6 @@
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 - [nginx/nginx](https://github.com/nginx/nginx) - An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to ngi
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
-- [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [MARUI-PlugIn/BlenderXR](https://github.com/MARUI-PlugIn/BlenderXR) - Use Blender in VR/AR/XR
 - [SanderMertens/flecs](https://github.com/SanderMertens/flecs) - A fast entity component system (ECS) for C & C++
@@ -327,6 +326,7 @@
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 - [wjakob/instant-meshes](https://github.com/wjakob/instant-meshes) - Interactive field-aligned mesh generator
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+- [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
 - [NVIDIAGameWorks/PhysX](https://github.com/NVIDIAGameWorks/PhysX) - NVIDIA PhysX SDK
 - [rive-app/rive-cpp](https://github.com/rive-app/rive-cpp) - C++ runtime for Rive
@@ -971,7 +971,6 @@
 - [michalsnik/vue-content-placeholders](https://github.com/michalsnik/vue-content-placeholders) - Composable components for rendering fake (progressive) content like facebook in vue
 - [postcss/autoprefixer](https://github.com/postcss/autoprefixer) - Parse CSS and add vendor prefixes to rules by Can I Use
 - [laravel-mix/laravel-mix](https://github.com/laravel-mix/laravel-mix) - The power of webpack, distilled for the rest of us.
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [akxcv/vuera](https://github.com/akxcv/vuera) - :eyes: Vue in React, React in Vue. Seamless integration of the two. :dancers:
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [Shopify/draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
@@ -1876,7 +1875,7 @@
 - [PistonDevelopers/piston](https://github.com/PistonDevelopers/piston) - A modular game engine written in Rust
 - [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust.
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D raster & vector editor that melds traditional layers & tools with a modern node-based, fully non-destructive procedural workflow.
-- [burn-rs/burn](https://github.com/burn-rs/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
+- [Tracel-AI/burn](https://github.com/Tracel-AI/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
 - [JelteF/derive_more](https://github.com/JelteF/derive_more) - Some more derive(Trait) options
 - [tazz4843/whisper-rs](https://github.com/tazz4843/whisper-rs) - Rust bindings to https://github.com/ggerganov/whisper.cpp
 - [lifescapegame/bevy_replicon](https://github.com/lifescapegame/bevy_replicon) - High level networking for the Bevy game engine
@@ -2708,6 +2707,7 @@
 - [uNmAnNeR/imaskjs](https://github.com/uNmAnNeR/imaskjs) - vanilla javascript input mask
 - [logaretm/vee-validate](https://github.com/logaretm/vee-validate) - ✅  Painless Vue forms
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [tensorflow/tfjs-core](https://github.com/tensorflow/tfjs-core) - WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript.
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser

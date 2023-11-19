@@ -2169,6 +2169,7 @@
 
 ## TypeScript 
 
+- [nuxt-ui-pro/docs](https://github.com/nuxt-ui-pro/docs) - A documentation template made with Nuxt UI Pro.
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
 - [vultix/ts-results](https://github.com/vultix/ts-results) - A typescript implementation of Rust's Result object.
 - [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer

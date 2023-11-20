@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [ASP.NET](#asp.net)
 - [Assembly](#assembly)
 - [Batchfile](#batchfile)
 - [Blade](#blade)
@@ -53,10 +52,6 @@
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
 - [Zig](#zig)
-
-## ASP.NET 
-
-- [italomandara/CXPatcher](https://github.com/italomandara/CXPatcher) - A patcher to upgrade Crossover dependencies and improve compatibility
 
 ## Assembly 
 
@@ -1732,7 +1727,7 @@
 
 ## Rust 
 
-- [bitswired/rustgpt](https://github.com/bitswired/rustgpt) - 
+- [bitswired/rustgpt](https://github.com/bitswired/rustgpt) - RustGPT is a ChatGPT UI built with Rust + HTMX: the power of Rust coupled with the simplicity of HTMX 💚
 - [alloy-rs/svm-rs](https://github.com/alloy-rs/svm-rs) - Solidity-Compiler Version Manager
 - [anton-rs/op-up](https://github.com/anton-rs/op-up) - Composable OP Stack Orchestration
 - [a16z/magi](https://github.com/a16z/magi) - A blazing fast OP Stack rollup client written in Rust
@@ -2152,6 +2147,7 @@
 
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
+- [italomandara/CXPatcher](https://github.com/italomandara/CXPatcher) - A patcher to upgrade Crossover dependencies and improve compatibility
 - [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0
 - [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.

@@ -2015,7 +2015,7 @@
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [dart-lang/sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, dart2js, core libraries, and more.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 78 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 79 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
 - [24aitor/Localizer](https://github.com/24aitor/Localizer) - Package to change automatically the website language in laravel 5.5
 
 ## languages 
@@ -2224,7 +2224,7 @@
 - [mcamara/laravel-localization](https://github.com/mcamara/laravel-localization) - Easy localization for Laravel
 - [fruitcake/laravel-cors](https://github.com/fruitcake/laravel-cors) - Adds CORS (Cross-Origin Resource Sharing) headers support in your Laravel application
 - [spatie/laravel-permission](https://github.com/spatie/laravel-permission) - Associate users with roles and permissions
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 78 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 79 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
 - [laravel/socialite](https://github.com/laravel/socialite) - Laravel wrapper around OAuth 1 & OAuth 2 libraries.
 - [SpartnerNL/Laravel-Excel](https://github.com/SpartnerNL/Laravel-Excel) - 🚀 Supercharged Excel exports and imports in Laravel
 - [Intervention/image](https://github.com/Intervention/image) - PHP Image Manipulation
@@ -2725,6 +2725,7 @@
 
 ## others 
 
+- [nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs) - A community guide to the Rust ecosystem
 - [bitswired/rustgpt](https://github.com/bitswired/rustgpt) - RustGPT is a ChatGPT UI built with Rust + HTMX: the power of Rust coupled with the simplicity of HTMX 💚
 - [anton-rs/op-up](https://github.com/anton-rs/op-up) - Composable OP Stack Orchestration
 - [a16z/magi](https://github.com/a16z/magi) - A blazing fast OP Stack rollup client written in Rust

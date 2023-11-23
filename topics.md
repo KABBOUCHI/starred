@@ -3830,7 +3830,7 @@
 - [Bombaba/BlenderPythonScripts](https://github.com/Bombaba/BlenderPythonScripts) - 
 - [Broxxar/ACrackInTheSlab](https://github.com/Broxxar/ACrackInTheSlab) - An exploration to recreate an effect from Dishonored 2 in Unity.
 - [kapetan/titlebar](https://github.com/kapetan/titlebar) - Emulate OS X window title bar
-- [maxogden/menubar](https://github.com/maxogden/menubar) - ➖ high level way to create menubar desktop applications with electron
+- [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron
 - [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
 - [louischatriot/nedb](https://github.com/louischatriot/nedb) - The JavaScript Database, for Node.js, nw.js, electron and the browser
 - [atas/lowercase-dashed-route](https://github.com/atas/lowercase-dashed-route) - Makes ASP.NET MVC routes dashed (hyphenated) and lowercase i.e. yoursite.com/account/user-profile

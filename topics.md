@@ -1768,6 +1768,7 @@
 
 ## javascript 
 
+- [shikijs/twoslash](https://github.com/shikijs/twoslash) - You take some Shiki, add a hint of TypeScript compiler, and 🎉 incredible static code samples
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [connectrpc/connect-es](https://github.com/connectrpc/connect-es) - The TypeScript implementation of Connect: Protobuf RPC that works.
 - [bufbuild/protobuf-es](https://github.com/bufbuild/protobuf-es) - Protocol Buffers for ECMAScript. The only JavaScript Protobuf library that is fully-compliant with Protobuf conformance tests.
@@ -2728,6 +2729,8 @@
 
 ## others 
 
+- [KABBOUCHI/job_queue](https://github.com/KABBOUCHI/job_queue) - A simple, efficient Rust library for handling asynchronous job processing and task queuing.
+- [antfu/vitesse-nuxt3](https://github.com/antfu/vitesse-nuxt3) - Vitesse for Nuxt 3 🏔💚⚡️
 - [nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs) - A community guide to the Rust ecosystem
 - [bitswired/rustgpt](https://github.com/bitswired/rustgpt) - RustGPT is a ChatGPT UI built with Rust + HTMX: the power of Rust coupled with the simplicity of HTMX 💚
 - [anton-rs/op-up](https://github.com/anton-rs/op-up) - Composable OP Stack Orchestration
@@ -2736,7 +2739,7 @@
 - [dtolnay/inventory](https://github.com/dtolnay/inventory) - Typed distributed plugin registration
 - [vultix/ts-results](https://github.com/vultix/ts-results) - A typescript implementation of Rust's Result object.
 - [scrippt-tech/orca](https://github.com/scrippt-tech/orca) - LLM Orchestrator built in Rust
-- [vuejs/core-vapor](https://github.com/vuejs/core-vapor) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [vuejs/core-vapor](https://github.com/vuejs/core-vapor) - Vue Vapor (no virtual DOM) Experimental repo.
 - [rive-app/rive-bevy](https://github.com/rive-app/rive-bevy) - 
 - [edge-js/edge-vscode](https://github.com/edge-js/edge-vscode) - Official extension for VSCode
 - [Atinux/nuxt-auth-utils](https://github.com/Atinux/nuxt-auth-utils) - Minimal Auth module for Nuxt 3.
@@ -4855,6 +4858,7 @@
 
 ## typescript 
 
+- [shikijs/twoslash](https://github.com/shikijs/twoslash) - You take some Shiki, add a hint of TypeScript compiler, and 🎉 incredible static code samples
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [connectrpc/connect-es](https://github.com/connectrpc/connect-es) - The TypeScript implementation of Connect: Protobuf RPC that works.
 - [timostamm/protobuf-ts](https://github.com/timostamm/protobuf-ts) - Protobuf and RPC for TypeScript

@@ -1633,7 +1633,6 @@
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
 - [dragonmantank/cron-expression](https://github.com/dragonmantank/cron-expression) - CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
 - [doctrine/annotations](https://github.com/doctrine/annotations) - Annotations Docblock Parser
-- [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
 - [spatie/laravel-query-builder](https://github.com/spatie/laravel-query-builder) - Easily build Eloquent queries from API requests
 - [SocialiteProviders/Providers](https://github.com/SocialiteProviders/Providers) - A Collection of Providers for Laravel Socialite
@@ -2380,7 +2379,7 @@
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
-- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1 & M2
+- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3
 - [Dimillian/RedditOS](https://github.com/Dimillian/RedditOS) - The product name is Curiosity, a SwiftUI Reddit client for macOS Big Sur
 - [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [macosui/macos_ui](https://github.com/macosui/macos_ui) - Flutter widgets and themes implementing the current macOS design language.
@@ -2745,6 +2744,9 @@
 
 ## others 
 
+- [poppinss/macroable](https://github.com/poppinss/macroable) - Extend classes from outside in using Macros and getters
+- [WebReflection/flatted](https://github.com/WebReflection/flatted) - A fast and minimal circular JSON parser.
+- [antfu/birpc](https://github.com/antfu/birpc) - Message-based two-way remote procedure call.
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 - [KABBOUCHI/job_queue](https://github.com/KABBOUCHI/job_queue) - A simple, efficient Rust library for handling asynchronous job processing and task queuing.
 - [antfu/vitesse-nuxt3](https://github.com/antfu/vitesse-nuxt3) - Vitesse for Nuxt 3 🏔💚⚡️
@@ -2762,7 +2764,7 @@
 - [Atinux/nuxt-auth-utils](https://github.com/Atinux/nuxt-auth-utils) - Minimal Auth module for Nuxt 3.
 - [Amanieu/parking_lot](https://github.com/Amanieu/parking_lot) - Compact and efficient synchronization primitives for Rust. Also provides an API for creating custom synchronization primitives.
 - [qdrant/rust-client](https://github.com/qdrant/rust-client) - Rust client for Qdrant vector search engine
-- [harlan-zw/nuxt-og-image](https://github.com/harlan-zw/nuxt-og-image) - Enlightened runtime images generated with Vue templates.
+- [harlan-zw/nuxt-og-image](https://github.com/harlan-zw/nuxt-og-image) - Generate OG Images with Vue templates in Nuxt.
 - [webgpu-native/webgpu-headers](https://github.com/webgpu-native/webgpu-headers) - 
 - [bitflags/bitflags](https://github.com/bitflags/bitflags) - A macro to generate structures which behave like bitflags
 - [php-youtubers/directory](https://github.com/php-youtubers/directory) - Curated a list of PHP YouTubers. 📋

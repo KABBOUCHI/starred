@@ -2084,7 +2084,7 @@
 - [stoically/syn-rsx](https://github.com/stoically/syn-rsx) - syn-powered parser for JSX-like TokenStreams
 - [dtolnay/anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error
 - [surma/jsxx](https://github.com/surma/jsxx) - 
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
 - [graphprotocol/graph-node](https://github.com/graphprotocol/graph-node) - Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
 - [samizdatco/skia-canvas](https://github.com/samizdatco/skia-canvas) - A GPU-accelerated 2D graphics environment for Node.js
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
@@ -2177,6 +2177,7 @@
 
 ## TypeScript 
 
+- [antfu/drauu](https://github.com/antfu/drauu) - Headless SVG-based drawboard in browser.
 - [poppinss/macroable](https://github.com/poppinss/macroable) - Extend classes from outside in using Macros and getters
 - [antfu/birpc](https://github.com/antfu/birpc) - Message-based two-way remote procedure call.
 - [antfu/vitesse-nuxt3](https://github.com/antfu/vitesse-nuxt3) - Vitesse for Nuxt 3 🏔💚⚡️
@@ -2445,7 +2446,7 @@
 - [histoire-dev/histoire](https://github.com/histoire-dev/histoire) - ⚡ Fast and beautiful interactive component playgrounds, powered by Vite
 - [laravel/vite-plugin](https://github.com/laravel/vite-plugin) - Laravel plugin for Vite.
 - [nuxtlabs/docus-theme-starter](https://github.com/nuxtlabs/docus-theme-starter) - Starter for Docus themes
-- [kevinmarrec/nuxt-pwa-module](https://github.com/kevinmarrec/nuxt-pwa-module) - Zero config PWA solution for Nuxt 3
+- [kevinmarrec/nuxt-pwa-module](https://github.com/kevinmarrec/nuxt-pwa-module) - ⚠️ DEPRECATED ⚠️ Zero config PWA solution for Nuxt 3
 - [status-base/statusbase-nuxt](https://github.com/status-base/statusbase-nuxt) - A modern, zero-dependency uptime monitoring tool & status page based on GitHub Actions & Nuxt Content v2.
 - [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
 - [epiphone/class-validator-jsonschema](https://github.com/epiphone/class-validator-jsonschema) - Convert class-validator-decorated classes into JSON schema

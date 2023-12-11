@@ -157,6 +157,7 @@
 - [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
+- [privacy](#privacy)
 - [programming](#programming)
 - [project-management](#project-management)
 - [publishing](#publishing)
@@ -2750,6 +2751,7 @@
 
 ## others 
 
+- [reujab/wallpaper.rs](https://github.com/reujab/wallpaper.rs) - A cross-platform Rust library for getting and setting desktop wallpapers
 - [THUDM/CogVLM](https://github.com/THUDM/CogVLM) - a state-of-the-art-level open visual language model | 多模态预训练模型
 - [mistralai/mistral-src](https://github.com/mistralai/mistral-src) - Reference implementation of Mistral AI 7B v0.1 model.
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
@@ -3558,7 +3560,6 @@
 - [juliomrqz/nuxt-optimized-images](https://github.com/juliomrqz/nuxt-optimized-images) - 🌅🚀 Automatically optimizes images used in Nuxt.js projects (JPEG, PNG, SVG, WebP and GIF).
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [FilledStacks/provider_architecture](https://github.com/FilledStacks/provider_architecture) - A set of widgets to help with the implementation of the Provider architecture as shown by FilledStacks
-- [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
 - [Laurencitow/Farmer-Joe-Render-Farm](https://github.com/Laurencitow/Farmer-Joe-Render-Farm) - A render farm for Blender 3D which includes rendering by parts, frames and render result to AVI / FFMPEG
 - [jasonmccreary/laravel-test-assertions](https://github.com/jasonmccreary/laravel-test-assertions) - A set of helpful assertions when testing Laravel applications.
 - [Konash/arabic-support-unity](https://github.com/Konash/arabic-support-unity) - This plugin allows you to use accurate and correct Arabic text in your game or 3D application. Supports Tashkeel and Hindu numbers. Supports C# and JavaScript. Supports 4 Persian Characters.
@@ -4195,6 +4196,13 @@
 
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
+
+## privacy 
+
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy.
+- [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
 
 ## programming 
 

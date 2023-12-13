@@ -2187,6 +2187,7 @@
 
 ## TypeScript 
 
+- [ocavue/prosekit](https://github.com/ocavue/prosekit) - Framework agnostic and headless rich text editor
 - [antfu/drauu](https://github.com/antfu/drauu) - Headless SVG-based drawboard in browser.
 - [poppinss/macroable](https://github.com/poppinss/macroable) - Extend classes from outside in using Macros and getters
 - [antfu/birpc](https://github.com/antfu/birpc) - Message-based two-way remote procedure call.
@@ -2245,7 +2246,7 @@
 - [adonisjs/route-model-binding](https://github.com/adonisjs/route-model-binding) - Add route model binding to your AdonisJS applications
 - [mezg0/vue-ui](https://github.com/mezg0/vue-ui) - 
 - [Kaperskyguru/adonis-cache](https://github.com/Kaperskyguru/adonis-cache) - AdonisJS Cache makes it seamless to implement any Caching strategy in AdonisJS 5 applications.
-- [danielroe/fontaine](https://github.com/danielroe/fontaine) - Automatic font fallback based on font metrics
+- [unjs/fontaine](https://github.com/unjs/fontaine) - Automatic font fallback based on font metrics
 - [dan-kwiat/openai-edge](https://github.com/dan-kwiat/openai-edge) - 
 - [Vuepic/vue-datepicker](https://github.com/Vuepic/vue-datepicker) - Datepicker component for Vue 3
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components.
@@ -2414,7 +2415,7 @@
 - [electron-vite/vite-plugin-electron](https://github.com/electron-vite/vite-plugin-electron) - :electron: Electron⚡️Vite core repo
 - [formkit/formkit](https://github.com/formkit/formkit) - Vue Forms ⚡️ Supercharged
 - [RomainLanz/adonis-mercure](https://github.com/RomainLanz/adonis-mercure) - Mercure Provider - Real-time Made Easy
-- [danielroe/magic-regexp](https://github.com/danielroe/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative
+- [unjs/magic-regexp](https://github.com/unjs/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative
 - [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow) - A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph.
 - [soketi/soketi](https://github.com/soketi/soketi) - Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣
 - [adonisjs/limiter](https://github.com/adonisjs/limiter) - The official rate limiter package for AdonisJS

@@ -1739,6 +1739,7 @@
 
 ## Rust 
 
+- [m1guelpf/epicenter](https://github.com/m1guelpf/epicenter) - Simple sync/async event dispatcher for Rust
 - [m1guelpf/flysystem](https://github.com/m1guelpf/flysystem) - A filesystem abstraction layer for Rust.
 - [lambda-fairy/maud](https://github.com/lambda-fairy/maud) - :pencil: Compile-time HTML templates for Rust
 - [Keats/tera](https://github.com/Keats/tera) - A template engine for Rust based on Jinja2/Django

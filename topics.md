@@ -2754,6 +2754,7 @@
 
 ## others 
 
+- [m1guelpf/epicenter](https://github.com/m1guelpf/epicenter) - Simple sync/async event dispatcher for Rust
 - [calebporzio/livewire-uncovered](https://github.com/calebporzio/livewire-uncovered) - 
 - [m1guelpf/flysystem](https://github.com/m1guelpf/flysystem) - A filesystem abstraction layer for Rust.
 - [paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) - Next generation guids. Secure, collision-resistant ids optimized for horizontal scaling and performance.

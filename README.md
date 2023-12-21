@@ -1171,7 +1171,7 @@
 - [brick/math](https://github.com/brick/math) - Arbitrary-precision arithmetic library for PHP
 - [simplito/bn-php](https://github.com/simplito/bn-php) - BigNum library for PHP compatible with bn.js
 - [yukaige/web3.php](https://github.com/yukaige/web3.php) - A simple encapsulation of Web3 framework in PHP environment
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative. Cloud version available here -&gt; https://app.coolify.io
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [hammerstonedev/sidecar](https://github.com/hammerstonedev/sidecar) - Deploy and execute AWS Lambda functions from your Laravel application.
 - [fumeapp/laranuxt](https://github.com/fumeapp/laranuxt) - Laravel and Nuxt.js boilerplate
 - [digitaldonkey/ethereum-php](https://github.com/digitaldonkey/ethereum-php) - PHP interface to Ethereum JSON-RPC API. Fully typed Web3 for PHP 7.X
@@ -1739,6 +1739,7 @@
 
 ## Rust 
 
+- [JMS55/bevy_dioxus](https://github.com/JMS55/bevy_dioxus) - 
 - [m1guelpf/epicenter](https://github.com/m1guelpf/epicenter) - Simple sync/async event dispatcher for Rust
 - [m1guelpf/flysystem](https://github.com/m1guelpf/flysystem) - A filesystem abstraction layer for Rust.
 - [lambda-fairy/maud](https://github.com/lambda-fairy/maud) - :pencil: Compile-time HTML templates for Rust

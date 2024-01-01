@@ -576,6 +576,7 @@
 
 ## JavaScript 
 
+- [sindresorhus/p-limit](https://github.com/sindresorhus/p-limit) - Run multiple promise-returning & async functions with limited concurrency
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 - [paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) - Next generation guids. Secure, collision-resistant ids optimized for horizontal scaling and performance.
 - [nfroidure/svg-pathdata](https://github.com/nfroidure/svg-pathdata) - Parse SVG PathDatas
@@ -623,6 +624,7 @@
 - [kakajun/vue3-sketch-ruler](https://github.com/kakajun/vue3-sketch-ruler) - Zoom operation of page display in vue2 / 3
 - [jonschlinkert/set-value](https://github.com/jonschlinkert/set-value) - Set nested properties on an object using dot-notation.
 - [remorses/esbuild-plugins](https://github.com/remorses/esbuild-plugins) - Collection of useful esbuild js plugins
+- [pk910/PoWFaucet](https://github.com/pk910/PoWFaucet) - Modularized faucet for EVM chains with different protection methods (Captcha, Mining, IP, Mainnet Balance, Gitcoin Passport and more)
 - [sindresorhus/trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and folders to the trash
 - [chjj/blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
 - [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
@@ -1741,6 +1743,7 @@
 
 ## Rust 
 
+- [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 - [m1guelpf/silhouette](https://github.com/m1guelpf/silhouette) - A simple dependency injection library for Rust
 - [JMS55/bevy_dioxus](https://github.com/JMS55/bevy_dioxus) - 
 - [m1guelpf/epicenter](https://github.com/m1guelpf/epicenter) - Simple sync/async event dispatcher for Rust
@@ -1905,7 +1908,7 @@
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
 - [JelteF/derive_more](https://github.com/JelteF/derive_more) - Some more derive(Trait) options
 - [tazz4843/whisper-rs](https://github.com/tazz4843/whisper-rs) - Rust bindings to https://github.com/ggerganov/whisper.cpp
-- [lifescapegame/bevy_replicon](https://github.com/lifescapegame/bevy_replicon) - High level networking for the Bevy game engine
+- [lifescapegame/bevy_replicon](https://github.com/lifescapegame/bevy_replicon) - ECS-focused high-level networking crate for the Bevy game engine.
 - [BlackPhlox/bevy_dolly](https://github.com/BlackPhlox/bevy_dolly) - h3r2tic's dolly abstraction layer for the bevy game framework
 - [h3r2tic/dolly](https://github.com/h3r2tic/dolly) - Composable camera rigs
 - [RichoDemus/bevy-console](https://github.com/RichoDemus/bevy-console) - 
@@ -2200,6 +2203,7 @@
 
 ## TypeScript 
 
+- [nuxt/test-utils](https://github.com/nuxt/test-utils) - 🧪 Test utilities for Nuxt
 - [movie-web/providers](https://github.com/movie-web/providers) - Package that contains all the providers of movie-web
 - [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.
 - [ad-on-is/adonis-autoswagger](https://github.com/ad-on-is/adonis-autoswagger) - Auto-Generate swagger docs for AdonisJS
@@ -2360,7 +2364,6 @@
 - [tjk/vue-o2c](https://github.com/tjk/vue-o2c) - Vue 3 convert options API to composition API
 - [assaf/queue-run](https://github.com/assaf/queue-run) - 👋 Web 2.0 framework to make building back-ends and APIs easy and fun: HTTP, FIFO queues, WebSocket, and more …
 - [felixmosh/bull-board](https://github.com/felixmosh/bull-board) - 🎯 Queue background jobs inspector
-- [pk910/PoWFaucet](https://github.com/pk910/PoWFaucet) - Modularized faucet for EVM chains with different protection methods (Captcha, Mining, IP, Mainnet Balance, Gitcoin Passport and more)
 - [verful/adonis-package-boilerplate](https://github.com/verful/adonis-package-boilerplate) - A boilerplate for AdonisJS packages
 - [kbariotis/node-cron-expression](https://github.com/kbariotis/node-cron-expression) - Declarative functional cron expression builder
 - [unjs/ungh](https://github.com/unjs/ungh) - 🐙 Unlimited access to github API

@@ -2362,7 +2362,6 @@
 - [geelen/npx-import](https://github.com/geelen/npx-import) - 
 - [adonisjs/fold](https://github.com/adonisjs/fold) - IoC container with all required goodies to write scalable node applications
 - [tjk/vue-o2c](https://github.com/tjk/vue-o2c) - Vue 3 convert options API to composition API
-- [assaf/queue-run](https://github.com/assaf/queue-run) - 👋 Web 2.0 framework to make building back-ends and APIs easy and fun: HTTP, FIFO queues, WebSocket, and more …
 - [felixmosh/bull-board](https://github.com/felixmosh/bull-board) - 🎯 Queue background jobs inspector
 - [verful/adonis-package-boilerplate](https://github.com/verful/adonis-package-boilerplate) - A boilerplate for AdonisJS packages
 - [kbariotis/node-cron-expression](https://github.com/kbariotis/node-cron-expression) - Declarative functional cron expression builder
@@ -2487,7 +2486,7 @@
 - [unjs/node-fetch-native](https://github.com/unjs/node-fetch-native) - better fetch for Node.js. Works on any JavaScript runtime!
 - [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks is a real-time collaboration infrastructure for developers.
 - [antfu/vscode-goto-alias](https://github.com/antfu/vscode-goto-alias) - Go to Definition following alias redirections.
-- [esbuild-kit/esno](https://github.com/esbuild-kit/esno) - Alias to `tsx`
+- [antfu/esno](https://github.com/antfu/esno) - Alias to `tsx`
 - [denostack/superserial](https://github.com/denostack/superserial) - A comprehensive Serializer/Deserializer that can handle any data type.
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.

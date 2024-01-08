@@ -2503,6 +2503,7 @@
 
 ## mysql 
 
+- [Julien-R44/verrou](https://github.com/Julien-R44/verrou) - 🔒 Verrou is a library for managing Locks in Node.js. Support multiple drivers
 - [Julien-R44/bentocache](https://github.com/Julien-R44/bentocache) - 🍱 Bentocache is a robust multi-tier caching solution for Node.js applications
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
@@ -2605,6 +2606,7 @@
 
 ## nodejs 
 
+- [Julien-R44/verrou](https://github.com/Julien-R44/verrou) - 🔒 Verrou is a library for managing Locks in Node.js. Support multiple drivers
 - [sindresorhus/emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
@@ -2953,7 +2955,7 @@
 - [praeclarum/webgpu-torch](https://github.com/praeclarum/webgpu-torch) - Tensor computation with WebGPU acceleration
 - [m1guelpf/clippy](https://github.com/m1guelpf/clippy) - AI-powered assistant for your company's docs
 - [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
-- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 BlockSuite is a framework for building editor(s)
+- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 BlockSuite is a framework for building collaborative editors and applications.
 - [webfansplz/vite-plugin-vue-devtools](https://github.com/webfansplz/vite-plugin-vue-devtools) - Vite + Vue DevTools = DX  🔥
 - [rafaelcaricio/backie](https://github.com/rafaelcaricio/backie) - Background task processing for Rust applications with Tokio, Diesel, and PostgreSQL.
 - [johannschopplich/unlazy](https://github.com/johannschopplich/unlazy) - 🪧 Universal lazy loading library for placeholder images leveraging native browser APIs
@@ -4493,7 +4495,7 @@
 - [BlackPhlox/bevy_dolly](https://github.com/BlackPhlox/bevy_dolly) - h3r2tic's dolly abstraction layer for the bevy game framework
 - [ggez/ggez](https://github.com/ggez/ggez) - Rust library to create a Good Game Easily
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
-- [64bit/async-openai](https://github.com/64bit/async-openai) - Async Rust library for OpenAI
+- [64bit/async-openai](https://github.com/64bit/async-openai) - Rust library for OpenAI
 - [sobelio/llm-chain](https://github.com/sobelio/llm-chain) - `llm-chain` is a powerful rust crate for building chains in large language models allowing you to summarise text and complete complex tasks
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [ralfbiedert/interoptopus](https://github.com/ralfbiedert/interoptopus) - The polyglot bindings generator for your library (C#, C, Python, …) 🐙

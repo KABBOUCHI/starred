@@ -277,6 +277,7 @@
 
 ## android 
 
+- [deviceplug/btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
@@ -337,7 +338,7 @@
 - [ciareis/bypass](https://github.com/ciareis/bypass) - ↪️ Bypass for PHP creates a custom HTTP Server to return predefined responses to client requests. Useful for tests with Pest PHP or PHPUnit.
 - [GitLabPHP/Client](https://github.com/GitLabPHP/Client) - GitLab API v4 client for PHP
 - [spatie/twitter-streaming-api](https://github.com/spatie/twitter-streaming-api) - Easily work with the Twitter Streaming API
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale, as easy as 1-2-3. Serverless & distributed out-of-the-box. Never fail to scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Test anything - web apps, HTTP APIs, GraphQL, Socket.io, WebSocket and more. Use any Node.js module. Never fail to scale!
 - [spatie/laravel-fractal](https://github.com/spatie/laravel-fractal) - An easy to use Fractal wrapper built for Laravel and Lumen applications
 - [selahattinunlu/laravel-api-query-builder](https://github.com/selahattinunlu/laravel-api-query-builder) - Laravel & Lumen Api Query Builder Package
 - [DarkaOnLine/L5-Swagger](https://github.com/DarkaOnLine/L5-Swagger) - OpenApi or Swagger integration to Laravel
@@ -366,7 +367,7 @@
 - [berstend/puppeteer-extra](https://github.com/berstend/puppeteer-extra) - 💯  Teach puppeteer new tricks through plugins.
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale, as easy as 1-2-3. Serverless & distributed out-of-the-box. Never fail to scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Test anything - web apps, HTTP APIs, GraphQL, Socket.io, WebSocket and more. Use any Node.js module. Never fail to scale!
 - [algolia/shipjs](https://github.com/algolia/shipjs) - Take control of what is going to be your next release.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [DragonBox/u3d](https://github.com/DragonBox/u3d) - U3d is a cross-platform set of tools to interact with Unity3D from command line.
@@ -435,6 +436,7 @@
 
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Test anything - web apps, HTTP APIs, GraphQL, Socket.io, WebSocket and more. Use any Node.js module. Never fail to scale!
 - [vercel-community/php](https://github.com/vercel-community/php) - 🐘 PHP Runtime for ▲ Vercel Serverless Functions
 
 ## azure 
@@ -684,6 +686,7 @@
 
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [ariym/whisper-node](https://github.com/ariym/whisper-node) - NodeJS bindings for OpenAI's Whisper. (C++ CPU version by ggerganov)
+- [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Fast, easy to use, and simple to integrate.  Built in Rust using egui.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
@@ -1387,7 +1390,7 @@
 
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [golang/go](https://github.com/golang/go) - The Go programming language
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
@@ -1414,7 +1417,7 @@
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
@@ -1471,7 +1474,7 @@
 
 ## hacktoberfest 
 
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.0.52649, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.0.52808, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.52237)
 - [getsentry/sentry-rust](https://github.com/getsentry/sentry-rust) - Official Sentry SDK for Rust
 - [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace) - All of the official Tauri plugins in one place!
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
@@ -1713,7 +1716,7 @@
 - [spatie/laravel-csp](https://github.com/spatie/laravel-csp) - Set content security policy headers in a Laravel app
 - [mnapoli/bof](https://github.com/mnapoli/bof) - The HTTP client for humans
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale, as easy as 1-2-3. Serverless & distributed out-of-the-box. Never fail to scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Test anything - web apps, HTTP APIs, GraphQL, Socket.io, WebSocket and more. Use any Node.js module. Never fail to scale!
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [cfug/dio](https://github.com/cfug/dio) - A powerful HTTP client for Dart and Flutter, which supports global settings, Interceptors, FormData, aborting and canceling a request, files uploading and downloading, requests timeout, custom adapter
 - [symfony/psr-http-message-bridge](https://github.com/symfony/psr-http-message-bridge) - PSR HTTP message bridge
@@ -1738,6 +1741,7 @@
 
 ## ios 
 
+- [deviceplug/btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
@@ -1902,7 +1906,7 @@
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - Invoices, Expenses and Tasks built with Laravel, Flutter and React
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale, as easy as 1-2-3. Serverless & distributed out-of-the-box. Never fail to scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Test anything - web apps, HTTP APIs, GraphQL, Socket.io, WebSocket and more. Use any Node.js module. Never fail to scale!
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - A frontend library for Vue and React that helps developers quickly build fast, accessible, and beautiful storefronts. Made with 💚 by Vue Storefront team and contributors.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
@@ -2299,7 +2303,8 @@
 
 ## linux 
 
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.0.52649, 3.3.5 = 3.3.5a.12340)
+- [deviceplug/btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.0.52808, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.52237)
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
@@ -2369,6 +2374,7 @@
 
 ## macos 
 
+- [deviceplug/btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library
 - [phoenixlauncher/phoenix](https://github.com/phoenixlauncher/phoenix) - A lightweight game launcher written in SwiftUI for macOS!
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
@@ -2764,6 +2770,9 @@
 
 ## others 
 
+- [bevyengine/bevy_editor_prototypes](https://github.com/bevyengine/bevy_editor_prototypes) - Low-friction experiments for the bevy_editor
+- [BurntSushi/byteorder](https://github.com/BurntSushi/byteorder) - Rust library for reading/writing numbers in big-endian and little-endian.
+- [focus-trap/focus-trap](https://github.com/focus-trap/focus-trap) - Trap focus within a DOM node.
 - [dtolnay/rustversion](https://github.com/dtolnay/rustversion) - Conditional compilation according to rustc compiler version
 - [m1guelpf/lc3-rs](https://github.com/m1guelpf/lc3-rs) - 
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
@@ -3148,7 +3157,7 @@
 - [lmiller1990/vue-pdf-renderer-demo](https://github.com/lmiller1990/vue-pdf-renderer-demo) - Demo on building a custom Vue 3 PDF renderer
 - [vadimdemedes/yoga-layout-prebuilt](https://github.com/vadimdemedes/yoga-layout-prebuilt) - Prebuilt yoga-layout package
 - [facebook/yoga](https://github.com/facebook/yoga) - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
-- [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
+- [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
 - [wheatjs/vue-2048](https://github.com/wheatjs/vue-2048) - Multiplayer version of 2048 written in Vue
 - [zzzprojects/html-agility-pack](https://github.com/zzzprojects/html-agility-pack) - Html Agility Pack (HAP) is a free and open-source HTML parser written in C# to read/write DOM and supports plain XPATH or XSLT. It is a .NET code library that allows you to parse "out of the web" HTML
 - [sebastienros/jint](https://github.com/sebastienros/jint) - Javascript Interpreter for .NET
@@ -4424,6 +4433,7 @@
 
 ## rust 
 
+- [deviceplug/btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library
 - [lambda-fairy/maud](https://github.com/lambda-fairy/maud) - :pencil: Compile-time HTML templates for Rust
 - [Totodore/socketioxide](https://github.com/Totodore/socketioxide) - A socket.io server implementation in Rust that integrates with the Tower ecosystem and the Tokio stack.
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
@@ -4704,7 +4714,7 @@
 - [KABBOUCHI/laravel-vercel](https://github.com/KABBOUCHI/laravel-vercel) - Laravel Vercel - Adapter/Bridge
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [brefphp/laravel-bridge](https://github.com/brefphp/laravel-bridge) - Package to use Laravel on AWS Lambda with Bref
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale, as easy as 1-2-3. Serverless & distributed out-of-the-box. Never fail to scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Test anything - web apps, HTTP APIs, GraphQL, Socket.io, WebSocket and more. Use any Node.js module. Never fail to scale!
 - [rafter-platform/rafter-alpha](https://github.com/rafter-platform/rafter-alpha) - (Archived) Serverless deployment platform powered by Google Cloud
 - [vercel-community/php](https://github.com/vercel-community/php) - 🐘 PHP Runtime for ▲ Vercel Serverless Functions
 - [brefphp/bref](https://github.com/brefphp/bref) - Serverless PHP on AWS Lambda
@@ -4923,7 +4933,7 @@
 - [testing-library/vue-testing-library](https://github.com/testing-library/vue-testing-library) - 🦎 Simple and complete Vue.js testing utilities that encourage good testing practices.
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale, as easy as 1-2-3. Serverless & distributed out-of-the-box. Never fail to scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Test anything - web apps, HTTP APIs, GraphQL, Socket.io, WebSocket and more. Use any Node.js module. Never fail to scale!
 - [spatie/laravel-mail-preview](https://github.com/spatie/laravel-mail-preview) - A mail driver to quickly preview mail
 - [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
@@ -5049,7 +5059,7 @@
 - [AhaOfficial/vue-state-store](https://github.com/AhaOfficial/vue-state-store) - 📮  VSS (Vue State Store) - Vue State Management (with Publish & Subscribe pattern)
 - [hydro-sdk/hydro-sdk](https://github.com/hydro-sdk/hydro-sdk) - Author Flutter experiences in Typescript. No native bridge, no V8. Just Dart. From runtime to virtual machine.
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale, as easy as 1-2-3. Serverless & distributed out-of-the-box. Never fail to scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Test anything - web apps, HTTP APIs, GraphQL, Socket.io, WebSocket and more. Use any Node.js module. Never fail to scale!
 - [alfonsobries/vue-tailwind](https://github.com/alfonsobries/vue-tailwind) - Vue UI components with configurable classes ready for TailwindCSS
 - [KABBOUCHI/laravel-mix-vue3](https://github.com/KABBOUCHI/laravel-mix-vue3) - A Laravel Mix extension for Vue 3, Typescript and JSX.
 - [zaydek/heroicons.dev](https://github.com/zaydek/heroicons.dev) - Web viewer for Heroicons (V2 and V1)
@@ -5185,6 +5195,7 @@
 
 ## vue 
 
+- [danielroe/vue-bind-once](https://github.com/danielroe/vue-bind-once) - A tiny, SSR-safe directive for binding random data to an element.
 - [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 - [nuxt-ui-pro/landing](https://github.com/nuxt-ui-pro/landing) - A landing page template made with Vue & Nuxt UI Pro.
 - [nuxt-ui-pro/docs](https://github.com/nuxt-ui-pro/docs) - A documentation template made with Nuxt UI Pro.
@@ -5204,7 +5215,7 @@
 - [Atinux/nuxt-todos-edge](https://github.com/Atinux/nuxt-todos-edge) - A full-stack application with authentication, SSR and SQLite, running on the edge with Nuxt 3.
 - [hunyan-io/vite-plugin-vue-nested-sfc](https://github.com/hunyan-io/vite-plugin-vue-nested-sfc) - Nest SFCs within your SFC.
 - [chakra-ui/ark](https://github.com/chakra-ui/ark) - A headless library for building reusable, scalable design systems that works for a wide range of JS frameworks.
-- [oku-ui/primitives](https://github.com/oku-ui/primitives) - Vue Radix UI Primitives 1:1 . Components, icons, colors, and templates for building high-quality, accessible UI. Free and open-source. A project developed by @productdevbookcom
+- [oku-ui/primitives](https://github.com/oku-ui/primitives) - Vue Radix UI Primitives 1:1 . Components, icons, colors, and templates for building high-quality, accessible UI. Free and open-source.
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [Baroshem/nuxt-security](https://github.com/Baroshem/nuxt-security) - 🛡 Security Module for Nuxt based on HTTP Headers and Middleware
 - [nuxt/hackernews](https://github.com/nuxt/hackernews) - HackerNews clone built with Nuxt.
@@ -5282,7 +5293,7 @@
 - [potato4d/nuxt-basic-auth-module](https://github.com/potato4d/nuxt-basic-auth-module) - Provide basic auth your Nuxt.js application
 - [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
 - [rogden/tailwind-config-viewer](https://github.com/rogden/tailwind-config-viewer) - A local UI tool for visualizing your Tailwind CSS configuration file.
-- [cyrilf/vue-dat-gui](https://github.com/cyrilf/vue-dat-gui) - A Vue2 port of the popular dat.GUI library
+- [cyrilf/vue-dat-gui](https://github.com/cyrilf/vue-dat-gui) - A Vue3 port of the popular dat.GUI library
 - [area17/twill](https://github.com/area17/twill) - Twill is an open source CMS toolkit for Laravel that helps developers rapidly create a custom admin console that is intuitive, powerful and flexible. Chat with us on Discord at https://discord.gg/cnWk
 - [prabhuignoto/vue-dock-menu](https://github.com/prabhuignoto/vue-dock-menu) - ⚓Dockable Menu bar for Vue
 - [apertureless/vue-password-strength-meter](https://github.com/apertureless/vue-password-strength-meter) - 🔐 Password strength meter based on zxcvbn in vue.js
@@ -5566,6 +5577,7 @@
 
 ## windows 
 
+- [deviceplug/btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go

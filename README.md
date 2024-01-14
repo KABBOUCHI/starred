@@ -511,6 +511,7 @@
 
 ## HTML 
 
+- [antfu/twoslash-vue](https://github.com/antfu/twoslash-vue) - 
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 - [nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs) - A community guide to the Rust ecosystem
 - [tc39/proposal-array-grouping](https://github.com/tc39/proposal-array-grouping) - A proposal to make grouping of array items easier
@@ -1744,6 +1745,8 @@
 
 ## Rust 
 
+- [alloy-rs/chains](https://github.com/alloy-rs/chains) - Canonical type definitions for EIP-155 chains
+- [foundry-rs/block-explorers](https://github.com/foundry-rs/block-explorers) - Bindings for the etherscan API and other block explorers.
 - [bevyengine/bevy_editor_prototypes](https://github.com/bevyengine/bevy_editor_prototypes) - Low-friction experiments for the bevy_editor
 - [BurntSushi/byteorder](https://github.com/BurntSushi/byteorder) - Rust library for reading/writing numbers in big-endian and little-endian.
 - [deviceplug/btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library
@@ -1956,7 +1959,7 @@
 - [cwabcorp/cwab](https://github.com/cwabcorp/cwab) - A simple, fast, and efficient background job processor for Rust
 - [rafaelcaricio/backie](https://github.com/rafaelcaricio/backie) - Background task processing for Rust applications with Tokio, Diesel, and PostgreSQL.
 - [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust!
-- [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - A powerful web framework that can make your work easier
+- [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - A powerful web framework built with a simplified design.
 - [graphul-rs/graphul](https://github.com/graphul-rs/graphul) - Optimize, speed, scale your microservices and save money 💵
 - [kaichaosun/rlt](https://github.com/kaichaosun/rlt) - Localtunnel implementation in Rust, expose local API to the public.
 - [stuarth/inertia-rs](https://github.com/stuarth/inertia-rs) - Inertia.js for Rust
@@ -1967,7 +1970,7 @@
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
-- [Jon-Becker/heimdall-rs](https://github.com/Jon-Becker/heimdall-rs) - Heimdall is an advanced EVM smart contract toolkit specializing in bytecode analysis.
+- [Jon-Becker/heimdall-rs](https://github.com/Jon-Becker/heimdall-rs) - Heimdall is an advanced EVM smart contract toolkit specializing in bytecode analysis and extracting information from unverified contracts.
 - [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
 - [wooorm/mdxjs-rs](https://github.com/wooorm/mdxjs-rs) - Compile MDX to JavaScript in Rust
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
@@ -2123,7 +2126,7 @@
 - [grovesNL/glow](https://github.com/grovesNL/glow) - GL on Whatever: a set of bindings to run GL anywhere and avoid target-specific code
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [tauri-apps/tauri-plugin-sql](https://github.com/tauri-apps/tauri-plugin-sql) - [READ ONLY] This repository is a mirror, for issue tracking and development head to: https://github.com/tauri-apps/plugins-workspace
-- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
+- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
@@ -2209,6 +2212,7 @@
 
 ## TypeScript 
 
+- [twoslashes/twoslash](https://github.com/twoslashes/twoslash) - Markup for generating rich type information in your documentations ahead of time.
 - [danielroe/vue-bind-once](https://github.com/danielroe/vue-bind-once) - A tiny, SSR-safe directive for binding random data to an element.
 - [Julien-R44/verrou](https://github.com/Julien-R44/verrou) - 🔒 Verrou is a library for managing Locks in Node.js. Support multiple drivers
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
@@ -2237,7 +2241,7 @@
 - [nuxt-modules/og-image](https://github.com/nuxt-modules/og-image) - Generate OG Images with Vue templates in Nuxt.
 - [Julien-R44/bentocache](https://github.com/Julien-R44/bentocache) - 🍱 Bentocache is a robust multi-tier caching solution for Node.js applications
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
-- [peterboyer/unenum](https://github.com/peterboyer/unenum) - 0kb, Rust-like ADT/Enums for TypeScript.
+- [peterboyer/unenum](https://github.com/peterboyer/unenum) - Universal ADT utilities for TypeScript.
 - [nuxtrdev/nuxtr-vscode](https://github.com/nuxtrdev/nuxtr-vscode) - An extension offering commands and tools to make your experience with Nuxt more pleasant.
 - [taskforcesh/bullmq-proxy](https://github.com/taskforcesh/bullmq-proxy) - A WebSockets based proxy for accessing BullMQ Queues
 - [ddahan/ui-libs](https://github.com/ddahan/ui-libs) - A UI Lib Picker for Vue 3 / Nuxt 3
@@ -2337,7 +2341,7 @@
 - [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
 - [nuxtlabs/vscode-mdc](https://github.com/nuxtlabs/vscode-mdc) - Provides syntax highlighting and colon matching for MDC (Markdown Components) files for Nuxt Content.
 - [volarjs/volar.js](https://github.com/volarjs/volar.js) - 🚧
-- [ueberdosis/hocuspocus](https://github.com/ueberdosis/hocuspocus) - The Y.js WebSocket backend
+- [ueberdosis/hocuspocus](https://github.com/ueberdosis/hocuspocus) - The CRDT Yjs WebSocket backend for conflict-free real-time collaboration in your app.
 - [wobsoriano/numix](https://github.com/wobsoriano/numix) - Write your server code inside Vue SFC's and handle forms easily.
 - [Mini-ghost/vorms](https://github.com/Mini-ghost/vorms) - Vue Form Validation with Composition API
 - [sxzz/stale-dep](https://github.com/sxzz/stale-dep) - Check if your `node_modules` is stale.
@@ -2362,7 +2366,7 @@
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [cavai-research/Adonis-Queue](https://github.com/cavai-research/Adonis-Queue) - Queue provider for Adonis V5
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas SDK.
 - [nuxt-experiments/nuxt-remote-config](https://github.com/nuxt-experiments/nuxt-remote-config) - 
 - [web3/web3.js](https://github.com/web3/web3.js) - Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions.
 - [vue-terminal/vue-termui](https://github.com/vue-terminal/vue-termui) - The Modern Terminal UI Framework

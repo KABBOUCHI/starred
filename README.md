@@ -1746,6 +1746,7 @@
 
 ## Rust 
 
+- [m1guelpf/repair-json](https://github.com/m1guelpf/repair-json) - Repair incomplete JSON (e.g. from streaming APIs or AI models) so it can be parsed as it's received.
 - [alloy-rs/chains](https://github.com/alloy-rs/chains) - Canonical type definitions for EIP-155 chains
 - [foundry-rs/block-explorers](https://github.com/foundry-rs/block-explorers) - Bindings for the etherscan API and other block explorers.
 - [bevyengine/bevy_editor_prototypes](https://github.com/bevyengine/bevy_editor_prototypes) - Low-friction experiments for the bevy_editor
@@ -2213,6 +2214,8 @@
 
 ## TypeScript 
 
+- [unjs/defu](https://github.com/unjs/defu) - 🌊 Assign default properties recursively
+- [rbuckton/reflect-metadata](https://github.com/rbuckton/reflect-metadata) - Prototype for a Metadata Reflection API for ECMAScript
 - [antfu/nuxt-module-eslint-config](https://github.com/antfu/nuxt-module-eslint-config) - Project-aware ESLint flat config for Nuxt.
 - [twoslashes/twoslash](https://github.com/twoslashes/twoslash) - Markup for generating rich type information in your documentations ahead of time.
 - [danielroe/vue-bind-once](https://github.com/danielroe/vue-bind-once) - A tiny, SSR-safe directive for binding random data to an element.

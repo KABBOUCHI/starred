@@ -74,6 +74,7 @@
 - [firebase](#firebase)
 - [firefox](#firefox)
 - [flutter](#flutter)
+- [flutter-apps](#flutter-apps)
 - [font](#font)
 - [framework](#framework)
 - [frontend](#frontend)
@@ -1187,6 +1188,16 @@
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
+## flutter-apps 
+
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [devrnt/movie-catalog](https://github.com/devrnt/movie-catalog) - 🎬 A movie catalog app for both Android & IOS ~ Flutter.io project in Dart | Dart, Bloc, Movies
+- [gurleensethi/sailor](https://github.com/gurleensethi/sailor) - Easy page navigation and management in Flutter apps.
+- [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
+- [boyan01/flutter-tetris](https://github.com/boyan01/flutter-tetris) - a tetris game powered by flutter. 使用flutter开发俄罗斯方块。
+- [chenshixin/flutter_dribble](https://github.com/chenshixin/flutter_dribble) - Unofficial dribbble client in flutter. Runs in both android and iOS.
+- [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
+
 ## font 
 
 - [coreui/coreui-icons](https://github.com/coreui/coreui-icons) - CoreUI Free Icons -  Premium designed free icon set with marks in SVG, Webfont and raster formats
@@ -1794,6 +1805,7 @@
 
 ## javascript 
 
+- [rbuckton/reflect-metadata](https://github.com/rbuckton/reflect-metadata) - Prototype for a Metadata Reflection API for ECMAScript
 - [sindresorhus/emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
@@ -2591,6 +2603,7 @@
 
 ## node 
 
+- [unjs/defu](https://github.com/unjs/defu) - 🌊 Assign default properties recursively
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [hectorm/otpauth](https://github.com/hectorm/otpauth) - One Time Password (HOTP/TOTP) library for Node.js, Deno, Bun and browsers.
@@ -2724,6 +2737,7 @@
 
 ## npm 
 
+- [unjs/defu](https://github.com/unjs/defu) - 🌊 Assign default properties recursively
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 - [yoshoku/hnswlib-node](https://github.com/yoshoku/hnswlib-node) - hnswlib-node provides Node.js bindings for Hnswlib
 - [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) - 📦✨ your favorite rust -&gt; wasm workflow tool!
@@ -4444,6 +4458,7 @@
 
 ## rust 
 
+- [m1guelpf/repair-json](https://github.com/m1guelpf/repair-json) - Repair incomplete JSON (e.g. from streaming APIs or AI models) so it can be parsed as it's received.
 - [alloy-rs/chains](https://github.com/alloy-rs/chains) - Canonical type definitions for EIP-155 chains
 - [foundry-rs/block-explorers](https://github.com/foundry-rs/block-explorers) - Bindings for the etherscan API and other block explorers.
 - [deviceplug/btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library
@@ -4966,6 +4981,7 @@
 
 ## typescript 
 
+- [rbuckton/reflect-metadata](https://github.com/rbuckton/reflect-metadata) - Prototype for a Metadata Reflection API for ECMAScript
 - [twoslashes/twoslash](https://github.com/twoslashes/twoslash) - Markup for generating rich type information in your documentations ahead of time.
 - [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 - [shikijs/twoslash](https://github.com/shikijs/twoslash) - You take some Shiki, add a hint of TypeScript compiler, and 🎉 incredible static code samples

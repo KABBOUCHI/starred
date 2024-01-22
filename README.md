@@ -1976,7 +1976,7 @@
 - [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
 - [wooorm/mdxjs-rs](https://github.com/wooorm/mdxjs-rs) - Compile MDX to JavaScript in Rust
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
-- [nashaofu/screenshots-rs](https://github.com/nashaofu/screenshots-rs) - A cross-platform screenshots library for MacOS、Windows、Linux(X11、wayland).
+- [nashaofu/xcap](https://github.com/nashaofu/xcap) - XCap is a cross-platform screen capture library for MacOS, Windows, Linux (X11, Wayland) written in Rust. It provides a simple API for capturing screen capture of a screen or a specific area of a scre
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Fast, easy to use, and simple to integrate.  Built in Rust using egui.
 - [m1guelpf/axum-signed-urls](https://github.com/m1guelpf/axum-signed-urls) - Signed URL middleware for Axum, using extractors.
 - [ultrasoundmoney/eth-analysis-rs](https://github.com/ultrasoundmoney/eth-analysis-rs) - Ethereum analysis backend to ultrasound.money
@@ -2352,7 +2352,7 @@
 - [sxzz/stale-dep](https://github.com/sxzz/stale-dep) - Check if your `node_modules` is stale.
 - [nuxt-contrib/vue-devtools-stub](https://github.com/nuxt-contrib/vue-devtools-stub) - 
 - [CodeDredd/pinia-orm](https://github.com/CodeDredd/pinia-orm) - The Pinia plugin to enable Object-Relational Mapping access to the Pinia Store.
-- [DoneDeal0/superdiff](https://github.com/DoneDeal0/superdiff) - Superdiff compares two arrays or objects and return a complete diff of their differences in a readable format.
+- [DoneDeal0/superdiff](https://github.com/DoneDeal0/superdiff) - Superdiff compares two arrays or objects and returns a full diff of their differences in a readable format.
 - [vexip-ui/vexip-ui](https://github.com/vexip-ui/vexip-ui) - A Vue 3 UI library, highly customizability, full TypeScript, performance pretty good.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
@@ -2517,7 +2517,7 @@
 - [johannschopplich/unrested](https://github.com/johannschopplich/unrested) - 🚥 Minimal, type-safe REST client using JS proxies (36 loc)
 - [nuxt/bridge](https://github.com/nuxt/bridge) - 🌉 Experience Nuxt 3 features on existing Nuxt 2 projects
 - [dethcrypto/TypeChain](https://github.com/dethcrypto/TypeChain) - 🔌 TypeScript bindings for Ethereum smart contracts
-- [upjs/facile-validator](https://github.com/upjs/facile-validator) - Laravel-inspired validation for HTML forms, built for simplicity of use 🍬
+- [upjs/facile-validator](https://github.com/upjs/facile-validator) - Robust Frontend Forms Validation, inspired by Laravel Validation, Built for Simplicity of Use 🍬
 - [antfu/vue-starport](https://github.com/antfu/vue-starport) - 🛰 Shared component across routes with animations
 - [leodinas-hao/mongoose-query-parser](https://github.com/leodinas-hao/mongoose-query-parser) - Convert url query string to MongooseJs friendly query object including advanced filtering, sorting, population, string template, type casting and many more...
 - [unjs/nitro](https://github.com/unjs/nitro) - Create, build and deploy universal web servers. The open engine powering Nuxt and open to everyone.

@@ -1490,7 +1490,7 @@
 
 ## hacktoberfest 
 
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.0.52808, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.52237)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.5.53007, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.52237)
 - [getsentry/sentry-rust](https://github.com/getsentry/sentry-rust) - Official Sentry SDK for Rust
 - [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace) - All of the official Tauri plugins in one place!
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
@@ -2321,7 +2321,7 @@
 ## linux 
 
 - [deviceplug/btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.0.52808, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.52237)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.5.53007, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.52237)
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
@@ -2795,6 +2795,7 @@
 
 ## others 
 
+- [rewin123/space_editor](https://github.com/rewin123/space_editor) - bevy prefab editor
 - [antfu/twoslash-vue](https://github.com/antfu/twoslash-vue) - 
 - [bevyengine/bevy_editor_prototypes](https://github.com/bevyengine/bevy_editor_prototypes) - Low-friction experiments for the bevy_editor
 - [BurntSushi/byteorder](https://github.com/BurntSushi/byteorder) - Rust library for reading/writing numbers in big-endian and little-endian.
@@ -3024,7 +3025,7 @@
 - [emilianobonassi/testnet-fyi](https://github.com/emilianobonassi/testnet-fyi) - Testnet as a service - create shareable short lived testnets
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [coreutils/coreutils](https://github.com/coreutils/coreutils) - upstream mirror
-- [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
+- [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
 - [rogierschouten/async-lock](https://github.com/rogierschouten/async-lock) - Lock on asynchronous code for Nodejs
 - [node-cron/node-cron](https://github.com/node-cron/node-cron) - A simple cron-like job scheduler for Node.js
 - [context-labs/sidecar](https://github.com/context-labs/sidecar) - 

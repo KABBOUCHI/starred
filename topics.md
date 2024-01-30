@@ -3039,7 +3039,7 @@
 - [context-labs/sidecar](https://github.com/context-labs/sidecar) - 
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 - [sullivan-sean/chat-langchainjs](https://github.com/sullivan-sean/chat-langchainjs) - 
-- [nashaofu/xcap](https://github.com/nashaofu/xcap) - XCap is a cross-platform screen capture library for MacOS, Windows, Linux (X11, Wayland) written in Rust. It provides a simple API for capturing screen capture of a screen or a specific area of a scre
+- [nashaofu/xcap](https://github.com/nashaofu/xcap) - XCap is a cross-platform screen capture library written in Rust. It supports Linux (X11, Wayland), MacOS, and Windows. XCap supports screenshot and video recording (to be implemented).
 - [hugoattal/synth-color](https://github.com/hugoattal/synth-color) - 
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
@@ -4466,6 +4466,7 @@
 
 ## rust 
 
+- [dylanblokhuis/tpaint](https://github.com/dylanblokhuis/tpaint) - Build a native GUI with Dioxus on whatever platform that can render triangles
 - [m1guelpf/repair-json](https://github.com/m1guelpf/repair-json) - Repair incomplete JSON (e.g. from streaming APIs or AI models) so it can be parsed as it's received.
 - [alloy-rs/chains](https://github.com/alloy-rs/chains) - Canonical type definitions for EIP-155 chains
 - [foundry-rs/block-explorers](https://github.com/foundry-rs/block-explorers) - Bindings for the etherscan API and other block explorers.

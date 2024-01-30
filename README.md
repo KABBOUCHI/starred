@@ -1748,6 +1748,7 @@
 
 ## Rust 
 
+- [dylanblokhuis/tpaint](https://github.com/dylanblokhuis/tpaint) - Build a native GUI with Dioxus on whatever platform that can render triangles
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [rewin123/space_editor](https://github.com/rewin123/space_editor) - bevy prefab editor
 - [m1guelpf/repair-json](https://github.com/m1guelpf/repair-json) - Repair incomplete JSON (e.g. from streaming APIs or AI models) so it can be parsed as it's received.
@@ -1980,7 +1981,7 @@
 - [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
 - [wooorm/mdxjs-rs](https://github.com/wooorm/mdxjs-rs) - Compile MDX to JavaScript in Rust
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
-- [nashaofu/xcap](https://github.com/nashaofu/xcap) - XCap is a cross-platform screen capture library for MacOS, Windows, Linux (X11, Wayland) written in Rust. It provides a simple API for capturing screen capture of a screen or a specific area of a scre
+- [nashaofu/xcap](https://github.com/nashaofu/xcap) - XCap is a cross-platform screen capture library written in Rust. It supports Linux (X11, Wayland), MacOS, and Windows. XCap supports screenshot and video recording (to be implemented).
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Fast, easy to use, and simple to integrate.  Built in Rust using egui.
 - [m1guelpf/axum-signed-urls](https://github.com/m1guelpf/axum-signed-urls) - Signed URL middleware for Axum, using extractors.
 - [ultrasoundmoney/eth-analysis-rs](https://github.com/ultrasoundmoney/eth-analysis-rs) - Ethereum analysis backend to ultrasound.money

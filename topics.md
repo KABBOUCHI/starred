@@ -247,6 +247,7 @@
 ## ai 
 
 - [hotshotco/Hotshot-XL](https://github.com/hotshotco/Hotshot-XL) - ✨ Hotshot-XL: State-of-the-art AI text-to-GIF model trained to work alongside Stable Diffusion XL
+- [gngpp/ninja](https://github.com/gngpp/ninja) - 🦀 Reverse engineered ChatGPT proxy
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [ariym/whisper-node](https://github.com/ariym/whisper-node) - Node.js bindings for OpenAI's Whisper. (C++ CPU version by ggerganov)
@@ -534,7 +535,7 @@
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [gngpp/ninja](https://github.com/gngpp/ninja) - 🦀 Reverse engineered ChatGPT proxy
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable Vector Search in Postgres. Revolutionize Vector Search, not Database.
 - [codingonion/awesome-rust-list](https://github.com/codingonion/awesome-rust-list) - A collection of some awesome public Rust programming language projects.
 - [sobelio/llm-chain](https://github.com/sobelio/llm-chain) - `llm-chain` is a powerful rust crate for building chains in large language models allowing you to summarise text and complete complex tasks
@@ -1823,7 +1824,7 @@
 - [bgrins/TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [hectorm/otpauth](https://github.com/hectorm/otpauth) - One Time Password (HOTP/TOTP) library for Node.js, Deno, Bun and browsers.
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [chr15m/jsfxr](https://github.com/chr15m/jsfxr) - JavaScript sound effects generator.
@@ -2654,7 +2655,7 @@
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [hectorm/otpauth](https://github.com/hectorm/otpauth) - One Time Password (HOTP/TOTP) library for Node.js, Deno, Bun and browsers.
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [yisibl/resvg-js](https://github.com/yisibl/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.
 - [ariym/whisper-node](https://github.com/ariym/whisper-node) - Node.js bindings for OpenAI's Whisper. (C++ CPU version by ggerganov)
 - [Atome-FE/llama-node](https://github.com/Atome-FE/llama-node) - Believe in AI democratization. llama for nodejs backed by llama-rs, llama.cpp and rwkv.cpp, work locally on your laptop CPU. support llama/alpaca/gpt4all/vicuna/rwkv model.
@@ -2804,6 +2805,7 @@
 
 ## others 
 
+- [unjs/omark](https://github.com/unjs/omark) - ⬇️ Just simple markdown utils
 - [CraftSpider/rebound](https://github.com/CraftSpider/rebound) - Rust Runtime Reflection
 - [Pranomvignesh/constrained-editor-plugin](https://github.com/Pranomvignesh/constrained-editor-plugin) - This project is to restrict the editable area in the monaco-editor
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
@@ -3087,7 +3089,7 @@
 - [benmccann/esm-env](https://github.com/benmccann/esm-env) - 
 - [rwasm/vite-rsw-wasm-template](https://github.com/rwasm/vite-rsw-wasm-template) - Vite + Rust 💖 WebAssembly
 - [kakajun/vue3-sketch-ruler](https://github.com/kakajun/vue3-sketch-ruler) - Zoom operation of page display in vue2 / 3      https://kakajun.github.io/vue3-sketch-ruler/1x/
-- [unjs/nypm](https://github.com/unjs/nypm) - 🌈 Unified Package Manager for Node.js
+- [unjs/nypm](https://github.com/unjs/nypm) - 🌈 Unified Package Manager for Node.js and Bun
 - [cavai-research/Adonis-Queue](https://github.com/cavai-research/Adonis-Queue) - Queue provider for Adonis V5
 - [paritytech/jsonrpsee](https://github.com/paritytech/jsonrpsee) - Rust JSON-RPC library on top of async/await
 - [nuxt-experiments/nuxt-remote-config](https://github.com/nuxt-experiments/nuxt-remote-config) - 
@@ -3130,7 +3132,6 @@
 - [alexcrichton/wait-timeout](https://github.com/alexcrichton/wait-timeout) - Waiting on a child process with a timeout in Rust
 - [Dentosal/portpicker-rs](https://github.com/Dentosal/portpicker-rs) - Pick a free unused port
 - [adonisjs/vite](https://github.com/adonisjs/vite) - ⚡Vite plugin for AdonisJS
-- [Aleph-Alpha/ts-rs](https://github.com/Aleph-Alpha/ts-rs) - Generate TypeScript bindings from Rust types
 - [akubera/bigdecimal-rs](https://github.com/akubera/bigdecimal-rs) - Arbitrary precision decimal crate for Rust
 - [rust-lang-nursery/lazy-static.rs](https://github.com/rust-lang-nursery/lazy-static.rs) - A small macro for defining lazy evaluated static variables in Rust.
 - [tokio-rs/bytes](https://github.com/tokio-rs/bytes) - Utilities for working with bytes
@@ -4306,7 +4307,7 @@
 
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [ralfbiedert/interoptopus](https://github.com/ralfbiedert/interoptopus) - The polyglot bindings generator for your library (C#, C, Python, …) 🐙
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
 - [nuclia/nucliadb](https://github.com/nuclia/nucliadb) - NucliaDB, The AI Search database for unstructured data
@@ -4642,6 +4643,7 @@
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
 - [ron-rs/ron](https://github.com/ron-rs/ron) - Rusty Object Notation
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
+- [Aleph-Alpha/ts-rs](https://github.com/Aleph-Alpha/ts-rs) - Generate TypeScript bindings from Rust types
 - [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
@@ -5039,6 +5041,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
+- [Aleph-Alpha/ts-rs](https://github.com/Aleph-Alpha/ts-rs) - Generate TypeScript bindings from Rust types
 - [nadeesha/ts-prune](https://github.com/nadeesha/ts-prune) - Find unused exports in a typescript project. 🛀
 - [jd-solanki/anu](https://github.com/jd-solanki/anu) - Anu - DX focused utility based vue component library built on top of UnoCSS & VueUse ⚡️🔥
 - [frenic/csstype](https://github.com/frenic/csstype) - Strict TypeScript and Flow types for style based on MDN data

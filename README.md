@@ -284,7 +284,7 @@
 
 ## C++ 
 
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.5.53162, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.52237)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.5.53212, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.52237)
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
@@ -352,7 +352,6 @@
 - [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
-- [BuidlGuidl/abi.ninja](https://github.com/BuidlGuidl/abi.ninja) - Interact with any contract on Ethereum.
 - [ffmpegwasm/nuxt-app](https://github.com/ffmpegwasm/nuxt-app) - 📹 An example to use ffmpeg.wasm in Nuxt 3
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [danieljpalmer/alptail](https://github.com/danieljpalmer/alptail) - A collection of frontend components using Tailwind.css and Alpine.js.
@@ -2409,6 +2408,7 @@
 - [poppinss/validator-lite](https://github.com/poppinss/validator-lite) - Typed schema based validation with low calories (KBs)
 - [shazow/whatsabi](https://github.com/shazow/whatsabi) - Extract the ABI (and other metadata) from Ethereum bytecode, even without source code.
 - [Julien-R44/factorify](https://github.com/Julien-R44/factorify) - 🏭 Framework-agnostic model factory system for clean testing
+- [BuidlGuidl/abi.ninja](https://github.com/BuidlGuidl/abi.ninja) - Interact with any contract on Ethereum.
 - [tokencss/tokencss](https://github.com/tokencss/tokencss) - 
 - [antfu/deploy-check](https://github.com/antfu/deploy-check) - WIP, Prevent runtime errors earlier in CI
 - [jd-solanki/anu](https://github.com/jd-solanki/anu) - Anu - DX focused utility based vue component library built on top of UnoCSS & VueUse ⚡️🔥
@@ -2810,7 +2810,7 @@
 - [selemondev/nuxt-ui-vue](https://github.com/selemondev/nuxt-ui-vue) - :construction: WIP Fully styled and customizable components from Nuxt UI to Vue 3.
 - [radix-vue/radix-vue](https://github.com/radix-vue/radix-vue) - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.
 - [Tresjs/nuxt](https://github.com/Tresjs/nuxt) - TresJS integration for Nuxt.
-- [nuxt/ui](https://github.com/nuxt/ui) - A UI Library for Modern Web Apps, powered by Vue & TailwindCSS.
+- [nuxt/ui](https://github.com/nuxt/ui) - A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.
 - [Tresjs/cientos](https://github.com/Tresjs/cientos) - Collection of useful helpers and fully functional, ready-made abstractions for TresJS
 - [henrycunh/golem](https://github.com/henrycunh/golem) - ✨ A beautiful UI for ChatGPT and other conversational models
 - [Atinux/nuxt-todos-edge](https://github.com/Atinux/nuxt-todos-edge) - A full-stack application with authentication, SSR and SQLite, running on the edge with Nuxt 3.

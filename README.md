@@ -1746,6 +1746,7 @@
 
 ## Rust 
 
+- [MatthiasGrandl/loungy](https://github.com/MatthiasGrandl/loungy) - 
 - [CraftSpider/rebound](https://github.com/CraftSpider/rebound) - Rust Runtime Reflection
 - [dylanblokhuis/tpaint](https://github.com/dylanblokhuis/tpaint) - Build a native GUI with Dioxus on whatever platform that can render triangles
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
@@ -2219,6 +2220,7 @@
 
 ## TypeScript 
 
+- [kitajs/html](https://github.com/kitajs/html) - 🏛️ Super fast JSX runtime to generate HTML strings that works everywhere. If it supports string we got you covered.
 - [unjs/omark](https://github.com/unjs/omark) - ⬇️ Just simple markdown utils
 - [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework) - A new full-featured and high-performance TypeScript framework
 - [unjs/defu](https://github.com/unjs/defu) - 🌊 Assign default properties recursively

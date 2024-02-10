@@ -1746,7 +1746,7 @@
 
 ## Rust 
 
-- [MatthiasGrandl/loungy](https://github.com/MatthiasGrandl/loungy) - 
+- [MatthiasGrandl/loungy](https://github.com/MatthiasGrandl/loungy) - Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast.
 - [CraftSpider/rebound](https://github.com/CraftSpider/rebound) - Rust Runtime Reflection
 - [dylanblokhuis/tpaint](https://github.com/dylanblokhuis/tpaint) - Build a native GUI with Dioxus on whatever platform that can render triangles
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
@@ -2323,7 +2323,7 @@
 - [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
 - [unjs/citty](https://github.com/unjs/citty) - 🌆 Elegant CLI Builder
 - [nuxt-modules/supabase](https://github.com/nuxt-modules/supabase) - Supabase module for Nuxt.
-- [johannschopplich/nuxt-gtag](https://github.com/johannschopplich/nuxt-gtag) - 🔸 Google Analytics integration with consent management
+- [johannschopplich/nuxt-gtag](https://github.com/johannschopplich/nuxt-gtag) - 🔸 Google Tag integration for Nuxt — GA4 with consent management, Google Ads and more
 - [antfu/vue-template-promise](https://github.com/antfu/vue-template-promise) - Template as Promise in Vue
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.
 - [Baroshem/nuxt-security](https://github.com/Baroshem/nuxt-security) - 🛡 Security Module for Nuxt based on HTTP Headers and Middleware

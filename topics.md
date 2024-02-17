@@ -248,7 +248,7 @@
 ## ai 
 
 - [hotshotco/Hotshot-XL](https://github.com/hotshotco/Hotshot-XL) - ✨ Hotshot-XL: State-of-the-art AI text-to-GIF model trained to work alongside Stable Diffusion XL
-- [gngpp/ninja](https://github.com/gngpp/ninja) - 🦀 Reverse engineered ChatGPT proxy
+- [gngpp/ninja](https://github.com/gngpp/ninja) - Reverse engineered ChatGPT proxy
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [ariym/whisper-node](https://github.com/ariym/whisper-node) - Node.js bindings for OpenAI's Whisper. (C++ CPU version by ggerganov)
@@ -535,14 +535,14 @@
 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
-- [gngpp/ninja](https://github.com/gngpp/ninja) - 🦀 Reverse engineered ChatGPT proxy
+- [gngpp/ninja](https://github.com/gngpp/ninja) - Reverse engineered ChatGPT proxy
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable Vector Search in Postgres. Revolutionize Vector Search, not Database.
 - [codingonion/awesome-rust-list](https://github.com/codingonion/awesome-rust-list) - A collection of some awesome public Rust programming language projects.
 - [sobelio/llm-chain](https://github.com/sobelio/llm-chain) - `llm-chain` is a powerful rust crate for building chains in large language models allowing you to summarise text and complete complex tasks
 - [henrycunh/golem](https://github.com/henrycunh/golem) - ✨ A beautiful UI for ChatGPT and other conversational models
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
-- [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
+- [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
 - [botisan-ai/gpt3-tokenizer](https://github.com/botisan-ai/gpt3-tokenizer) - Isomorphic JavaScript/TypeScript Tokenizer for GPT-3 and Codex Models by OpenAI.
 
 ## chatgpt-api 
@@ -898,7 +898,7 @@
 ## design 
 
 - [darkdragonblade/foxyjs-svgeditor](https://github.com/darkdragonblade/foxyjs-svgeditor) - svg-editor for web
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D raster & vector editor that melds traditional layers & tools with a modern node-based, fully non-destructive procedural workflow.
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D raster & vector editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
 - [dhanishgajjar/vscode-icons](https://github.com/dhanishgajjar/vscode-icons) - Custom Visual Studio Code Icons
 - [venomgfx/blender-ui](https://github.com/venomgfx/blender-ui) - Blender mockups in web format
@@ -931,7 +931,7 @@
 
 ## docker 
 
-- [gngpp/ninja](https://github.com/gngpp/ninja) - 🦀 Reverse engineered ChatGPT proxy
+- [gngpp/ninja](https://github.com/gngpp/ninja) - Reverse engineered ChatGPT proxy
 - [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - A cargo-subcommand to speed up Rust Docker builds using Docker layer caching.
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
@@ -1753,7 +1753,7 @@
 
 ## image-processing 
 
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D raster & vector editor that melds traditional layers & tools with a modern node-based, fully non-destructive procedural workflow.
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D raster & vector editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
 - [matmen/ImageScript](https://github.com/matmen/ImageScript) - zero-dependency JavaScript image manipulation
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [fengyuanchen/cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
@@ -2386,7 +2386,7 @@
 - [coreylowman/dfdx](https://github.com/coreylowman/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
-- [huggingface/huggingface.js](https://github.com/huggingface/huggingface.js) - Utilities to use the Hugging Face hub API
+- [huggingface/huggingface.js](https://github.com/huggingface/huggingface.js) - Utilities to use the Hugging Face Hub API
 - [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
 - [keyvank/femtoGPT](https://github.com/keyvank/femtoGPT) - Pure Rust implementation of a minimal Generative Pretrained Transformer
 - [nuclia/nucliadb](https://github.com/nuclia/nucliadb) - NucliaDB, The AI Search database for unstructured data
@@ -2813,8 +2813,8 @@
 
 ## others 
 
-- [antfu/nuxt-content-twoslash](https://github.com/antfu/nuxt-content-twoslash) - 
-- [MatthiasGrandl/loungy](https://github.com/MatthiasGrandl/loungy) - Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast.
+- [antfu/nuxt-content-twoslash](https://github.com/antfu/nuxt-content-twoslash) - TwoSlash integrations for Nuxt Content
+- [MatthiasGrandl/Loungy](https://github.com/MatthiasGrandl/Loungy) - Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast.
 - [unjs/omark](https://github.com/unjs/omark) - ⬇️ Just simple markdown utils
 - [CraftSpider/rebound](https://github.com/CraftSpider/rebound) - Rust Runtime Reflection
 - [Pranomvignesh/constrained-editor-plugin](https://github.com/Pranomvignesh/constrained-editor-plugin) - This project is to restrict the editable area in the monaco-editor
@@ -4499,7 +4499,7 @@
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
 - [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
 - [dekirisu/strung](https://github.com/dekirisu/strung) - Easy access of struct fields in strings using different/custom pre/postfix: "Hello, {field}" in rust
-- [gngpp/ninja](https://github.com/gngpp/ninja) - 🦀 Reverse engineered ChatGPT proxy
+- [gngpp/ninja](https://github.com/gngpp/ninja) - Reverse engineered ChatGPT proxy
 - [orhun/daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter! 📇
 - [zackify/cli.rs](https://github.com/zackify/cli.rs) - use {yourproject}.cli.rs!
 - [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
@@ -4738,7 +4738,7 @@
 
 ## server 
 
-- [gngpp/ninja](https://github.com/gngpp/ninja) - 🦀 Reverse engineered ChatGPT proxy
+- [gngpp/ninja](https://github.com/gngpp/ninja) - Reverse engineered ChatGPT proxy
 - [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 Open-source solution to deploy, scale, and operate your multiplayer game
 - [pyrossh/rust-embed](https://github.com/pyrossh/rust-embed) - Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.

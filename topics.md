@@ -778,7 +778,7 @@
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
 - [bdlukaa/fluent_ui](https://github.com/bdlukaa/fluent_ui) - Implements Microsoft's WinUI3 in Flutter.
 - [subosito/flutter-action](https://github.com/subosito/flutter-action) - Flutter environment for use in GitHub Actions. It works on Linux, Windows, and macOS.
-- [rrousselGit/riverpod](https://github.com/rrousselGit/riverpod) - A simple way to access state while robust and testable.
+- [rrousselGit/riverpod](https://github.com/rrousselGit/riverpod) - A reactive caching and data-binding framework.   Riverpod makes working with asynchronous code a breeze.
 - [FlutterGen/flutter_gen](https://github.com/FlutterGen/flutter_gen) - The Flutter code generator for your assets, fonts, colors, … — Get rid of all String-based APIs.
 - [hydro-sdk/hydro-sdk](https://github.com/hydro-sdk/hydro-sdk) - Author Flutter experiences in Typescript. No native bridge, no V8. Just Dart. From runtime to virtual machine.
 - [ReinBentdal/styled_widget](https://github.com/ReinBentdal/styled_widget) - Simplifying widget style in Flutter.
@@ -1144,7 +1144,7 @@
 - [macosui/macos_ui](https://github.com/macosui/macos_ui) - Flutter widgets and themes implementing the current macOS design language.
 - [bmw-tech/lumberdash](https://github.com/bmw-tech/lumberdash) - Do you need logs? Lumberdash is the answer!
 - [subosito/flutter-action](https://github.com/subosito/flutter-action) - Flutter environment for use in GitHub Actions. It works on Linux, Windows, and macOS.
-- [rrousselGit/riverpod](https://github.com/rrousselGit/riverpod) - A simple way to access state while robust and testable.
+- [rrousselGit/riverpod](https://github.com/rrousselGit/riverpod) - A reactive caching and data-binding framework.   Riverpod makes working with asynchronous code a breeze.
 - [FlutterGen/flutter_gen](https://github.com/FlutterGen/flutter_gen) - The Flutter code generator for your assets, fonts, colors, … — Get rid of all String-based APIs.
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - Invoices, Expenses and Tasks built with Laravel, Flutter and React
 - [hydro-sdk/hydro-sdk](https://github.com/hydro-sdk/hydro-sdk) - Author Flutter experiences in Typescript. No native bridge, no V8. Just Dart. From runtime to virtual machine.
@@ -1601,7 +1601,7 @@
 - [wobsoriano/v-dashboard](https://github.com/wobsoriano/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS.
 - [vue-stripe/vue-stripe](https://github.com/vue-stripe/vue-stripe) - Stripe Checkout & Elements for Vue.js
 - [game-ci/docker](https://github.com/game-ci/docker) - Series of CI-specialised docker images for Unity.
-- [rrousselGit/riverpod](https://github.com/rrousselGit/riverpod) - A simple way to access state while robust and testable.
+- [rrousselGit/riverpod](https://github.com/rrousselGit/riverpod) - A reactive caching and data-binding framework.   Riverpod makes working with asynchronous code a breeze.
 - [cdnjs/static-website](https://github.com/cdnjs/static-website) - 🖥 New Vue/Nuxt website for cdnjs.com - The #1 free and open source CDN built to make life easier for developers.
 - [tighten/lambo](https://github.com/tighten/lambo) - Quick new application creation with Laravel and Valet
 - [tighten/takeout](https://github.com/tighten/takeout) - Docker-based development-only dependency manager. macOS, Linux, and WSL2-only and installs via PHP's Composer... for now.
@@ -3355,7 +3355,7 @@
 - [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement
 - [websockets/wscat](https://github.com/websockets/wscat) - WebSocket cat
 - [NekR/self-destroying-sw](https://github.com/NekR/self-destroying-sw) - Code-snippets and guides on removing ServiceWorker from a websiste.
-- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - browserless is an efficient way to interact with a headless browser built in top of Puppeteer.
+- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - browserless is an efficient way to interact with a headless browser built on top of puppeteer.
 - [nuxt-modules/critters](https://github.com/nuxt-modules/critters) - CSS optimization using critters for Nuxt
 - [wheatjs/vaguer](https://github.com/wheatjs/vaguer) - Vite/Vue Component Library Template
 - [oclif/cli-ux](https://github.com/oclif/cli-ux) - CLI IO utilities
@@ -4495,7 +4495,7 @@
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [ToluClassics/candle-tutorial](https://github.com/ToluClassics/candle-tutorial) - Tutorial for Porting PyTorch Transformer Models to Candle (Rust)
 - [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
-- [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
 - [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
 - [dekirisu/strung](https://github.com/dekirisu/strung) - Easy access of struct fields in strings using different/custom pre/postfix: "Hello, {field}" in rust

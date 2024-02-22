@@ -3317,7 +3317,7 @@
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [TellowKrinkle/pcsx2](https://github.com/TellowKrinkle/pcsx2) - PCSX2 - The Playstation 2 Emulator
 - [lepikhinb/sugar](https://github.com/lepikhinb/sugar) - 
-- [unjs/mlly](https://github.com/unjs/mlly) - 🤝 Missing ECMAScript module utils for Node.js
+- [unjs/mlly](https://github.com/unjs/mlly) - 🤝 Common ECMAScript module utils
 - [WICG/import-maps](https://github.com/WICG/import-maps) - How to control the behavior of JavaScript imports
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
 - [browserify/events](https://github.com/browserify/events) - Node's event emitter for all engines.
@@ -5078,7 +5078,7 @@
 - [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [tannerntannern/ts-mixer](https://github.com/tannerntannern/ts-mixer) - A small TypeScript library that provides tolerable Mixin functionality.
-- [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router) - Next-gen file based typed routing for vue router
+- [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router) - Next Generation file based typed routing for Vue Router
 - [wobsoriano/h3-zod](https://github.com/wobsoriano/h3-zod) - TypeScript-first schema validation for h3 and Nuxt applications
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute: Node.js enhanced to run TypeScript & ESM
@@ -5321,7 +5321,7 @@
 - [formkit/formkit](https://github.com/formkit/formkit) - Vue Forms ⚡️ Supercharged
 - [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow) - A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph.
 - [javisperez/tailwindcolorshades](https://github.com/javisperez/tailwindcolorshades) - Color shades generator for TailwindCSS - https://javisperez.github.io/tailwindcolorshades
-- [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router) - Next-gen file based typed routing for vue router
+- [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router) - Next Generation file based typed routing for Vue Router
 - [wobsoriano/h3-zod](https://github.com/wobsoriano/h3-zod) - TypeScript-first schema validation for h3 and Nuxt applications
 - [wobsoriano/trpc-nuxt](https://github.com/wobsoriano/trpc-nuxt) - End-to-end typesafe APIs in Nuxt applications.
 - [DamianOsipiuk/vue-query](https://github.com/DamianOsipiuk/vue-query) - Hooks for fetching, caching and updating asynchronous data in Vue
@@ -5491,6 +5491,7 @@
 
 ## vuejs 
 
+- [xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner) - 🔔 An opinionated toast component for Vue.
 - [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
 - [mascii/vue-yup-form](https://github.com/mascii/vue-yup-form) - Headless form validation with Vue and Yup
 - [webfansplz/vite-plugin-vue-inspector](https://github.com/webfansplz/vite-plugin-vue-inspector) - jump to editor source code while click the element of browser automatically.

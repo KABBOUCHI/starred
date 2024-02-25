@@ -1071,7 +1071,7 @@
 - [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [zackify/cli.rs](https://github.com/zackify/cli.rs) - use {yourproject}.cli.rs!
 - [chalex-eth/awesome-ethers-rs](https://github.com/chalex-eth/awesome-ethers-rs) - A curated list of awesome of rust and ethers-rs
-- [codingonion/awesome-rust-list](https://github.com/codingonion/awesome-rust-list) - A collection of some awesome public Rust programming language projects.
+- [codingonion/awesome-rust-list](https://github.com/codingonion/awesome-rust-list) - 🔥🔥🔥A collection of some awesome public Rust programming language projects.
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [lunapark/lunapark](https://github.com/lunapark/lunapark) - 🎡 The most advanced visual scripting editor for the web.
 - [Gcenx/CrossOver-fixes](https://github.com/Gcenx/CrossOver-fixes) - 
@@ -1099,7 +1099,6 @@
 - [nuxt/starter](https://github.com/nuxt/starter) - Create a new Nuxt project, module, layer or start from a theme with our collection of starters.
 - [engineerapart/TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer) - Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!
 - [livewire/awesome-tall-stack](https://github.com/livewire/awesome-tall-stack) - A curated list of awesome things related to the TALL stack.
-- [valet-lite/beta](https://github.com/valet-lite/beta) - Discussion and support for the Valet Lite beta
 - [nunomaduro/awesome-php-src](https://github.com/nunomaduro/awesome-php-src) - 🚀 A curated list of awesome resources related to PHP source code
 - [nunomaduro/awesome-laravel-vapor](https://github.com/nunomaduro/awesome-laravel-vapor) - 🚀 A curated list of awesome resources related to Laravel Vapor.
 - [innocenzi/awesome-inertiajs](https://github.com/innocenzi/awesome-inertiajs) - A curated list of awesome Inertia.js resources
@@ -1904,7 +1903,7 @@
 - [huggingface/hf-hub](https://github.com/huggingface/hf-hub) - Rust client for the huggingface hub aiming for minimal subset of features over `huggingface-hub` python package
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [AmineDiro/cria](https://github.com/AmineDiro/cria) - OpenAI compatible API for serving LLAMA-2 model
-- [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable Vector Search in Postgres. Revolutionize Vector Search, not Database.
+- [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database.
 - [NiklasEi/bevy_common_assets](https://github.com/NiklasEi/bevy_common_assets) - Collection of generic asset loaders for common file formats
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [Gadersd/stable-diffusion-burn](https://github.com/Gadersd/stable-diffusion-burn) - Stable Diffusion v1.4 ported to Rust's burn framework

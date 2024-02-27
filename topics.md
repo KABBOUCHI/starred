@@ -282,6 +282,7 @@
 
 ## android 
 
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [deviceplug/btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
@@ -525,6 +526,7 @@
 
 ## c 
 
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [ralfbiedert/interoptopus](https://github.com/ralfbiedert/interoptopus) - The polyglot bindings generator for your library (C#, C, Python, …) 🐙
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
@@ -2818,6 +2820,9 @@
 
 ## others 
 
+- [unjs/db0](https://github.com/unjs/db0) - 📚  Lightweight SQL Connector
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
+- [robbie-cahill/tunnelmole-client](https://github.com/robbie-cahill/tunnelmole-client) - Tunnelmole - Connect to local servers from anywhere
 - [unjs/crossws](https://github.com/unjs/crossws) - 🔌   Cross-platform WebSocket Servers for Node.js, Deno, Bun and Cloudflare Workers.
 - [mbrea-c/bevy_firework](https://github.com/mbrea-c/bevy_firework) - 🎆 CPU-driven, batch-rendered particle system for the Bevy game engine.
 - [snapshot-labs/snapshot](https://github.com/snapshot-labs/snapshot) - Interface for Snapshot. Join us on Discord http://discord.snapshot.org
@@ -3149,7 +3154,7 @@
 - [lain-dono/reui](https://github.com/lain-dono/reui) - Renderer for User Interface
 - [alexcrichton/wait-timeout](https://github.com/alexcrichton/wait-timeout) - Waiting on a child process with a timeout in Rust
 - [Dentosal/portpicker-rs](https://github.com/Dentosal/portpicker-rs) - Pick a free unused port
-- [adonisjs/vite](https://github.com/adonisjs/vite) - ⚡Vite plugin for AdonisJS
+- [adonisjs/vite](https://github.com/adonisjs/vite) - Vite plugin for AdonisJS
 - [akubera/bigdecimal-rs](https://github.com/akubera/bigdecimal-rs) - Arbitrary precision decimal crate for Rust
 - [rust-lang-nursery/lazy-static.rs](https://github.com/rust-lang-nursery/lazy-static.rs) - A small macro for defining lazy evaluated static variables in Rust.
 - [tokio-rs/bytes](https://github.com/tokio-rs/bytes) - Utilities for working with bytes

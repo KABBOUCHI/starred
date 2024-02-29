@@ -848,7 +848,6 @@
 - [drawcall/c2f](https://github.com/drawcall/c2f) - C2F can convert css style to Flutter code online.
 - [yyx990803/register-service-worker](https://github.com/yyx990803/register-service-worker) - A script to simplify service worker registration with hooks for common events.
 - [wearebraid/vue-formulate](https://github.com/wearebraid/vue-formulate) - ⚡️ The easiest way to build forms with Vue.
-- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [depcheck/depcheck](https://github.com/depcheck/depcheck) - Check your npm module for unused dependencies
 - [yyx990803/yorkie](https://github.com/yyx990803/yorkie) - :dog: Git hooks made easy
 - [nodeca/pako](https://github.com/nodeca/pako) - high speed zlib port to javascript, works in browser & node.js
@@ -1073,7 +1072,7 @@
 - [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [zackify/cli.rs](https://github.com/zackify/cli.rs) - use {yourproject}.cli.rs!
 - [chalex-eth/awesome-ethers-rs](https://github.com/chalex-eth/awesome-ethers-rs) - A curated list of awesome of rust and ethers-rs
-- [codingonion/awesome-rust-list](https://github.com/codingonion/awesome-rust-list) - 🔥🔥🔥A collection of some awesome public Rust programming language projects.
+- [codingonion/awesome-rust-list](https://github.com/codingonion/awesome-rust-list) - A collection of some awesome public Rust programming language projects.
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [lunapark/lunapark](https://github.com/lunapark/lunapark) - 🎡 The most advanced visual scripting editor for the web.
 - [Gcenx/CrossOver-fixes](https://github.com/Gcenx/CrossOver-fixes) - 
@@ -1704,6 +1703,7 @@
 - [JacquesLucke/animation_nodes](https://github.com/JacquesLucke/animation_nodes) - Node based visual scripting system designed for motion graphics in Blender.
 - [ubisoft/mixer](https://github.com/ubisoft/mixer) - Add-on for real-time collaboration in Blender.
 - [CreativeDesigner3D/ProSidebar](https://github.com/CreativeDesigner3D/ProSidebar) - Sidebar for Blender 2.8
+- [EpicGames/BlenderTools](https://github.com/EpicGames/BlenderTools) - Blender addons that improve the game development workflow between Blender and Unreal.
 - [cgvirus/blender-vse-easy-proxy](https://github.com/cgvirus/blender-vse-easy-proxy) - Addon to create proxy files easily using FFMPEG
 - [cgvirus/Blender-Compositor-Disc-Cache-Realtime-Preview-Addon](https://github.com/cgvirus/Blender-Compositor-Disc-Cache-Realtime-Preview-Addon) - An Addon for Blender compositor to disc cache and do real time preview through Blender VSE
 - [stuffmatic/fSpy-Blender](https://github.com/stuffmatic/fSpy-Blender) - Official fSpy importer for Blender
@@ -1749,6 +1749,8 @@
 
 ## Rust 
 
+- [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
+- [mattsse/chromiumoxide](https://github.com/mattsse/chromiumoxide) - Chrome Devtools Protocol rust API
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
 - [Henauxg/bevy_quinnet](https://github.com/Henauxg/bevy_quinnet) - A Client/Server game networking plugin using QUIC, for the Bevy game engine.
 - [mbrea-c/bevy_firework](https://github.com/mbrea-c/bevy_firework) - 🎆 CPU-driven, batch-rendered particle system for the Bevy game engine.
@@ -2193,7 +2195,6 @@
 
 ## Solidity 
 
-- [latticexyz/mud](https://github.com/latticexyz/mud) - MUD is a framework for building ambitious onchain applications
 - [mds1/multicall](https://github.com/mds1/multicall) - Multicall: Aggregate multiple constant function call results into one
 - [d-xo/weird-erc20](https://github.com/d-xo/weird-erc20) - weird erc20 tokens
 - [prettier-solidity/prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity) - A Prettier plugin for automatically formatting your Solidity code.
@@ -2227,6 +2228,8 @@
 
 ## TypeScript 
 
+- [fosterin/persona](https://github.com/fosterin/persona) - Primitives for the Persona starter kit
+- [nuxt-hub/core](https://github.com/nuxt-hub/core) - Build full-stack applications with Nuxt on CloudFlare, with zero configuration.
 - [unjs/db0](https://github.com/unjs/db0) - 📚  Lightweight SQL Connector
 - [robbie-cahill/tunnelmole-client](https://github.com/robbie-cahill/tunnelmole-client) - Tunnelmole - Connect to local servers from anywhere
 - [unjs/crossws](https://github.com/unjs/crossws) - 🔌   Cross-platform WebSocket Servers for Node.js, Deno, Bun and Cloudflare Workers.
@@ -2269,6 +2272,7 @@
 - [peterboyer/unenum](https://github.com/peterboyer/unenum) - Universal ADT utilities for TypeScript.
 - [nuxtrdev/nuxtr-vscode](https://github.com/nuxtrdev/nuxtr-vscode) - An extension offering commands and tools to make your experience with Nuxt more pleasant.
 - [taskforcesh/bullmq-proxy](https://github.com/taskforcesh/bullmq-proxy) - A HTTP based proxy for accessing BullMQ Queues
+- [latticexyz/mud](https://github.com/latticexyz/mud) - MUD is a framework for building ambitious onchain applications
 - [ddahan/ui-libs](https://github.com/ddahan/ui-libs) - A UI Lib Picker for Vue 3 / Nuxt 3
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic) - Monorepo for ESLint Stylistic plugins and configs
@@ -2333,7 +2337,7 @@
 - [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
 - [unjs/citty](https://github.com/unjs/citty) - 🌆 Elegant CLI Builder
 - [nuxt-modules/supabase](https://github.com/nuxt-modules/supabase) - Supabase module for Nuxt.
-- [johannschopplich/nuxt-gtag](https://github.com/johannschopplich/nuxt-gtag) - 🔸 Google Tag integration for Nuxt — GA4 with consent management, Google Ads and more
+- [johannschopplich/nuxt-gtag](https://github.com/johannschopplich/nuxt-gtag) - 🔸 Google Tag integration for Nuxt: Google Analytics, Google Ads and more
 - [antfu/vue-template-promise](https://github.com/antfu/vue-template-promise) - Template as Promise in Vue
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.
 - [Baroshem/nuxt-security](https://github.com/Baroshem/nuxt-security) - 🛡 Security Module for Nuxt based on HTTP Headers and Middleware
@@ -2728,6 +2732,7 @@
 - [ycmjason/vuminal](https://github.com/ycmjason/vuminal) - Create terminal applications with the power of Vue 3.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [vuedx/languagetools](https://github.com/vuedx/languagetools) - A collection of tools for better IDE experience.
+- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [edge-js/edge](https://github.com/edge-js/edge) - Node.js template with a breath of fresh air
 - [perry-mitchell/iocane](https://github.com/perry-mitchell/iocane) - An odorless, tasteless NodeJS crypto library that dissolves instantly in liquid
 - [LottieFiles/lottie-player](https://github.com/LottieFiles/lottie-player) - Lottie viewer/player as an easy to use web component! https://lottiefiles.com/web-player

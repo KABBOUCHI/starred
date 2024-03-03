@@ -1749,6 +1749,7 @@
 
 ## Rust 
 
+- [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
 - [rerun-io/revy](https://github.com/rerun-io/revy) - Proof-of-concept time-travel debugger for the Bevy game engine, built using Rerun.
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [mattsse/chromiumoxide](https://github.com/mattsse/chromiumoxide) - Chrome Devtools Protocol rust API
@@ -2229,6 +2230,8 @@
 
 ## TypeScript 
 
+- [shikijs/shiki-magic-move](https://github.com/shikijs/shiki-magic-move) - Smoothly animated code blocks with Shiki
+- [egoist/tauri-updater](https://github.com/egoist/tauri-updater) - Tauri Updater Server for Cloudflare Worker.
 - [nuxt-hub/core](https://github.com/nuxt-hub/core) - Build full-stack applications with Nuxt on CloudFlare, with zero configuration.
 - [unjs/db0](https://github.com/unjs/db0) - 📚  Lightweight SQL Connector
 - [robbie-cahill/tunnelmole-client](https://github.com/robbie-cahill/tunnelmole-client) - Tunnelmole - Connect to local servers from anywhere

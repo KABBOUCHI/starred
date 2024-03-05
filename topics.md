@@ -5365,7 +5365,7 @@
 - [wheatjs/vueuse-playground](https://github.com/wheatjs/vueuse-playground) - An online playground for VueUse
 - [nuxt/starter](https://github.com/nuxt/starter) - Create a new Nuxt project, module, layer or start from a theme with our collection of starters.
 - [Maronato/vue-toastification](https://github.com/Maronato/vue-toastification) - Vue notifications made easy!
-- [ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts) - Apache ECharts™ component for Vue.js.
+- [ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts) - Vue.js component for Apache ECharts™.
 - [eggsy/website](https://github.com/eggsy/website) - 🧬 Source code of my personal website. Everything is included. Written in NuxtJS, TypeScript and Windi CSS!
 - [protonemedia/inertiajs-tables-laravel-query-builder](https://github.com/protonemedia/inertiajs-tables-laravel-query-builder) - Inertia.js Tables for Laravel Query Builder
 - [antoniandre/splitpanes](https://github.com/antoniandre/splitpanes) - A Vue 2 & 3 reliable, simple and touch-ready panes splitter / resizer.

@@ -285,7 +285,7 @@
 
 ## C++ 
 
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.5.53441, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.52237)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.5.53584, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.52237)
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
@@ -1749,6 +1749,8 @@
 
 ## Rust 
 
+- [RazrFalcon/tiny-skia](https://github.com/RazrFalcon/tiny-skia) - A tiny Skia subset ported to Rust
+- [kvark/blade](https://github.com/kvark/blade) - Sharp and simple graphics library
 - [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
 - [rerun-io/revy](https://github.com/rerun-io/revy) - Proof-of-concept time-travel debugger for the Bevy game engine, built using Rerun.
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.

@@ -103,7 +103,7 @@
 - [SanderMertens/flecs](https://github.com/SanderMertens/flecs) - A fast entity component system (ECS) for C & C++
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [djkaty/Il2CppInspector](https://github.com/djkaty/Il2CppInspector) - Powerful automated tool for reverse engineering Unity IL2CPP binaries
-- [ThusSpokeNomad/GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Game Network Programming Resources
+- [ThusSpokeNomad/GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Multiplayer Game Network Programming (Netcode) Resources
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -1749,6 +1749,7 @@
 
 ## Rust 
 
+- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [rolldown-rs/rolldown](https://github.com/rolldown-rs/rolldown) - Fast Rust bundler for JavaScript with Rollup-compatible API.
 - [RazrFalcon/tiny-skia](https://github.com/RazrFalcon/tiny-skia) - A tiny Skia subset ported to Rust
 - [kvark/blade](https://github.com/kvark/blade) - Sharp and simple graphics library
@@ -2179,7 +2180,7 @@
 
 - [Winetricks/winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
 - [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
-- [ronniedroid/getnf](https://github.com/ronniedroid/getnf) - A better way to install NerdFonts
+- [getnf/getnf](https://github.com/getnf/getnf) - A better way to install NerdFonts
 - [rust-build/rust-build.action](https://github.com/rust-build/rust-build.action) - Automate publishing Rust build artifacts for GitHub releases through GitHub Actions
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [edbizarro/gitlab-ci-pipeline-php](https://github.com/edbizarro/gitlab-ci-pipeline-php) - :coffee: Docker images for test PHP applications with Gitlab CI (or any other CI platform!)
@@ -2233,6 +2234,7 @@
 
 ## TypeScript 
 
+- [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [shikijs/shiki-magic-move](https://github.com/shikijs/shiki-magic-move) - Smoothly animated code blocks with Shiki
 - [egoist/tauri-updater](https://github.com/egoist/tauri-updater) - Tauri Updater Server for Cloudflare Worker.
 - [nuxt-hub/core](https://github.com/nuxt-hub/core) - Build full-stack applications with Nuxt on CloudFlare, with zero configuration.

@@ -285,7 +285,7 @@
 
 ## C++ 
 
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.5.53584, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.52237)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.5.53584, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.53622)
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
@@ -513,6 +513,7 @@
 
 ## HTML 
 
+- [kitajs/html](https://github.com/kitajs/html) - 🏛️ Super fast JSX runtime to generate HTML strings that works everywhere. If it supports string we got you covered.
 - [antfu/twoslash-vue](https://github.com/antfu/twoslash-vue) - 
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 - [nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs) - A community guide to the Rust ecosystem
@@ -776,7 +777,7 @@
 - [mia1232/Vue3tankWar2D](https://github.com/mia1232/Vue3tankWar2D) - 怀旧比特风坦克大战
 - [inertiajs/progress](https://github.com/inertiajs/progress) - This package adds an NProgress page loading indicator to your Inertia.js app.
 - [fengyuanchen/cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
-- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Use AWS Lambda and other managed cloud services to build apps that auto-scale, cost nothing when idle, and boast radically low maintenance.
 - [vue-gl/vue-gl](https://github.com/vue-gl/vue-gl) - Vue.js components rendering 3D WebGL graphics reactively with three.js
 - [yyx990803/vue-lit](https://github.com/yyx990803/vue-lit) - Proof of concept custom elements "framework"
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
@@ -1749,8 +1750,9 @@
 
 ## Rust 
 
+- [hytopiagg/bevy_wry_webview](https://github.com/hytopiagg/bevy_wry_webview) - An embedded webview in Bevy using Wry's child windows
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-- [rolldown-rs/rolldown](https://github.com/rolldown-rs/rolldown) - Fast Rust bundler for JavaScript with Rollup-compatible API.
+- [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript with Rollup-compatible API.
 - [RazrFalcon/tiny-skia](https://github.com/RazrFalcon/tiny-skia) - A tiny Skia subset ported to Rust
 - [kvark/blade](https://github.com/kvark/blade) - Sharp and simple graphics library
 - [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
@@ -1957,7 +1959,7 @@
 - [marc2332/ghboard](https://github.com/marc2332/ghboard) - 🦑 GitHub Dashboard
 - [nikolay-govorov/nanoid](https://github.com/nikolay-govorov/nanoid) - A tiny, secure, URL-friendly, unique string ID generator for Rust
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
-- [riipandi/tauri-tray-app](https://github.com/riipandi/tauri-tray-app) - Starter project for building desktop app with tray status using Tauri, and React.
+- [riipandi/tauri-tray-app](https://github.com/riipandi/tauri-tray-app) - This project template should help get you started developing multi platform desktop application with tray status using Tauri, Typescript, and Vite.
 - [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
 - [rksm/hot-lib-reloader-rs](https://github.com/rksm/hot-lib-reloader-rs) - Reload Rust code without app restarts. For faster feedback cycles.
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
@@ -2039,7 +2041,7 @@
 - [degatchi/mev-template-rs](https://github.com/degatchi/mev-template-rs) - Bootstrap your MEV bot strategies with a simple boilerplate to build on top of.
 - [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language
 - [nicolascotton/nject](https://github.com/nicolascotton/nject) - Simple zero cost dependency injection library made for rust
-- [SergioBenitez/cookie-rs](https://github.com/SergioBenitez/cookie-rs) - HTTP cookie parsing and cookie jar management for Rust.
+- [rwf2/cookie-rs](https://github.com/rwf2/cookie-rs) - HTTP cookie parsing and cookie jar management for Rust.
 - [lunatic-solutions/submillisecond](https://github.com/lunatic-solutions/submillisecond) - A lunatic web framework
 - [dtolnay/async-trait](https://github.com/dtolnay/async-trait) - Type erasure for async trait methods
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
@@ -2243,7 +2245,6 @@
 - [unjs/crossws](https://github.com/unjs/crossws) - 🔌   Cross-platform WebSocket Servers for Node.js, Deno, Bun and Cloudflare Workers.
 - [unjs/confbox](https://github.com/unjs/confbox) - Compact and high quality YAML, TOML, JSONC and JSON5 parsers
 - [antfu/nuxt-content-twoslash](https://github.com/antfu/nuxt-content-twoslash) - TwoSlash integrations for Nuxt Content
-- [kitajs/html](https://github.com/kitajs/html) - 🏛️ Super fast JSX runtime to generate HTML strings that works everywhere. If it supports string we got you covered.
 - [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework) - A new full-featured and high-performance TypeScript framework
 - [unjs/defu](https://github.com/unjs/defu) - 🌊 Assign default properties recursively
 - [rbuckton/reflect-metadata](https://github.com/rbuckton/reflect-metadata) - Prototype for a Metadata Reflection API for ECMAScript
@@ -2736,7 +2737,7 @@
 - [nuxt-community/composition-api](https://github.com/nuxt-community/composition-api) - Composition API hooks for Nuxt 2.
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [nuxt-community/laravel-echo-module](https://github.com/nuxt-community/laravel-echo-module) - Laravel Echo for Nuxt 2
-- [nuxt-community/auth-module](https://github.com/nuxt-community/auth-module) - Zero-boilerplate authentication support for Nuxt 2!
+- [nuxt-community/auth-module](https://github.com/nuxt-community/auth-module) - Zero-boilerplate authentication support for Nuxt 2
 - [ycmjason/vuminal](https://github.com/ycmjason/vuminal) - Create terminal applications with the power of Vue 3.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [vuedx/languagetools](https://github.com/vuedx/languagetools) - A collection of tools for better IDE experience.

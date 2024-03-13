@@ -442,7 +442,7 @@
 ## aws 
 
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
-- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Use AWS Lambda and other managed cloud services to build apps that auto-scale, cost nothing when idle, and boast radically low maintenance.
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module. Never fail to scale with Art
 - [vercel-community/php](https://github.com/vercel-community/php) - 🐘 PHP Runtime for ▲ Vercel Serverless Functions (support 7.4-8.3)
 
@@ -703,7 +703,7 @@
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [arvidn/libtorrent](https://github.com/arvidn/libtorrent) - an efficient feature complete C++ bittorrent implementation
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
-- [ThusSpokeNomad/GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Game Network Programming Resources
+- [ThusSpokeNomad/GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Multiplayer Game Network Programming (Netcode) Resources
 
 ## cryptocurrency 
 
@@ -723,7 +723,7 @@
 - [xeleh/enhancer](https://github.com/xeleh/enhancer) - A collection of utilities to enhance the Unity Editor
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
-- [ThusSpokeNomad/GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Game Network Programming Resources
+- [ThusSpokeNomad/GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Multiplayer Game Network Programming (Netcode) Resources
 - [proepkes/SpeedDate](https://github.com/proepkes/SpeedDate) - SpeedDate Masterserver: Connecting Players
 - [RevenantX/LiteNetLib](https://github.com/RevenantX/LiteNetLib) - Lite reliable UDP library for Mono and .NET
 - [sschmid/Entitas](https://github.com/sschmid/Entitas) - Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
@@ -1276,7 +1276,7 @@
 - [Facepunch/Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) - Another fucking c# Steamworks implementation
 - [UnityTechnologies/open-project-1](https://github.com/UnityTechnologies/open-project-1) - Unity Open Project #1: Chop Chop
 - [Armour/Multiplayer-FPS](https://github.com/Armour/Multiplayer-FPS) - :video_game: A multiplayer first person shooter game based on Unity Game Engine
-- [ThusSpokeNomad/GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Game Network Programming Resources
+- [ThusSpokeNomad/GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Multiplayer Game Network Programming (Netcode) Resources
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [galaxyofdrones/galaxyofdrones](https://github.com/galaxyofdrones/galaxyofdrones) - 🚀 An open source multiplayer space strategy game.
@@ -1314,7 +1314,7 @@
 - [AnyRPG/AnyRPGCore](https://github.com/AnyRPG/AnyRPGCore) - Open source Role Playing Game engine for Unity 3D written in C#.
 - [ValveSoftware/GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) - Reliable & unreliable messages over UDP.  Robust message fragmentation & reassembly.  P2P networking / NAT traversal.  Encryption.
 - [SanderMertens/flecs](https://github.com/SanderMertens/flecs) - A fast entity component system (ECS) for C & C++
-- [ThusSpokeNomad/GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Game Network Programming Resources
+- [ThusSpokeNomad/GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Multiplayer Game Network Programming (Netcode) Resources
 - [AdultLink/RadialProgressBar](https://github.com/AdultLink/RadialProgressBar) - Customizable radial progress bar shader for Unity3D. Allows you to set arc range, minimum and maximum colors, textures, radius, and a few more things. Create HP Bars, Speedometers, rank progress, etc!
 - [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3) - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
@@ -1362,7 +1362,7 @@
 - [nxrighthere/ValveSockets-CSharp](https://github.com/nxrighthere/ValveSockets-CSharp) - Managed C# abstraction of GameNetworkingSockets library by Valve Software
 - [SanderMertens/flecs](https://github.com/SanderMertens/flecs) - A fast entity component system (ECS) for C & C++
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
-- [ThusSpokeNomad/GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Game Network Programming Resources
+- [ThusSpokeNomad/GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Multiplayer Game Network Programming (Netcode) Resources
 - [AdultLink/RadialProgressBar](https://github.com/AdultLink/RadialProgressBar) - Customizable radial progress bar shader for Unity3D. Allows you to set arc range, minimum and maximum colors, textures, radius, and a few more things. Create HP Bars, Speedometers, rank progress, etc!
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
@@ -1439,7 +1439,7 @@
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free & open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web!
 - [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-- [ThusSpokeNomad/GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Game Network Programming Resources
+- [ThusSpokeNomad/GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Multiplayer Game Network Programming (Netcode) Resources
 
 ## golang 
 
@@ -1504,14 +1504,13 @@
 ## hacktoberfest 
 
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.5.53584, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.52237)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.5.53584, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.53622)
 - [getsentry/sentry-rust](https://github.com/getsentry/sentry-rust) - Official Sentry SDK for Rust
 - [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace) - All of the official Tauri plugins in one place!
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Optimizer and compiler/toolchain library for WebAssembly
-- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
 - [orhun/daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter! 📇
 - [Ralith/hecs](https://github.com/Ralith/hecs) - A handy ECS
 - [vleue/jornet](https://github.com/vleue/jornet) - The social game server for all your game jams!
@@ -1818,6 +1817,7 @@
 
 ## javascript 
 
+- [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
 - [rbuckton/reflect-metadata](https://github.com/rbuckton/reflect-metadata) - Prototype for a Metadata Reflection API for ECMAScript
 - [sindresorhus/emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter
@@ -2338,7 +2338,7 @@
 ## linux 
 
 - [deviceplug/btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.5.53584, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.52237)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.5.53584, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.53622)
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
@@ -2828,7 +2828,12 @@
 
 ## others 
 
-- [rolldown-rs/rolldown](https://github.com/rolldown-rs/rolldown) - Fast Rust bundler for JavaScript with Rollup-compatible API.
+- [Couch-Chilis/sudoku-pi](https://github.com/Couch-Chilis/sudoku-pi) - Finger-friendly Sudoku game
+- [443eb9/bevy_incandescent](https://github.com/443eb9/bevy_incandescent) - A 2d lighting crate for bevy.
+- [laravel/reverb](https://github.com/laravel/reverb) - Laravel Reverb provides a real-time WebSocket communication backend for Laravel applications.
+- [rive-app/rive-rs](https://github.com/rive-app/rive-rs) - 
+- [hytopiagg/bevy_wry_webview](https://github.com/hytopiagg/bevy_wry_webview) - An embedded webview in Bevy using Wry's child windows
+- [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript with Rollup-compatible API.
 - [RazrFalcon/tiny-skia](https://github.com/RazrFalcon/tiny-skia) - A tiny Skia subset ported to Rust
 - [kvark/blade](https://github.com/kvark/blade) - Sharp and simple graphics library
 - [shikijs/shiki-magic-move](https://github.com/shikijs/shiki-magic-move) - Smoothly animated code blocks with Shiki
@@ -3029,7 +3034,6 @@
 - [nikolay-govorov/nanoid](https://github.com/nikolay-govorov/nanoid) - A tiny, secure, URL-friendly, unique string ID generator for Rust
 - [adonisjs/attachment-lite](https://github.com/adonisjs/attachment-lite) - Turn any field on your Lucid models to an attachment data type
 - [adonisjs/route-model-binding](https://github.com/adonisjs/route-model-binding) - Add route model binding to your AdonisJS applications
-- [riipandi/tauri-tray-app](https://github.com/riipandi/tauri-tray-app) - Starter project for building desktop app with tray status using Tauri, and React.
 - [mezg0/vue-ui](https://github.com/mezg0/vue-ui) - 
 - [rksm/hot-lib-reloader-rs](https://github.com/rksm/hot-lib-reloader-rs) - Reload Rust code without app restarts. For faster feedback cycles.
 - [Kaperskyguru/adonis-cache](https://github.com/Kaperskyguru/adonis-cache) - AdonisJS Cache makes it seamless to implement any Caching strategy in AdonisJS 5 applications.
@@ -3122,7 +3126,7 @@
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [joshstevens19/ethereum-multicall](https://github.com/joshstevens19/ethereum-multicall) - Ability to call many ethereum constant function calls in 1 JSONRPC request
 - [mds1/multicall](https://github.com/mds1/multicall) - Multicall: Aggregate multiple constant function call results into one
-- [ronniedroid/getnf](https://github.com/ronniedroid/getnf) - A better way to install NerdFonts
+- [getnf/getnf](https://github.com/getnf/getnf) - A better way to install NerdFonts
 - [supertuxkart/stk-code](https://github.com/supertuxkart/stk-code) - The code base of supertuxkart
 - [benmccann/esm-env](https://github.com/benmccann/esm-env) - 
 - [rwasm/vite-rsw-wasm-template](https://github.com/rwasm/vite-rsw-wasm-template) - Vite + Rust 💖 WebAssembly
@@ -3135,7 +3139,7 @@
 - [unjs/unhead](https://github.com/unjs/unhead) - Unhead is the any-framework document head manager built for performance and delightful developer experience.
 - [geelen/npx-import](https://github.com/geelen/npx-import) - 
 - [remorses/esbuild-plugins](https://github.com/remorses/esbuild-plugins) - Collection of useful esbuild js plugins
-- [SergioBenitez/cookie-rs](https://github.com/SergioBenitez/cookie-rs) - HTTP cookie parsing and cookie jar management for Rust.
+- [rwf2/cookie-rs](https://github.com/rwf2/cookie-rs) - HTTP cookie parsing and cookie jar management for Rust.
 - [lunatic-solutions/submillisecond](https://github.com/lunatic-solutions/submillisecond) - A lunatic web framework
 - [dtolnay/async-trait](https://github.com/dtolnay/async-trait) - Type erasure for async trait methods
 - [SergioBenitez/state](https://github.com/SergioBenitez/state) - A Rust library for safe and effortless global and thread-local state management.
@@ -3599,7 +3603,7 @@
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [feross/vlc-command](https://github.com/feross/vlc-command) - Find VLC player command line path
 - [zhoudewei2526/transform-jsx-vue3](https://github.com/zhoudewei2526/transform-jsx-vue3) - transform jsx in vue3
-- [nuxt-community/auth-module](https://github.com/nuxt-community/auth-module) - Zero-boilerplate authentication support for Nuxt 2!
+- [nuxt-community/auth-module](https://github.com/nuxt-community/auth-module) - Zero-boilerplate authentication support for Nuxt 2
 - [kirschbaum-development/nova-inline-relationship](https://github.com/kirschbaum-development/nova-inline-relationship) - A package to present relationships as inline properties in Nova.
 - [vuedx/languagetools](https://github.com/vuedx/languagetools) - A collection of tools for better IDE experience.
 - [JimmyLaurent/torrent-search-api](https://github.com/JimmyLaurent/torrent-search-api) - Yet another node torrent scraper (supports iptorrents, torrentleech, torrent9, torrentz2, 1337x, thepiratebay, Yggtorrent, TorrentProject, Eztv, Yts, LimeTorrents)
@@ -4507,6 +4511,7 @@
 
 ## rust 
 
+- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
 - [dylanblokhuis/tpaint](https://github.com/dylanblokhuis/tpaint) - Build a native GUI with Dioxus on whatever platform that can render triangles
 - [m1guelpf/repair-json](https://github.com/m1guelpf/repair-json) - Repair incomplete JSON (e.g. from streaming APIs or AI models) so it can be parsed as it's received.
@@ -4792,7 +4797,7 @@
 - [nuxt/vercel-builder](https://github.com/nuxt/vercel-builder) - Vercel Builder for Nuxt
 - [nuxt/nitro-demo](https://github.com/nuxt/nitro-demo) - nuxt nitro preview
 - [KABBOUCHI/laravel-vercel](https://github.com/KABBOUCHI/laravel-vercel) - Laravel Vercel - Adapter/Bridge
-- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Use AWS Lambda and other managed cloud services to build apps that auto-scale, cost nothing when idle, and boast radically low maintenance.
 - [brefphp/laravel-bridge](https://github.com/brefphp/laravel-bridge) - Package to use Laravel on AWS Lambda with Bref
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module. Never fail to scale with Art
 - [rafter-platform/rafter-alpha](https://github.com/rafter-platform/rafter-alpha) - (Archived) Serverless deployment platform powered by Google Cloud
@@ -4974,6 +4979,8 @@
 
 ## terminal 
 
+- [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
+- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
@@ -5034,6 +5041,7 @@
 
 ## typescript 
 
+- [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
 - [kitajs/html](https://github.com/kitajs/html) - 🏛️ Super fast JSX runtime to generate HTML strings that works everywhere. If it supports string we got you covered.
 - [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework) - A new full-featured and high-performance TypeScript framework
@@ -5054,6 +5062,7 @@
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [ariym/whisper-node](https://github.com/ariym/whisper-node) - Node.js bindings for OpenAI's Whisper. (C++ CPU version by ggerganov)
+- [riipandi/tauri-tray-app](https://github.com/riipandi/tauri-tray-app) - This project template should help get you started developing multi platform desktop application with tray status using Tauri, Typescript, and Vite.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [ehmicky/error-serializer](https://github.com/ehmicky/error-serializer) - Convert errors to/from plain objects.
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
@@ -5221,7 +5230,7 @@
 - [neuecc/UniRx](https://github.com/neuecc/UniRx) - Reactive Extensions for Unity
 - [wave-harmonic/crest](https://github.com/wave-harmonic/crest) - A class-leading water system implemented in Unity
 - [marian42/wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse) - Walk through an infinite, procedurally generated city
-- [ThusSpokeNomad/GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Game Network Programming Resources
+- [ThusSpokeNomad/GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Multiplayer Game Network Programming (Netcode) Resources
 - [keijiro/Kino](https://github.com/keijiro/Kino) - A collection of custom post processing effects for Unity
 - [mob-sakai/UIEffect](https://github.com/mob-sakai/UIEffect) - UIEffect is an effect component for uGUI element in Unity. Let's decorate your UI with effects!
 - [AdultLink/RadialProgressBar](https://github.com/AdultLink/RadialProgressBar) - Customizable radial progress bar shader for Unity3D. Allows you to set arc range, minimum and maximum colors, textures, radius, and a few more things. Create HP Bars, Speedometers, rank progress, etc!
@@ -5255,7 +5264,7 @@
 
 ## unreal-engine 
 
-- [ThusSpokeNomad/GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Game Network Programming Resources
+- [ThusSpokeNomad/GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Multiplayer Game Network Programming (Netcode) Resources
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 
 ## vim 
@@ -5634,6 +5643,7 @@
 
 ## web-components 
 
+- [riipandi/tauri-tray-app](https://github.com/riipandi/tauri-tray-app) - This project template should help get you started developing multi platform desktop application with tray status using Tauri, Typescript, and Vite.
 - [github/include-fragment-element](https://github.com/github/include-fragment-element) - A client-side includes tag.
 - [KABBOUCHI/date-countdown-component](https://github.com/KABBOUCHI/date-countdown-component) - https://kabbouchi.github.io/date-countdown-component
 - [karol-f/vue-custom-element](https://github.com/karol-f/vue-custom-element) - Vue Custom Element - Web Components' Custom Elements for Vue.js

@@ -1155,6 +1155,7 @@
 
 ## PHP 
 
+- [laravel/reverb](https://github.com/laravel/reverb) - Laravel Reverb provides a real-time WebSocket communication backend for Laravel applications.
 - [calebporzio/livewire-uncovered](https://github.com/calebporzio/livewire-uncovered) - 
 - [laravel/pulse](https://github.com/laravel/pulse) - Laravel Pulse is a real-time application performance monitoring tool and dashboard for your Laravel application.
 - [php-youtubers/directory](https://github.com/php-youtubers/directory) - Curated a list of PHP YouTubers. 📋
@@ -1750,6 +1751,9 @@
 
 ## Rust 
 
+- [Couch-Chilis/sudoku-pi](https://github.com/Couch-Chilis/sudoku-pi) - Finger-friendly Sudoku game
+- [443eb9/bevy_incandescent](https://github.com/443eb9/bevy_incandescent) - A 2d lighting crate for bevy.
+- [rive-app/rive-rs](https://github.com/rive-app/rive-rs) - 
 - [hytopiagg/bevy_wry_webview](https://github.com/hytopiagg/bevy_wry_webview) - An embedded webview in Bevy using Wry's child windows
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript with Rollup-compatible API.

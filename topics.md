@@ -3237,7 +3237,7 @@
 - [justjavac/vue-cli-renderer](https://github.com/justjavac/vue-cli-renderer) - 
 - [lmiller1990/vue-pdf-renderer-demo](https://github.com/lmiller1990/vue-pdf-renderer-demo) - Demo on building a custom Vue 3 PDF renderer
 - [vadimdemedes/yoga-layout-prebuilt](https://github.com/vadimdemedes/yoga-layout-prebuilt) - Prebuilt yoga-layout package
-- [facebook/yoga](https://github.com/facebook/yoga) - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
+- [facebook/yoga](https://github.com/facebook/yoga) - Yoga is an embeddable layout engine targeting web standards.
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
 - [wheatjs/vue-2048](https://github.com/wheatjs/vue-2048) - Multiplayer version of 2048 written in Vue
 - [zzzprojects/html-agility-pack](https://github.com/zzzprojects/html-agility-pack) - Html Agility Pack (HAP) is a free and open-source HTML parser written in C# to read/write DOM and supports plain XPATH or XSLT. It is a .NET code library that allows you to parse "out of the web" HTML

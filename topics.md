@@ -2368,6 +2368,7 @@
 
 - [Plume-org/rocket_i18n](https://github.com/Plume-org/rocket_i18n) - A crate to help you internationalize your Rocket applications.
 - [franzdumfart/laravel-nova-localizations](https://github.com/franzdumfart/laravel-nova-localizations) - 🌎 Localization files for Laravel Nova
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 126 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
 
 ## low-code 
 

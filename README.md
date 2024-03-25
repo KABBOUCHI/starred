@@ -285,6 +285,7 @@
 
 ## C++ 
 
+- [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.6.53877, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.53622)
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
@@ -1749,6 +1750,7 @@
 
 ## Rust 
 
+- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [ramosbugs/oauth2-rs](https://github.com/ramosbugs/oauth2-rs) - Extensible, strongly-typed Rust OAuth2 client library
 - [UmbraLuminosa/sickle_ui](https://github.com/UmbraLuminosa/sickle_ui) - A widget library built on top of bevy_ui.
 - [tamasfe/aide](https://github.com/tamasfe/aide) - An API documentation library

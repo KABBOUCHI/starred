@@ -1751,6 +1751,7 @@
 
 ## Rust 
 
+- [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [ramosbugs/oauth2-rs](https://github.com/ramosbugs/oauth2-rs) - Extensible, strongly-typed Rust OAuth2 client library
 - [UmbraLuminosa/sickle_ui](https://github.com/UmbraLuminosa/sickle_ui) - A widget library built on top of bevy_ui.

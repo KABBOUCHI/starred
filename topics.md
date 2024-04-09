@@ -550,7 +550,7 @@
 - [sobelio/llm-chain](https://github.com/sobelio/llm-chain) - `llm-chain` is a powerful rust crate for building chains in large language models allowing you to summarise text and complete complex tasks
 - [henrycunh/golem](https://github.com/henrycunh/golem) - ✨ A beautiful UI for ChatGPT and other conversational models
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
-- [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
+- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
 - [botisan-ai/gpt3-tokenizer](https://github.com/botisan-ai/gpt3-tokenizer) - Isomorphic JavaScript/TypeScript Tokenizer for GPT-3 and Codex Models by OpenAI.
 
 ## chatgpt-api 
@@ -1512,7 +1512,7 @@
 
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.6.53989, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.53622, cata classic = 4.4.0.54027)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.6.54070, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.53622, cata classic = 4.4.0.54027)
 - [getsentry/sentry-rust](https://github.com/getsentry/sentry-rust) - Official Sentry SDK for Rust
 - [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace) - All of the official Tauri plugins in one place!
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
@@ -1540,7 +1540,6 @@
 - [ethereum-lists/chains](https://github.com/ethereum-lists/chains) - provides metadata for chains
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [smogon/pokemon-showdown-client](https://github.com/smogon/pokemon-showdown-client) - The client for Pokémon Showdown
 - [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
 - [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust.
@@ -2354,7 +2353,7 @@
 
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [deviceplug/btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.6.53989, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.53622, cata classic = 4.4.0.54027)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.6.54070, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.53622, cata classic = 4.4.0.54027)
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
@@ -2850,6 +2849,7 @@
 
 ## others 
 
+- [rust-mobile/xbuild](https://github.com/rust-mobile/xbuild) - Cross compile rust to any platform
 - [gabriel-gheorghe/wings](https://github.com/gabriel-gheorghe/wings) - A new way to build User Interfaces on top of BevyUI.
 - [KABBOUCHI/adonisjs-jobs](https://github.com/KABBOUCHI/adonisjs-jobs) - Job processing for AdonisJS
 - [unjs/undio](https://github.com/unjs/undio) - ⇔ Conventionally and Safely convert between various JavaScript data types

@@ -1158,6 +1158,7 @@
 
 ## PHP 
 
+- [renoki-co/l1](https://github.com/renoki-co/l1) - Extend your PHP/Laravel application with Cloudflare bindings.
 - [laravel/reverb](https://github.com/laravel/reverb) - Laravel Reverb provides a real-time WebSocket communication backend for Laravel applications.
 - [calebporzio/livewire-uncovered](https://github.com/calebporzio/livewire-uncovered) - 
 - [laravel/pulse](https://github.com/laravel/pulse) - Laravel Pulse is a real-time application performance monitoring tool and dashboard for your Laravel application.
@@ -1754,6 +1755,7 @@
 
 ## Rust 
 
+- [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 - [rust-mobile/xbuild](https://github.com/rust-mobile/xbuild) - Cross compile rust to any platform
 - [gabriel-gheorghe/wings](https://github.com/gabriel-gheorghe/wings) - A new way to build User Interfaces on top of BevyUI.
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
@@ -2464,7 +2466,7 @@
 - [dwightjack/vue-types](https://github.com/dwightjack/vue-types) - Vue Prop Types definitions
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
 - [unjs/giget](https://github.com/unjs/giget) - ✨ Download templates and git repositories with pleasure!
-- [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
+- [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
 - [nuxtus/localtunnel](https://github.com/nuxtus/localtunnel) - Localtunnel module for Nuxt to allow remote/external access to your Nuxt development server.
 - [danielroe/nuxt-zero-js](https://github.com/danielroe/nuxt-zero-js) - Remove all client-side JS from your Nuxt 3 app
 - [nuxt-modules/fontaine](https://github.com/nuxt-modules/fontaine) - 🔤 Font metric overrides to reduce CLS

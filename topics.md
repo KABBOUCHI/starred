@@ -2853,6 +2853,8 @@
 
 ## others 
 
+- [matthunz/bevy-compose](https://github.com/matthunz/bevy-compose) - 
+- [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [rust-mobile/xbuild](https://github.com/rust-mobile/xbuild) - Cross compile rust to any platform
 - [gabriel-gheorghe/wings](https://github.com/gabriel-gheorghe/wings) - A new way to build User Interfaces on top of BevyUI.
 - [KABBOUCHI/adonisjs-jobs](https://github.com/KABBOUCHI/adonisjs-jobs) - Job processing for AdonisJS

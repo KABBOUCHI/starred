@@ -289,7 +289,7 @@
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.6.54070, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.53622, cata classic = 4.4.0.54027)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.6.54205, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.53622, cata classic = 4.4.0.54027)
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
@@ -2202,7 +2202,7 @@
 
 - [Winetricks/winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
 - [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
-- [getnf/getnf](https://github.com/getnf/getnf) - A better way to install NerdFonts
+- [getnf/getnf](https://github.com/getnf/getnf) - A better way to install Nerd Fonts
 - [rust-build/rust-build.action](https://github.com/rust-build/rust-build.action) - Automate publishing Rust build artifacts for GitHub releases through GitHub Actions
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [edbizarro/gitlab-ci-pipeline-php](https://github.com/edbizarro/gitlab-ci-pipeline-php) - :coffee: Docker images for test PHP applications with Gitlab CI (or any other CI platform!)

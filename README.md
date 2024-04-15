@@ -720,7 +720,7 @@
 - [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
 - [websockets/wscat](https://github.com/websockets/wscat) - WebSocket cat
 - [NekR/self-destroying-sw](https://github.com/NekR/self-destroying-sw) - Code-snippets and guides on removing ServiceWorker from a websiste.
-- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - browserless is an efficient way to interact with a headless browser built on top of puppeteer.
+- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - The headless Chrome/Chromium driver on top of Puppeteer.
 - [GoogleChromeLabs/critters](https://github.com/GoogleChromeLabs/critters) - 🦔 A Webpack plugin to inline your critical CSS and lazy-load the rest.
 - [bowser-js/bowser](https://github.com/bowser-js/bowser) - a browser detector
 - [beyondcode/tailwindcss-jit-cdn](https://github.com/beyondcode/tailwindcss-jit-cdn) - Tailwind CSS JIT in your browser

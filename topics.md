@@ -3427,7 +3427,7 @@
 - [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement
 - [websockets/wscat](https://github.com/websockets/wscat) - WebSocket cat
 - [NekR/self-destroying-sw](https://github.com/NekR/self-destroying-sw) - Code-snippets and guides on removing ServiceWorker from a websiste.
-- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - browserless is an efficient way to interact with a headless browser built on top of puppeteer.
+- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - The headless Chrome/Chromium driver on top of Puppeteer.
 - [nuxt-modules/critters](https://github.com/nuxt-modules/critters) - CSS optimization using critters for Nuxt
 - [wheatjs/vaguer](https://github.com/wheatjs/vaguer) - Vite/Vue Component Library Template
 - [oclif/cli-ux](https://github.com/oclif/cli-ux) - CLI IO utilities

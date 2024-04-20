@@ -577,6 +577,7 @@
 
 ## cli 
 
+- [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A lightweight proxy for capturing HTTP(S) and WS(S) traffic.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
@@ -1738,6 +1739,7 @@
 
 ## http 
 
+- [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A lightweight proxy for capturing HTTP(S) and WS(S) traffic.
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
@@ -2434,6 +2436,7 @@
 
 ## macos 
 
+- [ahkohd/tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) - 🥃 a plugin for swizzling Tauri’s NSWindow to NSPanel
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [zorgiepoo/Bit-Slicer](https://github.com/zorgiepoo/Bit-Slicer) - Universal game trainer for macOS
 - [deviceplug/btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library
@@ -2853,6 +2856,8 @@
 
 ## others 
 
+- [rylev/DMG-01](https://github.com/rylev/DMG-01) - A Gameboy Emulator in Rust
+- [b23r0/rsocx](https://github.com/b23r0/rsocx) - A bind/reverse Socks5 proxy server.
 - [gr3p1p3/transparent-proxy](https://github.com/gr3p1p3/transparent-proxy) - 
 - [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus) - A Nuxt module that enables complex routing for Nuxt Pages.
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
@@ -4559,6 +4564,9 @@
 
 ## rust 
 
+- [ahkohd/tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) - 🥃 a plugin for swizzling Tauri’s NSWindow to NSPanel
+- [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A lightweight proxy for capturing HTTP(S) and WS(S) traffic.
+- [dizda/fast-socks5](https://github.com/dizda/fast-socks5) - Fast SOCKS5 client/server implementation written in Rust async/.await (with tokio)
 - [LiamGallagher737/learnbevy](https://github.com/LiamGallagher737/learnbevy) - An online web app for playing around with Bevy in the browser (unoffical)
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost

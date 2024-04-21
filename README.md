@@ -71,6 +71,7 @@
 
 ## C 
 
+- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [nut-tree/libnut-core](https://github.com/nut-tree/libnut-core) - An Node-API addon for desktop automation
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
@@ -1947,7 +1948,7 @@
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [Gadersd/stable-diffusion-burn](https://github.com/Gadersd/stable-diffusion-burn) - Stable Diffusion v1.4 ported to Rust's burn framework
 - [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust
-- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
+- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
 - [xkevio/kevboy](https://github.com/xkevio/kevboy) - A Game Boy and Game Boy Color emulator in Rust.
 - [aevyrie/bevy_eventlistener](https://github.com/aevyrie/bevy_eventlistener) - Event listening, bubbling, and callbacks
 - [servo/core-foundation-rs](https://github.com/servo/core-foundation-rs) - Rust bindings to Core Foundation and other low level libraries on Mac OS X and iOS
@@ -2267,7 +2268,7 @@
 
 - [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus) - A Nuxt module that enables complex routing for Nuxt Pages.
 - [anthropics/anthropic-sdk-typescript](https://github.com/anthropics/anthropic-sdk-typescript) - Access to Anthropic's safety-first language model APIs
-- [LiamGallagher737/learnbevy](https://github.com/LiamGallagher737/learnbevy) - An online web app for playing around with Bevy in the browser (unoffical)
+- [LiamGallagher737/learnbevy](https://github.com/LiamGallagher737/learnbevy) - An online web app for playing around with Bevy in the browser (unofficial)
 - [pi0/nuxt-shiki](https://github.com/pi0/nuxt-shiki) - 🎨 Nuxt + Shiki syntax highlighter
 - [KABBOUCHI/adonisjs-jobs](https://github.com/KABBOUCHI/adonisjs-jobs) - Job processing for AdonisJS
 - [paulmillr/noble-curves](https://github.com/paulmillr/noble-curves) - Audited & minimal JS implementation of elliptic curve cryptography.
@@ -2300,7 +2301,7 @@
 - [antfu/drauu](https://github.com/antfu/drauu) - Headless SVG-based drawboard in browser.
 - [poppinss/macroable](https://github.com/poppinss/macroable) - Extend classes from outside in using Macros and getters
 - [antfu/birpc](https://github.com/antfu/birpc) - Message-based two-way remote procedure call.
-- [antfu/vitesse-nuxt3](https://github.com/antfu/vitesse-nuxt3) - Vitesse for Nuxt 3 🏔💚⚡️
+- [antfu-collective/vitesse-nuxt3](https://github.com/antfu-collective/vitesse-nuxt3) - Vitesse for Nuxt 3 🏔💚⚡️
 - [shikijs/twoslash](https://github.com/shikijs/twoslash) - You take some Shiki, add a hint of TypeScript compiler, and 🎉 incredible static code samples
 - [nuxt-ui-pro/docs](https://github.com/nuxt-ui-pro/docs) - A documentation template made with Nuxt UI Pro.
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
@@ -2404,7 +2405,7 @@
 - [cfortuner/promptable](https://github.com/cfortuner/promptable) - Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀
 - [mascii/vue-yup-form](https://github.com/mascii/vue-yup-form) - Headless form validation with Vue and Yup
 - [antfu/changelogithub](https://github.com/antfu/changelogithub) - Generate changelog for GitHub
-- [antfu/bumpp](https://github.com/antfu/bumpp) - Interactive CLI that bumps your version numbers and more
+- [antfu-collective/bumpp](https://github.com/antfu-collective/bumpp) - Interactive CLI that bumps your version numbers and more
 - [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
 - [vueuse/sound](https://github.com/vueuse/sound) - 🔊 A Vue composable for playing sound effects
 - [unjs/uncrypto](https://github.com/unjs/uncrypto) - Single API for Web Crypto API and Crypto Subtle working in Node.js, Browsers and other runtimes
@@ -2591,7 +2592,7 @@
 - [antfu/vue-starport](https://github.com/antfu/vue-starport) - 🛰 Shared component across routes with animations
 - [leodinas-hao/mongoose-query-parser](https://github.com/leodinas-hao/mongoose-query-parser) - Convert url query string to MongooseJs friendly query object including advanced filtering, sorting, population, string template, type casting and many more...
 - [unjs/nitro](https://github.com/unjs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
-- [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
+- [antfu-collective/vitesse-webext](https://github.com/antfu-collective/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 - [vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa) - Zero-config PWA for Vite
 - [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config preset
 - [Tahul/vue-composable-starter](https://github.com/Tahul/vue-composable-starter) - 🪝 Minimalist starting point for your next Vue Composable
@@ -2725,7 +2726,7 @@
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [laravel/echo](https://github.com/laravel/echo) - Laravel Echo library for beautiful Pusher and Ably integration.
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
-- [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
+- [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
 - [nuxt/image](https://github.com/nuxt/image) - Plug-and-play image optimization for Nuxt applications.
@@ -2746,8 +2747,8 @@
 - [antfu/vscode-iconify](https://github.com/antfu/vscode-iconify) - 🙂 Iconify IntelliSense for VS Code
 - [laravel-presets/pest](https://github.com/laravel-presets/pest) - A preset for installing @pestphp in a fresh Laravel project
 - [preset/preset](https://github.com/preset/preset) - Elegant, ecosystem-agnostic preset mechanism
-- [antfu/vitesse](https://github.com/antfu/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
-- [antfu/taze](https://github.com/antfu/taze) - 🥦 A modern cli tool that keeps your deps fresh
+- [antfu-collective/vitesse](https://github.com/antfu-collective/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
+- [antfu-collective/taze](https://github.com/antfu-collective/taze) - 🥦 A modern cli tool that keeps your deps fresh
 - [nuxt/typescript](https://github.com/nuxt/typescript) - TypeScript Support for Nuxt 2
 - [coreui/coreui-icons](https://github.com/coreui/coreui-icons) - CoreUI Free Icons -  Premium designed free icon set with marks in SVG, Webfont and raster formats
 - [vuedx/preview](https://github.com/vuedx/preview) - Quick prototyping and UI feedback tool built on top Vite
@@ -2941,7 +2942,7 @@
 - [nuxtlabs/vue-telescope-extensions](https://github.com/nuxtlabs/vue-telescope-extensions) - Browser extensions for Vue Telescope
 - [laravel/vapor-ui](https://github.com/laravel/vapor-ui) - The Laravel Vapor UI.
 - [adamwathan/tailwind-take-home-project](https://github.com/adamwathan/tailwind-take-home-project) - 
-- [antfu/icones](https://github.com/antfu/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
+- [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [posva/vite-tailwind-starter](https://github.com/posva/vite-tailwind-starter) - Starter using Vite + Tailwind for super fast prototyping
 - [Akryum/vue-mention](https://github.com/Akryum/vue-mention) - Mention component for Vue.js
 - [mrcrmn/docc](https://github.com/mrcrmn/docc) - A starter documentation theme for Gridsome. Featuring instant search, great navigation and a dark mode!

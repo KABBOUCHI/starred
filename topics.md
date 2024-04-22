@@ -1091,7 +1091,6 @@
 - [bluealloy/revm](https://github.com/bluealloy/revm) - Ethereum Virtual Machine written in rust that is fast and simple to use
 - [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 - [alloy-rs/core](https://github.com/alloy-rs/core) - High-performance, well-tested & documented core libraries for Ethereum, in Rust
-- [codingonion/awesome-rust-list](https://github.com/codingonion/awesome-rust-list) - A collection of some awesome public Rust programming language projects.
 - [5afe/safe-client-gateway](https://github.com/5afe/safe-client-gateway) - Gateway service for Safe apps that serves transaction data conforming with the UI of our mobile apps
 - [smlxl/evm.codes](https://github.com/smlxl/evm.codes) - Source for evm.codes an Ethereum Virtual Machine Opcodes Interactive Reference
 - [RevokeCash/revoke.cash](https://github.com/RevokeCash/revoke.cash) - ❌ Revoke or update your token approvals
@@ -2858,6 +2857,8 @@
 
 ## others 
 
+- [davidmarkclements/fast-redact](https://github.com/davidmarkclements/fast-redact) - very fast object redaction
+- [dtolnay/watt](https://github.com/dtolnay/watt) - Runtime for executing procedural macros as WebAssembly
 - [rylev/DMG-01](https://github.com/rylev/DMG-01) - A Gameboy Emulator in Rust
 - [b23r0/rsocx](https://github.com/b23r0/rsocx) - A bind/reverse Socks5 proxy server.
 - [gr3p1p3/transparent-proxy](https://github.com/gr3p1p3/transparent-proxy) - 
@@ -4438,7 +4439,6 @@
 - [ToluClassics/candle-tutorial](https://github.com/ToluClassics/candle-tutorial) - Tutorial for Porting PyTorch Transformer Models to Candle (Rust)
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
-- [codingonion/awesome-rust-list](https://github.com/codingonion/awesome-rust-list) - A collection of some awesome public Rust programming language projects.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
@@ -4675,7 +4675,7 @@
 - [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations
 - [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
-- [cwabcorp/cwab](https://github.com/cwabcorp/cwab) - A simple, fast, and efficient background job processor for Rust
+- [firstkind/cwab](https://github.com/firstkind/cwab) - A simple, fast, and efficient background job processor for Rust
 - [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust!
 - [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - A powerful web framework built with a simplified design.
 - [kaichaosun/rlt](https://github.com/kaichaosun/rlt) - Localtunnel implementation in Rust, expose local API to the public.

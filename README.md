@@ -584,6 +584,7 @@
 
 ## JavaScript 
 
+- [davidmarkclements/fast-redact](https://github.com/davidmarkclements/fast-redact) - very fast object redaction
 - [gr3p1p3/transparent-proxy](https://github.com/gr3p1p3/transparent-proxy) - 
 - [unjs/unwasm](https://github.com/unjs/unwasm) - 🇼 WebAssembly tools for JavaScript
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
@@ -1761,6 +1762,7 @@
 
 ## Rust 
 
+- [dtolnay/watt](https://github.com/dtolnay/watt) - Runtime for executing procedural macros as WebAssembly
 - [ahkohd/tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) - 🥃 a plugin for swizzling Tauri’s NSWindow to NSPanel
 - [b23r0/rsocx](https://github.com/b23r0/rsocx) - A bind/reverse Socks5 proxy server.
 - [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A lightweight proxy for capturing HTTP(S) and WS(S) traffic.
@@ -2007,7 +2009,7 @@
 - [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
 - [m1guelpf/clippy](https://github.com/m1guelpf/clippy) - AI-powered assistant for your company's docs
 - [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
-- [cwabcorp/cwab](https://github.com/cwabcorp/cwab) - A simple, fast, and efficient background job processor for Rust
+- [firstkind/cwab](https://github.com/firstkind/cwab) - A simple, fast, and efficient background job processor for Rust
 - [rafaelcaricio/backie](https://github.com/rafaelcaricio/backie) - Background task processing for Rust applications with Tokio, Diesel, and PostgreSQL.
 - [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust!
 - [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - A powerful web framework built with a simplified design.

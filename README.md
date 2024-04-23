@@ -290,7 +290,7 @@
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.6.54205, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic = 4.4.0.54027)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.6.54358, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic = 4.4.0.54027)
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
@@ -507,7 +507,6 @@
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 - [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
 - [splitsh/lite](https://github.com/splitsh/lite) - Split a repository to read-only standalone repositories
@@ -1762,6 +1761,7 @@
 
 ## Rust 
 
+- [Lommix/bevy_aseprite_ultra](https://github.com/Lommix/bevy_aseprite_ultra) - The ultimate bevy aseprite plugin. Featuring animations and static atlas loading with pivots. Full support for hot reloading!
 - [dtolnay/watt](https://github.com/dtolnay/watt) - Runtime for executing procedural macros as WebAssembly
 - [ahkohd/tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) - 🥃 a plugin for swizzling Tauri’s NSWindow to NSPanel
 - [b23r0/rsocx](https://github.com/b23r0/rsocx) - A bind/reverse Socks5 proxy server.
@@ -2268,6 +2268,7 @@
 
 ## TypeScript 
 
+- [sindresorhus/is](https://github.com/sindresorhus/is) - Type check values
 - [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus) - A Nuxt module that enables complex routing for Nuxt Pages.
 - [anthropics/anthropic-sdk-typescript](https://github.com/anthropics/anthropic-sdk-typescript) - Access to Anthropic's safety-first language model APIs
 - [LiamGallagher737/learnbevy](https://github.com/LiamGallagher737/learnbevy) - An online web app for playing around with Bevy in the browser (unofficial)
@@ -2492,7 +2493,7 @@
 - [Melchyore/adonis-auto-preload](https://github.com/Melchyore/adonis-auto-preload) - Auto-preload multiple relationships when retrieving Lucid models
 - [cpsoinos/nuxt-svgo](https://github.com/cpsoinos/nuxt-svgo) - SVGO loader for Nuxt
 - [eidellev/inertiajs-adonisjs](https://github.com/eidellev/inertiajs-adonisjs) - 
-- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
+- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [e-chan1007/nuxt-monaco-editor](https://github.com/e-chan1007/nuxt-monaco-editor) - Integrate monaco-editor with Nuxt
 - [verful/adonis-notifications](https://github.com/verful/adonis-notifications) - Handle notifications on your AdonisJS applications
 - [wheatjs/vite-plugin-vue-type-imports](https://github.com/wheatjs/vite-plugin-vue-type-imports) - Import types in Vue SFC for defineProps
@@ -2740,6 +2741,7 @@
 - [cocopon/tweakpane](https://github.com/cocopon/tweakpane) - :control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes
 - [MarshallOfSound/electron-devtools-installer](https://github.com/MarshallOfSound/electron-devtools-installer) - An easy way to ensure Chrome DevTools extensions into Electron
 - [Arthie/xwind](https://github.com/Arthie/xwind) - Tailwind CSS as a templating language in JS and CSS-in-JS
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [GoogleChromeLabs/bubblewrap](https://github.com/GoogleChromeLabs/bubblewrap) - Bubblewrap is a Command Line Interface (CLI) that helps developers to create a Project for an Android application that launches an existing Progressive Web App (PWAs) using a Trusted Web Activity.
 - [hfour/wsrun](https://github.com/hfour/wsrun) - Command runner for Yarn workspaces. Dependency aware.

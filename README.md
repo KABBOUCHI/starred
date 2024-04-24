@@ -387,7 +387,7 @@
 - [bmw-tech/lumberdash](https://github.com/bmw-tech/lumberdash) - Do you need logs? Lumberdash is the answer!
 - [rrousselGit/riverpod](https://github.com/rrousselGit/riverpod) - A reactive caching and data-binding framework.   Riverpod makes working with asynchronous code a breeze.
 - [FlutterGen/flutter_gen](https://github.com/FlutterGen/flutter_gen) - The Flutter code generator for your assets, fonts, colors, … — Get rid of all String-based APIs.
-- [rive-app/rive-flutter](https://github.com/rive-app/rive-flutter) - 
+- [rive-app/rive-flutter](https://github.com/rive-app/rive-flutter) - Flutter runtime for Rive
 - [hydro-sdk/hydro-sdk](https://github.com/hydro-sdk/hydro-sdk) - Author Flutter experiences in Typescript. No native bridge, no V8. Just Dart. From runtime to virtual machine.
 - [aloisdeniel/flutter_device_preview](https://github.com/aloisdeniel/flutter_device_preview) - Approximate how your app looks and performs on another device.
 - [gskinnerTeam/flokk](https://github.com/gskinnerTeam/flokk) - A fresh and modern Google Contacts manager that integrates with GitHub and Twitter.
@@ -583,6 +583,7 @@
 
 ## JavaScript 
 
+- [KABBOUCHI/adonisjs-livewire](https://github.com/KABBOUCHI/adonisjs-livewire) - A front-end framework for AdonisJS
 - [davidmarkclements/fast-redact](https://github.com/davidmarkclements/fast-redact) - very fast object redaction
 - [gr3p1p3/transparent-proxy](https://github.com/gr3p1p3/transparent-proxy) - 
 - [unjs/unwasm](https://github.com/unjs/unwasm) - 🇼 WebAssembly tools for JavaScript
@@ -2296,7 +2297,6 @@
 - [Julien-R44/verrou](https://github.com/Julien-R44/verrou) - 🔒 Verrou is a library for managing Locks in Node.js. Support multiple drivers
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [nuxt/test-utils](https://github.com/nuxt/test-utils) - 🧪 Test utilities for Nuxt
-- [movie-web/providers](https://github.com/movie-web/providers) - Package that contains all the providers of movie-web
 - [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 - [ad-on-is/adonis-autoswagger](https://github.com/ad-on-is/adonis-autoswagger) - Auto-Generate swagger docs for AdonisJS
 - [adonisjs/lucid](https://github.com/adonisjs/lucid) - AdonisJS SQL ORM. Supports PostgreSQL, MySQL, MSSQL, Redshift, SQLite and many more

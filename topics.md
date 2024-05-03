@@ -448,6 +448,7 @@
 
 ## aws 
 
+- [berops/claudie](https://github.com/berops/claudie) - Cloud-agnostic managed Kubernetes
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Use AWS Lambda and other managed cloud services to build apps that auto-scale, cost nothing when idle, and boast radically low maintenance.
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
@@ -455,6 +456,7 @@
 
 ## azure 
 
+- [berops/claudie](https://github.com/berops/claudie) - Cloud-agnostic managed Kubernetes
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [nuxt/nitro-demo](https://github.com/nuxt/nitro-demo) - nuxt nitro preview
 
@@ -927,6 +929,7 @@
 
 ## devops 
 
+- [berops/claudie](https://github.com/berops/claudie) - Cloud-agnostic managed Kubernetes
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -2084,6 +2087,7 @@
 
 ## kubernetes 
 
+- [berops/claudie](https://github.com/berops/claudie) - Cloud-agnostic managed Kubernetes
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [spatie/laravel-dynamic-servers](https://github.com/spatie/laravel-dynamic-servers) - Dynamically create and destroy servers
@@ -2223,7 +2227,6 @@
 - [appstract/laravel-opcache](https://github.com/appstract/laravel-opcache) - Laravel Package for OPcache
 - [spatie/laravel-resource-links](https://github.com/spatie/laravel-resource-links) - Add links to Laravel API resources
 - [archtechx/tenancy](https://github.com/archtechx/tenancy) - Automatic multi-tenancy for Laravel. No code changes needed.
-- [mad-web/laravel-initializer](https://github.com/mad-web/laravel-initializer) - Install and update Laravel application with single command. Outdated repository, check out updated link.
 - [spatie/laravel-welcome-notification](https://github.com/spatie/laravel-welcome-notification) - Send a welcome notification to new users
 - [Jeroen-G/laravel-packager](https://github.com/Jeroen-G/laravel-packager) - A cli tool for creating Laravel packages
 - [beyondcode/dusk-dashboard](https://github.com/beyondcode/dusk-dashboard) - A beautiful dashboard for your Laravel Dusk tests
@@ -3502,7 +3505,7 @@
 - [wesbos/chit-chats-snipcart-integration](https://github.com/wesbos/chit-chats-snipcart-integration) - Begin app
 - [davidcallanan/os-series](https://github.com/davidcallanan/os-series) - 
 - [Akryum/vue-observe-visibility](https://github.com/Akryum/vue-observe-visibility) - Detect when an element is becoming visible or hidden on the page.
-- [RealPeha/This-Repo-Has-1748-Stars](https://github.com/RealPeha/This-Repo-Has-1748-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1749-Stars](https://github.com/RealPeha/This-Repo-Has-1749-Stars) - Yes, it's true :purple_heart:
 - [xsoulspace/vuefer](https://github.com/xsoulspace/vuefer) - Vue3 styled like Flutter with Tailwind CSS
 - [IndexXuan/vue-cli-plugin-vite](https://github.com/IndexXuan/vue-cli-plugin-vite) - Use vite today, with vue-cli.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
@@ -4223,7 +4226,6 @@
 - [spatie/test-time](https://github.com/spatie/test-time) - A helper to control the flow of time
 - [brick/money](https://github.com/brick/money) - A money and currency library for PHP
 - [spatie/laravel-resource-links](https://github.com/spatie/laravel-resource-links) - Add links to Laravel API resources
-- [mad-web/laravel-initializer](https://github.com/mad-web/laravel-initializer) - Install and update Laravel application with single command. Outdated repository, check out updated link.
 - [davidhsianturi/laravel-compass](https://github.com/davidhsianturi/laravel-compass) - A REST client inside your Laravel app
 - [optixsolutions/laravel-media](https://github.com/optixsolutions/laravel-media) - Attach files to eloquent models
 - [scrnhq/laravel-bakery](https://github.com/scrnhq/laravel-bakery) - 🍞🧑‍🍳 An on-the-fly GraphQL Schema generator from Eloquent models for Laravel.

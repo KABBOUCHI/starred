@@ -291,7 +291,7 @@
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.6.54358, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic = 4.4.0.54027)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.6.54499, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic = 4.4.0.54027)
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
@@ -479,6 +479,7 @@
 
 ## Go 
 
+- [berops/claudie](https://github.com/berops/claudie) - Cloud-agnostic managed Kubernetes
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
@@ -560,6 +561,7 @@
 
 ## Java 
 
+- [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages.
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
@@ -748,7 +750,7 @@
 - [tailwindlabs/tailwindcss-jit](https://github.com/tailwindlabs/tailwindcss-jit) - 
 - [bradoyler/route-cache](https://github.com/bradoyler/route-cache) - ⚡ Caching middleware for Express (w/ expiration)
 - [Akryum/vue-observe-visibility](https://github.com/Akryum/vue-observe-visibility) - Detect when an element is becoming visible or hidden on the page.
-- [RealPeha/This-Repo-Has-1748-Stars](https://github.com/RealPeha/This-Repo-Has-1748-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1749-Stars](https://github.com/RealPeha/This-Repo-Has-1749-Stars) - Yes, it's true :purple_heart:
 - [maoberlehner/vue-lazy-hydration](https://github.com/maoberlehner/vue-lazy-hydration) - Lazy Hydration of Server-Side Rendered Vue.js Components
 - [QingWei-Li/vue-trend](https://github.com/QingWei-Li/vue-trend) - 🌈 Simple, elegant spark lines for Vue.js
 - [tailwindlabs/tailwindcss-from-zero-to-production](https://github.com/tailwindlabs/tailwindcss-from-zero-to-production) - Source code for the "Tailwind CSS Up and Running" screencast series.
@@ -1373,7 +1375,6 @@
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
 - [spatie/laravel-resource-links](https://github.com/spatie/laravel-resource-links) - Add links to Laravel API resources
 - [archtechx/tenancy](https://github.com/archtechx/tenancy) - Automatic multi-tenancy for Laravel. No code changes needed.
-- [mad-web/laravel-initializer](https://github.com/mad-web/laravel-initializer) - Install and update Laravel application with single command. Outdated repository, check out updated link.
 - [spatie/laravel-welcome-notification](https://github.com/spatie/laravel-welcome-notification) - Send a welcome notification to new users
 - [jasonmccreary/laravel-test-assertions](https://github.com/jasonmccreary/laravel-test-assertions) - A set of helpful assertions when testing Laravel applications.
 - [Jeroen-G/packager-skeleton](https://github.com/Jeroen-G/packager-skeleton) - Skeleton for creating Laravel packages with Laravel Packager
@@ -2493,6 +2494,7 @@
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
 - [nuxtus/localtunnel](https://github.com/nuxtus/localtunnel) - Localtunnel module for Nuxt to allow remote/external access to your Nuxt development server.
 - [danielroe/nuxt-zero-js](https://github.com/danielroe/nuxt-zero-js) - Remove all client-side JS from your Nuxt 3 app
+- [nuxt-modules/icon](https://github.com/nuxt-modules/icon) - The &lt;Icon&gt; component, supporting Iconify, Emojis and custom components.
 - [nuxt-modules/fontaine](https://github.com/nuxt-modules/fontaine) - 🔤 Font metric overrides to reduce CLS
 - [game-ci/unity-builder](https://github.com/game-ci/unity-builder) - Build Unity projects for different platforms
 - [Melchyore/adonis-auto-preload](https://github.com/Melchyore/adonis-auto-preload) - Auto-preload multiple relationships when retrieving Lucid models
@@ -2912,7 +2914,6 @@
 - [zernonia/keypress](https://github.com/zernonia/keypress) - KeyPress - an open-source blogging platform + free custom domains.
 - [kevinmarrec/nuxt-modals-module](https://github.com/kevinmarrec/nuxt-modals-module) - 
 - [xiaoluoboding/vue-command-palette](https://github.com/xiaoluoboding/vue-command-palette) - ⌨️ A fast, composable, unstyled command palette interface for Vue.
-- [nuxt-modules/icon](https://github.com/nuxt-modules/icon) - The &lt;Icon&gt; component, supporting Iconify, Emojis and custom components.
 - [webfansplz/temir-snake-game](https://github.com/webfansplz/temir-snake-game) - Terminal-based Snake game. Powered by Temir.
 - [nuxtlabs/vue-telescope-website](https://github.com/nuxtlabs/vue-telescope-website) - Discover Websites made with Vue.js
 - [jurassicjs/nuxt3-fullstack-tutorial](https://github.com/jurassicjs/nuxt3-fullstack-tutorial) - Full Stack Nuxt App Tutorial

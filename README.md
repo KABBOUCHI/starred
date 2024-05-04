@@ -1765,6 +1765,7 @@
 
 ## Rust 
 
+- [brson/stdx](https://github.com/brson/stdx) - The missing batteries of Rust
 - [m1guelpf/prompt-organizer](https://github.com/m1guelpf/prompt-organizer) - A simple library to better manage AI prompts in your Rust code.
 - [ajmwagar/merino](https://github.com/ajmwagar/merino) - :sheep: A SOCKS5 Proxy server written in Rust
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
@@ -2158,7 +2159,7 @@
 - [PistonDevelopers/glfw-rs](https://github.com/PistonDevelopers/glfw-rs) - GLFW3 bindings and idiomatic wrapper for Rust.
 - [brendanzab/gl-rs](https://github.com/brendanzab/gl-rs) - An OpenGL function pointer loader for Rust
 - [not-fl3/miniquad](https://github.com/not-fl3/miniquad) - Cross platform rendering in Rust
-- [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Cross-platform, safe, pure-rust graphics api.
+- [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [trunk-rs/trunk](https://github.com/trunk-rs/trunk) - Build, bundle & ship your Rust WASM application to the web.
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.

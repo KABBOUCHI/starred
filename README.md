@@ -291,7 +291,7 @@
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.6.54499, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic = 4.4.0.54027)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.7.54604, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic = 4.4.0.54027)
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
@@ -2278,6 +2278,8 @@
 
 ## TypeScript 
 
+- [unjs/unrouting](https://github.com/unjs/unrouting) - Making filesystem routing universal
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [egoist/tipc](https://github.com/egoist/tipc) - End-to-end typesafe IPC for Electron
 - [sindresorhus/is](https://github.com/sindresorhus/is) - Type check values
 - [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus) - A Nuxt module that enables complex routing for Nuxt Pages.

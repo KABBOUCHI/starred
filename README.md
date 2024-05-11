@@ -2284,6 +2284,8 @@
 
 ## TypeScript 
 
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
+- [posva/event-emitter](https://github.com/posva/event-emitter) - &lt;200 bytes type safe extendable event emitter / pubsub class
 - [unjs/unrouting](https://github.com/unjs/unrouting) - Making filesystem routing universal
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [egoist/tipc](https://github.com/egoist/tipc) - End-to-end typesafe IPC for Electron

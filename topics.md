@@ -421,7 +421,7 @@
 ## awesome-list 
 
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [codingonion/awesome-rust-list](https://github.com/codingonion/awesome-rust-list) - A collection of some awesome public Rust programming language projects.
+- [codingonion/awesome-rust-list](https://github.com/codingonion/awesome-rust-list) - 🔥🔥🔥 This repository lists some awesome public Rust projects, Videos, Blogs and Jobs.
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -555,7 +555,7 @@
 - [0x676e67/ninja](https://github.com/0x676e67/ninja) - Reverse engineered ChatGPT proxy
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database.
-- [codingonion/awesome-rust-list](https://github.com/codingonion/awesome-rust-list) - A collection of some awesome public Rust programming language projects.
+- [codingonion/awesome-rust-list](https://github.com/codingonion/awesome-rust-list) - 🔥🔥🔥 This repository lists some awesome public Rust projects, Videos, Blogs and Jobs.
 - [sobelio/llm-chain](https://github.com/sobelio/llm-chain) - `llm-chain` is a powerful rust crate for building chains in large language models allowing you to summarise text and complete complex tasks
 - [henrycunh/golem](https://github.com/henrycunh/golem) - ✨ A beautiful UI for ChatGPT and other conversational models
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
@@ -684,7 +684,7 @@
 
 ## computer-vision 
 
-- [codingonion/awesome-rust-list](https://github.com/codingonion/awesome-rust-list) - A collection of some awesome public Rust programming language projects.
+- [codingonion/awesome-rust-list](https://github.com/codingonion/awesome-rust-list) - 🔥🔥🔥 This repository lists some awesome public Rust projects, Videos, Blogs and Jobs.
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Fast, easy to use, and simple to integrate.  Built in Rust using egui.
 - [shimat/opencvsharp](https://github.com/shimat/opencvsharp) - OpenCV wrapper for .NET
 - [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - 3D Reconstruction Software
@@ -2408,7 +2408,7 @@
 - [mistralai/mistral-src](https://github.com/mistralai/mistral-src) - Reference implementation of Mistral AI 7B v0.1 model.
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database.
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
-- [codingonion/awesome-rust-list](https://github.com/codingonion/awesome-rust-list) - A collection of some awesome public Rust programming language projects.
+- [codingonion/awesome-rust-list](https://github.com/codingonion/awesome-rust-list) - 🔥🔥🔥 This repository lists some awesome public Rust projects, Videos, Blogs and Jobs.
 - [belladoreai/llama-tokenizer-js](https://github.com/belladoreai/llama-tokenizer-js) - JS tokenizer for LLaMA and LLaMA 2
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [sobelio/llm-chain](https://github.com/sobelio/llm-chain) - `llm-chain` is a powerful rust crate for building chains in large language models allowing you to summarise text and complete complex tasks
@@ -2472,7 +2472,7 @@
 
 ## macos 
 
-- [ahkohd/tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) - 🥃 a plugin for swizzling Tauri’s NSWindow to NSPanel
+- [ahkohd/tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) - Tauri plugin to convert a window to panel
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [zorgiepoo/Bit-Slicer](https://github.com/zorgiepoo/Bit-Slicer) - Universal game trainer for macOS
 - [deviceplug/btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library
@@ -4620,7 +4620,7 @@
 
 - [yoshuawuyts/futures-concurrency](https://github.com/yoshuawuyts/futures-concurrency) - Structured concurrency operations for async Rust
 - [ColinEberhardt/wasm-rust-chip8](https://github.com/ColinEberhardt/wasm-rust-chip8) - A WebAssembly CHIP-8 emulator written with Rust
-- [ahkohd/tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) - 🥃 a plugin for swizzling Tauri’s NSWindow to NSPanel
+- [ahkohd/tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) - Tauri plugin to convert a window to panel
 - [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A lightweight proxy for capturing HTTP(S) and WS(S) traffic.
 - [dizda/fast-socks5](https://github.com/dizda/fast-socks5) - Fast SOCKS5 client/server implementation written in Rust async/.await (with tokio)
 - [LiamGallagher737/learnbevy](https://github.com/LiamGallagher737/learnbevy) - An online web app for playing around with Bevy in the browser (unofficial)
@@ -4700,7 +4700,7 @@
 - [PistonDevelopers/piston](https://github.com/PistonDevelopers/piston) - A modular game engine written in Rust
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
 - [JelteF/derive_more](https://github.com/JelteF/derive_more) - Some more derive(Trait) options
-- [codingonion/awesome-rust-list](https://github.com/codingonion/awesome-rust-list) - A collection of some awesome public Rust programming language projects.
+- [codingonion/awesome-rust-list](https://github.com/codingonion/awesome-rust-list) - 🔥🔥🔥 This repository lists some awesome public Rust projects, Videos, Blogs and Jobs.
 - [BlackPhlox/bevy_dolly](https://github.com/BlackPhlox/bevy_dolly) - h3r2tic's dolly abstraction layer for the bevy game framework
 - [ggez/ggez](https://github.com/ggez/ggez) - Rust library to create a Good Game Easily
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.

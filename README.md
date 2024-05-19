@@ -72,6 +72,7 @@
 
 ## C 
 
+- [LibVNC/libvncserver](https://github.com/LibVNC/libvncserver) - LibVNCServer/LibVNCClient are cross-platform C libraries that allow you to easily implement VNC server or client functionality in your program.
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [nut-tree/libnut-core](https://github.com/nut-tree/libnut-core) - An Node-API addon for desktop automation
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -1773,6 +1774,9 @@
 
 ## Rust 
 
+- [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
+- [Uriopass/inline_tweak](https://github.com/Uriopass/inline_tweak) - Tweak a Rust value directly in the source code
+- [informationsea/websockify-rs](https://github.com/informationsea/websockify-rs) - Rust implementation of websockify
 - [dtolnay/typeid](https://github.com/dtolnay/typeid) - Const TypeId and non-'static TypeId
 - [yoshuawuyts/futures-concurrency](https://github.com/yoshuawuyts/futures-concurrency) - Structured concurrency operations for async Rust
 - [brson/stdx](https://github.com/brson/stdx) - The missing batteries of Rust
@@ -2229,6 +2233,7 @@
 
 ## Shell 
 
+- [rfbproto/rfbproto](https://github.com/rfbproto/rfbproto) - 
 - [Winetricks/winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
 - [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
 - [getnf/getnf](https://github.com/getnf/getnf) - A better way to install Nerd Fonts
@@ -2895,6 +2900,7 @@
 
 ## Vue 
 
+- [nuxt/learn.nuxt.com](https://github.com/nuxt/learn.nuxt.com) - [Work in Progress] An interactive tutorial and playground for Nuxt
 - [HugoRCD/canvas](https://github.com/HugoRCD/canvas) - Portfolio template made with Nuxt 3, Nuxt Content and TailwindCSS
 - [unjs/undocs](https://github.com/unjs/undocs) - Minimal Documentation theme and CLI for shared usage across UnJS projects.
 - [nuxt-ui-pro/dashboard](https://github.com/nuxt-ui-pro/dashboard) - A dashboard template made with Vue and Nuxt UI Pro.

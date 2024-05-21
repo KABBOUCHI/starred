@@ -1774,6 +1774,8 @@
 
 ## Rust 
 
+- [illicitonion/named](https://github.com/illicitonion/named) - Named arguments and default argument values for rust functions.
+- [sile/wstcp](https://github.com/sile/wstcp) - WebSocket to TCP proxy written in Rust
 - [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
 - [Uriopass/inline_tweak](https://github.com/Uriopass/inline_tweak) - Tweak a Rust value directly in the source code
 - [informationsea/websockify-rs](https://github.com/informationsea/websockify-rs) - Rust implementation of websockify

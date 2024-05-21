@@ -2906,6 +2906,7 @@
 
 ## others 
 
+- [illicitonion/named](https://github.com/illicitonion/named) - Named arguments and default argument values for rust functions.
 - [Uriopass/inline_tweak](https://github.com/Uriopass/inline_tweak) - Tweak a Rust value directly in the source code
 - [rfbproto/rfbproto](https://github.com/rfbproto/rfbproto) - 
 - [informationsea/websockify-rs](https://github.com/informationsea/websockify-rs) - Rust implementation of websockify
@@ -4632,6 +4633,7 @@
 
 ## rust 
 
+- [sile/wstcp](https://github.com/sile/wstcp) - WebSocket to TCP proxy written in Rust
 - [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
 - [yoshuawuyts/futures-concurrency](https://github.com/yoshuawuyts/futures-concurrency) - Structured concurrency operations for async Rust
 - [ColinEberhardt/wasm-rust-chip8](https://github.com/ColinEberhardt/wasm-rust-chip8) - A WebAssembly CHIP-8 emulator written with Rust

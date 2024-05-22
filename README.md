@@ -1774,6 +1774,7 @@
 
 ## Rust 
 
+- [matthiaskrgr/cargo-cache](https://github.com/matthiaskrgr/cargo-cache) - manage cargo cache (${CARGO_HOME}, ~/.cargo/), print sizes of dirs and remove dirs selectively
 - [illicitonion/named](https://github.com/illicitonion/named) - Named arguments and default argument values for rust functions.
 - [sile/wstcp](https://github.com/sile/wstcp) - WebSocket to TCP proxy written in Rust
 - [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.

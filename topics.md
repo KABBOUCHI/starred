@@ -2906,6 +2906,7 @@
 
 ## others 
 
+- [matthiaskrgr/cargo-cache](https://github.com/matthiaskrgr/cargo-cache) - manage cargo cache (${CARGO_HOME}, ~/.cargo/), print sizes of dirs and remove dirs selectively
 - [illicitonion/named](https://github.com/illicitonion/named) - Named arguments and default argument values for rust functions.
 - [Uriopass/inline_tweak](https://github.com/Uriopass/inline_tweak) - Tweak a Rust value directly in the source code
 - [rfbproto/rfbproto](https://github.com/rfbproto/rfbproto) - 

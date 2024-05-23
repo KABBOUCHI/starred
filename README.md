@@ -1039,7 +1039,7 @@
 
 ## Jupyter Notebook 
 
-- [mistralai/mistral-src](https://github.com/mistralai/mistral-src) - Reference implementation of Mistral AI 7B v0.1 model.
+- [mistralai/mistral-inference](https://github.com/mistralai/mistral-inference) - Official inference library for Mistral models
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 - [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [openai/CLIP](https://github.com/openai/CLIP) - CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image
@@ -1724,7 +1724,7 @@
 - [exchangeratesapi/exchangeratesapi](https://github.com/exchangeratesapi/exchangeratesapi) - Exchange Rates API
 - [makehumancommunity/makehuman](https://github.com/makehumancommunity/makehuman) - This is the main repository for the MakeHuman application as such.
 - [artellblender/springbones](https://github.com/artellblender/springbones) - Blender addon to add spring/bouncy dynamic effect to bones
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [JacquesLucke/animation_nodes](https://github.com/JacquesLucke/animation_nodes) - Node based visual scripting system designed for motion graphics in Blender.
 - [ubisoft/mixer](https://github.com/ubisoft/mixer) - Add-on for real-time collaboration in Blender.
 - [CreativeDesigner3D/ProSidebar](https://github.com/CreativeDesigner3D/ProSidebar) - Sidebar for Blender 2.8
@@ -2640,7 +2640,7 @@
 - [CTNicholas/wordle-wars](https://github.com/CTNicholas/wordle-wars) - Multiplayer Wordle clone built with Vue.js & Liveblocks.
 - [libp2p/js-libp2p-webrtc-star](https://github.com/libp2p/js-libp2p-webrtc-star) - libp2p WebRTC transport that includes a discovery mechanism provided by the signalling-star
 - [vue-macros/vue-macros](https://github.com/vue-macros/vue-macros) - Explore and extend more macros and syntax sugar to Vue.
-- [nuxt/module-builder](https://github.com/nuxt/module-builder) - Complete solution to build Nuxt Modules.
+- [nuxt/module-builder](https://github.com/nuxt/module-builder) - Complete solution to build and ship Nuxt modules.
 - [spruceid/siwe](https://github.com/spruceid/siwe) - Sign-In with Ethereum library
 - [Uniswap/deploy-v3](https://github.com/Uniswap/deploy-v3) - CLI to deploy Uniswap V3 to any Ethereum compatible network
 - [unjs/c12](https://github.com/unjs/c12) - ⚙️ Smart Configuration Loader
@@ -2833,7 +2833,7 @@
 - [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
 - [Gomah/nuxt-shopify](https://github.com/Gomah/nuxt-shopify) - 🛍 Seamless Shopify Buy SDK integration with Nuxt.js.
 - [shroudedcode/apk-mitm](https://github.com/shroudedcode/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection

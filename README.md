@@ -1683,6 +1683,7 @@
 
 ## Python 
 
+- [microsoft/SoM](https://github.com/microsoft/SoM) - Set-of-Mark Prompting for LMMs
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 - [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
@@ -2296,6 +2297,8 @@
 
 ## TypeScript 
 
+- [ruifigueira/playwright-crx](https://github.com/ruifigueira/playwright-crx) - Playwright for chrome extensions
+- [openai/openai-node](https://github.com/openai/openai-node) - The official Node.js / Typescript library for the OpenAI API
 - [antfu/trace-record](https://github.com/antfu/trace-record) - Get the stack trace of the creation of objects.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [posva/event-emitter](https://github.com/posva/event-emitter) - &lt;200 bytes type safe extendable event emitter / pubsub class
@@ -2516,7 +2519,7 @@
 - [Tahul/pinceau](https://github.com/Tahul/pinceau) - 🖌️ Make your &lt;script&gt; lighter and your &lt;style&gt; smarter
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [dwightjack/vue-types](https://github.com/dwightjack/vue-types) - Vue Prop Types definitions
-- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
+- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue 
 - [unjs/giget](https://github.com/unjs/giget) - ✨ Download templates and git repositories with pleasure!
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
 - [nuxtus/localtunnel](https://github.com/nuxtus/localtunnel) - Localtunnel module for Nuxt to allow remote/external access to your Nuxt development server.
@@ -2861,7 +2864,7 @@
 - [Developmint/nuxt-purgecss](https://github.com/Developmint/nuxt-purgecss) - Drop superfluous CSS! A neat PurgeCSS wrapper for Nuxt.js
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [stuffmatic/fSpy](https://github.com/stuffmatic/fSpy) - A cross platform app for quick and easy still image camera matching
-- [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
+- [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [laravel/nova-docs](https://github.com/laravel/nova-docs) - The Laravel Nova documentation.

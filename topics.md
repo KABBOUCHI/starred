@@ -2908,6 +2908,7 @@
 
 ## others 
 
+- [OpenZeppelin/merkle-tree](https://github.com/OpenZeppelin/merkle-tree) - A JavaScript library to generate merkle trees and merkle proofs.
 - [flydrive-js/core](https://github.com/flydrive-js/core) - File Storage abstraction for cloud services and local filesystem
 - [ruifigueira/playwright-crx](https://github.com/ruifigueira/playwright-crx) - Playwright for chrome extensions
 - [microsoft/SoM](https://github.com/microsoft/SoM) - Set-of-Mark Prompting for LMMs

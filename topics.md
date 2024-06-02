@@ -540,6 +540,7 @@
 
 ## c 
 
+- [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
 - [LibVNC/libvncserver](https://github.com/LibVNC/libvncserver) - LibVNCServer/LibVNCClient are cross-platform C libraries that allow you to easily implement VNC server or client functionality in your program.
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -2386,6 +2387,7 @@
 
 ## linux 
 
+- [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [deviceplug/btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library
 - [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.7.54904, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic = 4.4.0.54027)
@@ -3193,7 +3195,7 @@
 - [m1guelpf/browser-agent](https://github.com/m1guelpf/browser-agent) - A browser AI agent, using GPT-4
 - [hugoattal/OrbitalMarket](https://github.com/hugoattal/OrbitalMarket) - Enhanced marketplace platform for the Unreal Engine marketplace
 - [nuxt-modules/supabase](https://github.com/nuxt-modules/supabase) - Supabase module for Nuxt.
-- [johannschopplich/nuxt-gtag](https://github.com/johannschopplich/nuxt-gtag) - 🔸 Google Tag integration for Nuxt: Google Analytics, Google Ads and more
+- [johannschopplich/nuxt-gtag](https://github.com/johannschopplich/nuxt-gtag) - 🔸 Google Analytics & Ads integration made easy
 - [antfu/vue-template-promise](https://github.com/antfu/vue-template-promise) - Template as Promise in Vue
 - [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
@@ -4643,6 +4645,7 @@
 
 ## rust 
 
+- [Xudong-Huang/may](https://github.com/Xudong-Huang/may) - rust stackful coroutine library
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 - [sile/wstcp](https://github.com/sile/wstcp) - WebSocket to TCP proxy written in Rust
 - [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.

@@ -2910,6 +2910,8 @@
 
 ## others 
 
+- [laravel/prompts](https://github.com/laravel/prompts) - Beautiful and user-friendly forms for your command-line PHP applications.
+- [linebender/xilem](https://github.com/linebender/xilem) - An experimental Rust native UI framework
 - [ponder-sh/ponder](https://github.com/ponder-sh/ponder) - A backend framework for crypto apps
 - [twistedfall/opencv-rust](https://github.com/twistedfall/opencv-rust) - Rust bindings for OpenCV 3 & 4
 - [OpenZeppelin/merkle-tree](https://github.com/OpenZeppelin/merkle-tree) - A JavaScript library to generate merkle trees and merkle proofs.

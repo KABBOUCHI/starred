@@ -1174,6 +1174,7 @@
 
 ## PHP 
 
+- [laravel/prompts](https://github.com/laravel/prompts) - Beautiful and user-friendly forms for your command-line PHP applications.
 - [HackerExperience/legacy](https://github.com/HackerExperience/legacy) - 
 - [renoki-co/l1](https://github.com/renoki-co/l1) - Extend your PHP/Laravel application with Cloudflare bindings.
 - [laravel/reverb](https://github.com/laravel/reverb) - Laravel Reverb provides a real-time WebSocket communication backend for Laravel applications.
@@ -1776,6 +1777,7 @@
 
 ## Rust 
 
+- [linebender/xilem](https://github.com/linebender/xilem) - An experimental Rust native UI framework
 - [Xudong-Huang/may](https://github.com/Xudong-Huang/may) - rust stackful coroutine library
 - [twistedfall/opencv-rust](https://github.com/twistedfall/opencv-rust) - Rust bindings for OpenCV 3 & 4
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust

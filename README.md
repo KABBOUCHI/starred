@@ -1777,6 +1777,10 @@
 
 ## Rust 
 
+- [servo/stylo](https://github.com/servo/stylo) - 
+- [AccessKit/accesskit](https://github.com/AccessKit/accesskit) - UI accessibility infrastructure across platforms and programming languages
+- [linebender/parley](https://github.com/linebender/parley) - Rich text layout library
+- [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - High performance HTML and CSS renderer powered by WGPU
 - [linebender/xilem](https://github.com/linebender/xilem) - An experimental Rust native UI framework
 - [Xudong-Huang/may](https://github.com/Xudong-Huang/may) - rust stackful coroutine library
 - [twistedfall/opencv-rust](https://github.com/twistedfall/opencv-rust) - Rust bindings for OpenCV 3 & 4

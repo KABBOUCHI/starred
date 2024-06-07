@@ -2910,6 +2910,10 @@
 
 ## others 
 
+- [servo/stylo](https://github.com/servo/stylo) - 
+- [AccessKit/accesskit](https://github.com/AccessKit/accesskit) - UI accessibility infrastructure across platforms and programming languages
+- [linebender/parley](https://github.com/linebender/parley) - Rich text layout library
+- [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - High performance HTML and CSS renderer powered by WGPU
 - [laravel/prompts](https://github.com/laravel/prompts) - Beautiful and user-friendly forms for your command-line PHP applications.
 - [linebender/xilem](https://github.com/linebender/xilem) - An experimental Rust native UI framework
 - [ponder-sh/ponder](https://github.com/ponder-sh/ponder) - A backend framework for crypto apps

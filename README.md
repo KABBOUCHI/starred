@@ -2309,6 +2309,7 @@
 
 ## TypeScript 
 
+- [szimek/signature_pad](https://github.com/szimek/signature_pad) - HTML5 canvas based smooth signature drawing
 - [ponder-sh/ponder](https://github.com/ponder-sh/ponder) - A backend framework for crypto apps
 - [OpenZeppelin/merkle-tree](https://github.com/OpenZeppelin/merkle-tree) - A JavaScript library to generate merkle trees and merkle proofs.
 - [flydrive-js/core](https://github.com/flydrive-js/core) - File Storage abstraction for cloud services and local filesystem
@@ -2629,7 +2630,7 @@
 - [kwhitley/itty-router](https://github.com/kwhitley/itty-router) - A little router.
 - [acuarica/vscode-ethers](https://github.com/acuarica/vscode-ethers) - Ethers Mode allows you to explore and call Smart Contracts methods using Ethers.js and view the response directly in VS Code. It interacts with any EVM-compatible blockchain, e.g., Ethereum, Polygon, 
 - [unjs/node-fetch-native](https://github.com/unjs/node-fetch-native) - better fetch for Node.js. Works on any JavaScript runtime!
-- [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks is a platform to ship collaborative features like comments, notifications, text editors in minutes instead of months.
+- [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks is the platform for adding collaborative editing, comments, and notifications into your application.
 - [antfu/vscode-goto-alias](https://github.com/antfu/vscode-goto-alias) - Go to Definition following alias redirections.
 - [antfu/esno](https://github.com/antfu/esno) - Alias to `tsx`
 - [denostack/superserial](https://github.com/denostack/superserial) - A comprehensive Serializer/Deserializer that can handle any data type.
@@ -2922,6 +2923,7 @@
 
 ## Vue 
 
+- [Atinux/instadraw](https://github.com/Atinux/instadraw) - Share your drawings with the world.
 - [nuxt/learn.nuxt.com](https://github.com/nuxt/learn.nuxt.com) - [Work in Progress] An interactive tutorial and playground for Nuxt
 - [HugoRCD/canvas](https://github.com/HugoRCD/canvas) - Portfolio template made with Nuxt 3, Nuxt Content and TailwindCSS
 - [unjs/undocs](https://github.com/unjs/undocs) - Minimal Documentation theme and CLI for shared usage across UnJS projects.

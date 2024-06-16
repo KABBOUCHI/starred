@@ -2527,7 +2527,7 @@
 - [NozomuIkuta/h3-cors](https://github.com/NozomuIkuta/h3-cors) - h3-native CORS event handler
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [poppinss/validator-lite](https://github.com/poppinss/validator-lite) - Typed schema based validation with low calories (KBs)
-- [shazow/whatsabi](https://github.com/shazow/whatsabi) - Extract the ABI (and other metadata) from Ethereum bytecode, even without source code.
+- [shazow/whatsabi](https://github.com/shazow/whatsabi) - Extract the ABI (and resolve proxies, and get other metadata) from Ethereum bytecode, even without source code.
 - [Julien-R44/factorify](https://github.com/Julien-R44/factorify) - 🏭 Framework-agnostic model factory system for clean testing
 - [BuidlGuidl/abi.ninja](https://github.com/BuidlGuidl/abi.ninja) - Interact with any contract on Ethereum.
 - [tokencss/tokencss](https://github.com/tokencss/tokencss) - 

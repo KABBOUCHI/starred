@@ -43,6 +43,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [Scheme](#scheme)
 - [ShaderLab](#shaderlab)
 - [Shell](#shell)
 - [Solidity](#solidity)
@@ -91,7 +92,7 @@
 - [coreutils/coreutils](https://github.com/coreutils/coreutils) - upstream mirror
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
-- [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
+- [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
 - [wine-mirror/wine](https://github.com/wine-mirror/wine) - 
@@ -1092,6 +1093,7 @@
 
 ## Others 
 
+- [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
 - [rdragos/awesome-mpc](https://github.com/rdragos/awesome-mpc) - A curated list of multi party computation resources and links.
 - [zackify/cli.rs](https://github.com/zackify/cli.rs) - use {yourproject}.cli.rs!
 - [chalex-eth/awesome-ethers-rs](https://github.com/chalex-eth/awesome-ethers-rs) - A curated list of awesome of rust and ethers-rs
@@ -1780,6 +1782,7 @@
 
 ## Rust 
 
+- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB]
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models
@@ -2246,6 +2249,10 @@
 - [minio/docs](https://github.com/minio/docs) - MinIO Object Storage Documentation
 - [bencodezen/vue-enterprise-boilerplate](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
+
+## Scheme 
+
+- [regnarock/zed-ron](https://github.com/regnarock/zed-ron) - Zed support for the Ron language (https://docs.rs/ron/)
 
 ## ShaderLab 
 

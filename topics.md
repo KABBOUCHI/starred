@@ -2171,7 +2171,7 @@
 - [beyondcode/laravel-ask-database](https://github.com/beyondcode/laravel-ask-database) - Query your database using natural language
 - [openai-php/laravel](https://github.com/openai-php/laravel) - ⚡️ OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API
 - [anystack-sh/porter](https://github.com/anystack-sh/porter) - Spin up your development background processes with ease 🪄
-- [bavix/laravel-wallet](https://github.com/bavix/laravel-wallet) - Easy work with virtual wallet
+- [bavix/laravel-wallet](https://github.com/bavix/laravel-wallet) - It's easy to work with a virtual wallet
 - [Julien-R44/factorify](https://github.com/Julien-R44/factorify) - 🏭 Framework-agnostic model factory system for clean testing
 - [spatie/laravel-dynamic-servers](https://github.com/spatie/laravel-dynamic-servers) - Dynamically create and destroy servers
 - [qruto/laravel-wave](https://github.com/qruto/laravel-wave) - Painless Laravel Broadcasting with SSE
@@ -2337,7 +2337,7 @@
 - [thedevdojo/larasail](https://github.com/thedevdojo/larasail) - LaraSail - Set Sail with your Laravel app on DigitalOcean
 - [swooletw/laravel-swoole](https://github.com/swooletw/laravel-swoole) - High performance HTTP server based on Swoole. Speed up your Laravel or Lumen applications.
 - [jameslkingsley/laravel-mentions](https://github.com/jameslkingsley/laravel-mentions) - End-to-end mentions in Laravel 5.
-- [faustbrian-archives/laravel-commentable](https://github.com/faustbrian-archives/laravel-commentable) - 
+- [faustbrian/laravel-commentable](https://github.com/faustbrian/laravel-commentable) - 
 - [galaxyofdrones/galaxyofdrones](https://github.com/galaxyofdrones/galaxyofdrones) - 🚀 An open source multiplayer space strategy game.
 - [tenancy/tenancy](https://github.com/tenancy/tenancy) - Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups.
 - [tomschlick/townhouse](https://github.com/tomschlick/townhouse) - [WORK IN PROGRESS] A Multitenancy package for Laravel that keeps each tenant in a separate database.
@@ -2948,6 +2948,7 @@
 
 ## others 
 
+- [viridia/quill](https://github.com/viridia/quill) - A reactive UI framework for Bevy
 - [Lommix/bevy_enoki](https://github.com/Lommix/bevy_enoki) - 2D particle system with custom material traits. Works well in wasm webgl2 and mobile
 - [regnarock/zed-ron](https://github.com/regnarock/zed-ron) - Zed support for the Ron language (https://docs.rs/ron/)
 - [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
@@ -4265,7 +4266,7 @@
 - [DirectoryLister/DirectoryLister](https://github.com/DirectoryLister/DirectoryLister) - 📂 Directory Lister is the easiest way to expose the contents of any web-accessible folder for browsing and sharing.
 - [anystack-sh/porter](https://github.com/anystack-sh/porter) - Spin up your development background processes with ease 🪄
 - [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust.
-- [bavix/laravel-wallet](https://github.com/bavix/laravel-wallet) - Easy work with virtual wallet
+- [bavix/laravel-wallet](https://github.com/bavix/laravel-wallet) - It's easy to work with a virtual wallet
 - [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 - [roach-php/core](https://github.com/roach-php/core) - The complete web scraping toolkit for PHP.
 - [phpv8/v8js](https://github.com/phpv8/v8js) - V8 Javascript Engine for PHP — This PHP extension embeds the Google V8 Javascript Engine
@@ -5137,6 +5138,7 @@
 - [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
+- [chakra-ui/ark](https://github.com/chakra-ui/ark) - A headless library for building reusable, scalable design systems that works for a wide range of JS frameworks.
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [nvh95/vitest-preview](https://github.com/nvh95/vitest-preview) - Debug your Vitest tests. Effortlessly. 🧪🖼⚡️
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.

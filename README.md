@@ -1782,8 +1782,10 @@
 
 ## Rust 
 
+- [databasedav/haalka](https://github.com/databasedav/haalka) - ergonomic reactive Bevy UI library powered by FRP signals
 - [viridia/quill](https://github.com/viridia/quill) - A reactive UI framework for Bevy
 - [Lommix/bevy_enoki](https://github.com/Lommix/bevy_enoki) - 2D particle system with custom material traits. Works well in wasm webgl2 and mobile
+- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB]
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models
@@ -2071,7 +2073,7 @@
 - [m1guelpf/browser-agent](https://github.com/m1guelpf/browser-agent) - A browser AI agent, using GPT-4
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
-- [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
+- [rustformers/llm](https://github.com/rustformers/llm) - [Unmaintained, see README] An ecosystem of Rust libraries for working with large language models
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
@@ -2325,7 +2327,6 @@
 
 ## TypeScript 
 
-- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB]
 - [danielroe/nuxt-workers](https://github.com/danielroe/nuxt-workers) - 
 - [unjs/knitwork](https://github.com/unjs/knitwork) - 🧶 Utilities to generate safe JavaScript code.
 - [johnsoncodehk/tsslint](https://github.com/johnsoncodehk/tsslint) - 🔋⚡️ The fastest and lightest TypeScript semantic linting solution

@@ -2062,7 +2062,7 @@
 - [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations
 - [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
 - [m1guelpf/clippy](https://github.com/m1guelpf/clippy) - AI-powered assistant for your company's docs
-- [firstkind/cwab](https://github.com/firstkind/cwab) - A simple, fast, and efficient background job processor for Rust
+- [njaremko/cwab](https://github.com/njaremko/cwab) - A simple, fast, and efficient background job processor for Rust
 - [rafaelcaricio/backie](https://github.com/rafaelcaricio/backie) - Background task processing for Rust applications with Tokio, Diesel, and PostgreSQL.
 - [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust!
 - [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - A powerful web framework built with a simplified design.
@@ -2327,6 +2327,7 @@
 
 ## TypeScript 
 
+- [qq15725/modern-screenshot](https://github.com/qq15725/modern-screenshot) - 📸 Quickly generate image from DOM node using HTML5 canvas and SVG
 - [danielroe/nuxt-workers](https://github.com/danielroe/nuxt-workers) - 
 - [unjs/knitwork](https://github.com/unjs/knitwork) - 🧶 Utilities to generate safe JavaScript code.
 - [johnsoncodehk/tsslint](https://github.com/johnsoncodehk/tsslint) - 🔋⚡️ The fastest and lightest TypeScript semantic linting solution

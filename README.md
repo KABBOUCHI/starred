@@ -84,7 +84,6 @@
 - [webgpu-native/webgpu-headers](https://github.com/webgpu-native/webgpu-headers) - 
 - [vorot93/libmdbx-rs](https://github.com/vorot93/libmdbx-rs) - Rust bindings for MDBX
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
-- [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
@@ -305,6 +304,7 @@
 - [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 - [rui314/mold](https://github.com/rui314/mold) - Mold: A Modern Linker 🦠
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
+- [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
@@ -530,7 +530,6 @@
 - [antfu/twoslash-vue](https://github.com/antfu/twoslash-vue) - 
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 - [nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs) - A community guide to the Rust ecosystem
-- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [tc39/proposal-array-grouping](https://github.com/tc39/proposal-array-grouping) - A proposal to make grouping of array items easier
 - [nuxt/ui-templates](https://github.com/nuxt/ui-templates) - 🎨 Unified Assets and Templates for Nuxt
 - [tc39/proposal-string-dedent](https://github.com/tc39/proposal-string-dedent) - TC39 Proposal to remove common leading indentation from multiline template strings
@@ -1010,7 +1009,6 @@
 - [ghosh/cssFilters](https://github.com/ghosh/cssFilters) - 🌄 Custom and Instagram like photo filter playground for CSS built with React
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [websanova/vue-auth](https://github.com/websanova/vue-auth) - A simple light-weight authentication library for Vue.js
-- [electron-userland/electron-installer-dmg](https://github.com/electron-userland/electron-installer-dmg) - Create DMG installers for your electron apps using appdmg.
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [tighten/ziggy](https://github.com/tighten/ziggy) - Use your Laravel routes in JavaScript.
 - [iffy/electron-updater-example](https://github.com/iffy/electron-updater-example) - A complete example showing how to use `electron-updater`
@@ -1896,6 +1894,7 @@
 - [ToluClassics/candle-tutorial](https://github.com/ToluClassics/candle-tutorial) - Tutorial for Porting PyTorch Transformer Models to Candle (Rust)
 - [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [bitflags/bitflags](https://github.com/bitflags/bitflags) - A macro to generate structures which behave like bitflags
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [bjorn/raccoin](https://github.com/bjorn/raccoin) - Crypto Portfolio and Tax Reporting Tool
 - [rustwasm/twiggy](https://github.com/rustwasm/twiggy) - Twiggy🌱 is a code size profiler
 - [servo/mozjs](https://github.com/servo/mozjs) - Servo's SpiderMonkey fork
@@ -2328,6 +2327,7 @@
 
 ## TypeScript 
 
+- [Julien-R44/hot-hook](https://github.com/Julien-R44/hot-hook) - 🪝 Simple HMR for NodeJS + ESM
 - [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
 - [stackblitz-labs/pkg.pr.new](https://github.com/stackblitz-labs/pkg.pr.new) - Continuous (Preview) Releases for your libraries!
 - [sxzz/tsdown](https://github.com/sxzz/tsdown) - An even faster bundler powered by Rolldown.
@@ -2932,6 +2932,7 @@
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [tensorflow/tfjs-core](https://github.com/tensorflow/tfjs-core) - WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript.
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
+- [electron-userland/electron-installer-dmg](https://github.com/electron-userland/electron-installer-dmg) - Create DMG installers for your electron apps using appdmg.
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 - [tlaverdure/laravel-echo-server](https://github.com/tlaverdure/laravel-echo-server) - Socket.io server for Laravel Echo

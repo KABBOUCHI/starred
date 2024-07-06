@@ -1779,6 +1779,7 @@
 
 ## Rust 
 
+- [matze/wastebin](https://github.com/matze/wastebin) - wastebin is a pastebin
 - [MalekiRe/lek_nodegraph](https://github.com/MalekiRe/lek_nodegraph) - 
 - [zakarumych/egui-snarl](https://github.com/zakarumych/egui-snarl) - Customizable egui node-graph library
 - [databasedav/haalka](https://github.com/databasedav/haalka) - ergonomic reactive Bevy UI library powered by FRP signals
@@ -1943,7 +1944,7 @@
 - [EnsoFinance/temper](https://github.com/EnsoFinance/temper) - Temper your expectations - Ethereum Transaction Simulator
 - [james-j-obrien/bevy_vector_shapes](https://github.com/james-j-obrien/bevy_vector_shapes) - A library for rendering vector shapes using the Bevy game engine
 - [dimforge/parry](https://github.com/dimforge/parry) - 2D and 3D collision-detection library for Rust.
-- [Jondolf/bevy_xpbd](https://github.com/Jondolf/bevy_xpbd) - 2D and 3D physics engine based on Extended Position Based Dynamics for Bevy.
+- [Jondolf/avian](https://github.com/Jondolf/avian) - ECS-driven 2D and 3D physics engine for the Bevy game engine.
 - [AmadiMichael/evm_simulator_rs](https://github.com/AmadiMichael/evm_simulator_rs) - CLI based transaction simulator supporting any EVM chain, written in Rust.
 - [foxzool/bevy_cronjob](https://github.com/foxzool/bevy_cronjob) - A simple helper to run cronjobs (at repeated schedule) in Bevy.
 - [MrGVSV/bevy_enum_filter](https://github.com/MrGVSV/bevy_enum_filter) - Filter by enum variant in Bevy queries

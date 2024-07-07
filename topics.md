@@ -239,7 +239,7 @@
 
 ## 3d 
 
-- [Jondolf/bevy_xpbd](https://github.com/Jondolf/bevy_xpbd) - 2D and 3D physics engine based on Extended Position Based Dynamics for Bevy.
+- [Jondolf/avian](https://github.com/Jondolf/avian) - ECS-driven 2D and 3D physics engine for the Bevy game engine.
 - [Tresjs/nuxt](https://github.com/Tresjs/nuxt) - TresJS integration for Nuxt.
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
 - [Tresjs/cientos](https://github.com/Tresjs/cientos) - Collection of useful helpers and fully functional, ready-made abstractions for TresJS
@@ -1352,7 +1352,7 @@
 - [tbillington/bevy_best_practices](https://github.com/tbillington/bevy_best_practices) - An opionated set of Best Practices for the Bevy game engine
 - [iiYese/aery](https://github.com/iiYese/aery) - A plugin that enables a subset of entity relationship features for bevy
 - [JoJoJet/bevy-trait-query](https://github.com/JoJoJet/bevy-trait-query) - adds trait queries to the bevy game engine
-- [Jondolf/bevy_xpbd](https://github.com/Jondolf/bevy_xpbd) - 2D and 3D physics engine based on Extended Position Based Dynamics for Bevy.
+- [Jondolf/avian](https://github.com/Jondolf/avian) - ECS-driven 2D and 3D physics engine for the Bevy game engine.
 - [vleue/jornet](https://github.com/vleue/jornet) - The social game server for all your game jams!
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 Open-source solution to deploy, scale, and operate your multiplayer game
@@ -1407,7 +1407,7 @@
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of p
 - [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4
 - [dimforge/parry](https://github.com/dimforge/parry) - 2D and 3D collision-detection library for Rust.
-- [Jondolf/bevy_xpbd](https://github.com/Jondolf/bevy_xpbd) - 2D and 3D physics engine based on Extended Position Based Dynamics for Bevy.
+- [Jondolf/avian](https://github.com/Jondolf/avian) - ECS-driven 2D and 3D physics engine for the Bevy game engine.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [mapeditor/rs-tiled](https://github.com/mapeditor/rs-tiled) - Reads files from the Tiled editor into Rust
 - [djeedai/bevy_hanabi](https://github.com/djeedai/bevy_hanabi) - 🎆 Hanabi — a GPU particle system plugin for the Bevy game engine.
@@ -2669,7 +2669,7 @@
 
 ## mysql 
 
-- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB]
+- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse]
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [Julien-R44/verrou](https://github.com/Julien-R44/verrou) - 🔒 Verrou is a library for managing Locks in Node.js. Support multiple drivers
 - [Julien-R44/bentocache](https://github.com/Julien-R44/bentocache) - 🍱 Bentocache is a robust multi-tier caching solution for Node.js applications
@@ -2955,6 +2955,8 @@
 
 ## others 
 
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno
+- [nreHieW/r-nn](https://github.com/nreHieW/r-nn) - Tensor library with autograd using only Rust's standard library
 - [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
 - [MalekiRe/lek_nodegraph](https://github.com/MalekiRe/lek_nodegraph) - 
 - [zakarumych/egui-snarl](https://github.com/zakarumych/egui-snarl) - Customizable egui node-graph library
@@ -4486,7 +4488,7 @@
 
 ## postgresql 
 
-- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB]
+- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse]
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [supabase/index_advisor](https://github.com/supabase/index_advisor) - PostgreSQL Index Advisor
 - [Julien-R44/bentocache](https://github.com/Julien-R44/bentocache) - 🍱 Bentocache is a robust multi-tier caching solution for Node.js applications
@@ -4717,8 +4719,9 @@
 
 ## rust 
 
+- [matze/wastebin](https://github.com/matze/wastebin) - wastebin is a pastebin
 - [databasedav/haalka](https://github.com/databasedav/haalka) - ergonomic reactive Bevy UI library powered by FRP signals
-- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB]
+- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse]
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [helix-editor/nucleo](https://github.com/helix-editor/nucleo) - A fast and convenient fuzzy matcher library for rust
@@ -4770,7 +4773,7 @@
 - [iiYese/aery](https://github.com/iiYese/aery) - A plugin that enables a subset of entity relationship features for bevy
 - [JoJoJet/bevy-trait-query](https://github.com/JoJoJet/bevy-trait-query) - adds trait queries to the bevy game engine
 - [EnsoFinance/temper](https://github.com/EnsoFinance/temper) - Temper your expectations - Ethereum Transaction Simulator
-- [Jondolf/bevy_xpbd](https://github.com/Jondolf/bevy_xpbd) - 2D and 3D physics engine based on Extended Position Based Dynamics for Bevy.
+- [Jondolf/avian](https://github.com/Jondolf/avian) - ECS-driven 2D and 3D physics engine for the Bevy game engine.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [politrons/FunctionalRust](https://github.com/politrons/FunctionalRust) - 
 - [bitshifter/glam-rs](https://github.com/bitshifter/glam-rs) - A simple and fast linear algebra library for games and graphics
@@ -4990,6 +4993,7 @@
 
 ## self-hosted 
 
+- [matze/wastebin](https://github.com/matze/wastebin) - wastebin is a pastebin
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
@@ -5102,7 +5106,8 @@
 
 ## sqlite 
 
-- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB]
+- [matze/wastebin](https://github.com/matze/wastebin) - wastebin is a pastebin
+- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse]
 - [tursodatabase/libsql-js](https://github.com/tursodatabase/libsql-js) - A better-sqlite3 compatible API for libSQL that supports Bun, Deno, and Node
 - [Julien-R44/bentocache](https://github.com/Julien-R44/bentocache) - 🍱 Bentocache is a robust multi-tier caching solution for Node.js applications
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
@@ -5546,6 +5551,7 @@
 
 ## vue 
 
+- [surmon-china/vue-codemirror](https://github.com/surmon-china/vue-codemirror) - @codemirror code editor component for @vuejs
 - [Atinux/instadraw](https://github.com/Atinux/instadraw) - Share your drawings with the world.
 - [nuxt/learn.nuxt.com](https://github.com/nuxt/learn.nuxt.com) - [Work in Progress] An interactive tutorial and playground for Nuxt
 - [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from OpenAPI/Swagger files ✨
@@ -5782,6 +5788,7 @@
 
 ## vuejs 
 
+- [surmon-china/vue-codemirror](https://github.com/surmon-china/vue-codemirror) - @codemirror code editor component for @vuejs
 - [xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner) - 🔔 An opinionated toast component for Vue.
 - [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
 - [mascii/vue-yup-form](https://github.com/mascii/vue-yup-form) - Headless form validation with Vue and Yup

@@ -6,6 +6,7 @@
 ## Contents
 
 - [Assembly](#assembly)
+- [Astro](#astro)
 - [Batchfile](#batchfile)
 - [Blade](#blade)
 - [C](#c)
@@ -58,6 +59,10 @@
 ## Assembly 
 
 - [davidcallanan/os-series](https://github.com/davidcallanan/os-series) - 
+
+## Astro 
+
+- [scmmishra/terminal-apps.dev](https://github.com/scmmishra/terminal-apps.dev) - A collection of super cool TUI apps across the web
 
 ## Batchfile 
 
@@ -292,6 +297,7 @@
 
 ## C++ 
 
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
@@ -1006,7 +1012,6 @@
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [Shopify/draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
 - [ghosh/cssFilters](https://github.com/ghosh/cssFilters) - 🌄 Custom and Instagram like photo filter playground for CSS built with React
-- [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [websanova/vue-auth](https://github.com/websanova/vue-auth) - A simple light-weight authentication library for Vue.js
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [tighten/ziggy](https://github.com/tighten/ziggy) - Use your Laravel routes in JavaScript.
@@ -1090,6 +1095,7 @@
 
 ## Others 
 
+- [rphlmr/drizzle-run](https://github.com/rphlmr/drizzle-run) - Play with Drizzle in your browser
 - [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
 - [rdragos/awesome-mpc](https://github.com/rdragos/awesome-mpc) - A curated list of multi party computation resources and links.
 - [zackify/cli.rs](https://github.com/zackify/cli.rs) - use {yourproject}.cli.rs!
@@ -1779,6 +1785,7 @@
 
 ## Rust 
 
+- [audulus/vger-rs](https://github.com/audulus/vger-rs) - 2D GPU renderer for dynamic UIs
 - [nreHieW/r-nn](https://github.com/nreHieW/r-nn) - Tensor library with autograd using only Rust's standard library
 - [matze/wastebin](https://github.com/matze/wastebin) - wastebin is a pastebin
 - [MalekiRe/lek_nodegraph](https://github.com/MalekiRe/lek_nodegraph) - 
@@ -2936,6 +2943,7 @@
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [tensorflow/tfjs-core](https://github.com/tensorflow/tfjs-core) - WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript.
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
+- [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [electron-userland/electron-installer-dmg](https://github.com/electron-userland/electron-installer-dmg) - Create DMG installers for your electron apps using appdmg.
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.

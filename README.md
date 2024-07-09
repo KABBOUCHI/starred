@@ -2808,7 +2808,7 @@
 - [renoki-co/echo-server](https://github.com/renoki-co/echo-server) - Echo Server is a container-ready, multi-scalable Node.js application used to host your own Socket.IO server for Laravel Broadcasting.
 - [Yummygum/flagpack-core](https://github.com/Yummygum/flagpack-core) - Flagpack contains 250+ flag icons to easily use within your code project.
 - [vueuse/head](https://github.com/vueuse/head) - Document head management for Vue. Powered by Unhead. - 🌇 Sunset
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [nuxt/vercel-builder](https://github.com/nuxt/vercel-builder) - Vercel Builder for Nuxt
 - [vuestorefront/shopify](https://github.com/vuestorefront/shopify) - Vue Storefront 2 integration for Shopify

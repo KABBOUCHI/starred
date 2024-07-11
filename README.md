@@ -600,6 +600,7 @@
 
 ## JavaScript 
 
+- [lukeed/matchit](https://github.com/lukeed/matchit) - Quickly parse & match URLs
 - [tursodatabase/libsql-js](https://github.com/tursodatabase/libsql-js) - A better-sqlite3 compatible API for libSQL that supports Bun, Deno, and Node
 - [stacktracejs/error-stack-parser](https://github.com/stacktracejs/error-stack-parser) - Extract meaning from JS Errors
 - [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
@@ -1788,7 +1789,7 @@
 - [bkchr/impl-trait-for-tuples](https://github.com/bkchr/impl-trait-for-tuples) - Rust attribute macro to implement a trait for tuples
 - [audulus/vger-rs](https://github.com/audulus/vger-rs) - 2D GPU renderer for dynamic UIs
 - [nreHieW/r-nn](https://github.com/nreHieW/r-nn) - Tensor library with autograd using only Rust's standard library
-- [matze/wastebin](https://github.com/matze/wastebin) - wastebin is a pastebin
+- [matze/wastebin](https://github.com/matze/wastebin) - wastebin is a pastebin 📝
 - [MalekiRe/lek_nodegraph](https://github.com/MalekiRe/lek_nodegraph) - 
 - [zakarumych/egui-snarl](https://github.com/zakarumych/egui-snarl) - Customizable egui node-graph library
 - [databasedav/haalka](https://github.com/databasedav/haalka) - ergonomic reactive Bevy UI library powered by FRP signals

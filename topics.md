@@ -257,6 +257,7 @@
 
 ## ai 
 
+- [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models
 - [renoki-co/l1](https://github.com/renoki-co/l1) - Extend your PHP/Laravel application with Cloudflare bindings.
@@ -871,6 +872,7 @@
 
 ## data-visualization 
 
+- [chartello/chartello](https://github.com/chartello/chartello) - Visualize your Laravel app data in simple dashboards.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
@@ -2174,6 +2176,7 @@
 
 ## laravel 
 
+- [chartello/chartello](https://github.com/chartello/chartello) - Visualize your Laravel app data in simple dashboards.
 - [renoki-co/l1](https://github.com/renoki-co/l1) - Extend your PHP/Laravel application with Cloudflare bindings.
 - [laravel/pulse](https://github.com/laravel/pulse) - Laravel Pulse is a real-time application performance monitoring tool and dashboard for your Laravel application.
 - [laravel/pail](https://github.com/laravel/pail) - Dive into your Laravel application's log files directly from the console. 🪣
@@ -2961,6 +2964,8 @@
 
 ## others 
 
+- [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
+- [rust-analyzer/rust-analyzer-wasm](https://github.com/rust-analyzer/rust-analyzer-wasm) - 
 - [lukeed/matchit](https://github.com/lukeed/matchit) - Quickly parse & match URLs
 - [bkchr/impl-trait-for-tuples](https://github.com/bkchr/impl-trait-for-tuples) - Rust attribute macro to implement a trait for tuples
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -4730,6 +4735,7 @@
 
 ## rust 
 
+- [ycysdf/rxy_ui](https://github.com/ycysdf/rxy_ui) - An Rust UI framework
 - [ebkalderon/tower-lsp](https://github.com/ebkalderon/tower-lsp) - Language Server Protocol implementation written in Rust
 - [audulus/vger-rs](https://github.com/audulus/vger-rs) - 2D GPU renderer for dynamic UIs
 - [matze/wastebin](https://github.com/matze/wastebin) - wastebin is a pastebin 📝

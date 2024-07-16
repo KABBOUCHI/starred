@@ -3201,7 +3201,7 @@
 - [m1guelpf/pingcrm-rs](https://github.com/m1guelpf/pingcrm-rs) - A demo application to illustrate an Axum + Inertia.js workflow.
 - [unjs/untun](https://github.com/unjs/untun) - 🚇 Tunnel your local HTTP(s) server to the world! powered by  Cloudflare Quick Tunnels.
 - [antfu/shikiji](https://github.com/antfu/shikiji) - A syntax highlighter based on TextMate grammars. ESM rewrite of shiki, with more features and capabilities.
-- [cschroeter/park-ui](https://github.com/cschroeter/park-ui) - Beautifully designed components built on Ark UI that work for the JS and CSS frameworks of your choice.
+- [cschroeter/park-ui](https://github.com/cschroeter/park-ui) - Beautifully designed components built with Ark UI and Panda CSS that work with a variety of JS frameworks.
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 - [zaycev/bevy-magic-light-2d](https://github.com/zaycev/bevy-magic-light-2d) - Experiment with computing 2D shading, lighting and shadows with Bevy Engine
 - [RustCrypto/block-ciphers](https://github.com/RustCrypto/block-ciphers) - Collection of block cipher algorithms written in pure Rust

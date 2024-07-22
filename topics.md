@@ -1411,6 +1411,7 @@
 
 ## gamedev 
 
+- [TheBevyFlock/bevy_quickstart](https://github.com/TheBevyFlock/bevy_quickstart) - This template is a great way to get started on a new Bevy game—especially for a game jam!
 - [rerun-io/revy](https://github.com/rerun-io/revy) - Proof-of-concept time-travel debugger for the Bevy game engine, built using Rerun.
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of p
 - [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4
@@ -2971,6 +2972,7 @@
 
 ## others 
 
+- [oframe/ogl](https://github.com/oframe/ogl) - Minimal WebGL Library
 - [bevyengine/bevy_github_ci_template](https://github.com/bevyengine/bevy_github_ci_template) - 
 - [evilsocket/cake](https://github.com/evilsocket/cake) - Distributed LLM inference for mobile, desktop and server.
 - [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation

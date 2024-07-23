@@ -190,6 +190,7 @@
 - [ruby](#ruby)
 - [rust](#rust)
 - [sass](#sass)
+- [scikit-learn](#scikit-learn)
 - [sdn](#sdn)
 - [security](#security)
 - [self-hosted](#self-hosted)
@@ -910,6 +911,7 @@
 
 ## deep-learning 
 
+- [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
@@ -1678,7 +1680,6 @@
 - [game-ci/docker](https://github.com/game-ci/docker) - Series of CI-specialised docker images for Unity.
 - [rrousselGit/riverpod](https://github.com/rrousselGit/riverpod) - A reactive caching and data-binding framework.   Riverpod makes working with asynchronous code a breeze.
 - [cdnjs/static-website](https://github.com/cdnjs/static-website) - 🖥 New Vue/Nuxt website for cdnjs.com - The #1 free and open source CDN built to make life easier for developers.
-- [tighten/lambo](https://github.com/tighten/lambo) - Quick new application creation with Laravel and Valet
 - [tighten/takeout](https://github.com/tighten/takeout) - Docker-based development-only dependency manager. macOS, Linux, and WSL2-only and installs via PHP's Composer... for now.
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
@@ -2403,7 +2404,7 @@
 - [tighten/ziggy](https://github.com/tighten/ziggy) - Use your Laravel routes in JavaScript.
 - [sahibalejandro/form-object](https://github.com/sahibalejandro/form-object) - Form object to use with Vue components for sending data to a Laravel application using axios.
 - [laravel/horizon](https://github.com/laravel/horizon) - Dashboard and code-driven configuration for Laravel queues.
-- [Jorijn/laravel-security-checker](https://github.com/Jorijn/laravel-security-checker) - Added Laravel functionality to Enlightn Security Checker. Adds a command to check for, and optionally emails you, vulnerabilities when they affect you.
+- [jorijn/laravel-security-checker](https://github.com/jorijn/laravel-security-checker) - Added Laravel functionality to Enlightn Security Checker. Adds a command to check for, and optionally emails you, vulnerabilities when they affect you.
 - [tlaverdure/laravel-echo-server](https://github.com/tlaverdure/laravel-echo-server) - Socket.io server for Laravel Echo
 - [TimothyDJones/awesome-laravel](https://github.com/TimothyDJones/awesome-laravel) - A curated list of delightful Laravel PHP framework packages and resources
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
@@ -2511,6 +2512,7 @@
 
 ## machine-learning 
 
+- [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
@@ -2972,6 +2974,7 @@
 
 ## others 
 
+- [tursodatabase/awesome-turso](https://github.com/tursodatabase/awesome-turso) - Awesome list about everything related to Turso.
 - [oframe/ogl](https://github.com/oframe/ogl) - Minimal WebGL Library
 - [bevyengine/bevy_github_ci_template](https://github.com/bevyengine/bevy_github_ci_template) - 
 - [evilsocket/cake](https://github.com/evilsocket/cake) - Distributed LLM inference for mobile, desktop and server.
@@ -3755,6 +3758,7 @@
 - [beyondcode/livewire-devtools](https://github.com/beyondcode/livewire-devtools) - Chrome and Firefox DevTools extension for debugging Livewire applications
 - [lorisleiva/cron-translator](https://github.com/lorisleiva/cron-translator) - ⏰️ Makes CRON expressions human-readable
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
+- [tighten/lambo](https://github.com/tighten/lambo) - Quick new application creation with Laravel and Valet
 - [nuxt-community/mdx-module](https://github.com/nuxt-community/mdx-module) - MDX module for Nuxt 2
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [jorenvanhee/tailwindcss-debug-screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - A Tailwind CSS component that shows the currently active screen (responsive breakpoint).
@@ -4492,7 +4496,7 @@
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
 - [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
 - [spatie/eloquent-sortable](https://github.com/spatie/eloquent-sortable) - Sortable behaviour for Eloquent models
-- [Jorijn/laravel-security-checker](https://github.com/Jorijn/laravel-security-checker) - Added Laravel functionality to Enlightn Security Checker. Adds a command to check for, and optionally emails you, vulnerabilities when they affect you.
+- [jorijn/laravel-security-checker](https://github.com/jorijn/laravel-security-checker) - Added Laravel functionality to Enlightn Security Checker. Adds a command to check for, and optionally emails you, vulnerabilities when they affect you.
 - [TimothyDJones/awesome-laravel](https://github.com/TimothyDJones/awesome-laravel) - A curated list of delightful Laravel PHP framework packages and resources
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
 - [spatie/browsershot](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string
@@ -4611,6 +4615,7 @@
 
 ## pytorch 
 
+- [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT)
 - [ToluClassics/candle-tutorial](https://github.com/ToluClassics/candle-tutorial) - Tutorial for Porting PyTorch Transformer Models to Candle (Rust)
@@ -4998,6 +5003,10 @@
 - [WeAreAthlon/frontend-webpack-boilerplate](https://github.com/WeAreAthlon/frontend-webpack-boilerplate) - Simple starter webpack 5 project template supporting SASS/PostCSS, Babel ES7, browser syncing, code linting. Easy project setup having multiple features and developer friendly tools.
 - [BootstrapDash/StarAdmin-Free-Bootstrap-Admin-Template](https://github.com/BootstrapDash/StarAdmin-Free-Bootstrap-Admin-Template) - A Free Responsive Admin Dashboard Template Built With Bootstrap 4.  Elegant UI Theme for Your Web App!
 
+## scikit-learn 
+
+- [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
+
 ## sdn 
 
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
@@ -5258,6 +5267,7 @@
 
 ## tensorflow 
 
+- [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone

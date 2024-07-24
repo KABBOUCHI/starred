@@ -2974,6 +2974,7 @@
 
 ## others 
 
+- [m1guelpf/orbit](https://github.com/m1guelpf/orbit) - Simple & safe zero-downtime deployments for Laravel.
 - [tursodatabase/awesome-turso](https://github.com/tursodatabase/awesome-turso) - Awesome list about everything related to Turso.
 - [oframe/ogl](https://github.com/oframe/ogl) - Minimal WebGL Library
 - [bevyengine/bevy_github_ci_template](https://github.com/bevyengine/bevy_github_ci_template) - 
@@ -5149,6 +5150,9 @@
 
 ## sqlite 
 
+- [nalgeon/sqlpkg](https://github.com/nalgeon/sqlpkg) - SQLite extension registry
+- [asg017/sqlite-vss](https://github.com/asg017/sqlite-vss) - A SQLite extension for efficient vector search, based on Faiss!
+- [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 - [invisal/libsql-studio](https://github.com/invisal/libsql-studio) - A lightweight SQLite graphical client on your browser. It also support connecting to LibSQL/Turso/rqlite
 - [rphlmr/drizzle-run](https://github.com/rphlmr/drizzle-run) - Play with Drizzle in your browser
 - [matze/wastebin](https://github.com/matze/wastebin) - wastebin is a pastebin 📝

@@ -2980,6 +2980,7 @@
 
 ## others 
 
+- [unjs/rou3](https://github.com/unjs/rou3) - 🌳 Lightweight and fast rou(ter) for JavaScript
 - [load1n9/andromeda](https://github.com/load1n9/andromeda) - JS/TS engine with no transpilation BS
 - [m1guelpf/orbit](https://github.com/m1guelpf/orbit) - Simple & safe zero-downtime deployments for Laravel.
 - [tursodatabase/awesome-turso](https://github.com/tursodatabase/awesome-turso) - Awesome list about everything related to Turso.
@@ -4748,7 +4749,7 @@
 ## robotics 
 
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Fast, easy to use, and simple to integrate.  Built in Rust using egui.
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
 - [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3) - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
 
 ## ruby 
@@ -5614,6 +5615,7 @@
 
 ## vue 
 
+- [antoniandre/vue-cal](https://github.com/antoniandre/vue-cal) - A Vue 2 & 3 full calendar, no dependency, no BS. :metal:
 - [surmon-china/vue-codemirror](https://github.com/surmon-china/vue-codemirror) - @codemirror code editor component for @vuejs
 - [Atinux/instadraw](https://github.com/Atinux/instadraw) - Share your drawings with the world.
 - [nuxt/learn.nuxt.com](https://github.com/nuxt/learn.nuxt.com) - [Work in Progress] An interactive tutorial and playground for Nuxt

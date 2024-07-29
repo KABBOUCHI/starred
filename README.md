@@ -78,6 +78,7 @@
 
 ## C 
 
+- [quecot/procedural-animals](https://github.com/quecot/procedural-animals) - Procedural animation technique to create a snake-like movement using raylib and C.
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 - [lexbor/lexbor](https://github.com/lexbor/lexbor) - Lexbor is development of an open source HTML Renderer library. https://lexbor.com
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
@@ -1796,6 +1797,8 @@
 
 ## Rust 
 
+- [elastio/bon](https://github.com/elastio/bon) - Generate builders for everything!
+- [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
 - [load1n9/andromeda](https://github.com/load1n9/andromeda) - JS/TS engine with no transpilation BS
 - [trynova/nova](https://github.com/trynova/nova) - JS engine lolz
 - [m1guelpf/orbit](https://github.com/m1guelpf/orbit) - Simple & safe zero-downtime deployments for Laravel.

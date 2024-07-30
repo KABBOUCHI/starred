@@ -374,6 +374,7 @@
 
 ## CSS 
 
+- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
 - [ffmpegwasm/nuxt-app](https://github.com/ffmpegwasm/nuxt-app) - 📹 An example to use ffmpeg.wasm in Nuxt 3
@@ -496,6 +497,7 @@
 
 ## Go 
 
+- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [berops/claudie](https://github.com/berops/claudie) - Cloud-agnostic managed Kubernetes
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
@@ -606,6 +608,7 @@
 
 ## JavaScript 
 
+- [imacrayon/alpine-ajax](https://github.com/imacrayon/alpine-ajax) - An Alpine.js plugin for building server-powered frontends.
 - [oframe/ogl](https://github.com/oframe/ogl) - Minimal WebGL Library
 - [bevyengine/bevy_github_ci_template](https://github.com/bevyengine/bevy_github_ci_template) - 
 - [chartello/chartello](https://github.com/chartello/chartello) - Visualize your Laravel app data in simple dashboards.
@@ -2305,6 +2308,7 @@
 
 ## Shell 
 
+- [nodejs/amaro](https://github.com/nodejs/amaro) - Node.js TypeScript wrapper
 - [rfbproto/rfbproto](https://github.com/rfbproto/rfbproto) - 
 - [Winetricks/winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
 - [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs

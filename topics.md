@@ -1343,7 +1343,6 @@
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [zorgiepoo/Bit-Slicer](https://github.com/zorgiepoo/Bit-Slicer) - Universal game trainer for macOS
 - [phoenixlauncher/phoenix](https://github.com/phoenixlauncher/phoenix) - A lightweight game launcher written in SwiftUI for macOS!
-- [latticexyz/mud](https://github.com/latticexyz/mud) - MUD is a framework for building autonomous worlds
 - [Aunmag/shooter-rs](https://github.com/Aunmag/shooter-rs) - 2D top-down zombie shooter
 - [iiYese/aery](https://github.com/iiYese/aery) - A plugin that enables a subset of entity relationship features for bevy
 - [ggez/ggez](https://github.com/ggez/ggez) - Rust library to create a Good Game Easily
@@ -1368,6 +1367,7 @@
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
 - [Henauxg/bevy_quinnet](https://github.com/Henauxg/bevy_quinnet) - A Client/Server game networking plugin using QUIC, for the Bevy game engine.
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of p
+- [latticexyz/mud](https://github.com/latticexyz/mud) - MUD is a framework for building autonomous worlds
 - [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4
 - [tbillington/bevy_best_practices](https://github.com/tbillington/bevy_best_practices) - An opionated set of Best Practices for the Bevy game engine
 - [iiYese/aery](https://github.com/iiYese/aery) - A plugin that enables a subset of entity relationship features for bevy
@@ -1918,9 +1918,11 @@
 
 ## javascript 
 
+- [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
 - [tree-sitter/tree-sitter-javascript](https://github.com/tree-sitter/tree-sitter-javascript) - Javascript grammar for tree-sitter
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [imacrayon/alpine-ajax](https://github.com/imacrayon/alpine-ajax) - An Alpine.js plugin for building server-powered frontends.
+- [tryandromeda/andromeda](https://github.com/tryandromeda/andromeda) - JS/TS Runtime with no transpilation BS
 - [trynova/nova](https://github.com/trynova/nova) - JS engine lolz
 - [qq15725/modern-screenshot](https://github.com/qq15725/modern-screenshot) - 📸 Quickly generate image from DOM node using HTML5 canvas and SVG
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
@@ -2488,6 +2490,7 @@
 
 ## llm 
 
+- [pytorch/torchchat](https://github.com/pytorch/torchchat) - Run PyTorch LLMs locally on servers, desktop and mobile
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
@@ -2998,6 +3001,7 @@
 
 ## others 
 
+- [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
 - [Swatinem/rust-cache](https://github.com/Swatinem/rust-cache) - A GitHub Action that implements smart caching for rust/cargo projects
 - [facebookresearch/segment-anything-2](https://github.com/facebookresearch/segment-anything-2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the m
@@ -3005,7 +3009,6 @@
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
 - [EurekaLabsAI/tensor](https://github.com/EurekaLabsAI/tensor) - The Tensor (or Array)
 - [unjs/rou3](https://github.com/unjs/rou3) - 🌳 Lightweight and fast rou(ter) for JavaScript
-- [load1n9/andromeda](https://github.com/load1n9/andromeda) - JS/TS engine with no transpilation BS
 - [m1guelpf/orbit](https://github.com/m1guelpf/orbit) - Simple & safe zero-downtime deployments for Laravel.
 - [tursodatabase/awesome-turso](https://github.com/tursodatabase/awesome-turso) - Awesome list about everything related to Turso.
 - [oframe/ogl](https://github.com/oframe/ogl) - Minimal WebGL Library
@@ -4321,6 +4324,7 @@
 
 ## parsing 
 
+- [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [ehmicky/error-serializer](https://github.com/ehmicky/error-serializer) - Convert errors to/from plain objects.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
@@ -4648,6 +4652,7 @@
 
 ## pytorch 
 
+- [pytorch/torchchat](https://github.com/pytorch/torchchat) - Run PyTorch LLMs locally on servers, desktop and mobile
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT)
@@ -4788,6 +4793,7 @@
 - [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 - [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
 - [elastio/bon](https://github.com/elastio/bon) - Generate builders for everything!
+- [tryandromeda/andromeda](https://github.com/tryandromeda/andromeda) - JS/TS Runtime with no transpilation BS
 - [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster buil
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [ycysdf/rxy_ui](https://github.com/ycysdf/rxy_ui) - An Rust UI framework
@@ -5385,6 +5391,8 @@
 
 ## typescript 
 
+- [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
+- [tryandromeda/andromeda](https://github.com/tryandromeda/andromeda) - JS/TS Runtime with no transpilation BS
 - [yioneko/vtsls](https://github.com/yioneko/vtsls) - LSP wrapper for typescript extension of vscode
 - [qq15725/modern-screenshot](https://github.com/qq15725/modern-screenshot) - 📸 Quickly generate image from DOM node using HTML5 canvas and SVG
 - [unjs/knitwork](https://github.com/unjs/knitwork) - 🧶 Utilities to generate safe JavaScript code.

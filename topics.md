@@ -555,6 +555,7 @@
 
 ## c 
 
+- [TinyCC/tinycc](https://github.com/TinyCC/tinycc) - Unofficial mirror of mob development branch
 - [quecot/procedural-animals](https://github.com/quecot/procedural-animals) - Procedural animation technique to create a snake-like movement using raylib and C.
 - [lexbor/lexbor](https://github.com/lexbor/lexbor) - Lexbor is development of an open source HTML Renderer library. https://lexbor.com
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
@@ -684,6 +685,7 @@
 
 ## compiler 
 
+- [TinyCC/tinycc](https://github.com/TinyCC/tinycc) - Unofficial mirror of mob development branch
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
@@ -1366,6 +1368,7 @@
 
 ## game-development 
 
+- [not-elm/bevy_flurx_wry](https://github.com/not-elm/bevy_flurx_wry) - The purpose of this crate is integrate bevy and wry using bevy_flurx.
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
 - [Henauxg/bevy_quinnet](https://github.com/Henauxg/bevy_quinnet) - A Client/Server game networking plugin using QUIC, for the Bevy game engine.
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of p
@@ -2711,6 +2714,7 @@
 
 ## mysql 
 
+- [emilpriver/geni](https://github.com/emilpriver/geni) - Standalone database migration tool which works for Postgres, MariaDB, MySQL, Sqlite and LibSQL(Turso).
 - [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse]
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [Julien-R44/verrou](https://github.com/Julien-R44/verrou) - 🔒 Verrou is a library for managing Locks in Node.js. Support multiple drivers
@@ -3003,6 +3007,7 @@
 
 ## others 
 
+- [PawelBis/bevy_wry](https://github.com/PawelBis/bevy_wry) - 
 - [Accudio/async-alpine](https://github.com/Accudio/async-alpine) - Async Alpine brings advanced code splitting and lazy-loading to Alpine.js components!
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
@@ -4793,6 +4798,8 @@
 
 ## rust 
 
+- [not-elm/bevy_flurx_wry](https://github.com/not-elm/bevy_flurx_wry) - The purpose of this crate is integrate bevy and wry using bevy_flurx.
+- [emilpriver/geni](https://github.com/emilpriver/geni) - Standalone database migration tool which works for Postgres, MariaDB, MySQL, Sqlite and LibSQL(Turso).
 - [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 - [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
 - [elastio/bon](https://github.com/elastio/bon) - Generate builders for everything!
@@ -5199,6 +5206,7 @@
 
 ## sqlite 
 
+- [emilpriver/geni](https://github.com/emilpriver/geni) - Standalone database migration tool which works for Postgres, MariaDB, MySQL, Sqlite and LibSQL(Turso).
 - [DaBigBlob/libsql-stateless-easy](https://github.com/DaBigBlob/libsql-stateless-easy) - Thin libSQL stateless HTTP driver for TypeScript and JavaScript for the edge but easy 🚀
 - [nalgeon/sqlpkg](https://github.com/nalgeon/sqlpkg) - SQLite extension registry
 - [asg017/sqlite-vss](https://github.com/asg017/sqlite-vss) - A SQLite extension for efficient vector search, based on Faiss!

@@ -3083,7 +3083,7 @@
 - [kenhyuwa/litepie-datepicker](https://github.com/kenhyuwa/litepie-datepicker) - Litepie Datepicker is a date range picker component for Vue.js and Tailwind CSS, dependent to day.js.
 - [eggsy/website](https://github.com/eggsy/website) - 🧬 Source code of my personal website. Everything is included. Written in NuxtJS, TypeScript and Windi CSS!
 - [nemrutco/nova-filterable-metrics](https://github.com/nemrutco/nova-filterable-metrics) - 
-- [antoniandre/splitpanes](https://github.com/antoniandre/splitpanes) - A Vue 2 & 3 reliable, simple and touch-ready panes splitter / resizer.
+- [antoniandre/splitpanes](https://github.com/antoniandre/splitpanes) - A Vue 3 (and 2) reliable, simple and touch-ready panes splitter / resizer.
 - [windicss/nuxt-windicss](https://github.com/windicss/nuxt-windicss) - 🍃 Windi CSS for Nuxt ⚡
 - [posva/2021-amsterdam-demos](https://github.com/posva/2021-amsterdam-demos) - 
 - [antfu/vitesse-nuxt-bridge](https://github.com/antfu/vitesse-nuxt-bridge) - 🏕 Vitesse experience for Nuxt 2 and Vue 2

@@ -78,6 +78,7 @@
 
 ## C 
 
+- [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy) - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
 - [TinyCC/tinycc](https://github.com/TinyCC/tinycc) - Unofficial mirror of mob development branch
 - [tree-sitter-grammars/tree-sitter-vue](https://github.com/tree-sitter-grammars/tree-sitter-vue) - Vue.js grammar for tree-sitter
 - [quecot/procedural-animals](https://github.com/quecot/procedural-animals) - Procedural animation technique to create a snake-like movement using raylib and C.
@@ -2452,7 +2453,7 @@
 - [antfu/drauu](https://github.com/antfu/drauu) - Headless SVG-based drawboard in browser.
 - [poppinss/macroable](https://github.com/poppinss/macroable) - Extend classes from outside in using Macros and getters
 - [antfu/birpc](https://github.com/antfu/birpc) - Message-based two-way remote procedure call.
-- [antfu-collective/vitesse-nuxt3](https://github.com/antfu-collective/vitesse-nuxt3) - Vitesse for Nuxt 3 🏔💚⚡️
+- [antfu-collective/vitesse-nuxt](https://github.com/antfu-collective/vitesse-nuxt) - Vitesse for Nuxt 3 🏔💚⚡️
 - [shikijs/twoslash](https://github.com/shikijs/twoslash) - You take some Shiki, add a hint of TypeScript compiler, and 🎉 incredible static code samples
 - [nuxt-ui-pro/docs](https://github.com/nuxt-ui-pro/docs) - A documentation template made with Nuxt UI Pro.
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.

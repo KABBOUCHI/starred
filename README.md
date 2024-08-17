@@ -3031,7 +3031,7 @@
 ## Vue 
 
 - [antoniandre/vue-cal](https://github.com/antoniandre/vue-cal) - A Vue 2 & 3 full calendar, no dependency, no BS. :metal:
-- [atinux/atidraw](https://github.com/atinux/atidraw) - Share your drawings with the world.
+- [atinux/atidraw](https://github.com/atinux/atidraw) - Share your drawings with the world. Powered by Cloudflare R2 & AI.
 - [nuxt/learn.nuxt.com](https://github.com/nuxt/learn.nuxt.com) - [Work in Progress] An interactive tutorial and playground for Nuxt
 - [HugoRCD/canvas](https://github.com/HugoRCD/canvas) - Portfolio template made with Nuxt 3, Nuxt Content and TailwindCSS
 - [unjs/undocs](https://github.com/unjs/undocs) - Minimal Documentation theme and CLI for shared usage across UnJS projects.

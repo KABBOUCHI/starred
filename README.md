@@ -17,6 +17,7 @@
 - [CoffeeScript](#coffeescript)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [Edge](#edge)
 - [Elixir](#elixir)
 - [GDScript](#gdscript)
 - [GLSL](#glsl)
@@ -123,7 +124,7 @@
 - [djkaty/Il2CppInspector](https://github.com/djkaty/Il2CppInspector) - Powerful automated tool for reverse engineering Unity IL2CPP binaries
 - [ThusSpokeNomad/GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Multiplayer Game Network Programming Resources
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 
 ## C# # 
@@ -480,6 +481,10 @@
 - [owenconti/laravel-ci](https://github.com/owenconti/laravel-ci) - 
 - [laravel/vapor-php-build](https://github.com/laravel/vapor-php-build) - 
 - [jangrewe/gitlab-ci-android](https://github.com/jangrewe/gitlab-ci-android) - GitLab CI image for building Android apps
+
+## Edge 
+
+- [batosai/edge-components](https://github.com/batosai/edge-components) - 
 
 ## Elixir 
 
@@ -1835,7 +1840,7 @@
 - [m1guelpf/orbit](https://github.com/m1guelpf/orbit) - Simple & safe zero-downtime deployments for Laravel.
 - [TheBevyFlock/bevy_quickstart](https://github.com/TheBevyFlock/bevy_quickstart) - This template is a great way to get started on a new Bevy game—especially for a game jam!
 - [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster buil
-- [evilsocket/cake](https://github.com/evilsocket/cake) - Distributed LLM inference for mobile, desktop and server.
+- [evilsocket/cake](https://github.com/evilsocket/cake) - Distributed LLM and StableDiffusion inference for mobile, desktop and server.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
 - [ycysdf/rxy_ui](https://github.com/ycysdf/rxy_ui) - An Rust UI framework

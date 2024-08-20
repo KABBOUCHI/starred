@@ -464,7 +464,7 @@
 - [brianegan/flutter_architecture_samples](https://github.com/brianegan/flutter_architecture_samples) - TodoMVC for Flutter
 - [roughike/inKino](https://github.com/roughike/inKino) - A multiplatform Dart movie app with 40% of code sharing between Flutter and the Web.
 - [KABBOUCHI/flutter_laravel_forge](https://github.com/KABBOUCHI/flutter_laravel_forge) - A Laravel Forge mobile app.
-- [dart-lang/sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, dart2js, core libraries, and more.
+- [dart-lang/sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.
 - [Ivaskuu/dashboard](https://github.com/Ivaskuu/dashboard) - Dashboard concept made with Flutter.
 - [chenshixin/flutter_dribble](https://github.com/chenshixin/flutter_dribble) - Unofficial dribbble client in flutter. Runs in both android and iOS.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -3035,7 +3035,7 @@
 
 ## Vue 
 
-- [antoniandre/vue-cal](https://github.com/antoniandre/vue-cal) - A Vue 2 & 3 full calendar, no dependency, no BS. :metal:
+- [antoniandre/vue-cal](https://github.com/antoniandre/vue-cal) - A Vue.js full calendar, no dependency, no BS. :metal:
 - [atinux/atidraw](https://github.com/atinux/atidraw) - Share your drawings with the world. Powered by Cloudflare R2 & AI.
 - [nuxt/learn.nuxt.com](https://github.com/nuxt/learn.nuxt.com) - [Work in Progress] An interactive tutorial and playground for Nuxt
 - [HugoRCD/canvas](https://github.com/HugoRCD/canvas) - Portfolio template made with Nuxt 3, Nuxt Content and TailwindCSS

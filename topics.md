@@ -1485,6 +1485,7 @@
 
 ## github 
 
+- [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests) - Share your Open Source Contributions (pull requests).
 - [actions-rs/toolchain](https://github.com/actions-rs/toolchain) - 🛠️ GitHub Action for `rustup` commands
 - [marc2332/ghboard](https://github.com/marc2332/ghboard) - 🦑 GitHub Dashboard
 - [antfu/changelogithub](https://github.com/antfu/changelogithub) - Generate changelog for GitHub
@@ -3023,6 +3024,9 @@
 
 ## others 
 
+- [adonisjs-community/adonis-packages](https://github.com/adonisjs-community/adonis-packages) - 📦 Discover all AdonisJS packages developed by the community
+- [rw4lll/livewire-devtools](https://github.com/rw4lll/livewire-devtools) - Chrome and Firefox DevTools extension for debugging Livewire applications
+- [edge-js/edge-iconify](https://github.com/edge-js/edge-iconify) - Iconify integration for the Edge template engine
 - [batosai/edge-components](https://github.com/batosai/edge-components) - 
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy) - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
@@ -5724,6 +5728,7 @@
 
 ## vue 
 
+- [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests) - Share your Open Source Contributions (pull requests).
 - [tree-sitter-grammars/tree-sitter-vue](https://github.com/tree-sitter-grammars/tree-sitter-vue) - Vue.js grammar for tree-sitter
 - [antoniandre/vue-cal](https://github.com/antoniandre/vue-cal) - A Vue.js full calendar, no dependency, no BS. :metal:
 - [surmon-china/vue-codemirror](https://github.com/surmon-china/vue-codemirror) - @codemirror code editor component for @vuejs

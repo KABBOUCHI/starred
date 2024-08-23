@@ -1140,7 +1140,7 @@
 - [lunapark/lunapark](https://github.com/lunapark/lunapark) - 🎡 The most advanced visual scripting editor for the web.
 - [Gcenx/CrossOver-fixes](https://github.com/Gcenx/CrossOver-fixes) - 
 - [context-labs/sidecar](https://github.com/context-labs/sidecar) - 
-- [ubports/ubuntu-touch](https://github.com/ubports/ubuntu-touch) - A simple and beautiful mobile OS for everyone! This repository is for Ubuntu Touch issue tracking. It does not contain any code used to create Ubuntu Touch.
+- [ubports/ubuntu-touch](https://github.com/ubports/ubuntu-touch) - Ubuntu Touch's issue inbox is now migrated to GitLab.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [godbout/Wooshy.docs](https://github.com/godbout/Wooshy.docs) - it's like Alfred but for the UI
 - [Molay/LaunchPadder](https://github.com/Molay/LaunchPadder) - LaunchPadder is a free macOS LaunchPad tool that organizes and sorts apps and folders on LaunchPad according to certain rules.
@@ -1247,7 +1247,7 @@
 - [simplito/bn-php](https://github.com/simplito/bn-php) - BigNum library for PHP compatible with bn.js
 - [yukaige/web3.php](https://github.com/yukaige/web3.php) - A simple encapsulation of Web3 framework in PHP environment
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [hammerstonedev/sidecar](https://github.com/hammerstonedev/sidecar) - Deploy and execute AWS Lambda functions from your Laravel application.
+- [aarondfrancis/sidecar](https://github.com/aarondfrancis/sidecar) - Deploy and execute AWS Lambda functions from your Laravel application.
 - [fumeapp/laranuxt](https://github.com/fumeapp/laranuxt) - Laravel and Nuxt.js boilerplate
 - [digitaldonkey/ethereum-php](https://github.com/digitaldonkey/ethereum-php) - PHP interface to Ethereum JSON-RPC API. Fully typed Web3 for PHP 7.X
 - [web3-php/web3](https://github.com/web3-php/web3) - ⚡️ Web3 PHP is a supercharged PHP API client that allows you to interact with a generic Ethereum RPC.
@@ -1358,7 +1358,7 @@
 - [tighten/takeout](https://github.com/tighten/takeout) - Docker-based development-only dependency manager. macOS, Linux, and WSL2-only and installs via PHP's Composer... for now.
 - [laravel/cashier-stripe](https://github.com/laravel/cashier-stripe) - Laravel Cashier provides an expressive, fluent interface to Stripe's subscription billing services.
 - [Juhlinus/kakunin](https://github.com/Juhlinus/kakunin) - Instant form validation for your Inertia.js apps.
-- [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - Invoices, Expenses and Tasks built with Laravel, Flutter and React
+- [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel
 - [predis/predis](https://github.com/predis/predis) - A flexible and feature-complete Redis client for PHP.
 - [teamtnt/laravel-scout-tntsearch-driver](https://github.com/teamtnt/laravel-scout-tntsearch-driver) - Driver for Laravel Scout search package based on https://github.com/teamtnt/tntsearch
 - [teamtnt/tntsearch](https://github.com/teamtnt/tntsearch) - A fully featured full text search engine written in PHP
@@ -1798,7 +1798,6 @@
 - [Laurencitow/Farmer-Joe-Render-Farm](https://github.com/Laurencitow/Farmer-Joe-Render-Farm) - A render farm for Blender 3D which includes rendering by parts, frames and render result to AVI / FFMPEG
 - [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 - [jayanam/fast-sculpt](https://github.com/jayanam/fast-sculpt) - Fast Sculpt is a Blender sculpting utility
-- [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [stuffmatic/blam](https://github.com/stuffmatic/blam) - 🚨 No longer maintained. Check out fSpy instead 🚨 A camera and projector calibration toolkit for Blender that also does automatic 3D reconstruction of geometry with rectangular faces.
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
 - [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - 3D Reconstruction Software
@@ -2399,6 +2398,8 @@
 
 ## TypeScript 
 
+- [sajansharmanz/prettier-plugin-edgejs](https://github.com/sajansharmanz/prettier-plugin-edgejs) - EdgeJS Prettier Plugin
+- [poppinss/dumper](https://github.com/poppinss/dumper) - Pretty print JavaScript data-types in the terminal and the browser
 - [adonisjs-community/adonis-packages](https://github.com/adonisjs-community/adonis-packages) - 📦 Discover all AdonisJS packages developed by the community
 - [edge-js/edge-iconify](https://github.com/edge-js/edge-iconify) - Iconify integration for the Edge template engine
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime

@@ -1611,7 +1611,7 @@
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.2.56196, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic =  4.4.0.55262)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.2.56288, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic =  4.4.0.55262)
 - [getsentry/sentry-rust](https://github.com/getsentry/sentry-rust) - Official Sentry SDK for Rust
 - [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace) - All of the official Tauri plugins in one place!
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
@@ -2493,7 +2493,7 @@
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [deviceplug/btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.2.56196, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic =  4.4.0.55262)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.2.56288, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic =  4.4.0.55262)
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
@@ -3031,6 +3031,7 @@
 
 ## others 
 
+- [qawolf/playwright-video](https://github.com/qawolf/playwright-video) - 🎬 Save a video of a Playwright page
 - [sajansharmanz/prettier-plugin-edgejs](https://github.com/sajansharmanz/prettier-plugin-edgejs) - EdgeJS Prettier Plugin
 - [poppinss/dumper](https://github.com/poppinss/dumper) - Pretty print JavaScript data-types in the terminal and the browser
 - [octalmage/robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
@@ -3847,7 +3848,7 @@
 - [NVIDIAGameWorks/PhysX](https://github.com/NVIDIAGameWorks/PhysX) - NVIDIA PhysX SDK
 - [TheWizardsCode/Animation](https://github.com/TheWizardsCode/Animation) - This repository has been merged with https://github.com/TheWizardsCode/Character please use that repo instead.
 - [rive-app/rive-wasm](https://github.com/rive-app/rive-wasm) - Wasm/JS runtime for Rive
-- [rive-app/rive-cpp](https://github.com/rive-app/rive-cpp) - C++ runtime for Rive
+- [rive-app/rive-cpp-legacy](https://github.com/rive-app/rive-cpp-legacy) - C++ runtime for Rive
 - [galvez/nuxt-esbuild-module](https://github.com/galvez/nuxt-esbuild-module) - Nuxt module for enabling ESBuild compilation
 - [brattonross/vite-plugin-voie](https://github.com/brattonross/vite-plugin-voie) - File system based routing plugin for Vite
 - [antfu/vscode-iconify](https://github.com/antfu/vscode-iconify) - 🙂 Iconify IntelliSense for VS Code
@@ -4035,7 +4036,7 @@
 - [vuejs/jsx-vue2](https://github.com/vuejs/jsx-vue2) - monorepo for Babel / Vue JSX related packages
 - [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 - [keijiro/ShadowDrawer](https://github.com/keijiro/ShadowDrawer) - Shadow matte shader for Unity
-- [killgt/tailwindcomponents-site](https://github.com/killgt/tailwindcomponents-site) - 
+- [agustinprod/tailwindcomponents-site](https://github.com/agustinprod/tailwindcomponents-site) - 
 - [tailwindlabs/tailwindcss-playground](https://github.com/tailwindlabs/tailwindcss-playground) - 
 - [suntabu/Markdown-Renderer-For-UIWidgets](https://github.com/suntabu/Markdown-Renderer-For-UIWidgets) - 
 - [liangxiegame/UIWidgets-Tetris](https://github.com/liangxiegame/UIWidgets-Tetris) - teris for UIWidgets

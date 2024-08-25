@@ -313,7 +313,7 @@
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.2.56288, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic =  4.4.0.55262)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.2.56311, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic =  4.4.0.55262)
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
@@ -1826,6 +1826,7 @@
 
 ## Rust 
 
+- [enigo-rs/enigo](https://github.com/enigo-rs/enigo) - Cross platform input simulation in Rust
 - [rust-sailfish/sailfish](https://github.com/rust-sailfish/sailfish) - Simple, small, and extremely fast template engine for Rust
 - [penberg/hiisi](https://github.com/penberg/hiisi) - Hiisi is a proof of concept libSQL written in Rust following TigerBeetle-style with deterministic simulation testing.
 - [PawelBis/bevy_wry](https://github.com/PawelBis/bevy_wry) - 
@@ -2563,7 +2564,7 @@
 - [sidebase/nuxt-parse](https://github.com/sidebase/nuxt-parse) - Parse, validate and transform data with confidence in nuxt using zod
 - [jurassicjs/nuxt-scheduler](https://github.com/jurassicjs/nuxt-scheduler) - Create scheduled jobs with human readable time settings
 - [sullivan-sean/chat-langchainjs](https://github.com/sullivan-sean/chat-langchainjs) - 
-- [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
+- [mattpocock/ts-reset](https://github.com/mattpocock/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [beerose/semantic-search](https://github.com/beerose/semantic-search) - 🕵️‍♀️ An OpenAI-powered CLI to build a semantic search index from your MDX files.
 - [hugoattal/synth-color](https://github.com/hugoattal/synth-color) - 
 - [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.

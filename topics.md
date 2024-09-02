@@ -3060,6 +3060,8 @@
 
 ## others 
 
+- [jswrenn/deflect](https://github.com/jswrenn/deflect) - Reflection via DWARF.
+- [unplugin/unplugin-unused](https://github.com/unplugin/unplugin-unused) - Check unused dependencies.
 - [adonisjs/prettier-config](https://github.com/adonisjs/prettier-config) - Prettier config preset for AdonisJS packages and applications
 - [markmead/hyperjs](https://github.com/markmead/hyperjs) - HyperJS is a component library for Alpine JS allowing developers to quickly copy and paste functionality into their projects 🛵
 - [markmead/alpinejs-notifications](https://github.com/markmead/alpinejs-notifications) - Simple notifications in your projects using Alpine JS 🙋‍♀️
@@ -4871,6 +4873,7 @@
 
 ## rust 
 
+- [dtolnay/itoa](https://github.com/dtolnay/itoa) - Fast function for printing integer primitives to a decimal string
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [enigo-rs/enigo](https://github.com/enigo-rs/enigo) - Cross platform input simulation in Rust
 - [rust-sailfish/sailfish](https://github.com/rust-sailfish/sailfish) - Simple, small, and extremely fast template engine for Rust

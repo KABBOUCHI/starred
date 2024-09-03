@@ -80,6 +80,7 @@
 
 ## C 
 
+- [LibVNC/x11vnc](https://github.com/LibVNC/x11vnc) - a VNC server for real X displays
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 - [octalmage/robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
 - [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy) - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
@@ -1739,6 +1740,7 @@
 
 ## Python 
 
+- [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [pytorch/torchchat](https://github.com/pytorch/torchchat) - Run PyTorch LLMs locally on servers, desktop and mobile
 - [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
@@ -1835,6 +1837,7 @@
 
 ## Rust 
 
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [jswrenn/deflect](https://github.com/jswrenn/deflect) - Reflection via DWARF.
 - [dtolnay/itoa](https://github.com/dtolnay/itoa) - Fast function for printing integer primitives to a decimal string
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
@@ -1906,7 +1909,7 @@
 - [b23r0/rsocx](https://github.com/b23r0/rsocx) - A bind/reverse Socks5 proxy server.
 - [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A lightweight proxy for capturing HTTP(S) and WS(S) traffic.
 - [dizda/fast-socks5](https://github.com/dizda/fast-socks5) - Fast SOCKS5 client/server implementation written in Rust async/.await (with tokio)
-- [merwaaan/bevy_spritesheet_animation](https://github.com/merwaaan/bevy_spritesheet_animation) - 
+- [merwaaan/bevy_spritesheet_animation](https://github.com/merwaaan/bevy_spritesheet_animation) - A Bevy plugin for animating sprites that are backed by spritesheets
 - [matthunz/bevy-compose](https://github.com/matthunz/bevy-compose) - 
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 - [rust-mobile/xbuild](https://github.com/rust-mobile/xbuild) - Cross compile rust to any platform
@@ -2977,7 +2980,7 @@
 - [ai/nanoevents](https://github.com/ai/nanoevents) - Simple and tiny (107 bytes) event emitter library for JavaScript
 - [vuejs/router](https://github.com/vuejs/router) - 🚦 The official router for Vue.js
 - [vuex-orm/vuex-orm](https://github.com/vuex-orm/vuex-orm) - The Vuex plugin to enable Object-Relational Mapping access to the Vuex Store.
-- [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
+- [vuejs/devtools-v6](https://github.com/vuejs/devtools-v6) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [vue-styleguidist/vue-live](https://github.com/vue-styleguidist/vue-live) - A component to demo components, inspired by react-live
 - [posva/vue-reactive-refs](https://github.com/posva/vue-reactive-refs) - Make $refs reactive so they can be used in computed properties and watchers
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.

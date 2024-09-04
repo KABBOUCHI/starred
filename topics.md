@@ -3061,6 +3061,7 @@
 
 ## others 
 
+- [Akryum/moquerie](https://github.com/Akryum/moquerie) - Effortlessly mock your entire API with simple configuration and a beautiful UI
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [LibVNC/x11vnc](https://github.com/LibVNC/x11vnc) - a VNC server for real X displays
 - [jswrenn/deflect](https://github.com/jswrenn/deflect) - Reflection via DWARF.

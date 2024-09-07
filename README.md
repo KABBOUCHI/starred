@@ -316,7 +316,7 @@
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.2.56421, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic =  4.4.0.55262)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.2.56461, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic =  4.4.0.55262)
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
@@ -542,7 +542,6 @@
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
 - [splitsh/lite](https://github.com/splitsh/lite) - Split a repository to read-only standalone repositories
@@ -559,7 +558,6 @@
 - [antfu/twoslash-vue](https://github.com/antfu/twoslash-vue) - 
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 - [nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs) - A community guide to the Rust ecosystem
-- [bluealloy/revm](https://github.com/bluealloy/revm) - Ethereum Virtual Machine written in rust that is fast and simple to use
 - [tc39/proposal-array-grouping](https://github.com/tc39/proposal-array-grouping) - A proposal to make grouping of array items easier
 - [nuxt/ui-templates](https://github.com/nuxt/ui-templates) - 🎨 Unified Assets and Templates for Nuxt
 - [tc39/proposal-string-dedent](https://github.com/tc39/proposal-string-dedent) - TC39 Proposal to remove common leading indentation from multiline template strings
@@ -1740,6 +1738,7 @@
 
 ## Python 
 
+- [google/diff-match-patch](https://github.com/google/diff-match-patch) - Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [pytorch/torchchat](https://github.com/pytorch/torchchat) - Run PyTorch LLMs locally on servers, desktop and mobile
@@ -2059,13 +2058,14 @@
 - [drakmaniso/bevy_pixel_camera](https://github.com/drakmaniso/bevy_pixel_camera) - A simple pixel-perfect camera plugin for Bevy, suitable for pixel-art.
 - [edouardpoitras/bevy_text_popup](https://github.com/edouardpoitras/bevy_text_popup) - Bevy plugin to easily create UI text popups using events
 - [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust
+- [bluealloy/revm](https://github.com/bluealloy/revm) - Ethereum Virtual Machine written in rust that is fast and simple to use
 - [aevyrie/bevy_framepace](https://github.com/aevyrie/bevy_framepace) - Framepacing and framelimiting for Bevy
 - [djeedai/bevy_tweening](https://github.com/djeedai/bevy_tweening) - Tweening animation plugin for the Bevy game engine.
 - [gschup/bevy_ggrs](https://github.com/gschup/bevy_ggrs) - Bevy plugin for the GGRS P2P rollback networking library.
 - [johanhelsing/matchbox](https://github.com/johanhelsing/matchbox) - Painless peer-to-peer WebRTC networking for rust wasm (and native!)
 - [mdenchev/bevy_aseprite](https://github.com/mdenchev/bevy_aseprite) - 
 - [awslabs/aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
-- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 Open-source solution to deploy, scale, and operate your multiplayer game
+- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The only backend your multiplayer game needs. Open-source & self-hostable.
 - [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust  Compile Time ORM robustness,async, pure Rust Dynamic SQL
 - [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - A cargo-subcommand to speed up Rust Docker builds using Docker layer caching.
 - [m1guelpf/ensemble](https://github.com/m1guelpf/ensemble) - A Laravel-inspired ORM for Rust
@@ -2414,6 +2414,8 @@
 
 ## TypeScript 
 
+- [remcohaszing/codemirror-languageservice](https://github.com/remcohaszing/codemirror-languageservice) - Integrate a Language Server Protocol compatible language service into CodeMirror
+- [KABBOUCHI/adonisjs-trend](https://github.com/KABBOUCHI/adonisjs-trend) - 
 - [Akryum/moquerie](https://github.com/Akryum/moquerie) - Effortlessly mock your entire API with simple configuration and a beautiful UI
 - [unplugin/unplugin-unused](https://github.com/unplugin/unplugin-unused) - Check unused dependencies.
 - [val-town/codemirror-ts](https://github.com/val-town/codemirror-ts) - lint, hover, and autocomplete extensions for CodeMirror + TypeScript
@@ -2433,7 +2435,7 @@
 - [outerbase/libsql-studio](https://github.com/outerbase/libsql-studio) - A lightweight SQLite graphical client on your browser. It also support connecting to LibSQL/Turso/rqlite
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [surmon-china/vue-codemirror](https://github.com/surmon-china/vue-codemirror) - @codemirror code editor component for @vuejs
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight WASM Postgres with real-time, reactive bindings.
 - [Julien-R44/hot-hook](https://github.com/Julien-R44/hot-hook) - 🪝 Simple HMR for NodeJS + ESM
 - [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
 - [stackblitz-labs/pkg.pr.new](https://github.com/stackblitz-labs/pkg.pr.new) - Continuous (Preview) Releases for your libraries!
@@ -2930,6 +2932,7 @@
 - [cocopon/tweakpane](https://github.com/cocopon/tweakpane) - :control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes
 - [MarshallOfSound/electron-devtools-installer](https://github.com/MarshallOfSound/electron-devtools-installer) - An easy way to ensure Chrome DevTools extensions into Electron
 - [Arthie/xwind](https://github.com/Arthie/xwind) - Tailwind CSS as a templating language in JS and CSS-in-JS
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [GoogleChromeLabs/bubblewrap](https://github.com/GoogleChromeLabs/bubblewrap) - Bubblewrap is a Command Line Interface (CLI) that helps developers to create a Project for an Android application that launches an existing Progressive Web App (PWAs) using a Trusted Web Activity.
 - [hfour/wsrun](https://github.com/hfour/wsrun) - Command runner for Yarn workspaces. Dependency aware.
@@ -3062,6 +3065,7 @@
 
 ## Vue 
 
+- [ZTL-UwU/shadcn-docs-nuxt](https://github.com/ZTL-UwU/shadcn-docs-nuxt) - Effortless and beautiful docs template built with nuxt content & shadcn-vue.
 - [ra-jeev/hub-chat](https://github.com/ra-jeev/hub-chat) - Cloudflare Workers AI LLM Playground with Nuxt
 - [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests) - Showcase your Open Source Contributions (pull requests).
 - [antoniandre/vue-cal](https://github.com/antoniandre/vue-cal) - A Vue.js full calendar, no dependency, no BS. :metal:

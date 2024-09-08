@@ -111,6 +111,7 @@
 - [https](#https)
 - [icon-font](#icon-font)
 - [image-processing](#image-processing)
+- [instagram](#instagram)
 - [ios](#ios)
 - [iot](#iot)
 - [ipfs](#ipfs)
@@ -1178,6 +1179,7 @@
 
 ## ethereum 
 
+- [erpc/erpc](https://github.com/erpc/erpc) - eRPC — fault-tolerant evm rpc proxy with reorg-aware permanent caching
 - [monosux/ethereum-block-by-date](https://github.com/monosux/ethereum-block-by-date) - Get Ethereum block number by a given date. Or blocks by a given period duration.
 - [paulmillr/noble-curves](https://github.com/paulmillr/noble-curves) - Audited & minimal JS implementation of elliptic curve cryptography.
 - [alloy-rs/chains](https://github.com/alloy-rs/chains) - Canonical type definitions for EIP-155 chains
@@ -1535,6 +1537,7 @@
 
 ## go 
 
+- [erpc/erpc](https://github.com/erpc/erpc) - eRPC — fault-tolerant evm rpc proxy with reorg-aware permanent caching
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
@@ -1912,6 +1915,11 @@
 - [pqina/vue-filepond](https://github.com/pqina/vue-filepond) - 🔌 A handy FilePond adapter component for Vue
 - [pqina/filepond](https://github.com/pqina/filepond) - 🌊 A flexible and fun JavaScript file upload library
 
+## instagram 
+
+- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
+- [ghosh/cssFilters](https://github.com/ghosh/cssFilters) - 🌄 Custom and Instagram like photo filter playground for CSS built with React
+
 ## ios 
 
 - [deviceplug/btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library
@@ -2258,6 +2266,7 @@
 
 ## laravel 
 
+- [laradumps/laradumps](https://github.com/laradumps/laradumps) - 🛻 LaraDumps is a friendly app designed to boost your Laravel PHP coding and debugging experience.
 - [pinkary-project/pinkary.com](https://github.com/pinkary-project/pinkary.com) - Create a landing page for all your links and connect with like-minded people without the noise.
 - [wire-elements/wire-extender](https://github.com/wire-elements/wire-extender) - Wire Extender allows you to embed any Livewire component on any website or even within a static HTML file.
 - [Flowframe/laravel-trend](https://github.com/Flowframe/laravel-trend) - Generate trends for your models. Easily generate charts or reports.
@@ -3063,6 +3072,8 @@
 
 ## others 
 
+- [tweakphp/tweakphp](https://github.com/tweakphp/tweakphp) - Easily tweak your PHP code
+- [actions/setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
 - [google/diff-match-patch](https://github.com/google/diff-match-patch) - Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.
 - [KABBOUCHI/adonisjs-trend](https://github.com/KABBOUCHI/adonisjs-trend) - 
 - [Akryum/moquerie](https://github.com/Akryum/moquerie) - Effortlessly mock your entire API with simple configuration and a beautiful UI
@@ -3382,7 +3393,7 @@
 - [Trouv/bevy_ecs_ldtk](https://github.com/Trouv/bevy_ecs_ldtk) - ECS-friendly ldtk plugin for bevy, leveraging bevy_ecs_tilemap
 - [unplugin/unplugin-macros](https://github.com/unplugin/unplugin-macros) - Macros plugin for bundlers.
 - [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - A modern, extensible GitHub API Client for Rust.
-- [nikolay-govorov/nanoid](https://github.com/nikolay-govorov/nanoid) - A tiny, secure, URL-friendly, unique string ID generator for Rust
+- [mrdimidium/nanoid](https://github.com/mrdimidium/nanoid) - A tiny, secure, URL-friendly, unique string ID generator for Rust
 - [adonisjs/attachment-lite](https://github.com/adonisjs/attachment-lite) - Turn any field on your Lucid models to an attachment data type
 - [adonisjs/route-model-binding](https://github.com/adonisjs/route-model-binding) - Add route model binding to your AdonisJS applications
 - [mezg0/vue-ui](https://github.com/mezg0/vue-ui) - 
@@ -4425,6 +4436,8 @@
 
 ## php 
 
+- [laradumps/laradumps](https://github.com/laradumps/laradumps) - 🛻 LaraDumps is a friendly app designed to boost your Laravel PHP coding and debugging experience.
+- [phpactor/phpactor](https://github.com/phpactor/phpactor) - Mainly a PHP Language Server with more features than you can shake a stick at
 - [pinkary-project/pinkary.com](https://github.com/pinkary-project/pinkary.com) - Create a landing page for all your links and connect with like-minded people without the noise.
 - [wire-elements/wire-extender](https://github.com/wire-elements/wire-extender) - Wire Extender allows you to embed any Livewire component on any website or even within a static HTML file.
 - [Flowframe/laravel-trend](https://github.com/Flowframe/laravel-trend) - Generate trends for your models. Easily generate charts or reports.
@@ -5772,6 +5785,7 @@
 
 ## vim 
 
+- [phpactor/phpactor](https://github.com/phpactor/phpactor) - Mainly a PHP Language Server with more features than you can shake a stick at
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [prettier/vim-prettier](https://github.com/prettier/vim-prettier) - A Vim plugin for Prettier

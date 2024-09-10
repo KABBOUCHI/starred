@@ -33,6 +33,7 @@
 - [MATLAB](#matlab)
 - [MDX](#mdx)
 - [Markdown](#markdown)
+- [Metal](#metal)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
 - [Others](#others)
@@ -702,7 +703,6 @@
 - [remorses/esbuild-plugins](https://github.com/remorses/esbuild-plugins) - Collection of useful esbuild js plugins
 - [sindresorhus/trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and folders to the trash
 - [chjj/blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
-- [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
 - [abbr/deasync](https://github.com/abbr/deasync) - Turns async function into sync via JavaScript wrapper of Node event loop
 - [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
@@ -1120,6 +1120,10 @@
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
+## Metal 
+
+- [LaurentMazare/gemm-metal](https://github.com/LaurentMazare/gemm-metal) - 
+
 ## Objective-C 
 
 - [zorgiepoo/Bit-Slicer](https://github.com/zorgiepoo/Bit-Slicer) - Universal game trainer for macOS
@@ -1209,6 +1213,7 @@
 - [its-awesome/awesome-laravel-nova](https://github.com/its-awesome/awesome-laravel-nova) - Curated list of Laravel Nova resources
 - [florianv/awesome-nova](https://github.com/florianv/awesome-nova) - 🎉 A curated list of awesome things related to Laravel Nova
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [symfony/polyfill-php72](https://github.com/symfony/polyfill-php72) - Symfony polyfill backporting some PHP 7.2+ features to lower PHP versions
 - [symfony/polyfill-php70](https://github.com/symfony/polyfill-php70) - This component provides features unavailable in releases prior to PHP 7.0.
 - [PatrickLouys/no-framework-tutorial](https://github.com/PatrickLouys/no-framework-tutorial) - A small tutorial to show how to create a PHP application without a framework.
 - [sschoger/heroicons-ui](https://github.com/sschoger/heroicons-ui) - 
@@ -1563,7 +1568,6 @@
 - [symfony/routing](https://github.com/symfony/routing) - Maps an HTTP request to a set of configuration variables
 - [symfony/psr-http-message-bridge](https://github.com/symfony/psr-http-message-bridge) - PSR HTTP message bridge
 - [symfony/process](https://github.com/symfony/process) - Executes commands in sub-processes
-- [symfony/polyfill-php72](https://github.com/symfony/polyfill-php72) - Symfony polyfill backporting some PHP 7.2+ features to lower PHP versions
 - [symfony/polyfill-mbstring](https://github.com/symfony/polyfill-mbstring) - Symfony polyfill for the Mbstring extension
 - [symfony/options-resolver](https://github.com/symfony/options-resolver) - Provides an improved replacement for the array_replace PHP function
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) - Provides a structured process for converting a Request into a Response
@@ -1753,7 +1757,7 @@
 - [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
 - [EurekaLabsAI/tensor](https://github.com/EurekaLabsAI/tensor) - The Tensor (or Array)
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
-- [microsoft/SoM](https://github.com/microsoft/SoM) - Set-of-Mark Prompting for LMMs
+- [microsoft/SoM](https://github.com/microsoft/SoM) - Set-of-Mark Prompting for GPT-4V and LMMs
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 - [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
@@ -2422,6 +2426,7 @@
 
 ## TypeScript 
 
+- [rvion/CushyStudio](https://github.com/rvion/CushyStudio) - 🛋 The AI and Generative Art platform for everyone
 - [Comfy-Org/ComfyUI_frontend](https://github.com/Comfy-Org/ComfyUI_frontend) - Official front-end implementation of ComfyUI
 - [actions/setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
 - [remcohaszing/codemirror-languageservice](https://github.com/remcohaszing/codemirror-languageservice) - Integrate a Language Server Protocol compatible language service into CodeMirror
@@ -2662,6 +2667,7 @@
 - [webbertakken/map-editor-2d](https://github.com/webbertakken/map-editor-2d) - Cross-platform 2D editor that saves scenes to json
 - [adonisjs/vite](https://github.com/adonisjs/vite) - Vite plugin for AdonisJS
 - [nvh95/vitest-preview](https://github.com/nvh95/vitest-preview) - Debug your Vitest tests. Effortlessly. 🧪🖼⚡️
+- [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
 - [nadeesha/ts-prune](https://github.com/nadeesha/ts-prune) - Find unused exports in a typescript project. 🛀
 - [Akryum/vue-safe-teleport](https://github.com/Akryum/vue-safe-teleport) - Recommended for teleporting inside the app
 - [shuding/yoga-wasm-web](https://github.com/shuding/yoga-wasm-web) - WASM build of Yoga, targeting the web worker runtime.

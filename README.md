@@ -2070,7 +2070,7 @@
 - [drakmaniso/bevy_pixel_camera](https://github.com/drakmaniso/bevy_pixel_camera) - A simple pixel-perfect camera plugin for Bevy, suitable for pixel-art.
 - [edouardpoitras/bevy_text_popup](https://github.com/edouardpoitras/bevy_text_popup) - Bevy plugin to easily create UI text popups using events
 - [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust
-- [bluealloy/revm](https://github.com/bluealloy/revm) - Ethereum Virtual Machine written in rust that is fast and simple to use
+- [bluealloy/revm](https://github.com/bluealloy/revm) - Rust implementation of the Ethereum Virtual Machine.
 - [aevyrie/bevy_framepace](https://github.com/aevyrie/bevy_framepace) - Framepacing and framelimiting for Bevy
 - [djeedai/bevy_tweening](https://github.com/djeedai/bevy_tweening) - Tweening animation plugin for the Bevy game engine.
 - [gschup/bevy_ggrs](https://github.com/gschup/bevy_ggrs) - Bevy plugin for the GGRS P2P rollback networking library.
@@ -2426,6 +2426,9 @@
 
 ## TypeScript 
 
+- [codemirror/lang-javascript](https://github.com/codemirror/lang-javascript) - JavaScript language support for the CodeMirror code editor
+- [val-town/deno-ata](https://github.com/val-town/deno-ata) - support for type acquisition with url imports, npm, jsr prefixes
+- [val-town/codemirror-codeium](https://github.com/val-town/codemirror-codeium) - Codeium code completion integration for CodeMirror 6
 - [rvion/CushyStudio](https://github.com/rvion/CushyStudio) - 🛋 The AI and Generative Art platform for everyone
 - [Comfy-Org/ComfyUI_frontend](https://github.com/Comfy-Org/ComfyUI_frontend) - Official front-end implementation of ComfyUI
 - [actions/setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js

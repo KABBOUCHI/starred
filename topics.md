@@ -1696,6 +1696,7 @@
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [tinylibs/tinyspy](https://github.com/tinylibs/tinyspy) - 🕵🏻‍♂️ minimal fork of nanospy, with more features
 - [octokit/core.js](https://github.com/octokit/core.js) - Extendable client for GitHub's REST & GraphQL APIs
+- [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [nuxt/bridge](https://github.com/nuxt/bridge) - 🌉 Experience Nuxt 3 features on existing Nuxt 2 projects

@@ -640,7 +640,7 @@
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
-- [ratatui/ratatui](https://github.com/ratatui/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [beerose/semantic-search](https://github.com/beerose/semantic-search) - 🕵️‍♀️ An OpenAI-powered CLI to build a semantic search index from your MDX files.
@@ -1629,6 +1629,7 @@
 
 ## hacktoberfest 
 
+- [node-oauth/node-oauth2-server](https://github.com/node-oauth/node-oauth2-server) - 🚀 The successor to oauthjs/oauth2-server. 🔒 Complete, compliant, maintained and well tested OAuth2 Server for node.js.  Includes native async await and PKCE.
 - [Flowframe/laravel-trend](https://github.com/Flowframe/laravel-trend) - Generate trends for your models. Easily generate charts or reports.
 - [imacrayon/alpine-ajax](https://github.com/imacrayon/alpine-ajax) - An Alpine.js plugin for building server-powered frontends.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
@@ -1980,6 +1981,7 @@
 
 ## javascript 
 
+- [node-oauth/node-oauth2-server](https://github.com/node-oauth/node-oauth2-server) - 🚀 The successor to oauthjs/oauth2-server. 🔒 Complete, compliant, maintained and well tested OAuth2 Server for node.js.  Includes native async await and PKCE.
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
 - [tree-sitter/tree-sitter-javascript](https://github.com/tree-sitter/tree-sitter-javascript) - Javascript grammar for tree-sitter
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
@@ -2865,6 +2867,7 @@
 
 ## node 
 
+- [node-oauth/node-oauth2-server](https://github.com/node-oauth/node-oauth2-server) - 🚀 The successor to oauthjs/oauth2-server. 🔒 Complete, compliant, maintained and well tested OAuth2 Server for node.js.  Includes native async await and PKCE.
 - [ladjs/supertest](https://github.com/ladjs/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
@@ -2901,6 +2904,7 @@
 
 ## nodejs 
 
+- [node-oauth/node-oauth2-server](https://github.com/node-oauth/node-oauth2-server) - 🚀 The successor to oauthjs/oauth2-server. 🔒 Complete, compliant, maintained and well tested OAuth2 Server for node.js.  Includes native async await and PKCE.
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [elpheria/rpc-websockets](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets for Node.js and JavaScript/TypeScript
 - [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Secure, stateless, and cookie-based session library for JavaScript
@@ -3075,6 +3079,7 @@
 
 ## others 
 
+- [poppinss/defer](https://github.com/poppinss/defer) - A managed deferred queue to run async operations in the background
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 - [EricLBuehler/candle-vllm](https://github.com/EricLBuehler/candle-vllm) - Efficent platform for inference and serving local LLMs including an OpenAI compatible API server.
 - [codemirror/lang-javascript](https://github.com/codemirror/lang-javascript) - JavaScript language support for the CodeMirror code editor
@@ -3999,7 +4004,7 @@
 - [beyondcode/tinkerwell-community](https://github.com/beyondcode/tinkerwell-community) - 
 - [depcheck/depcheck](https://github.com/depcheck/depcheck) - Check your npm module for unused dependencies
 - [JeffreyWay/Laravel-4-Generators](https://github.com/JeffreyWay/Laravel-4-Generators) - Rapidly speed up your Laravel workflow with generators
-- [tailwindlabs/tailwindui-issues](https://github.com/tailwindlabs/tailwindui-issues) - Bug fixes and feature request tracking for Tailwind UI.
+- [tailwindlabs/tailwindui-issues](https://github.com/tailwindlabs/tailwindui-issues) - A place to report bugs discovered in Tailwind UI.
 - [SebLague/Portals](https://github.com/SebLague/Portals) - Portals in Unity
 - [yyx990803/yorkie](https://github.com/yyx990803/yorkie) - :dog: Git hooks made easy
 - [nodeca/pako](https://github.com/nodeca/pako) - high speed zlib port to javascript, works in browser & node.js
@@ -5003,7 +5008,7 @@
 - [coreylowman/cudarc](https://github.com/coreylowman/cudarc) - Safe rust wrapper around CUDA toolkit
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database.
 - [NiklasEi/bevy_common_assets](https://github.com/NiklasEi/bevy_common_assets) - Collection of generic asset loaders for common file formats
-- [ratatui/ratatui](https://github.com/ratatui/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [actions-rs/toolchain](https://github.com/actions-rs/toolchain) - 🛠️ GitHub Action for `rustup` commands
 - [xkevio/kevboy](https://github.com/xkevio/kevboy) - A Game Boy and Game Boy Color emulator in Rust.
 - [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
@@ -5501,7 +5506,7 @@
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust
-- [ratatui/ratatui](https://github.com/ratatui/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust

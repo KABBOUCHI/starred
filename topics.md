@@ -1971,7 +1971,7 @@
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue 
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [vaibhavpandeyvpz/deapk](https://github.com/vaibhavpandeyvpz/deapk) - DeAPK is an open-source, online APK decompiler which lets you upload an APK and then decompile it to Smali or Java sources. It is built using Laravel, Vue.js, Bootstrap, FontAwesome, Pusher, Redis, My
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [laurent-clouet/sheepit-client](https://github.com/laurent-clouet/sheepit-client) - Client for the free and distributed render farm "SheepIt Render Farm"
@@ -1986,7 +1986,7 @@
 - [tree-sitter/tree-sitter-javascript](https://github.com/tree-sitter/tree-sitter-javascript) - Javascript grammar for tree-sitter
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [imacrayon/alpine-ajax](https://github.com/imacrayon/alpine-ajax) - An Alpine.js plugin for building server-powered frontends.
-- [tryandromeda/andromeda](https://github.com/tryandromeda/andromeda) - JS/TS Runtime with no transpilation BS
+- [tryandromeda/andromeda](https://github.com/tryandromeda/andromeda) - JS/TS Runtime in rust powered by Nova with no transpilation BS
 - [trynova/nova](https://github.com/trynova/nova) - JS engine lolz
 - [qq15725/modern-screenshot](https://github.com/qq15725/modern-screenshot) - 📸 Quickly generate image from DOM node using HTML5 canvas and SVG
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
@@ -2201,6 +2201,7 @@
 
 ## js 
 
+- [tryandromeda/andromeda](https://github.com/tryandromeda/andromeda) - JS/TS Runtime in rust powered by Nova with no transpilation BS
 - [yishn/wasm-react](https://github.com/yishn/wasm-react) - WASM bindings for React.
 - [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
@@ -3079,6 +3080,7 @@
 
 ## others 
 
+- [gabrielmbmb/candle-holder](https://github.com/gabrielmbmb/candle-holder) - A Rust crate offering similar functionality to the Python transformers package using Candle.
 - [poppinss/defer](https://github.com/poppinss/defer) - A managed deferred queue to run async operations in the background
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 - [EricLBuehler/candle-vllm](https://github.com/EricLBuehler/candle-vllm) - Efficent platform for inference and serving local LLMs including an OpenAI compatible API server.
@@ -4922,7 +4924,7 @@
 - [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 - [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
 - [elastio/bon](https://github.com/elastio/bon) - Generate builders for everything!
-- [tryandromeda/andromeda](https://github.com/tryandromeda/andromeda) - JS/TS Runtime with no transpilation BS
+- [tryandromeda/andromeda](https://github.com/tryandromeda/andromeda) - JS/TS Runtime in rust powered by Nova with no transpilation BS
 - [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster buil
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [ycysdf/rxy_ui](https://github.com/ycysdf/rxy_ui) - An Rust UI framework
@@ -5565,7 +5567,7 @@
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [elpheria/rpc-websockets](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets for Node.js and JavaScript/TypeScript
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
-- [tryandromeda/andromeda](https://github.com/tryandromeda/andromeda) - JS/TS Runtime with no transpilation BS
+- [tryandromeda/andromeda](https://github.com/tryandromeda/andromeda) - JS/TS Runtime in rust powered by Nova with no transpilation BS
 - [yioneko/vtsls](https://github.com/yioneko/vtsls) - LSP wrapper for typescript extension of vscode
 - [qq15725/modern-screenshot](https://github.com/qq15725/modern-screenshot) - 📸 Quickly generate image from DOM node using HTML5 canvas and SVG
 - [unjs/knitwork](https://github.com/unjs/knitwork) - 🧶 Utilities to generate safe JavaScript code.

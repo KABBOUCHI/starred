@@ -267,6 +267,7 @@
 
 ## ai 
 
+- [floneum/floneum](https://github.com/floneum/floneum) - Instant, controllable, local pre-trained AI models in Rust
 - [rvion/CushyStudio](https://github.com/rvion/CushyStudio) - 🛋 The AI and Generative Art platform for everyone
 - [ra-jeev/hub-chat](https://github.com/ra-jeev/hub-chat) - Cloudflare Workers AI LLM Playground with Nuxt
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
@@ -713,6 +714,7 @@
 
 ## compiler 
 
+- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [TinyCC/tinycc](https://github.com/TinyCC/tinycc) - Unofficial mirror of mob development branch
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
@@ -735,6 +737,7 @@
 
 ## computer-vision 
 
+- [robertknight/ocrs](https://github.com/robertknight/ocrs) - Rust library and CLI tool for OCR (extracting text from images)
 - [codingonion/awesome-rust-list](https://github.com/codingonion/awesome-rust-list) - This repository lists some awesome public Rust projects, Videos, Blogs and Jobs.
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Fast, easy to use, and simple to integrate.  Built in Rust using egui.
 - [shimat/opencvsharp](https://github.com/shimat/opencvsharp) - OpenCV wrapper for .NET
@@ -1228,7 +1231,7 @@
 - [Uniswap/interface](https://github.com/Uniswap/interface) - 🦄 Open source interfaces for the Uniswap protocol
 - [Uniswap/web3-react](https://github.com/Uniswap/web3-react) - A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps
 - [rainbow-me/rainbow](https://github.com/rainbow-me/rainbow) - 🌈‒ the Ethereum wallet that lives in your pocket
-- [WalletConnect/web3modal](https://github.com/WalletConnect/web3modal) - A single Web3 provider solution for all Wallets
+- [reown-com/appkit](https://github.com/reown-com/appkit) - The full stack toolkit to build onchain app UX
 
 ## express 
 
@@ -1629,6 +1632,7 @@
 
 ## hacktoberfest 
 
+- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [node-oauth/node-oauth2-server](https://github.com/node-oauth/node-oauth2-server) - 🚀 The successor to oauthjs/oauth2-server. 🔒 Complete, compliant, maintained and well tested OAuth2 Server for node.js.  Includes native async await and PKCE.
 - [Flowframe/laravel-trend](https://github.com/Flowframe/laravel-trend) - Generate trends for your models. Easily generate charts or reports.
 - [imacrayon/alpine-ajax](https://github.com/imacrayon/alpine-ajax) - An Alpine.js plugin for building server-powered frontends.
@@ -2250,6 +2254,7 @@
 
 ## language 
 
+- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages.
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
@@ -2561,6 +2566,7 @@
 
 ## llm 
 
+- [floneum/floneum](https://github.com/floneum/floneum) - Instant, controllable, local pre-trained AI models in Rust
 - [pytorch/torchchat](https://github.com/pytorch/torchchat) - Run PyTorch LLMs locally on servers, desktop and mobile
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models
@@ -2606,6 +2612,7 @@
 
 ## machine-learning 
 
+- [robertknight/ocrs](https://github.com/robertknight/ocrs) - Rust library and CLI tool for OCR (extracting text from images)
 - [Comfy-Org/ComfyUI_frontend](https://github.com/Comfy-Org/ComfyUI_frontend) - Official front-end implementation of ComfyUI
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
@@ -3080,6 +3087,7 @@
 
 ## others 
 
+- [bytecodealliance/cargo-component](https://github.com/bytecodealliance/cargo-component) - A Cargo subcommand for creating WebAssembly components based on the component model proposal.
 - [gabrielmbmb/candle-holder](https://github.com/gabrielmbmb/candle-holder) - A Rust crate offering similar functionality to the Python transformers package using Candle.
 - [poppinss/defer](https://github.com/poppinss/defer) - A managed deferred queue to run async operations in the background
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
@@ -4766,6 +4774,7 @@
 
 ## python3 
 
+- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [makehumancommunity/makehuman](https://github.com/makehumancommunity/makehuman) - This is the main repository for the MakeHuman application as such.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [ranjian0/building_tools](https://github.com/ranjian0/building_tools) - Building generation addon for blender
@@ -4836,7 +4845,7 @@
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [ReactUnity/core](https://github.com/ReactUnity/core) - React and HTML framework for Unity UI & UIToolkit
-- [WalletConnect/web3modal](https://github.com/WalletConnect/web3modal) - A single Web3 provider solution for all Wallets
+- [reown-com/appkit](https://github.com/reown-com/appkit) - The full stack toolkit to build onchain app UX
 - [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
@@ -4915,6 +4924,10 @@
 
 ## rust 
 
+- [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+- [bytecodealliance/wit-bindgen](https://github.com/bytecodealliance/wit-bindgen) - A language binding generator for WebAssembly interface types
+- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
+- [floneum/floneum](https://github.com/floneum/floneum) - Instant, controllable, local pre-trained AI models in Rust
 - [dtolnay/itoa](https://github.com/dtolnay/itoa) - Fast function for printing integer primitives to a decimal string
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [enigo-rs/enigo](https://github.com/enigo-rs/enigo) - Cross platform input simulation in Rust

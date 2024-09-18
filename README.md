@@ -1347,7 +1347,6 @@
 - [dwightwatson/rememberable](https://github.com/dwightwatson/rememberable) - Query caching for Laravel
 - [area17/twill](https://github.com/area17/twill) - Twill is an open source CMS toolkit for Laravel that helps developers rapidly create a custom admin console that is intuitive, powerful and flexible. Chat with us on Discord at https://discord.gg/cnWk
 - [doctrine/dbal](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer
-- [laravel/breeze](https://github.com/laravel/breeze) - Minimal Laravel authentication scaffolding with Blade, Vue, or React + Tailwind.
 - [mpdf/mpdf](https://github.com/mpdf/mpdf) - PHP library generating PDF files from UTF-8 encoded HTML
 - [themsaid/ibis](https://github.com/themsaid/ibis) - A PHP tool that helps you write eBooks in markdown and convert to PDF.
 - [rebing/graphql-laravel](https://github.com/rebing/graphql-laravel) - Laravel wrapper for Facebook's GraphQL
@@ -1850,6 +1849,12 @@
 
 ## Rust 
 
+- [robertknight/ocrs](https://github.com/robertknight/ocrs) - Rust library and CLI tool for OCR (extracting text from images)
+- [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+- [bytecodealliance/cargo-component](https://github.com/bytecodealliance/cargo-component) - A Cargo subcommand for creating WebAssembly components based on the component model proposal.
+- [bytecodealliance/wit-bindgen](https://github.com/bytecodealliance/wit-bindgen) - A language binding generator for WebAssembly interface types
+- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
+- [floneum/floneum](https://github.com/floneum/floneum) - Instant, controllable, local pre-trained AI models in Rust
 - [gabrielmbmb/candle-holder](https://github.com/gabrielmbmb/candle-holder) - A Rust crate offering similar functionality to the Python transformers package using Candle.
 - [EricLBuehler/candle-vllm](https://github.com/EricLBuehler/candle-vllm) - Efficent platform for inference and serving local LLMs including an OpenAI compatible API server.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
@@ -2888,7 +2893,7 @@
 - [wheatjs/vueuse-playground](https://github.com/wheatjs/vueuse-playground) - An online playground for VueUse
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [unjs/ipx](https://github.com/unjs/ipx) - 🖼️ High performance, secure and easy-to-use image optimizer.
-- [WalletConnect/web3modal](https://github.com/WalletConnect/web3modal) - A single Web3 provider solution for all Wallets
+- [reown-com/appkit](https://github.com/reown-com/appkit) - The full stack toolkit to build onchain app UX
 - [Maronato/vue-toastification](https://github.com/Maronato/vue-toastification) - Vue notifications made easy!
 - [softonic/axios-retry](https://github.com/softonic/axios-retry) - Axios plugin that intercepts failed requests and retries them whenever possible
 - [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
@@ -3163,6 +3168,7 @@
 - [cyrilf/vue-dat-gui](https://github.com/cyrilf/vue-dat-gui) - A Vue3 port of the popular dat.GUI library
 - [prabhuignoto/vue-dock-menu](https://github.com/prabhuignoto/vue-dock-menu) - ⚓Dockable Menu bar for Vue
 - [nuxt/nitro-demo](https://github.com/nuxt/nitro-demo) - nuxt nitro preview
+- [laravel/breeze](https://github.com/laravel/breeze) - Minimal Laravel authentication scaffolding with Blade, Vue, or React + Tailwind.
 - [piniajs/example-vue-3-vite](https://github.com/piniajs/example-vue-3-vite) - Example using vue-next and pinia@next
 - [prabhuignoto/vue-float-menu](https://github.com/prabhuignoto/vue-float-menu) - 🎈Customizable floating menu for Vue
 - [wobsoriano/v-dashboard](https://github.com/wobsoriano/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS.

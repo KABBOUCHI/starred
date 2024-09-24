@@ -1467,7 +1467,7 @@
 
 ## gamedev 
 
-- [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) - This template is a great way to get started on a new Bevy game—especially for a game jam!
+- [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) - This template is a great way to get started on a new 2D Bevy game!
 - [rerun-io/revy](https://github.com/rerun-io/revy) - Proof-of-concept time-travel debugger for the Bevy game engine, built using Rerun.
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of p
 - [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4

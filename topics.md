@@ -2576,6 +2576,7 @@
 
 ## llm 
 
+- [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for running Vision LLMs locally on your Mac using MLX.
 - [floneum/floneum](https://github.com/floneum/floneum) - Instant, controllable, local pre-trained AI models in Rust
 - [pytorch/torchchat](https://github.com/pytorch/torchchat) - Run PyTorch LLMs locally on servers, desktop and mobile
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
@@ -5182,7 +5183,7 @@
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - App framework for web, desktop, mobile, and more.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
-- [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - Watches over your Cargo project's source.
+- [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - Watches over your Cargo project's source. —— Maintenance status: on hold. I have no time for OSS currently; back late 2024.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [brendanzab/gl-rs](https://github.com/brendanzab/gl-rs) - An OpenGL function pointer loader for Rust
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
@@ -5452,6 +5453,7 @@
 
 ## swift 
 
+- [maiqingqiang/ChatMLX](https://github.com/maiqingqiang/ChatMLX) - 🤖✨ChatMLX is a modern, open-source, high-performance chat application for MacOS based on large language models.
 - [phoenixlauncher/phoenix](https://github.com/phoenixlauncher/phoenix) - A lightweight game launcher written in SwiftUI for macOS!
 - [godbout/Wooshy.docs](https://github.com/godbout/Wooshy.docs) - it's like Alfred but for the UI
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
@@ -5467,6 +5469,7 @@
 
 ## swiftui 
 
+- [maiqingqiang/ChatMLX](https://github.com/maiqingqiang/ChatMLX) - 🤖✨ChatMLX is a modern, open-source, high-performance chat application for MacOS based on large language models.
 - [phoenixlauncher/phoenix](https://github.com/phoenixlauncher/phoenix) - A lightweight game launcher written in SwiftUI for macOS!
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [raycharius/slack-block-builder](https://github.com/raycharius/slack-block-builder) - Lightweight Node.js library for building Slack Block Kit UIs, with a declarative syntax inspired by SwiftUI.

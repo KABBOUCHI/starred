@@ -1550,7 +1550,6 @@
 - [orangehill/iseed](https://github.com/orangehill/iseed) - Laravel Inverse Seed Generator
 - [swooletw/laravel-swoole](https://github.com/swooletw/laravel-swoole) - High performance HTTP server based on Swoole. Speed up your Laravel or Lumen applications.
 - [jameslkingsley/laravel-mentions](https://github.com/jameslkingsley/laravel-mentions) - End-to-end mentions in Laravel 5.
-- [faustbrian/laravel-commentable](https://github.com/faustbrian/laravel-commentable) - 
 - [galaxyofdrones/galaxyofdrones](https://github.com/galaxyofdrones/galaxyofdrones) - 🚀 An open source multiplayer space strategy game.
 - [tenancy/tenancy](https://github.com/tenancy/tenancy) - Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups.
 - [tomschlick/townhouse](https://github.com/tomschlick/townhouse) - [WORK IN PROGRESS] A Multitenancy package for Laravel that keeps each tenant in a separate database.

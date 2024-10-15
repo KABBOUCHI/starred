@@ -627,6 +627,7 @@
 
 ## JavaScript 
 
+- [GoogleChromeLabs/browser-fs-access](https://github.com/GoogleChromeLabs/browser-fs-access) - File System Access API with legacy fallback in the browser
 - [npm/package-json](https://github.com/npm/package-json) - Programmatic API to update package.json
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 - [redgoose-dev/json-editor](https://github.com/redgoose-dev/json-editor) - JSON data editor and management
@@ -1757,6 +1758,7 @@
 
 ## Python 
 
+- [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
 - [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for running Vision LLMs locally on your Mac using MLX.
 - [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi) - 
 - [crystian/ComfyUI-Crystools](https://github.com/crystian/ComfyUI-Crystools) - A powerful set of tools for ComfyUI
@@ -1859,6 +1861,7 @@
 
 ## Rust 
 
+- [levkk/rwf](https://github.com/levkk/rwf) - Comprehensive framework for building web applications in Rust.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [napi-rs/node-rs](https://github.com/napi-rs/node-rs) - Node.js bindings ❤️ Rust crates
 - [m1guelpf/openai-realtime-proxy](https://github.com/m1guelpf/openai-realtime-proxy) - Safely deploy OpenAI's Realtime APIs in less than 5 minutes!

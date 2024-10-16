@@ -310,7 +310,7 @@
 
 ## C++ 
 
-- [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp) - Iconic media player
+- [google/sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 - [asg017/sqlite-vss](https://github.com/asg017/sqlite-vss) - A SQLite extension for efficient vector search, based on Faiss!
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
@@ -1758,6 +1758,7 @@
 
 ## Python 
 
+- [snakers4/silero-vad](https://github.com/snakers4/silero-vad) - Silero VAD: pre-trained enterprise-grade Voice Activity Detector
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
 - [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for running Vision LLMs locally on your Mac using MLX.
 - [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi) - 
@@ -1861,6 +1862,8 @@
 
 ## Rust 
 
+- [nkeenan38/voice_activity_detector](https://github.com/nkeenan38/voice_activity_detector) - A Voice Activity Detector rust library using the Silero VAD model.
+- [rustyhorde/vergen](https://github.com/rustyhorde/vergen) - Generate cargo instructions at compile time in build scripts for use with the env! or option_env! macros
 - [levkk/rwf](https://github.com/levkk/rwf) - Comprehensive framework for building web applications in Rust.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [napi-rs/node-rs](https://github.com/napi-rs/node-rs) - Node.js bindings ❤️ Rust crates
@@ -1946,7 +1949,7 @@
 - [dtolnay/watt](https://github.com/dtolnay/watt) - Runtime for executing procedural macros as WebAssembly
 - [ahkohd/tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) - Tauri plugin to convert a window to panel
 - [b23r0/rsocx](https://github.com/b23r0/rsocx) - A bind/reverse Socks5 proxy server.
-- [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A lightweight proxy for capturing HTTP(S) and WS(S) traffic.
+- [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A proxy CLI for capturing HTTP(S) & WS(S) Traffic.
 - [dizda/fast-socks5](https://github.com/dizda/fast-socks5) - Fast SOCKS5 client/server implementation written in Rust async/.await (with tokio)
 - [merwaaan/bevy_spritesheet_animation](https://github.com/merwaaan/bevy_spritesheet_animation) - A Bevy plugin for animating sprites that are backed by spritesheets
 - [matthunz/bevy-compose](https://github.com/matthunz/bevy-compose) - 
@@ -2455,6 +2458,7 @@
 
 ## TypeScript 
 
+- [unjs/srvx](https://github.com/unjs/srvx) - 💥 Universal Server API based on web platform standards. Works seamlessly with Deno, Bun and Node.js.
 - [selemondev/spark-ui](https://github.com/selemondev/spark-ui) - Experience The Magic Of Animated Components. Crafted With Vue, TypeScript, TailwindCss And Vueuse Motion ✨
 - [denoland/denokv](https://github.com/denoland/denokv) - A self-hosted backend for Deno KV
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.

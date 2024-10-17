@@ -3153,6 +3153,7 @@
 
 ## others 
 
+- [Julien-R44/tuyau](https://github.com/Julien-R44/tuyau) - RPC / E2E Client For AdonisJS
 - [nkeenan38/voice_activity_detector](https://github.com/nkeenan38/voice_activity_detector) - A Voice Activity Detector rust library using the Silero VAD model.
 - [rustyhorde/vergen](https://github.com/rustyhorde/vergen) - Generate cargo instructions at compile time in build scripts for use with the env! or option_env! macros
 - [unjs/srvx](https://github.com/unjs/srvx) - 💥 Universal Server API based on web platform standards. Works seamlessly with Deno, Bun and Node.js.

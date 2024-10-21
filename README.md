@@ -1916,7 +1916,6 @@
 - [databasedav/haalka](https://github.com/databasedav/haalka) - ergonomic reactive Bevy UI library powered by FRP signals
 - [viridia/quill](https://github.com/viridia/quill) - A reactive UI framework for Bevy
 - [Lommix/bevy_enoki](https://github.com/Lommix/bevy_enoki) - 2D particle system with custom material traits. Works well in wasm webgl2 and mobile
-- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse]
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models
@@ -2109,7 +2108,7 @@
 - [mdenchev/bevy_aseprite](https://github.com/mdenchev/bevy_aseprite) - 
 - [awslabs/aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
 - [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The only backend your multiplayer game needs. Open-source & self-hostable.
-- [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust  Compile Time ORM robustness,async, pure Rust Dynamic SQL
+- [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust Compile Time ORM with Async Dynamic SQL
 - [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - A cargo-subcommand to speed up Rust Docker builds using Docker layer caching.
 - [m1guelpf/ensemble](https://github.com/m1guelpf/ensemble) - A Laravel-inspired ORM for Rust
 - [systeminit/si](https://github.com/systeminit/si) - The System Initiative software
@@ -2513,6 +2512,7 @@
 - [sxzz/tsdown](https://github.com/sxzz/tsdown) - An even faster bundler powered by Rolldown.
 - [yioneko/vtsls](https://github.com/yioneko/vtsls) - LSP wrapper for typescript extension of vscode
 - [qq15725/modern-screenshot](https://github.com/qq15725/modern-screenshot) - 📸 Quickly generate image from DOM node using HTML5 canvas and SVG.
+- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse]
 - [danielroe/nuxt-workers](https://github.com/danielroe/nuxt-workers) - SSR-safe, zero-config Web Workers integration for Nuxt.
 - [unjs/knitwork](https://github.com/unjs/knitwork) - 🧶 Utilities to generate safe JavaScript code.
 - [johnsoncodehk/tsslint](https://github.com/johnsoncodehk/tsslint) - 🔋⚡️ The fastest and lightest TypeScript semantic linting solution

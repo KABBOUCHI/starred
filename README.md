@@ -1895,7 +1895,7 @@
 - [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
 - [elastio/bon](https://github.com/elastio/bon) - Next-gen compile-time-checked builder generator, named function's arguments, and more!
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
-- [tryandromeda/andromeda](https://github.com/tryandromeda/andromeda) - JS/TS Runtime in rust powered by Nova with no transpilation BS
+- [tryandromeda/andromeda](https://github.com/tryandromeda/andromeda) - JS runtime lolz
 - [trynova/nova](https://github.com/trynova/nova) - JS engine lolz
 - [m1guelpf/orbit](https://github.com/m1guelpf/orbit) - Simple & safe zero-downtime deployments for Laravel.
 - [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) - This template is a great way to get started on a new 2D Bevy game!

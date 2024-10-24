@@ -965,7 +965,7 @@
 - [JohMun/vue-tags-input](https://github.com/JohMun/vue-tags-input) - A tags input component for VueJS
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [play-with-docker/play-with-docker](https://github.com/play-with-docker/play-with-docker) - You know it, you use it, now it's time to improve it. PWD!.
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [egoist/vue-monaco](https://github.com/egoist/vue-monaco) - MonacoEditor component for Vue.js
 - [nbubna/Case](https://github.com/nbubna/Case) - String case utitility: convert, identify, flip, extend
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
@@ -1863,6 +1863,7 @@
 
 ## Rust 
 
+- [tokio-rs/toasty](https://github.com/tokio-rs/toasty) - An async ORM for Rust (incubating)
 - [nkeenan38/voice_activity_detector](https://github.com/nkeenan38/voice_activity_detector) - A Voice Activity Detector rust library using the Silero VAD model.
 - [rustyhorde/vergen](https://github.com/rustyhorde/vergen) - Generate cargo instructions at compile time in build scripts for use with the env! or option_env! macros
 - [levkk/rwf](https://github.com/levkk/rwf) - Comprehensive framework for building web applications in Rust.
@@ -2442,7 +2443,7 @@
 - [italomandara/CXPatcher](https://github.com/italomandara/CXPatcher) - A patcher to upgrade Crossover dependencies and improve compatibility
 - [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0
 - [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
-- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen) - A Swift command line tool for generating your Xcode project
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover

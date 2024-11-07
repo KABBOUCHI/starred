@@ -322,7 +322,7 @@
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.5.57388, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.0.57244)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.5.57388, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.1.57294)
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
@@ -1154,6 +1154,7 @@
 
 ## Others 
 
+- [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus) - TablePlus macOS issue tracker
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 - [vitejs/companies-using-vite](https://github.com/vitejs/companies-using-vite) - A list of companies using Vite.
 - [adonisjs/prettier-config](https://github.com/adonisjs/prettier-config) - Prettier config preset for AdonisJS packages and applications
@@ -2236,7 +2237,6 @@
 - [autometrics-dev/autometrics-rs](https://github.com/autometrics-dev/autometrics-rs) - Easily add metrics to your code that actually help you spot and debug issues in production. Built on Prometheus and OpenTelemetry.
 - [jkb0o/belly](https://github.com/jkb0o/belly) - Define the Bevy UI tree with `eml!`, style it using a very-css-like `ess` syntax and relate data data with `bind!` and `connect!`
 - [postcss-rs/postcss-rs](https://github.com/postcss-rs/postcss-rs) - 🚀 Fast and 100% API compatible postcss replacer, built in Rust
-- [pxp-lang/pxp](https://github.com/pxp-lang/pxp) - A suite of high-performance tools for PHP developers – includes a code formatter, static analyser, language server and superset language.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [mathletedev/rust-ml](https://github.com/mathletedev/rust-ml) - Precalculus matrices project implemented in neural networks
 - [guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
@@ -2449,6 +2449,7 @@
 
 ## Swift 
 
+- [FuzzyIdeas/YellowDot](https://github.com/FuzzyIdeas/YellowDot) - Hide the macOS yellow recording dot in the corner of your screen
 - [maiqingqiang/ChatMLX](https://github.com/maiqingqiang/ChatMLX) - 🤖✨ChatMLX is a modern, open-source, high-performance chat application for MacOS based on large language models.
 - [phoenixlauncher/phoenix](https://github.com/phoenixlauncher/phoenix) - A lightweight game launcher written in SwiftUI for macOS!
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
@@ -2539,7 +2540,7 @@
 - [OpenZeppelin/merkle-tree](https://github.com/OpenZeppelin/merkle-tree) - A JavaScript library to generate merkle trees and merkle proofs.
 - [flydrive-js/core](https://github.com/flydrive-js/core) - File Storage abstraction for cloud services and local filesystem
 - [ruifigueira/playwright-crx](https://github.com/ruifigueira/playwright-crx) - Playwright for chrome extensions
-- [openai/openai-node](https://github.com/openai/openai-node) - The official Node.js / Typescript library for the OpenAI API
+- [openai/openai-node](https://github.com/openai/openai-node) - Official JavaScript / TypeScript library for the OpenAI API
 - [antfu/trace-record](https://github.com/antfu/trace-record) - Get the stack trace of the creation of objects.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [posva/event-emitter](https://github.com/posva/event-emitter) - &lt;200 bytes type safe extendable event emitter / pubsub class
@@ -2597,7 +2598,7 @@
 - [nuxt-modules/og-image](https://github.com/nuxt-modules/og-image) - Generate OG Images with Vue templates in Nuxt.
 - [Julien-R44/bentocache](https://github.com/Julien-R44/bentocache) - 🍱 Bentocache is a robust multi-tier caching solution for Node.js applications
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
-- [peterboyer/unenum](https://github.com/peterboyer/unenum) - Universal ADT utilities for TypeScript.
+- [peterboyer/adt](https://github.com/peterboyer/adt) - Universal ADT utilities. (Formerly unenum).
 - [nuxtrdev/nuxtr-vscode](https://github.com/nuxtrdev/nuxtr-vscode) - An extension offering commands and tools to make your experience with Nuxt more pleasant.
 - [taskforcesh/bullmq-proxy](https://github.com/taskforcesh/bullmq-proxy) - HTTP based proxy for accessing BullMQ Queues
 - [latticexyz/mud](https://github.com/latticexyz/mud) - MUD is a framework for building autonomous worlds

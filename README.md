@@ -1756,7 +1756,7 @@
 ## PowerShell 
 
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows
 
 ## Pug 
 
@@ -1975,7 +1975,6 @@
 - [Couch-Chilis/Sudoku-Pi](https://github.com/Couch-Chilis/Sudoku-Pi) - Finger-friendly Sudoku game
 - [443eb9/bevy_incandescent](https://github.com/443eb9/bevy_incandescent) - A 2d lighting crate for bevy.
 - [rive-app/rive-rs](https://github.com/rive-app/rive-rs) - 
-- [hytopiagg/bevy_wry_webview](https://github.com/hytopiagg/bevy_wry_webview) - An embedded webview in Bevy using Wry's child windows
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 - [linebender/tiny-skia](https://github.com/linebender/tiny-skia) - A tiny Skia subset ported to Rust
@@ -2449,6 +2448,8 @@
 
 ## Swift 
 
+- [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
+- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
 - [FuzzyIdeas/YellowDot](https://github.com/FuzzyIdeas/YellowDot) - Hide the macOS yellow recording dot in the corner of your screen
 - [maiqingqiang/ChatMLX](https://github.com/maiqingqiang/ChatMLX) - 🤖✨ChatMLX is a modern, open-source, high-performance chat application for MacOS based on large language models.
 - [phoenixlauncher/phoenix](https://github.com/phoenixlauncher/phoenix) - A lightweight game launcher written in SwiftUI for macOS!
@@ -2472,6 +2473,9 @@
 
 ## TypeScript 
 
+- [wevm/ox](https://github.com/wevm/ox) - Standard Library for Ethereum
+- [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
+- [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications
 - [notmd/bevy_remote_inspector](https://github.com/notmd/bevy_remote_inspector) - 
 - [posva/pinia-colada](https://github.com/posva/pinia-colada) - 🍹 The smart data fetching layer for Pinia
 - [KABBOUCHI/adonisjs-websocket](https://github.com/KABBOUCHI/adonisjs-websocket) - 
@@ -2748,7 +2752,7 @@
 - [nuxt-modules/turnstile](https://github.com/nuxt-modules/turnstile) - 🔥 Cloudflare Turnstile integration for Nuxt
 - [openchainxyz/ethereum-transaction-viewer-frontend](https://github.com/openchainxyz/ethereum-transaction-viewer-frontend) - Frontend for https://tx.eth.samczsun.com/
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
-- [NozomuIkuta/h3-cors](https://github.com/NozomuIkuta/h3-cors) - h3-native CORS event handler
+- [nozomuikuta/h3-cors](https://github.com/nozomuikuta/h3-cors) - h3-native CORS event handler
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [poppinss/validator-lite](https://github.com/poppinss/validator-lite) - Typed schema based validation with low calories (KBs)
 - [shazow/whatsabi](https://github.com/shazow/whatsabi) - Extract the ABI (and resolve proxies, and get other metadata) from Ethereum bytecode, even without source code.
@@ -2794,6 +2798,7 @@
 - [webfansplz/temir](https://github.com/webfansplz/temir) - Vue for interactive command-line apps
 - [wheatjs/vue-2048](https://github.com/wheatjs/vue-2048) - Multiplayer version of 2048 written in Vue
 - [danielroe/nuxt-full-static](https://github.com/danielroe/nuxt-full-static) - Full static implementation for Nuxt 3
+- [Uninen/tauri-vue-template](https://github.com/Uninen/tauri-vue-template) - Tauri 2 + Vue  (TypeScript) template w/ Vitest, Tailwind, and full CI/CD configured
 - [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
 - [convergencelabs/monaco-collab-ext](https://github.com/convergencelabs/monaco-collab-ext) - Adds collaborative editing capabilities to the Monaco Editor
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
@@ -3208,7 +3213,6 @@
 - [webfansplz/temir-snake-game](https://github.com/webfansplz/temir-snake-game) - Terminal-based Snake game. Powered by Temir.
 - [nuxtlabs/vue-telescope-website](https://github.com/nuxtlabs/vue-telescope-website) - Discover Websites made with Vue.js
 - [jurassicjs/nuxt3-fullstack-tutorial](https://github.com/jurassicjs/nuxt3-fullstack-tutorial) - Full Stack Nuxt App Tutorial
-- [Uninen/tauri-vue-template](https://github.com/Uninen/tauri-vue-template) - Tauri + Vue + Vite template w/ Vitest, Tailwind, and GH Actions configured.
 - [Dashibase/lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3
 - [troisjs/little-planet](https://github.com/troisjs/little-planet) - 🪐 Procedural Low Poly Planet Generator ✨
 - [javisperez/tailwindcolorshades](https://github.com/javisperez/tailwindcolorshades) - Color shades generator for TailwindCSS - https://javisperez.github.io/tailwindcolorshades

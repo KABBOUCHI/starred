@@ -321,6 +321,8 @@
 
 ## android 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
+- [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
 - [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages.
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -583,6 +585,7 @@
 
 ## c 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 - [TinyCC/tinycc](https://github.com/TinyCC/tinycc) - Unofficial mirror of mob development branch
 - [quecot/procedural-animals](https://github.com/quecot/procedural-animals) - Procedural animation technique to create a snake-like movement using raylib and C.
@@ -656,7 +659,7 @@
 
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-- [HugoRCD/shelve](https://github.com/HugoRCD/shelve) - Shelve, is a project management tool for developer to make project creation and management easier
+- [HugoRCD/shelve](https://github.com/HugoRCD/shelve) - Shelve is an all-in-one development workspace that revolutionizes how developers manage environments and collaborate on projects.
 - [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A proxy CLI for capturing HTTP(S) & WS(S) Traffic.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
@@ -1043,6 +1046,7 @@
 
 ## devops 
 
+- [serversideup/spin](https://github.com/serversideup/spin) - 🚀 Replicate your production environment locally using Docker. Just run "spin up". It's really that easy.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [berops/claudie](https://github.com/berops/claudie) - Cloud-agnostic managed Kubernetes
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
@@ -1068,6 +1072,7 @@
 
 ## docker 
 
+- [serversideup/spin](https://github.com/serversideup/spin) - 🚀 Replicate your production environment locally using Docker. Just run "spin up". It's really that easy.
 - [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container.
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
@@ -1172,6 +1177,7 @@
 
 ## embedded 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [LibVNC/libvncserver](https://github.com/LibVNC/libvncserver) - LibVNCServer/LibVNCClient are cross-platform C libraries that allow you to easily implement VNC server or client functionality in your program.
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
 
@@ -1421,6 +1427,7 @@
 
 ## game 
 
+- [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
 - [veloren/veloren](https://github.com/veloren/veloren) - An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [zorgiepoo/Bit-Slicer](https://github.com/zorgiepoo/Bit-Slicer) - Universal game trainer for macOS
@@ -1432,7 +1439,7 @@
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
-- [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Functional, minimal, data-oriented, ultra-high performance ECS library written in JavaScript
+- [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Flexible, minimal, data-oriented ECS library for Typescript
 - [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [Facepunch/Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) - Another fucking c# Steamworks implementation
 - [UnityTechnologies/open-project-1](https://github.com/UnityTechnologies/open-project-1) - Unity Open Project #1: Chop Chop
@@ -1446,6 +1453,7 @@
 
 ## game-development 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [not-elm/bevy_flurx_wry](https://github.com/not-elm/bevy_flurx_wry) - The purpose of this crate is integrate bevy and wry using bevy_flurx.
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
 - [Henauxg/bevy_quinnet](https://github.com/Henauxg/bevy_quinnet) - A Client/Server game networking plugin using QUIC, for the Bevy game engine.
@@ -1473,7 +1481,7 @@
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [Mojang/ore-ui](https://github.com/Mojang/ore-ui) - 💎 Building blocks to construct game UIs using web tech.
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
-- [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Functional, minimal, data-oriented, ultra-high performance ECS library written in JavaScript
+- [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Flexible, minimal, data-oriented ECS library for Typescript
 - [LudiKha/Graphene](https://github.com/LudiKha/Graphene) - Graphene for Unity UI Toolkit is a lightweight and modular framework for building user interfaces
 - [AnyRPG/AnyRPGCore](https://github.com/AnyRPG/AnyRPGCore) - Open source Role Playing Game engine for Unity 3D written in C#.
 - [ValveSoftware/GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) - Reliable & unreliable messages over UDP.  Robust message fragmentation & reassembly.  P2P networking / NAT traversal.  Encryption.
@@ -1491,6 +1499,7 @@
 
 ## game-engine 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [ggez/ggez](https://github.com/ggez/ggez) - Rust library to create a Good Game Easily
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
@@ -1498,7 +1507,7 @@
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
-- [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Functional, minimal, data-oriented, ultra-high performance ECS library written in JavaScript
+- [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Flexible, minimal, data-oriented ECS library for Typescript
 - [SanderMertens/flecs](https://github.com/SanderMertens/flecs) - A fast entity component system (ECS) for C & C++
 - [juicycleff/flutter-unity-view-widget](https://github.com/juicycleff/flutter-unity-view-widget) - Embeddable unity game engine view for Flutter. Advance demo here https://github.com/juicycleff/flutter-unity-arkit-demo
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
@@ -1506,6 +1515,7 @@
 
 ## gamedev 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [cBournhonesque/lightyear](https://github.com/cBournhonesque/lightyear) - A networking library to make multiplayer games for the Bevy game engine
 - [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) - This template is a great way to get started on a new 2D Bevy game!
 - [rerun-io/revy](https://github.com/rerun-io/revy) - Proof-of-concept time-travel debugger for the Bevy game engine, built using Rerun.
@@ -1523,7 +1533,7 @@
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
-- [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Functional, minimal, data-oriented, ultra-high performance ECS library written in JavaScript
+- [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Flexible, minimal, data-oriented ECS library for Typescript
 - [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 - [xeleh/enhancer](https://github.com/xeleh/enhancer) - A collection of utilities to enhance the Unity Editor
 - [nxrighthere/ValveSockets-CSharp](https://github.com/nxrighthere/ValveSockets-CSharp) - Managed C# abstraction of GameNetworkingSockets library by Valve Software
@@ -1550,7 +1560,6 @@
 
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
-- [HugoRCD/shelve](https://github.com/HugoRCD/shelve) - Shelve, is a project management tool for developer to make project creation and management easier
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
@@ -1683,6 +1692,7 @@
 
 ## hacktoberfest 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [deco-cx/deco](https://github.com/deco-cx/deco) - Git-based Visual CMS for Deno, &lt;/&gt; htmx and Tailwind apps. Deploy on any Deno-compatible host.
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
@@ -1929,7 +1939,6 @@
 
 ## http 
 
-- [levkk/rwf](https://github.com/levkk/rwf) - Comprehensive framework for building web applications in Rust.
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [DaBigBlob/libsql-stateless-easy](https://github.com/DaBigBlob/libsql-stateless-easy) - Thin libSQL stateless HTTP driver for TypeScript and JavaScript for the edge but easy 🚀
 - [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A proxy CLI for capturing HTTP(S) & WS(S) Traffic.
@@ -2023,6 +2032,7 @@
 
 ## iot 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [elpheria/rpc-websockets](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets for Node.js and JavaScript/TypeScript
 
 ## ipfs 
@@ -2345,6 +2355,7 @@
 
 ## laravel 
 
+- [serversideup/spin](https://github.com/serversideup/spin) - 🚀 Replicate your production environment locally using Docker. Just run "spin up". It's really that easy.
 - [wire-elements/wire-spy](https://github.com/wire-elements/wire-spy) - WireSpy—a sleek new debug bar for Livewire
 - [laradumps/laradumps](https://github.com/laradumps/laradumps) - 🛻 LaraDumps is a friendly app designed to boost your Laravel PHP coding and debugging experience.
 - [pinkary-project/pinkary.com](https://github.com/pinkary-project/pinkary.com) - Create a landing page for all your links and connect with like-minded people without the noise.
@@ -2603,6 +2614,7 @@
 
 ## linux 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
@@ -2726,7 +2738,7 @@
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
 - [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
 - [FuzzyIdeas/YellowDot](https://github.com/FuzzyIdeas/YellowDot) - Hide the macOS yellow recording dot in the corner of your screen
-- [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
+- [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 - [context-labs/mactop](https://github.com/context-labs/mactop) - mactop - Apple Silicon Monitor Top
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
@@ -2781,6 +2793,7 @@
 
 ## markdown 
 
+- [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [mdit-vue/mdit-vue](https://github.com/mdit-vue/mdit-vue) - markdown-it plugins for Vue.js
 - [ZTL-UwU/shadcn-docs-nuxt](https://github.com/ZTL-UwU/shadcn-docs-nuxt) - Effortless and beautiful docs template built with Nuxt Content & shadcn-vue.
 - [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
@@ -3015,6 +3028,7 @@
 
 ## nodejs 
 
+- [serversideup/spin](https://github.com/serversideup/spin) - 🚀 Replicate your production environment locally using Docker. Just run "spin up". It's really that easy.
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [tus/tus-node-server](https://github.com/tus/tus-node-server) - Node.js tus server, standalone or integrable in any framework, with disk, S3, Azure, and GGC stores.
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
@@ -3207,6 +3221,7 @@
 
 ## opengl 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [brendanzab/gl-rs](https://github.com/brendanzab/gl-rs) - An OpenGL function pointer loader for Rust
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
@@ -3220,6 +3235,8 @@
 
 ## others 
 
+- [actuate-rs/actuate](https://github.com/actuate-rs/actuate) - A framework for declarative programming in Rust
+- [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website) - The source files for the official Bevy website
 - [nimbus-town/nimbus](https://github.com/nimbus-town/nimbus) - A nimble Bluesky web client
 - [TheSeekerGame/TheSeeker](https://github.com/TheSeekerGame/TheSeeker) - Metroidvania game in Bevy
 - [bionic-gpt/daisy-rsx](https://github.com/bionic-gpt/daisy-rsx) - Dioxus Components for DaisyUI
@@ -3243,7 +3260,7 @@
 - [KABBOUCHI/adonisjs-websocket](https://github.com/KABBOUCHI/adonisjs-websocket) - 
 - [tokio-rs/toasty](https://github.com/tokio-rs/toasty) - An async ORM for Rust (incubating)
 - [pi0/y-crossws](https://github.com/pi0/y-crossws) - yjs server for crossws.unjs.io, works with Node.js, Deno, Bun, Cloudflare Workers without any framework dependency.
-- [openmoh/openmohaa](https://github.com/openmoh/openmohaa) - Open re-implementation of Medal of Honor: Allied Assault with modern features and bugfixes from ioquake3 with cross-platform support
+- [openmoh/openmohaa](https://github.com/openmoh/openmohaa) - Open re-implementation of Medal of Honor: Allied Assault including Spearhead and Breakthrough expansions with modern features and bugfixes from ioquake3 with cross-platform support
 - [Julien-R44/tuyau](https://github.com/Julien-R44/tuyau) - RPC / E2E Client For AdonisJS
 - [nkeenan38/voice_activity_detector](https://github.com/nkeenan38/voice_activity_detector) - A Voice Activity Detector rust library using the Silero VAD model.
 - [rustyhorde/vergen](https://github.com/rustyhorde/vergen) - Generate cargo instructions at compile time in build scripts for use with the env! or option_env! macros
@@ -3347,7 +3364,7 @@
 - [servo/stylo](https://github.com/servo/stylo) - 
 - [AccessKit/accesskit](https://github.com/AccessKit/accesskit) - Accessibility infrastructure for UI toolkits
 - [linebender/parley](https://github.com/linebender/parley) - Rich text layout library
-- [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - High performance HTML and CSS renderer powered by WGPU
+- [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - A radically modular HTML/CSS rendering engine
 - [laravel/prompts](https://github.com/laravel/prompts) - Beautiful and user-friendly forms for your command-line PHP applications.
 - [linebender/xilem](https://github.com/linebender/xilem) - An experimental Rust native UI framework
 - [ponder-sh/ponder](https://github.com/ponder-sh/ponder) - The backend framework for crypto apps
@@ -3695,7 +3712,7 @@
 - [benmccann/esm-env](https://github.com/benmccann/esm-env) - 
 - [rwasm/vite-rsw-wasm-template](https://github.com/rwasm/vite-rsw-wasm-template) - Vite + Rust 💖 WebAssembly
 - [kakajun/vue3-sketch-ruler](https://github.com/kakajun/vue3-sketch-ruler) - Zoom operation of page display in vue 3
-- [unjs/nypm](https://github.com/unjs/nypm) - 🌈 Unified Package Manager for Node.js and Bun
+- [unjs/nypm](https://github.com/unjs/nypm) - 🌈 Unified Package Manager for Node.js (npm, pnpm, yarn), Bun and Deno
 - [cavai-research/Adonis-Queue](https://github.com/cavai-research/Adonis-Queue) - Queue provider for Adonis V5
 - [paritytech/jsonrpsee](https://github.com/paritytech/jsonrpsee) - Rust JSON-RPC library on top of async/await
 - [nuxt-experiments/nuxt-remote-config](https://github.com/nuxt-experiments/nuxt-remote-config) - 
@@ -4896,12 +4913,13 @@
 
 ## programming 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 
 ## project-management 
 
-- [HugoRCD/shelve](https://github.com/HugoRCD/shelve) - Shelve, is a project management tool for developer to make project creation and management easier
+- [HugoRCD/shelve](https://github.com/HugoRCD/shelve) - Shelve is an all-in-one development workspace that revolutionizes how developers manage environments and collaborate on projects.
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 
 ## publishing 
@@ -4987,6 +5005,7 @@
 
 ## raspberry-pi 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 
 ## react 
@@ -5111,6 +5130,7 @@
 
 ## rust 
 
+- [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
 - [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) - Binary installation for rust projects
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
@@ -5803,7 +5823,7 @@
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [Mockline/mockline](https://github.com/Mockline/mockline) - Your go-to design library crafted to elevate your creative journey
-- [HugoRCD/shelve](https://github.com/HugoRCD/shelve) - Shelve, is a project management tool for developer to make project creation and management easier
+- [HugoRCD/shelve](https://github.com/HugoRCD/shelve) - Shelve is an all-in-one development workspace that revolutionizes how developers manage environments and collaborate on projects.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [deco-cx/deco](https://github.com/deco-cx/deco) - Git-based Visual CMS for Deno, &lt;/&gt; htmx and Tailwind apps. Deploy on any Deno-compatible host.
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
@@ -6328,7 +6348,6 @@
 
 ## vuejs 
 
-- [HugoRCD/shelve](https://github.com/HugoRCD/shelve) - Shelve, is a project management tool for developer to make project creation and management easier
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue & Nuxt.
 - [graphieros/vue-data-ui](https://github.com/graphieros/vue-data-ui) - An open source user-empowering data visualization Vue 3 components library for eloquent data storytelling

@@ -517,6 +517,7 @@
 
 ## Go 
 
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
@@ -774,7 +775,7 @@
 - [libp2p/js-libp2p-relay-server](https://github.com/libp2p/js-libp2p-relay-server) - An out of the box libp2p relay server implementing v1 of circuit relay protocol
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 - [ipfs/js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript
-- [Level/subleveldown](https://github.com/Level/subleveldown) - Split a levelup database into sublevels with their own keyspace, encoding and events.
+- [Level/subleveldown](https://github.com/Level/subleveldown) - Superseded by abstract-level. Split a levelup database into sublevels with their own keyspace, encoding and events.
 - [Level/level](https://github.com/Level/level) - Universal abstract-level database for Node.js and browsers.
 - [libp2p/js-peer-id](https://github.com/libp2p/js-peer-id) - peer-id implementation in JavaScript. Deprecated; use https://github.com/libp2p/js-libp2p-peer-id instead.
 - [soyuka/pidusage](https://github.com/soyuka/pidusage) - Cross-platform process cpu % and memory usage of a PID
@@ -1160,6 +1161,9 @@
 
 ## Others 
 
+- [nolantait/awesome-bevy](https://github.com/nolantait/awesome-bevy) - A list of resources for Bevy maintained by https://taintedcoders.com
+- [Vrixyz/bevy_awesome_prod](https://github.com/Vrixyz/bevy_awesome_prod) - My curated list of projects using bevy in production, preferably with a company or a business model in mind.
+- [2-fly-4-ai/V0-system-prompt](https://github.com/2-fly-4-ai/V0-system-prompt) - 
 - [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus) - TablePlus macOS issue tracker
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 - [vitejs/companies-using-vite](https://github.com/vitejs/companies-using-vite) - A list of companies using Vite.
@@ -1873,6 +1877,7 @@
 
 ## Rust 
 
+- [delta-rs/delta](https://github.com/delta-rs/delta) - An Open-Source Machine Learning Framework in Rust Δ
 - [actuate-rs/actuate](https://github.com/actuate-rs/actuate) - A framework for declarative programming in Rust
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [TheSeekerGame/TheSeeker](https://github.com/TheSeekerGame/TheSeeker) - Metroidvania game in Bevy
@@ -1890,7 +1895,7 @@
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [tweedegolf/mailcrab](https://github.com/tweedegolf/mailcrab) - Email test server for development, written in Rust
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - one API to get all user desktop data  (local, cross platform, 24/7, screen, voice, keyboard, mouse, camera recording). sandboxed js plugin system. keyboard and mouse control
 - [viridia/thorium_ui](https://github.com/viridia/thorium_ui) - Dynamic control flow for Bevy UI
 - [cBournhonesque/lightyear](https://github.com/cBournhonesque/lightyear) - A networking library to make multiplayer games for the Bevy game engine
 - [RazrFalcon/roxmltree](https://github.com/RazrFalcon/roxmltree) - Represent an XML document as a read-only tree.
@@ -2469,7 +2474,7 @@
 ## Svelte 
 
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
-- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 htop on steroids
+- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 system monitoring on steroids
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [LiamGallagher737/learnbevy](https://github.com/LiamGallagher737/learnbevy) - An online web app for playing around with Bevy in the browser (unofficial)
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
@@ -2501,6 +2506,8 @@
 
 ## TypeScript 
 
+- [Julien-R44/adonisjs-prometheus](https://github.com/Julien-R44/adonisjs-prometheus) - 📊 Prometheus Provider for AdonisJS with some builtins metrics for monitoring your application.
+- [antfu/markdown-it-async](https://github.com/antfu/markdown-it-async) - Enhance markdown-it to support async highlight function.
 - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
 - [mdit-vue/mdit-vue](https://github.com/mdit-vue/mdit-vue) - markdown-it plugins for Vue.js
@@ -2715,7 +2722,7 @@
 - [johannschopplich/nuxt-gtag](https://github.com/johannschopplich/nuxt-gtag) - 🔸 Google Analytics & Ads integration made easy
 - [antfu/vue-template-promise](https://github.com/antfu/vue-template-promise) - Template as Promise in Vue
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
-- [Baroshem/nuxt-security](https://github.com/Baroshem/nuxt-security) - 🛡 Automatically configure your app to follow OWASP security patterns and principles by using HTTP Headers and Middleware
+- [nuxt-modules/security](https://github.com/nuxt-modules/security) - 🛡 Automatically configure your app to follow OWASP security patterns and principles by using HTTP Headers and Middleware
 - [aklinker1/vite-plugin-web-extension](https://github.com/aklinker1/vite-plugin-web-extension) - Vite plugin for developing Chrome/Web Extensions
 - [wevm/viem](https://github.com/wevm/viem) - TypeScript Interface for Ethereum
 - [hibiken/asynqmon](https://github.com/hibiken/asynqmon) - Web UI for Asynq task queue
@@ -3209,7 +3216,7 @@
 ## Vue 
 
 - [nimbus-town/nimbus](https://github.com/nimbus-town/nimbus) - A nimble Bluesky web client
-- [HugoRCD/shelve](https://github.com/HugoRCD/shelve) - Shelve is an all-in-one development workspace that revolutionizes how developers manage environments and collaborate on projects.
+- [HugoRCD/shelve](https://github.com/HugoRCD/shelve) - All-in-one development workspace for managing environments and collaborating on projects.
 - [xiaoluoboding/stunning-ui](https://github.com/xiaoluoboding/stunning-ui) - 💚 Stunning UI is a collection of interactive Tailwind CSS components built for Vue and Nuxt.
 - [yuyinws/pkg-graph.info](https://github.com/yuyinws/pkg-graph.info) - Visualize the dependency graph of npm packages.
 - [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue & Nuxt.

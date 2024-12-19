@@ -323,7 +323,7 @@
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.5.57689, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.1.57916)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.7.58162, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.1.57916)
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
@@ -397,7 +397,6 @@
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [danieljpalmer/alptail](https://github.com/danieljpalmer/alptail) - A collection of frontend components using Tailwind.css and Alpine.js.
 - [atisawd/boxicons](https://github.com/atisawd/boxicons) - High Quality web friendly icons
-- [creativetimofficial/tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
 - [moreta/vue-search-select](https://github.com/moreta/vue-search-select) - A Vue.js search select component
 - [jgthms/bulma-start](https://github.com/jgthms/bulma-start) - Start package for Bulma
 - [abdullah/plekan](https://github.com/abdullah/plekan) - A content builder
@@ -589,6 +588,7 @@
 - [TriumphLLC/Blend4Web](https://github.com/TriumphLLC/Blend4Web) - Blend4Web is a tool for interactive 3D visualization on the Internet
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue.
+- [creativetimofficial/david-ai](https://github.com/creativetimofficial/david-ai) - David UI is a free and open-source collection of customizable, production-ready UI components built with Tailwind CSS.
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [hyperhype/hyperscript](https://github.com/hyperhype/hyperscript) - Create HyperText with JavaScript.
 - [tailwindlabs/tailwindcss-playground](https://github.com/tailwindlabs/tailwindcss-playground) - 
@@ -1884,6 +1884,7 @@
 
 ## Rust 
 
+- [DioxusLabs/sdk](https://github.com/DioxusLabs/sdk) - A library to provide abstractions to access common utilities when developing Dioxus applications.
 - [delta-rs/x-bot](https://github.com/delta-rs/x-bot) - An 𝕏 bot in Rust for Delta
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build portable, modular & lightweight Fullstack Agents
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
@@ -2007,7 +2008,7 @@
 - [ahkohd/tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) - Tauri plugin to convert a window to panel
 - [b23r0/rsocx](https://github.com/b23r0/rsocx) - A bind/reverse Socks5 proxy server.
 - [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A proxy CLI for capturing HTTP(S) & WS(S) Traffic.
-- [dizda/fast-socks5](https://github.com/dizda/fast-socks5) - Fast SOCKS5 client/server implementation written in Rust async/.await (with tokio)
+- [dizda/fast-socks5](https://github.com/dizda/fast-socks5) - Fast SOCKS5 TCP and UDP client/server implementation written in Rust async (with tokio)
 - [merwaaan/bevy_spritesheet_animation](https://github.com/merwaaan/bevy_spritesheet_animation) - A Bevy plugin for easily animating 2D and 3D sprites
 - [matthunz/bevy-compose](https://github.com/matthunz/bevy-compose) - 
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
@@ -3246,6 +3247,7 @@
 
 ## Vue 
 
+- [vercel/nuxt3-kitchen-sink](https://github.com/vercel/nuxt3-kitchen-sink) - An example template showing all Nuxt 3 features on Vercel.
 - [nimbus-town/nimbus](https://github.com/nimbus-town/nimbus) - A nimble Bluesky web client
 - [Mockline/mockline](https://github.com/Mockline/mockline) - Your go-to design library crafted to elevate your creative journey
 - [HugoRCD/shelve](https://github.com/HugoRCD/shelve) - All-in-one development workspace for managing environments and collaborating on projects.

@@ -856,6 +856,7 @@
 
 ## css 
 
+- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [nuxt/fonts](https://github.com/nuxt/fonts) - Plug-and-play web font optimization and configuration for Nuxt apps.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
@@ -1051,6 +1052,7 @@
 
 ## design 
 
+- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
@@ -1406,7 +1408,7 @@
 - [databasedav/haalka](https://github.com/databasedav/haalka) - ergonomic reactive Bevy UI library powered by FRP signals
 - [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework) - A new full-featured and high-performance TypeScript framework
 - [latticexyz/mud](https://github.com/latticexyz/mud) - MUD is a framework for building autonomous worlds
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Type-safe full-stack framework for Artisans. Develop modern apps, clouds & framework-agnostic libraries—faster.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern apps, clouds & framework-agnostic libraries—faster.
 - [bytestring-net/bevy_lunex](https://github.com/bytestring-net/bevy_lunex) - Blazingly fast path based retained layout engine for Bevy entities, built around vanilla Bevy ECS.
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [goravel/goravel](https://github.com/goravel/goravel) - A Golang framework for web artisans. Tribute to Laravel.
@@ -2639,7 +2641,7 @@
 
 - [Mockline/mockline](https://github.com/Mockline/mockline) - Your go-to design library crafted to elevate your creative journey
 - [LibVNC/libvncserver](https://github.com/LibVNC/libvncserver) - LibVNCServer/LibVNCClient are cross-platform C libraries that allow you to easily implement VNC server or client functionality in your program.
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Type-safe full-stack framework for Artisans. Develop modern apps, clouds & framework-agnostic libraries—faster.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern apps, clouds & framework-agnostic libraries—faster.
 - [chr15m/jsfxr](https://github.com/chr15m/jsfxr) - JavaScript sound effects generator.
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
 - [ehmicky/error-serializer](https://github.com/ehmicky/error-serializer) - Convert errors to/from plain objects.
@@ -3287,6 +3289,8 @@
 
 ## others 
 
+- [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
+- [clay-ui-rs/clay](https://github.com/clay-ui-rs/clay) - Rust bindings for Clay, a UI layout library written in C.
 - [wheregmis/dioxus-motion](https://github.com/wheregmis/dioxus-motion) - A lightweight, cross-platform animation library for Dioxus, designed to bring smooth, flexible animations to your Rust web, desktop, and mobile applications.
 - [vercel/nuxt3-kitchen-sink](https://github.com/vercel/nuxt3-kitchen-sink) - An example template showing all Nuxt 3 features on Vercel.
 - [DioxusLabs/sdk](https://github.com/DioxusLabs/sdk) - A library to provide abstractions to access common utilities when developing Dioxus applications.
@@ -5783,6 +5787,7 @@
 
 ## tailwindcss 
 
+- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
 - [xiaoluoboding/stunning-ui](https://github.com/xiaoluoboding/stunning-ui) - 💚 Stunning UI is a collection of interactive Tailwind CSS components built for Vue and Nuxt.
 - [deco-cx/deco](https://github.com/deco-cx/deco) - Git-based Visual CMS for Deno, &lt;/&gt; htmx and Tailwind apps. Deploy on any Deno-compatible host.
@@ -5947,7 +5952,7 @@
 - [peterboyer/adt](https://github.com/peterboyer/adt) - Universal ADT utilities. (Formerly unenum).
 - [latticexyz/mud](https://github.com/latticexyz/mud) - MUD is a framework for building autonomous worlds
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Type-safe full-stack framework for Artisans. Develop modern apps, clouds & framework-agnostic libraries—faster.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern apps, clouds & framework-agnostic libraries—faster.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [specta-rs/specta](https://github.com/specta-rs/specta) - Easily export your Rust types to other languages
 - [dsherret/ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
@@ -6535,7 +6540,7 @@
 - [levkk/rwf](https://github.com/levkk/rwf) - Comprehensive framework for building web applications in Rust.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Type-safe full-stack framework for Artisans. Develop modern apps, clouds & framework-agnostic libraries—faster.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern apps, clouds & framework-agnostic libraries—faster.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly

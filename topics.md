@@ -202,6 +202,7 @@
 - [scikit-learn](#scikit-learn)
 - [sdn](#sdn)
 - [security](#security)
+- [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
 - [server](#server)
 - [serverless](#serverless)
@@ -1037,7 +1038,7 @@
 - [supabase/edge-runtime](https://github.com/supabase/edge-runtime) - A server based on Deno runtime, capable of running JavaScript, TypeScript, and WASM services.
 - [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes
 - [denostack/superserial](https://github.com/denostack/superserial) - A comprehensive Serializer/Deserializer that can handle any data type.
-- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - The no-build CDN for modern web development.
+- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A no-build CDN for modern web development.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 
@@ -1094,7 +1095,7 @@
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [serversideup/spin](https://github.com/serversideup/spin) - 🚀 Replicate your production environment locally using Docker. Just run "spin up". It's really that easy.
 - [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container.
-- [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
+- [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -1227,7 +1228,7 @@
 ## es6 
 
 - [y21/dash](https://github.com/y21/dash) - Experimental JavaScript implementation in Rust
-- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - The no-build CDN for modern web development.
+- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A no-build CDN for modern web development.
 - [tinyhttp/tinyhttp](https://github.com/tinyhttp/tinyhttp) - 🦄 0-legacy, tiny & fast web framework as a replacement of Express
 - [dmnd/dedent](https://github.com/dmnd/dedent) - ⬅️ ES6 string tag that strips indentation from multi-line strings.
 - [WeAreAthlon/frontend-webpack-boilerplate](https://github.com/WeAreAthlon/frontend-webpack-boilerplate) - Simple starter webpack 5 project template supporting SASS/PostCSS, Babel ES7, browser syncing, code linting. Easy project setup having multiple features and developer friendly tools.
@@ -1408,7 +1409,7 @@
 - [databasedav/haalka](https://github.com/databasedav/haalka) - ergonomic reactive Bevy UI library powered by FRP signals
 - [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework) - A new full-featured and high-performance TypeScript framework
 - [latticexyz/mud](https://github.com/latticexyz/mud) - MUD is a framework for building autonomous worlds
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern apps, clouds & framework-agnostic libraries—faster.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Progressive full-stack framework for Web Artisans. Develop modern apps, clouds & framework-agnostic libraries—faster.
 - [bytestring-net/bevy_lunex](https://github.com/bytestring-net/bevy_lunex) - Blazingly fast path based retained layout engine for Bevy entities, built around vanilla Bevy ECS.
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [goravel/goravel](https://github.com/goravel/goravel) - A Golang framework for web artisans. Tribute to Laravel.
@@ -1545,7 +1546,7 @@
 ## gamedev 
 
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
-- [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
+- [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [cBournhonesque/lightyear](https://github.com/cBournhonesque/lightyear) - A networking library to make multiplayer games for the Bevy game engine
 - [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) - This template is a great way to get started on a new 2D Bevy game!
 - [rerun-io/revy](https://github.com/rerun-io/revy) - Proof-of-concept time-travel debugger for the Bevy game engine, built using Rerun.
@@ -2322,7 +2323,7 @@
 
 - [tryandromeda/andromeda](https://github.com/tryandromeda/andromeda) - JS runtime lolz
 - [yishn/wasm-react](https://github.com/yishn/wasm-react) - WASM bindings for React.
-- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - The no-build CDN for modern web development.
+- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A no-build CDN for modern web development.
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [simonwep/pickr](https://github.com/simonwep/pickr) - 🎨 Flat, simple, multi-themed, responsive and hackable Color-Picker library. No dependencies, no jQuery. Compatible with all CSS Frameworks e.g. Bootstrap, Materialize. Supports alpha channel, rgba, hs
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
@@ -2395,6 +2396,7 @@
 
 ## laravel 
 
+- [yungifez/artisan-ui](https://github.com/yungifez/artisan-ui) - Gorgeous shadcn inspired UI library for laravel blade using Tailwind and AlpineJS
 - [intentjs/intent](https://github.com/intentjs/intent) - The Intent Framework
 - [serversideup/spin](https://github.com/serversideup/spin) - 🚀 Replicate your production environment locally using Docker. Just run "spin up". It's really that easy.
 - [wire-elements/wire-spy](https://github.com/wire-elements/wire-spy) - WireSpy—a sleek new debug bar for Livewire
@@ -2641,7 +2643,7 @@
 
 - [Mockline/mockline](https://github.com/Mockline/mockline) - Your go-to design library crafted to elevate your creative journey
 - [LibVNC/libvncserver](https://github.com/LibVNC/libvncserver) - LibVNCServer/LibVNCClient are cross-platform C libraries that allow you to easily implement VNC server or client functionality in your program.
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern apps, clouds & framework-agnostic libraries—faster.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Progressive full-stack framework for Web Artisans. Develop modern apps, clouds & framework-agnostic libraries—faster.
 - [chr15m/jsfxr](https://github.com/chr15m/jsfxr) - JavaScript sound effects generator.
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
 - [ehmicky/error-serializer](https://github.com/ehmicky/error-serializer) - Convert errors to/from plain objects.
@@ -2676,7 +2678,7 @@
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX and WASI
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
@@ -2809,7 +2811,7 @@
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX and WASI
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
@@ -2884,7 +2886,7 @@
 
 ## minecraft 
 
-- [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
+- [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 
 ## mobile 
 
@@ -3213,7 +3215,7 @@
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [styfle/packagephobia](https://github.com/styfle/packagephobia) - ⚖️ Find the cost of adding a new dependency to your project
-- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - The no-build CDN for modern web development.
+- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A no-build CDN for modern web development.
 - [JS-DevTools/npm-publish](https://github.com/JS-DevTools/npm-publish) - GitHub Action to publish to NPM
 - [listr2/listr2](https://github.com/listr2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
 - [Yummygum/flagpack-core](https://github.com/Yummygum/flagpack-core) - Flagpack contains 250+ flag icons to easily use within your code project.
@@ -3289,6 +3291,8 @@
 
 ## others 
 
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+- [lukeed/qss](https://github.com/lukeed/qss) - A tiny (294b) browser utility for encoding & decoding a querystring.
 - [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
 - [clay-ui-rs/clay](https://github.com/clay-ui-rs/clay) - Rust bindings for Clay, a UI layout library written in C.
 - [wheregmis/dioxus-motion](https://github.com/wheregmis/dioxus-motion) - A lightweight, cross-platform animation library for Dioxus, designed to bring smooth, flexible animations to your Rust web, desktop, and mobile applications.
@@ -5015,6 +5019,7 @@
 
 ## python 
 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
@@ -5223,7 +5228,7 @@
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-- [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
+- [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [cBournhonesque/lightyear](https://github.com/cBournhonesque/lightyear) - A networking library to make multiplayer games for the Bevy game engine
 - [veloren/veloren](https://github.com/veloren/veloren) - An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 system monitoring on steroids
@@ -5463,7 +5468,7 @@
 - [rust-num/num-rational](https://github.com/rust-num/num-rational) - Generic Rational numbers for Rust
 - [NiklasEi/bevy_game_template](https://github.com/NiklasEi/bevy_game_template) - Template for a Bevy game including CI/CD for web, Windows, Linux, macOS, iOS and Android
 - [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX and WASI
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) - 📦✨ your favorite rust -&gt; wasm workflow tool!
 - [yishn/wasm-react](https://github.com/yishn/wasm-react) - WASM bindings for React.
 - [gakonst/ethers-rs](https://github.com/gakonst/ethers-rs) - Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers
@@ -5524,6 +5529,11 @@
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
 - [JosephSilber/bouncer](https://github.com/JosephSilber/bouncer) - Laravel Eloquent roles and abilities.
 
+## security-tools 
+
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
+
 ## self-hosted 
 
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
@@ -5541,7 +5551,7 @@
 
 ## server 
 
-- [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
+- [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [pyrossh/rust-embed](https://github.com/pyrossh/rust-embed) - Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [Hebilicious/server-block-nuxt](https://github.com/Hebilicious/server-block-nuxt) - Use &lt;server&gt; tags in your Nuxt pages components
@@ -5787,6 +5797,7 @@
 
 ## tailwindcss 
 
+- [yungifez/artisan-ui](https://github.com/yungifez/artisan-ui) - Gorgeous shadcn inspired UI library for laravel blade using Tailwind and AlpineJS
 - [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
 - [xiaoluoboding/stunning-ui](https://github.com/xiaoluoboding/stunning-ui) - 💚 Stunning UI is a collection of interactive Tailwind CSS components built for Vue and Nuxt.
@@ -5952,7 +5963,7 @@
 - [peterboyer/adt](https://github.com/peterboyer/adt) - Universal ADT utilities. (Formerly unenum).
 - [latticexyz/mud](https://github.com/latticexyz/mud) - MUD is a framework for building autonomous worlds
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern apps, clouds & framework-agnostic libraries—faster.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Progressive full-stack framework for Web Artisans. Develop modern apps, clouds & framework-agnostic libraries—faster.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [specta-rs/specta](https://github.com/specta-rs/specta) - Easily export your Rust types to other languages
 - [dsherret/ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
@@ -6298,7 +6309,7 @@
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [Instadapp/vue-web3](https://github.com/Instadapp/vue-web3) - Vue 2/3 wrapper for web3 built on top of react-web3@v6
 - [unplugin/unplugin-vue2-script-setup](https://github.com/unplugin/unplugin-vue2-script-setup) - 💡 Bring `&lt;script setup&gt;` to Vue 2.
-- [wheatjs/vueuse-playground](https://github.com/wheatjs/vueuse-playground) - An online playground for VueUse
+- [vueuse/playground](https://github.com/vueuse/playground) - An online playground for VueUse
 - [nuxt/starter](https://github.com/nuxt/starter) - Create a new Nuxt project, module, layer or start from a theme with our collection of starters.
 - [Maronato/vue-toastification](https://github.com/Maronato/vue-toastification) - Vue notifications made easy!
 - [ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts) - Vue.js component for Apache ECharts™.
@@ -6540,7 +6551,7 @@
 - [levkk/rwf](https://github.com/levkk/rwf) - Comprehensive framework for building web applications in Rust.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern apps, clouds & framework-agnostic libraries—faster.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Progressive full-stack framework for Web Artisans. Develop modern apps, clouds & framework-agnostic libraries—faster.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
@@ -6635,7 +6646,7 @@
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX and WASI
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [moxystudio/node-cross-spawn](https://github.com/moxystudio/node-cross-spawn) - A cross platform solution to node's spawn and spawnSync
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [bdlukaa/fluent_ui](https://github.com/bdlukaa/fluent_ui) - Implements Microsoft's WinUI3 in Flutter.

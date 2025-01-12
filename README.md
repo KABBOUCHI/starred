@@ -82,8 +82,8 @@
 
 ## C 
 
+- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 - [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
-- [clay-ui-rs/clay](https://github.com/clay-ui-rs/clay) - Rust bindings for Clay, a UI layout library written in C.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_
 - [openmoh/openmohaa](https://github.com/openmoh/openmohaa) - Open re-implementation of Medal of Honor: Allied Assault including Spearhead and Breakthrough expansions with modern features and bugfixes from ioquake3 with cross-platform support
@@ -314,6 +314,7 @@
 
 ## C++ 
 
+- [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [google/sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
@@ -324,7 +325,7 @@
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.7.58238, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.1.57916)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.7.58533, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.1.57916)
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
@@ -532,7 +533,7 @@
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
@@ -1144,7 +1145,6 @@
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) - A technical explainer by @kognise of how your computer runs programs, from start to finish.
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
-- [laravel/nova-docs](https://github.com/laravel/nova-docs) - The Laravel Nova documentation.
 
 ## Markdown 
 
@@ -1568,7 +1568,7 @@
 - [spatie/skeleton-nova-tool](https://github.com/spatie/skeleton-nova-tool) - A skeleton repository for Spatie's Nova Packages
 - [z-song/laravel-admin](https://github.com/z-song/laravel-admin) - Build a full-featured administrative interface in ten minutes
 - [socialite-manager/socialite](https://github.com/socialite-manager/socialite) - [Social login]Socialite is an OAuth1/OAuth2 Authentication tool.
-- [leokhoa/laragon](https://github.com/leokhoa/laragon) - Laragon is a portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python, Java, Go, Ruby. It is fast, lightweight, easy-to-use and easy-to-extend.
+- [leokhoa/laragon](https://github.com/leokhoa/laragon) - Laragon is a portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python. It is fast, lightweight, easy-to-use and easy-to-extend.
 - [JosephSilber/bouncer](https://github.com/JosephSilber/bouncer) - Laravel Eloquent roles and abilities.
 - [itsgoingd/clockwork](https://github.com/itsgoingd/clockwork) - Clockwork - php dev tools in your browser - server-side component
 - [yyx990803/laravel-vue-cli-3](https://github.com/yyx990803/laravel-vue-cli-3) - Example project using Vue CLI 3 with Laravel
@@ -1894,11 +1894,13 @@
 
 ## Rust 
 
+- [piotrostr/listen](https://github.com/piotrostr/listen) - Solana Swiss Army Knife
+- [levkk/pgdog](https://github.com/levkk/pgdog) - Modern PostgreSQL load balancer, proxy and pooler.
 - [nerdai/llms-from-scratch-rs](https://github.com/nerdai/llms-from-scratch-rs) - A comprehensive Rust translation of the code from Sebastian Raschka's Build an LLM from Scratch book.
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [alloy-rs/trie](https://github.com/alloy-rs/trie) - Fast Merkle-Patricia Trie (MPT) state root calculator and proof generator for prefix-sorted nibbles
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
-- [dekirisu/mevy](https://github.com/dekirisu/mevy) - A growing set of macros which add some witchcraft into bevy, e.g. CSS-like syntax for bevy_ui
+- [dekirisu/mevy](https://github.com/dekirisu/mevy) - Bevy macros - e.g. CSS-like syntax for bevy_ui & simple child spawning
 - [eldruin/wyhash-rs](https://github.com/eldruin/wyhash-rs) - wyhash fast portable non-cryptographic hashing algorithm and random number generator in Rust
 - [onbjerg/ethers-flashbots](https://github.com/onbjerg/ethers-flashbots) - An Ethers middleware for submitting Flashbots bundles
 - [raphamorim/gameboy](https://github.com/raphamorim/gameboy) - Gameboy Emulator written in Rust and WebAssembly. 8-bit microprocessor: Sharp LR35902.
@@ -1906,9 +1908,10 @@
 - [ibraheemdev/matchit](https://github.com/ibraheemdev/matchit) - A high performance, zero-copy URL router.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+- [clay-ui-rs/clay](https://github.com/clay-ui-rs/clay) - Rust bindings for Clay, a UI layout library written in C.
 - [wheregmis/dioxus-motion](https://github.com/wheregmis/dioxus-motion) - A lightweight, cross-platform animation library for Dioxus, designed to bring smooth, flexible animations to your Rust web, desktop, and mobile applications.
 - [DioxusLabs/sdk](https://github.com/DioxusLabs/sdk) - A library to provide abstractions to access common utilities when developing Dioxus applications.
-- [blackportal-ai/x-bot](https://github.com/blackportal-ai/x-bot) - An 𝕏 bot in Rust for Delta
+- [mjovanc/x-bot](https://github.com/mjovanc/x-bot) - An 𝕏 bot in Rust for Delta
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build portable, modular & lightweight Fullstack Agents
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [shanecelis/bevy_minibuffer](https://github.com/shanecelis/bevy_minibuffer) - A gamedev console inspired by classic Unix text editors
@@ -2115,6 +2118,7 @@
 - [darthdeus/comfy](https://github.com/darthdeus/comfy) - Comfy is a fun 2D game engine built in Rust. It's designed to be opinionated, productive, and easy to use.
 - [dekirisu/strung](https://github.com/dekirisu/strung) - Easy access of struct fields in strings using different/custom pre/postfix: "Hello, {field}" in rust
 - [josfeenstra/hedron](https://github.com/josfeenstra/hedron) - An all-in-one 3D modelling library, written in Rust
+- [0x676e67/ninja](https://github.com/0x676e67/ninja) - Reverse engineered ChatGPT proxy
 - [polako-rs/constructivism](https://github.com/polako-rs/constructivism) - Construct complex structures within single call + simple compile-time meta-inheritance model with mixins.
 - [OffchainLabs/stylus-sdk-rs](https://github.com/OffchainLabs/stylus-sdk-rs) - Rust Smart Contracts on Arbitrum
 - [polako-rs/polako](https://github.com/polako-rs/polako) - Open app & game engine on the top of the `bevy` with all the good.
@@ -2545,6 +2549,8 @@
 
 ## TypeScript 
 
+- [stamp-labs/stamp](https://github.com/stamp-labs/stamp) - Avatars for web3
+- [outerbase/studio-cli](https://github.com/outerbase/studio-cli) - 
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [adonisjs/cache](https://github.com/adonisjs/cache) - Cache module for AdonisJS. Supports Redis, Memcache, File and in-memory drivers
@@ -2578,7 +2584,7 @@
 - [tus/tus-node-server](https://github.com/tus/tus-node-server) - Node.js tus server, standalone or integrable in any framework, with disk, S3, Azure, and GGC stores.
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - An AI web browsing framework focused on simplicity and extensibility.
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - build ai agents that have the full context, open source, runs locally, developer friendly. 24/7 screen, mic, keyboard recording and control
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - library & platform to build, distribute, monetize ai apps that have the full context (like rewind, granola, etc.), open source, 100% local, developer friendly. 24/7 screen, mic, keyboard recording and
 - [vue-vine/vue-vine](https://github.com/vue-vine/vue-vine) - Another style of writing Vue components.
 - [wevm/ox](https://github.com/wevm/ox) - Standard Library for Ethereum
 - [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
@@ -2834,12 +2840,12 @@
 - [cavai-research/Adonis-Queue](https://github.com/cavai-research/Adonis-Queue) - Queue provider for Adonis V5
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
 - [smogon/pokemon-showdown-client](https://github.com/smogon/pokemon-showdown-client) - The client for Pokémon Showdown
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
 - [nuxt-experiments/nuxt-remote-config](https://github.com/nuxt-experiments/nuxt-remote-config) - 
 - [web3/web3.js](https://github.com/web3/web3.js) - Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions.
 - [vue-terminal/vue-termui](https://github.com/vue-terminal/vue-termui) - The Modern Terminal UI Framework
 - [sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth) - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs!
-- [unjs/unhead](https://github.com/unjs/unhead) - Unhead is the any-framework document head manager built for performance and delightful developer experience.
+- [unjs/unhead](https://github.com/unjs/unhead) - Unhead is the any-framework document head manager built for SEO, performance and delightful developer experience.
 - [geelen/npx-import](https://github.com/geelen/npx-import) - 
 - [adonisjs/fold](https://github.com/adonisjs/fold) - IoC container with all required goodies to write flexible node applications
 - [tjk/vue-o2c](https://github.com/tjk/vue-o2c) - Vue 3 convert options API to composition API
@@ -3408,6 +3414,7 @@
 
 ## Zig 
 
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - The open-source browser made for headless usage
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 

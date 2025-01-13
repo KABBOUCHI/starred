@@ -1895,7 +1895,7 @@
 ## Rust 
 
 - [piotrostr/listen](https://github.com/piotrostr/listen) - Solana Swiss Army Knife
-- [levkk/pgdog](https://github.com/levkk/pgdog) - Modern PostgreSQL load balancer, proxy and pooler.
+- [levkk/pgdog](https://github.com/levkk/pgdog) - Modern PostgreSQL load balancer, query router, proxy and pooler.
 - [nerdai/llms-from-scratch-rs](https://github.com/nerdai/llms-from-scratch-rs) - A comprehensive Rust translation of the code from Sebastian Raschka's Build an LLM from Scratch book.
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [alloy-rs/trie](https://github.com/alloy-rs/trie) - Fast Merkle-Patricia Trie (MPT) state root calculator and proof generator for prefix-sorted nibbles
@@ -1972,7 +1972,7 @@
 - [rust-sailfish/sailfish](https://github.com/rust-sailfish/sailfish) - Simple, small, and extremely fast template engine for Rust
 - [penberg/hiisi](https://github.com/penberg/hiisi) - Hiisi is a proof of concept libSQL written in Rust following TigerBeetle-style with deterministic simulation testing.
 - [PawelBis/bevy_wry](https://github.com/PawelBis/bevy_wry) - 
-- [not-elm/bevy_flurx_wry](https://github.com/not-elm/bevy_flurx_wry) - The purpose of this crate is integrate bevy and wry using bevy_flurx.
+- [not-elm/bevy_webview_projects](https://github.com/not-elm/bevy_webview_projects) - The purpose of this crate is integrate bevy and wry using bevy_flurx.
 - [emilpriver/geni](https://github.com/emilpriver/geni) - Standalone database migration tool which works for Postgres, MariaDB, MySQL, Sqlite and LibSQL(Turso).
 - [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 - [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
@@ -2519,7 +2519,6 @@
 
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 system monitoring on steroids
-- [LiamGallagher737/learnbevy](https://github.com/LiamGallagher737/learnbevy) - An online web app for playing around with Bevy in the browser (unofficial)
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## Swift 
@@ -2668,6 +2667,7 @@
 - [sindresorhus/is](https://github.com/sindresorhus/is) - Type check values
 - [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus) - A Nuxt module that enables complex routing for Nuxt Pages.
 - [anthropics/anthropic-sdk-typescript](https://github.com/anthropics/anthropic-sdk-typescript) - Access to Anthropic's safety-first language model APIs
+- [LiamGallagher737/learnbevy](https://github.com/LiamGallagher737/learnbevy) - An online web app for playing around with Bevy in the browser (unofficial)
 - [pi0/nuxt-shiki](https://github.com/pi0/nuxt-shiki) - 🎨 Nuxt + Shiki syntax highlighter
 - [KABBOUCHI/adonisjs-jobs](https://github.com/KABBOUCHI/adonisjs-jobs) - Job processing for AdonisJS
 - [unjs/undio](https://github.com/unjs/undio) - ⇔ Conventionally and Safely convert between various JavaScript data types

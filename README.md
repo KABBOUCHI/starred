@@ -325,7 +325,7 @@
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.7.58533, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.1.57916)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.7.58608, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.1.58558)
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
@@ -1418,7 +1418,7 @@
 - [laravel/cashier-stripe](https://github.com/laravel/cashier-stripe) - Laravel Cashier provides an expressive, fluent interface to Stripe's subscription billing services.
 - [Juhlinus/kakunin](https://github.com/Juhlinus/kakunin) - Instant form validation for your Inertia.js apps.
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel
-- [predis/predis](https://github.com/predis/predis) - A flexible and feature-complete Redis client for PHP.
+- [predis/predis](https://github.com/predis/predis) - A flexible and feature-complete Redis/Valkey client for PHP.
 - [teamtnt/laravel-scout-tntsearch-driver](https://github.com/teamtnt/laravel-scout-tntsearch-driver) - Driver for Laravel Scout search package based on https://github.com/teamtnt/tntsearch
 - [teamtnt/tntsearch](https://github.com/teamtnt/tntsearch) - A fully featured full text search engine written in PHP
 - [dmitrybubyakin/nova-medialibrary-field](https://github.com/dmitrybubyakin/nova-medialibrary-field) - Laravel Nova field for managing the Spatie media library
@@ -1534,7 +1534,7 @@
 - [laravel/cashier-mollie](https://github.com/laravel/cashier-mollie) - 
 - [stechstudio/Laravel-PHP-CS-Fixer](https://github.com/stechstudio/Laravel-PHP-CS-Fixer) - Artisan Command for FriendsOfPHP/PHP-CS_Fixer
 - [box-project/box](https://github.com/box-project/box) - 📦🚀 Fast, zero config application bundler with PHARs.
-- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
 - [inertiajs/pingcrm](https://github.com/inertiajs/pingcrm) - A demo application to illustrate how Inertia.js works.
 - [mailgun/mailgun-php](https://github.com/mailgun/mailgun-php) - Mailgun's Official SDK for PHP
 - [TheoKouzelis/laravel-mailgun-email-validation](https://github.com/TheoKouzelis/laravel-mailgun-email-validation) - Laravel email validation that uses the Mailgun API for a three-step validation check
@@ -1972,7 +1972,7 @@
 - [rust-sailfish/sailfish](https://github.com/rust-sailfish/sailfish) - Simple, small, and extremely fast template engine for Rust
 - [penberg/hiisi](https://github.com/penberg/hiisi) - Hiisi is a proof of concept libSQL written in Rust following TigerBeetle-style with deterministic simulation testing.
 - [PawelBis/bevy_wry](https://github.com/PawelBis/bevy_wry) - 
-- [not-elm/bevy_webview_projects](https://github.com/not-elm/bevy_webview_projects) - The purpose of this crate is integrate bevy and wry using bevy_flurx.
+- [not-elm/bevy_webview_projects](https://github.com/not-elm/bevy_webview_projects) - Provides crates for using Webview within Bevy.
 - [emilpriver/geni](https://github.com/emilpriver/geni) - Standalone database migration tool which works for Postgres, MariaDB, MySQL, Sqlite and LibSQL(Turso).
 - [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 - [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
@@ -2007,13 +2007,13 @@
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [helix-editor/nucleo](https://github.com/helix-editor/nucleo) - A fast and convenient fuzzy matcher library for rust
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
-- [servo/stylo](https://github.com/servo/stylo) - 
+- [servo/stylo](https://github.com/servo/stylo) - CSS engine that powers Servo and Firefox
 - [AccessKit/accesskit](https://github.com/AccessKit/accesskit) - Accessibility infrastructure for UI toolkits
 - [linebender/parley](https://github.com/linebender/parley) - Rich text layout library
 - [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - A radically modular HTML/CSS rendering engine
 - [linebender/xilem](https://github.com/linebender/xilem) - An experimental Rust native UI framework
 - [Xudong-Huang/may](https://github.com/Xudong-Huang/may) - rust stackful coroutine library
-- [twistedfall/opencv-rust](https://github.com/twistedfall/opencv-rust) - Rust bindings for OpenCV 3 & 4
+- [twistedfall/opencv-rust](https://github.com/twistedfall/opencv-rust) - Rust bindings for OpenCV
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 - [meilisearch/heed](https://github.com/meilisearch/heed) - A fully typed LMDB wrapper with minimum overhead 🐦
 - [matthiaskrgr/cargo-cache](https://github.com/matthiaskrgr/cargo-cache) - manage cargo cache (${CARGO_HOME}, ~/.cargo/), print sizes of dirs and remove dirs selectively
@@ -2191,7 +2191,7 @@
 - [johanhelsing/matchbox](https://github.com/johanhelsing/matchbox) - Painless peer-to-peer WebRTC networking for rust wasm (and native!)
 - [mdenchev/bevy_aseprite](https://github.com/mdenchev/bevy_aseprite) - 
 - [awslabs/aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
-- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 Serverless platform  for realtime applications. Deploy high-performance, stateful backend apps.
+- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 Serverless for stateful backends
 - [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust Compile Time ORM with Async Dynamic SQL
 - [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - A cargo-subcommand to speed up Rust Docker builds using Docker layer caching.
 - [m1guelpf/ensemble](https://github.com/m1guelpf/ensemble) - A Laravel-inspired ORM for Rust

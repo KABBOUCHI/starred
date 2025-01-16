@@ -325,7 +325,7 @@
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.7.58608, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.1.58558)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.7.58630, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.1.58558)
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
@@ -640,6 +640,7 @@
 
 ## JavaScript 
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [yungifez/artisan-ui](https://github.com/yungifez/artisan-ui) - Gorgeous shadcn inspired UI library for laravel blade using Tailwind and AlpineJS
 - [lukeed/qss](https://github.com/lukeed/qss) - A tiny (294b) browser utility for encoding & decoding a querystring.
 - [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
@@ -1894,6 +1895,7 @@
 
 ## Rust 
 
+- [rayon-rs/either](https://github.com/rayon-rs/either) - The enum Either with variants Left and Right is a general purpose sum type with two cases.
 - [piotrostr/listen](https://github.com/piotrostr/listen) - Solana Swiss Army Knife
 - [levkk/pgdog](https://github.com/levkk/pgdog) - Modern PostgreSQL load balancer, query router, proxy and pooler.
 - [nerdai/llms-from-scratch-rs](https://github.com/nerdai/llms-from-scratch-rs) - A comprehensive Rust translation of the code from Sebastian Raschka's Build an LLM from Scratch book.
@@ -2548,6 +2550,7 @@
 
 ## TypeScript 
 
+- [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.
 - [stamp-labs/stamp](https://github.com/stamp-labs/stamp) - Avatars for web3
 - [outerbase/studio-cli](https://github.com/outerbase/studio-cli) - 
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB

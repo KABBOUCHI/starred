@@ -274,6 +274,7 @@
 ## ai 
 
 - [piotrostr/listen](https://github.com/piotrostr/listen) - Solana Swiss Army Knife
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build portable, modular & lightweight Fullstack Agents
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
@@ -421,6 +422,7 @@
 
 ## artificial-intelligence 
 
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build portable, modular & lightweight Fullstack Agents
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
@@ -569,11 +571,12 @@
 - [alloy-rs/trie](https://github.com/alloy-rs/trie) - Fast Merkle-Patricia Trie (MPT) state root calculator and proof generator for prefix-sorted nibbles
 - [goat-sdk/goat](https://github.com/goat-sdk/goat) - The open-source framework for connecting AI agents to any onchain app
 - [monosux/ethereum-block-by-date](https://github.com/monosux/ethereum-block-by-date) - Get Ethereum block number by a given date. Or blocks by a given period duration.
-- [EnsoFinance/temper](https://github.com/EnsoFinance/temper) - Temper your expectations - Ethereum Transaction Simulator
+- [EnsoBuild/temper](https://github.com/EnsoBuild/temper) - Temper your expectations - Ethereum Transaction Simulator
 - [bluealloy/revm](https://github.com/bluealloy/revm) - Rust implementation of the Ethereum Virtual Machine.
 - [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 - [alloy-rs/core](https://github.com/alloy-rs/core) - High-performance, well-tested & documented core libraries for Ethereum, in Rust
-- [smlxl/evm.codes](https://github.com/smlxl/evm.codes) - Source for evm.codes an Ethereum Virtual Machine Opcodes Interactive Reference
+- [duneanalytics/evm.codes](https://github.com/duneanalytics/evm.codes) - Source for evm.codes an Ethereum Virtual Machine Opcodes Interactive Reference
+- [wevm/viem](https://github.com/wevm/viem) - TypeScript Interface for Ethereum
 - [ultrasoundmoney/eth-analysis-rs](https://github.com/ultrasoundmoney/eth-analysis-rs) - Ethereum analysis backend to ultrasound.money
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [graphprotocol/graph-node](https://github.com/graphprotocol/graph-node) - Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
@@ -1001,7 +1004,7 @@
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
 - [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks provides customizable pre‑built features that boost user engagement by adding collaboration to your product. All without derailing your roadmap.
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
@@ -1048,7 +1051,6 @@
 - [supabase/edge-runtime](https://github.com/supabase/edge-runtime) - A server based on Deno runtime, capable of running JavaScript, TypeScript, and WASM services.
 - [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes
 - [denostack/superserial](https://github.com/denostack/superserial) - A comprehensive Serializer/Deserializer that can handle any data type.
-- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A no-build CDN for modern web development.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 
@@ -1243,7 +1245,6 @@
 ## es6 
 
 - [y21/dash](https://github.com/y21/dash) - Experimental JavaScript implementation in Rust
-- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A no-build CDN for modern web development.
 - [tinyhttp/tinyhttp](https://github.com/tinyhttp/tinyhttp) - 🦄 0-legacy, tiny & fast web framework as a replacement of Express
 - [dmnd/dedent](https://github.com/dmnd/dedent) - ⬅️ ES6 string tag that strips indentation from multi-line strings.
 - [WeAreAthlon/frontend-webpack-boilerplate](https://github.com/WeAreAthlon/frontend-webpack-boilerplate) - Simple starter webpack 5 project template supporting SASS/PostCSS, Babel ES7, browser syncing, code linting. Easy project setup having multiple features and developer friendly tools.
@@ -1273,12 +1274,12 @@
 - [alloy-rs/chains](https://github.com/alloy-rs/chains) - Canonical type definitions for EIP-155 chains
 - [foundry-rs/block-explorers](https://github.com/foundry-rs/block-explorers) - Bindings for the etherscan API and other block explorers.
 - [latticexyz/mud](https://github.com/latticexyz/mud) - MUD is a framework for building autonomous worlds
-- [EnsoFinance/temper](https://github.com/EnsoFinance/temper) - Temper your expectations - Ethereum Transaction Simulator
+- [EnsoBuild/temper](https://github.com/EnsoBuild/temper) - Temper your expectations - Ethereum Transaction Simulator
 - [bluealloy/revm](https://github.com/bluealloy/revm) - Rust implementation of the Ethereum Virtual Machine.
 - [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 - [alloy-rs/core](https://github.com/alloy-rs/core) - High-performance, well-tested & documented core libraries for Ethereum, in Rust
 - [5afe/safe-client-gateway](https://github.com/5afe/safe-client-gateway) - Gateway service for Safe apps that serves transaction data conforming with the UI of our mobile apps
-- [smlxl/evm.codes](https://github.com/smlxl/evm.codes) - Source for evm.codes an Ethereum Virtual Machine Opcodes Interactive Reference
+- [duneanalytics/evm.codes](https://github.com/duneanalytics/evm.codes) - Source for evm.codes an Ethereum Virtual Machine Opcodes Interactive Reference
 - [RevokeCash/revoke.cash](https://github.com/RevokeCash/revoke.cash) - ❌ Revoke or update your token approvals
 - [wevm/viem](https://github.com/wevm/viem) - TypeScript Interface for Ethereum
 - [Jon-Becker/heimdall-rs](https://github.com/Jon-Becker/heimdall-rs) - Heimdall is an advanced EVM smart contract toolkit specializing in bytecode analysis and extracting information from unverified contracts.
@@ -1762,7 +1763,7 @@
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
 - [nuxt/test-utils](https://github.com/nuxt/test-utils) - 🧪 Test utilities for Nuxt
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.7.58630, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.1.58558)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.7.58680, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.1.58558)
 - [getsentry/sentry-rust](https://github.com/getsentry/sentry-rust) - Official Sentry SDK for Rust
 - [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace) - All of the official Tauri plugins in one place!
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
@@ -1801,7 +1802,6 @@
 - [NiklasEi/bevy_game_template](https://github.com/NiklasEi/bevy_game_template) - Template for a Bevy game including CI/CD for web, Windows, Linux, macOS, iOS and Android
 - [nuxt-modules/turnstile](https://github.com/nuxt-modules/turnstile) - 🔥 Cloudflare Turnstile integration for Nuxt
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue 
 - [nuxt-modules/fontaine](https://github.com/nuxt-modules/fontaine) - 🔤 Font metric overrides to reduce CLS
 - [game-ci/unity-builder](https://github.com/game-ci/unity-builder) - Build Unity projects for different platforms
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
@@ -1952,6 +1952,7 @@
 
 ## html 
 
+- [fb55/htmlparser2](https://github.com/fb55/htmlparser2) - The fast & forgiving HTML and XML parser
 - [rinja-rs/rinja](https://github.com/rinja-rs/rinja) - A template rendering engine based on Jinja, generating type-safe Rust code at compile time.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [imacrayon/alpine-ajax](https://github.com/imacrayon/alpine-ajax) - An Alpine.js plugin for building server-powered frontends.
@@ -2014,7 +2015,6 @@
 - [mnapoli/bof](https://github.com/mnapoli/bof) - The HTTP client for humans
 - [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [cfug/dio](https://github.com/cfug/dio) - A powerful HTTP client for Dart and Flutter, which supports global settings, Interceptors, FormData, aborting and canceling a request, files uploading and downloading, requests timeout, custom adapter
 - [symfony/psr-http-message-bridge](https://github.com/symfony/psr-http-message-bridge) - PSR HTTP message bridge
@@ -2115,6 +2115,7 @@
 
 ## javascript 
 
+- [fb55/htmlparser2](https://github.com/fb55/htmlparser2) - The fast & forgiving HTML and XML parser
 - [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [xdevplatform/twitter-api-typescript-sdk](https://github.com/xdevplatform/twitter-api-typescript-sdk) - A TypeScript SDK for the Twitter API
@@ -2166,6 +2167,7 @@
 - [ehmicky/error-serializer](https://github.com/ehmicky/error-serializer) - Convert errors to/from plain objects.
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
+- [wevm/viem](https://github.com/wevm/viem) - TypeScript Interface for Ethereum
 - [wooorm/mdxjs-rs](https://github.com/wooorm/mdxjs-rs) - Compile MDX to JavaScript in Rust
 - [yoshoku/hnswlib-node](https://github.com/yoshoku/hnswlib-node) - hnswlib-node provides Node.js bindings for Hnswlib
 - [Sandpack/nodebox-runtime](https://github.com/Sandpack/nodebox-runtime) - Nodebox is a runtime for executing Node.js modules in the browser.
@@ -2343,7 +2345,6 @@
 
 - [tryandromeda/andromeda](https://github.com/tryandromeda/andromeda) - JS runtime lolz
 - [yishn/wasm-react](https://github.com/yishn/wasm-react) - WASM bindings for React.
-- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A no-build CDN for modern web development.
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [simonwep/pickr](https://github.com/simonwep/pickr) - 🎨 Pickr - A simple, multi-themed, responsive and hackable Color-Picker library. No dependencies, no jQuery. Compatible with all CSS Frameworks e.g. Bootstrap, Materialize. Supports alpha channel, rgba
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
@@ -2686,7 +2687,7 @@
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [deviceplug/btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.7.58630, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.1.58558)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.7.58680, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.1.58558)
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
@@ -2712,6 +2713,7 @@
 
 ## llm 
 
+- [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build portable, modular & lightweight Fullstack Agents
@@ -3247,7 +3249,6 @@
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [styfle/packagephobia](https://github.com/styfle/packagephobia) - ⚖️ Find the cost of adding a new dependency to your project
-- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A no-build CDN for modern web development.
 - [JS-DevTools/npm-publish](https://github.com/JS-DevTools/npm-publish) - GitHub Action to publish to NPM
 - [listr2/listr2](https://github.com/listr2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
 - [Yummygum/flagpack-core](https://github.com/Yummygum/flagpack-core) - Flagpack contains 250+ flag icons to easily use within your code project.
@@ -3325,6 +3326,10 @@
 
 ## others 
 
+- [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents. Agents write python code to call tools and orchestrate other agents.
+- [vfile/vfile](https://github.com/vfile/vfile) - Virtual file format for text processing used in @unifiedjs
+- [adonisjs/redis](https://github.com/adonisjs/redis) - Package for working with Redis in AdonisJS
+- [unjs/nanotar](https://github.com/unjs/nanotar) - 📼  Tiny and fast tar utils for any JavaScript runtime!
 - [Cat1007/vue-markdown-next](https://github.com/Cat1007/vue-markdown-next) - 
 - [mhart/aws4fetch](https://github.com/mhart/aws4fetch) - A compact AWS client and signing utility for modern JS environments
 - [stamp-labs/stamp](https://github.com/stamp-labs/stamp) - Avatars for web3
@@ -5372,7 +5377,7 @@
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [iiYese/aery](https://github.com/iiYese/aery) - A plugin that enables a subset of entity relationship features for bevy
 - [JoJoJet/bevy-trait-query](https://github.com/JoJoJet/bevy-trait-query) - adds trait queries to the bevy game engine
-- [EnsoFinance/temper](https://github.com/EnsoFinance/temper) - Temper your expectations - Ethereum Transaction Simulator
+- [EnsoBuild/temper](https://github.com/EnsoBuild/temper) - Temper your expectations - Ethereum Transaction Simulator
 - [Jondolf/avian](https://github.com/Jondolf/avian) - ECS-driven 2D and 3D physics engine for the Bevy game engine.
 - [vleue/jornet](https://github.com/vleue/jornet) - The social game server for all your game jams!
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
@@ -5543,7 +5548,7 @@
 - [sharksforarms/deku](https://github.com/sharksforarms/deku) - Declarative binary reading and writing: bit-level, symmetric, serialization/deserialization
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
 - [dtolnay/quote](https://github.com/dtolnay/quote) - Rust quasi-quoting
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [grovesNL/glow](https://github.com/grovesNL/glow) - GL on Whatever: a set of bindings to run GL anywhere and avoid target-specific code
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
@@ -5588,6 +5593,7 @@
 - [patriksimek/vm2](https://github.com/patriksimek/vm2) - Advanced vm/sandbox for Node.js
 - [spatie/laravel-csp](https://github.com/spatie/laravel-csp) - Set content security policy headers in a Laravel app
 - [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
+- [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
@@ -6650,6 +6656,7 @@
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [simplito/bn-php](https://github.com/simplito/bn-php) - BigNum library for PHP compatible with bn.js
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A no-build CDN for modern web development.
 - [simplito/elliptic-php](https://github.com/simplito/elliptic-php) - Fast, general Elliptic Curve Cryptography library. Supports curves used in Bitcoin, Ethereum and other cryptocurrencies (secp256k1, ed25519, ..)
 - [tinyhttp/tinyhttp](https://github.com/tinyhttp/tinyhttp) - 🦄 0-legacy, tiny & fast web framework as a replacement of Express
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -6760,13 +6767,14 @@
 
 ## xml 
 
+- [fb55/htmlparser2](https://github.com/fb55/htmlparser2) - The fast & forgiving HTML and XML parser
 - [RazrFalcon/roxmltree](https://github.com/RazrFalcon/roxmltree) - Represent an XML document as a read-only tree.
 - [posthtml/posthtml](https://github.com/posthtml/posthtml) - PostHTML is a tool to transform HTML/XML with JS plugins
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) - A small library for converting tokenized PHP source code into XML (and potentially other formats)
 
 ## zig 
 
-- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - The open-source browser made for headless usage
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 

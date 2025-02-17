@@ -274,6 +274,7 @@
 
 ## ai 
 
+- [echolabsdev/prism](https://github.com/echolabsdev/prism) - A unified interface for working with LLMs in Laravel
 - [piotrostr/listen](https://github.com/piotrostr/listen) - Solana Swiss Army Knife
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build portable, modular & lightweight Fullstack Agents
@@ -282,7 +283,7 @@
 - [goat-sdk/goat](https://github.com/goat-sdk/goat) - The open-source framework for connecting AI agents to any onchain app
 - [callstackincubator/fabrice-ai](https://github.com/callstackincubator/fabrice-ai) - A lightweight, functional, and composable framework for building AI agents. No PhD required.
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - An AI web browsing framework focused on simplicity and extensibility.
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - library & platform to build, distribute, monetize ai apps that have the full context (like rewind, granola, etc.), open source, 100% local, developer friendly. 24/7 screen, mic, keyboard recording and
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
@@ -309,6 +310,7 @@
 - [beyondcode/laravel-ask-database](https://github.com/beyondcode/laravel-ask-database) - Query your database using natural language
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to Blender
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -392,6 +394,7 @@
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [web3/web3.js](https://github.com/web3/web3.js) - Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions.
 - [specta-rs/rspc](https://github.com/specta-rs/rspc) - A framework for building typesafe web backends in Rust
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 - [tiagosiebler/binance](https://github.com/tiagosiebler/binance) - Node.js & JavaScript SDK for Binance REST APIs & WebSockets, with TypeScript & browser support, integration tests, beautification & more.
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
@@ -570,6 +573,7 @@
 
 ## blockchain 
 
+- [erigontech/erigon](https://github.com/erigontech/erigon) - Ethereum implementation on the efficiency frontier https://docs.erigon.tech
 - [alloy-rs/trie](https://github.com/alloy-rs/trie) - Fast Merkle-Patricia Trie (MPT) state root calculator and proof generator for prefix-sorted nibbles
 - [goat-sdk/goat](https://github.com/goat-sdk/goat) - The open-source framework for connecting AI agents to any onchain app
 - [monosux/ethereum-block-by-date](https://github.com/monosux/ethereum-block-by-date) - Get Ethereum block number by a given date. Or blocks by a given period duration.
@@ -608,6 +612,7 @@
 
 ## c 
 
+- [fluent/fluent-bit](https://github.com/fluent/fluent-bit) - Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 - [TinyCC/tinycc](https://github.com/TinyCC/tinycc) - Unofficial mirror of mob development branch
@@ -795,7 +800,7 @@
 
 ## computer-vision 
 
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - library & platform to build, distribute, monetize ai apps that have the full context (like rewind, granola, etc.), open source, 100% local, developer friendly. 24/7 screen, mic, keyboard recording and
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 - [robertknight/ocrs](https://github.com/robertknight/ocrs) - Rust library and CLI tool for OCR (extracting text from images)
 - [coderonion/awesome-rust-list](https://github.com/coderonion/awesome-rust-list) - This repository lists some awesome public Rust projects, Videos, Blogs and Jobs.
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
@@ -887,7 +892,6 @@
 - [frenic/csstype](https://github.com/frenic/csstype) - Strict TypeScript and Flow types for style based on MDN data
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
-- [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [nunomaduro/termwind](https://github.com/nunomaduro/termwind) - 🍃 In short, it's like Tailwind CSS, but for the PHP command-line applications.
 - [GoogleChromeLabs/critters](https://github.com/GoogleChromeLabs/critters) - 🦔 A Webpack plugin to inline your critical CSS and lazy-load the rest.
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
@@ -1058,6 +1062,7 @@
 
 ## deployment 
 
+- [vitodeploy/vito](https://github.com/vitodeploy/vito) - Free and Self-Hosted  Server Management Tool
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
@@ -1224,6 +1229,7 @@
 
 ## ember 
 
+- [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 
 ## emoji 
@@ -1233,7 +1239,7 @@
 
 ## emulator 
 
-- [raphamorim/gameboy](https://github.com/raphamorim/gameboy) - Gameboy Emulator written in Rust and WebAssembly. 8-bit microprocessor: Sharp LR35902.
+- [raphamorim/gameboy](https://github.com/raphamorim/gameboy) - The Gameboy emulator that runs anywhere (Terminal, Web, Desktop)
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
@@ -1269,6 +1275,7 @@
 
 ## ethereum 
 
+- [erigontech/erigon](https://github.com/erigontech/erigon) - Ethereum implementation on the efficiency frontier https://docs.erigon.tech
 - [alloy-rs/trie](https://github.com/alloy-rs/trie) - Fast Merkle-Patricia Trie (MPT) state root calculator and proof generator for prefix-sorted nibbles
 - [a16z/helios](https://github.com/a16z/helios) - A fast, secure, and portable multichain light client for Ethereum
 - [erpc/erpc](https://github.com/erpc/erpc) - eRPC — fault-tolerant evm rpc proxy
@@ -1773,7 +1780,7 @@
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
 - [nuxt/test-utils](https://github.com/nuxt/test-utils) - 🧪 Test utilities for Nuxt
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.7.58911, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.1.58558)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.7.58911, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.1.59069)
 - [getsentry/sentry-rust](https://github.com/getsentry/sentry-rust) - Official Sentry SDK for Rust
 - [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace) - All of the official Tauri plugins in one place!
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
@@ -1791,10 +1798,8 @@
 - [unjs/fontaine](https://github.com/unjs/fontaine) - Automatic font fallback based on font metrics
 - [matmen/ImageScript](https://github.com/matmen/ImageScript) - zero-dependency JavaScript image manipulation
 - [NiklasEi/bevy_asset_loader](https://github.com/NiklasEi/bevy_asset_loader) - Bevy plugin helping with asset loading and organization
-- [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
 - [CnCNet/cncnet-yr-client-package](https://github.com/CnCNet/cncnet-yr-client-package) - The official CnCNet Yuri's Revenge package for online.
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 - [Enet4/faiss-rs](https://github.com/Enet4/faiss-rs) - Rust language bindings for Faiss
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [ethereum-lists/chains](https://github.com/ethereum-lists/chains) - provides metadata for chains
@@ -1978,7 +1983,6 @@
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
 - [upjs/facile-validator](https://github.com/upjs/facile-validator) - Robust Frontend Forms Validation, inspired by Laravel Validation, Built for Simplicity of Use 🍬
-- [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [posthtml/posthtml](https://github.com/posthtml/posthtml) - PostHTML is a tool to transform HTML/XML with JS plugins
 - [mpdf/mpdf](https://github.com/mpdf/mpdf) - PHP library generating PDF files from UTF-8 encoded HTML
 - [LudiKha/Graphene](https://github.com/LudiKha/Graphene) - Graphene for Unity UI Toolkit is a lightweight and modular framework for building user interfaces
@@ -2126,6 +2130,7 @@
 
 ## javascript 
 
+- [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [Hexagon/croner](https://github.com/Hexagon/croner) - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
 - [fb55/htmlparser2](https://github.com/fb55/htmlparser2) - The fast & forgiving HTML and XML parser
 - [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
@@ -2429,7 +2434,9 @@
 
 ## laravel 
 
+- [echolabsdev/prism](https://github.com/echolabsdev/prism) - A unified interface for working with LLMs in Laravel
 - [yungifez/artisan-ui](https://github.com/yungifez/artisan-ui) - Gorgeous shadcn inspired UI library for laravel blade using Tailwind and AlpineJS
+- [vitodeploy/vito](https://github.com/vitodeploy/vito) - Free and Self-Hosted  Server Management Tool
 - [intentjs/intent](https://github.com/intentjs/intent) - The Intent Framework
 - [serversideup/spin](https://github.com/serversideup/spin) - 🚀 Replicate your production environment locally using Docker. Just run "spin up". It's really that easy.
 - [wire-elements/wire-spy](https://github.com/wire-elements/wire-spy) - WireSpy—a sleek new debug bar for Livewire
@@ -2499,7 +2506,7 @@
 - [Naoray/laravel-factory-prefill](https://github.com/Naoray/laravel-factory-prefill) - Prefills factories with faker method suggestions to increase productivity
 - [KABBOUCHI/laravel-vercel](https://github.com/KABBOUCHI/laravel-vercel) - Laravel Vercel - Adapter/Bridge
 - [reed-jones/phase](https://github.com/reed-jones/phase) - A Laravel driven Vuex & Vue-Router orchestration library
-- [brefphp/laravel-bridge](https://github.com/brefphp/laravel-bridge) - Package to use Laravel on AWS Lambda with Bref
+- [brefphp/laravel-bridge](https://github.com/brefphp/laravel-bridge) - Laravel on AWS Lambda with Bref
 - [yabhq/laravel-scout-mysql-driver](https://github.com/yabhq/laravel-scout-mysql-driver) - Laravel Scout MySQL Driver
 - [matchish/laravel-scout-elasticsearch](https://github.com/matchish/laravel-scout-elasticsearch) - Search among multiple models with ElasticSearch and Laravel Scout
 - [laravel/ui](https://github.com/laravel/ui) - Laravel UI utilities and presets.
@@ -2699,7 +2706,7 @@
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [deviceplug/btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.7.58911, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.1.58558)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.7.58911, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.1.59069)
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
@@ -2725,6 +2732,7 @@
 
 ## llm 
 
+- [echolabsdev/prism](https://github.com/echolabsdev/prism) - A unified interface for working with LLMs in Laravel
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
@@ -2732,7 +2740,7 @@
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
 - [callstackincubator/fabrice-ai](https://github.com/callstackincubator/fabrice-ai) - A lightweight, functional, and composable framework for building AI agents. No PhD required.
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - library & platform to build, distribute, monetize ai apps that have the full context (like rewind, granola, etc.), open source, 100% local, developer friendly. 24/7 screen, mic, keyboard recording and
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
@@ -2787,7 +2795,7 @@
 ## machine-learning 
 
 - [blackportal-ai/delta](https://github.com/blackportal-ai/delta) - An Open-Source Machine Learning Framework in Rust Δ
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - library & platform to build, distribute, monetize ai apps that have the full context (like rewind, granola, etc.), open source, 100% local, developer friendly. 24/7 screen, mic, keyboard recording and
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 - [robertknight/ocrs](https://github.com/robertknight/ocrs) - Rust library and CLI tool for OCR (extracting text from images)
 - [Comfy-Org/ComfyUI_frontend](https://github.com/Comfy-Org/ComfyUI_frontend) - Official front-end implementation of ComfyUI
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
@@ -2798,7 +2806,7 @@
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
 - [huggingface/huggingface.js](https://github.com/huggingface/huggingface.js) - Utilities to use the Hugging Face Hub API
-- [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
+- [ggml-org/ggml](https://github.com/ggml-org/ggml) - Tensor library for machine learning
 - [keyvank/femtoGPT](https://github.com/keyvank/femtoGPT) - Pure Rust implementation of a minimal Generative Pretrained Transformer
 - [nuclia/nucliadb](https://github.com/nuclia/nucliadb) - NucliaDB, The AI Search database for RAG
 - [yoshoku/hnswlib-node](https://github.com/yoshoku/hnswlib-node) - hnswlib-node provides Node.js bindings for Hnswlib
@@ -2816,6 +2824,7 @@
 
 ## macos 
 
+- [natbro/kaon](https://github.com/natbro/kaon) - Tools, and instructions for more easily installing and launching Windows games via Wine or CrossOver  directly in the macOS Steam client
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - UI components for building fantastic desktop application by using GPUI.
 - [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
@@ -2970,7 +2979,7 @@
 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
-- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 system monitoring on steroids
+- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [context-labs/mactop](https://github.com/context-labs/mactop) - mactop - Apple Silicon Monitor Top
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
@@ -3069,7 +3078,7 @@
 - [connectrpc/connect-es](https://github.com/connectrpc/connect-es) - The TypeScript implementation of Connect: Protobuf RPC that works.
 - [toddcooke/namechecker](https://github.com/toddcooke/namechecker) - Find out if your project name is taken
 - [louisgv/local.ai](https://github.com/louisgv/local.ai) - 🎒 local.ai - Run AI locally on your PC!
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -3299,6 +3308,7 @@
 
 ## openai 
 
+- [echolabsdev/prism](https://github.com/echolabsdev/prism) - A unified interface for working with LLMs in Laravel
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
@@ -3337,11 +3347,12 @@
 
 ## others 
 
+- [fusion-php/fusion](https://github.com/fusion-php/fusion) - Unite your modern frontend with your Laravel backend.
 - [denoland/wasmbuild](https://github.com/denoland/wasmbuild) - Build tool to use Rust code in Deno and the browser.
 - [NathanBrodin/zed-vercel-theme](https://github.com/NathanBrodin/zed-vercel-theme) - The Vercel Theme, for Zed
 - [zed-extensions/material-icon-theme](https://github.com/zed-extensions/material-icon-theme) - Material Design icons for Zed
 - [antoniandre/vue-cal](https://github.com/antoniandre/vue-cal) - A Vue JS full calendar, no dependency, no BS. :metal:
-- [adonisjs/cache](https://github.com/adonisjs/cache) - Cache module for AdonisJS. Supports Redis, Memcache, File and in-memory drivers
+- [adonisjs/cache](https://github.com/adonisjs/cache) - Cache module for AdonisJS. Supports Redis, Databases, File and in-memory drivers
 - [m1guelpf/pipeline-rs](https://github.com/m1guelpf/pipeline-rs) - A lightweight pipeline system for Rust.
 - [antfu/node-modules-inspector](https://github.com/antfu/node-modules-inspector) - Interactive UI for local node modules inspection
 - [codemirror/view](https://github.com/codemirror/view) - DOM view component for the CodeMirror code editor
@@ -3369,7 +3380,6 @@
 - [vercel/nuxt3-kitchen-sink](https://github.com/vercel/nuxt3-kitchen-sink) - An example template showing all Nuxt 3 features on Vercel.
 - [DioxusLabs/sdk](https://github.com/DioxusLabs/sdk) - A library to provide abstractions to access common utilities when developing Dioxus applications.
 - [laravel/vs-code-extension](https://github.com/laravel/vs-code-extension) - 
-- [vitodeploy/vito](https://github.com/vitodeploy/vito) - Free and Self-Hosted  Server Management Tool
 - [elizaOS/twitter-scraper-finetune](https://github.com/elizaOS/twitter-scraper-finetune) - Scrape twitter accounts for fine tuning
 - [elizaOS/agent-twitter-client](https://github.com/elizaOS/agent-twitter-client) - A Twitter client for agents-- no API key necessary
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
@@ -3423,7 +3433,7 @@
 - [audiojs/audio-decode](https://github.com/audiojs/audio-decode) - Minimal audio decoders layer
 - [shikijs/textmate-grammars-themes](https://github.com/shikijs/textmate-grammars-themes) - Collection of TextMate grammars and themes in JSON
 - [m1guelpf/openai-realtime-proxy](https://github.com/m1guelpf/openai-realtime-proxy) - Safely deploy OpenAI's Realtime APIs in less than 5 minutes!
-- [unjs/unenv](https://github.com/unjs/unenv) - 🕊️ Convert javaScript code to be runtime agnostic
+- [unjs/unenv](https://github.com/unjs/unenv) - 🕊️ Node.js compatibility for any JavaScript runtime, including browsers and edge workers.
 - [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
 - [vitejs/companies-using-vite](https://github.com/vitejs/companies-using-vite) - A list of companies using Vite.
 - [emilk/egui_plot](https://github.com/emilk/egui_plot) - 2D plotting library in Rust for egui
@@ -3701,7 +3711,7 @@
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
 - [nogibjj/rust-candle-demos](https://github.com/nogibjj/rust-candle-demos) - Demos using Rust Candle
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
-- [nuxt/cli](https://github.com/nuxt/cli) - ⚡️ Nuxt Generation CLI Experience.
+- [nuxt/cli](https://github.com/nuxt/cli) - Nuxt CLI
 - [edouardpoitras/bevy_text_popup](https://github.com/edouardpoitras/bevy_text_popup) - Bevy plugin to easily create UI text popups using events
 - [nuxtlabs/remark-mdc](https://github.com/nuxtlabs/remark-mdc) - Remark plugin to support MDC syntax.
 - [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
@@ -3799,7 +3809,7 @@
 - [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [aklinker1/vite-plugin-web-extension](https://github.com/aklinker1/vite-plugin-web-extension) - Vite plugin for developing Chrome/Web Extensions
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [OpenRA/ra2](https://github.com/OpenRA/ra2) - A Red Alert 2 mod for the OpenRA game engine
 - [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0
 - [hibiken/asynqmon](https://github.com/hibiken/asynqmon) - Web UI for Asynq task queue
@@ -4162,7 +4172,7 @@
 - [wesbos/chit-chats-snipcart-integration](https://github.com/wesbos/chit-chats-snipcart-integration) - Begin app
 - [davidcallanan/os-series](https://github.com/davidcallanan/os-series) - 
 - [Akryum/vue-observe-visibility](https://github.com/Akryum/vue-observe-visibility) - Detect when an element is becoming visible or hidden on the page.
-- [RealPeha/This-Repo-Has-1750-Stars](https://github.com/RealPeha/This-Repo-Has-1750-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1756-Stars](https://github.com/RealPeha/This-Repo-Has-1756-Stars) - Yes, it's true :purple_heart:
 - [xsoulspace/vuefer](https://github.com/xsoulspace/vuefer) - Vue3 styled like Flutter with Tailwind CSS
 - [IndexXuan/vue-cli-plugin-vite](https://github.com/IndexXuan/vue-cli-plugin-vite) - Use vite today, with vue-cli.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
@@ -4744,7 +4754,7 @@
 - [keijiro/KinoGlitch](https://github.com/keijiro/KinoGlitch) - Video glitch effects for Unity
 - [anchan828/unity-snippets](https://github.com/anchan828/unity-snippets) - 
 - [SebLague/Create-a-Game-Project](https://github.com/SebLague/Create-a-Game-Project) - 
-- [InvexGames/MaterialUI](https://github.com/InvexGames/MaterialUI) - MaterialUI is a UI kit for Unity that follows Google's official material design guidelines.
+- [DecSmith42/MaterialUI](https://github.com/DecSmith42/MaterialUI) - MaterialUI is a UI kit for Unity that follows Google's official material design guidelines.
 - [wuwenhuang/laravel_android](https://github.com/wuwenhuang/laravel_android) - 
 - [cSploit/android](https://github.com/cSploit/android) - cSploit - The most complete and advanced IT security professional toolkit on Android.
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
@@ -4798,7 +4808,10 @@
 
 ## php 
 
+- [DirectoryTree/ImapEngine](https://github.com/DirectoryTree/ImapEngine) - Integrate IMAP mailbox interaction into your PHP application.
+- [echolabsdev/prism](https://github.com/echolabsdev/prism) - A unified interface for working with LLMs in Laravel
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
+- [vitodeploy/vito](https://github.com/vitodeploy/vito) - Free and Self-Hosted  Server Management Tool
 - [et-nik/gameap](https://github.com/et-nik/gameap) - Game Admin Panel (GameAP) is the opensource game servers control panel.
 - [tempestphp/highlight](https://github.com/tempestphp/highlight) - 🎨 Fast, extensible, server-side code highlighting for web and terminal
 - [imliam/cpx](https://github.com/imliam/cpx) - Run any command from any composer package, even if it's not installed in your project.
@@ -5020,6 +5033,7 @@
 
 ## postgresql 
 
+- [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [levkk/pgdog](https://github.com/levkk/pgdog) - Automatic sharding for PostgreSQL.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
@@ -5160,6 +5174,7 @@
 
 ## rails 
 
+- [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [jeffreyguenther/vue-turbolinks](https://github.com/jeffreyguenther/vue-turbolinks) - A Vue mixin to fix Turbolinks caching
 
 ## raspberry-pi 
@@ -5180,7 +5195,7 @@
 - [toddcooke/namechecker](https://github.com/toddcooke/namechecker) - Find out if your project name is taken
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build your design system with React, Svelte, Vue, and Solid. Powered by State Machines
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [DoneDeal0/superdiff](https://github.com/DoneDeal0/superdiff) - Superdiff provides a complete and readable diff for both arrays and objects. Plus, it supports stream and file inputs for handling large datasets efficiently, is battle-tested, has zero dependencies, 
@@ -5284,6 +5299,7 @@
 
 ## ruby 
 
+- [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
@@ -5297,7 +5313,7 @@
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [eldruin/wyhash-rs](https://github.com/eldruin/wyhash-rs) - wyhash fast portable non-cryptographic hashing algorithm and random number generator in Rust
-- [raphamorim/gameboy](https://github.com/raphamorim/gameboy) - Gameboy Emulator written in Rust and WebAssembly. 8-bit microprocessor: Sharp LR35902.
+- [raphamorim/gameboy](https://github.com/raphamorim/gameboy) - The Gameboy emulator that runs anywhere (Terminal, Web, Desktop)
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
@@ -5321,7 +5337,7 @@
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [cBournhonesque/lightyear](https://github.com/cBournhonesque/lightyear) - A networking library to make multiplayer games for the Bevy game engine
 - [veloren/veloren](https://github.com/veloren/veloren) - An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
-- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 system monitoring on steroids
+- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime
 - [levkk/rwf](https://github.com/levkk/rwf) - Comprehensive framework for building web applications in Rust.
 - [denoland/rusty_v8](https://github.com/denoland/rusty_v8) - Rust bindings for the V8 JavaScript engine
@@ -5363,7 +5379,7 @@
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [ramosbugs/oauth2-rs](https://github.com/ramosbugs/oauth2-rs) - Extensible, strongly-typed Rust OAuth2 client library
-- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
 - [dylanblokhuis/tpaint](https://github.com/dylanblokhuis/tpaint) - Build a native GUI with Dioxus on whatever platform that can render triangles
 - [m1guelpf/repair-json](https://github.com/m1guelpf/repair-json) - Repair incomplete JSON (e.g. from streaming APIs or AI models) so it can be parsed as it's received.
@@ -5567,7 +5583,6 @@
 - [sharksforarms/deku](https://github.com/sharksforarms/deku) - Declarative binary reading and writing: bit-level, symmetric, serialization/deserialization
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
 - [dtolnay/quote](https://github.com/dtolnay/quote) - Rust quasi-quoting
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [grovesNL/glow](https://github.com/grovesNL/glow) - GL on Whatever: a set of bindings to run GL anywhere and avoid target-specific code
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
@@ -5631,6 +5646,7 @@
 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+- [vitodeploy/vito](https://github.com/vitodeploy/vito) - Free and Self-Hosted  Server Management Tool
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -5682,7 +5698,7 @@
 - [nuxt/nitro-demo](https://github.com/nuxt/nitro-demo) - nuxt nitro preview
 - [KABBOUCHI/laravel-vercel](https://github.com/KABBOUCHI/laravel-vercel) - Laravel Vercel - Adapter/Bridge
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
-- [brefphp/laravel-bridge](https://github.com/brefphp/laravel-bridge) - Package to use Laravel on AWS Lambda with Bref
+- [brefphp/laravel-bridge](https://github.com/brefphp/laravel-bridge) - Laravel on AWS Lambda with Bref
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [rafter-platform/rafter-alpha](https://github.com/rafter-platform/rafter-alpha) - (Archived) Serverless deployment platform powered by Google Cloud
 - [vercel-community/php](https://github.com/vercel-community/php) - 🐘 PHP Runtime for ▲ Vercel Serverless Functions (support 7.4-8.3)
@@ -5824,7 +5840,7 @@
 ## svelte 
 
 - [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.
-- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 system monitoring on steroids
+- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript
@@ -5911,7 +5927,7 @@
 - [HugoRCD/canvas](https://github.com/HugoRCD/canvas) - Portfolio template made with Nuxt 3, Nuxt Content v3, NuxtUI v3 and TailwindCSS v4
 - [riipandi/tauri-start-solid](https://github.com/riipandi/tauri-start-solid) - This project template should help get you started developing a multi-platform desktop application with tray menu support using Tauri, SolidJS, shadcn/ui, Nano Stores, Typescript, Tailwind CSS, and Vit
 - [dcastil/tailwind-merge](https://github.com/dcastil/tailwind-merge) - Merge Tailwind CSS classes without style conflicts
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [nuxt/ui](https://github.com/nuxt/ui) - A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.
 - [scottyzen/woonuxt](https://github.com/scottyzen/woonuxt) - Static e-commerce powered by WooCommerce & Nuxt
 - [javisperez/tailwindcolorshades](https://github.com/javisperez/tailwindcolorshades) - Color shades generator for TailwindCSS - https://javisperez.github.io/tailwindcolorshades
@@ -5965,7 +5981,7 @@
 - [context-labs/mactop](https://github.com/context-labs/mactop) - mactop - Apple Silicon Monitor Top
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
-- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
@@ -6319,6 +6335,8 @@
 
 ## vue 
 
+- [unplugin/unplugin-vue](https://github.com/unplugin/unplugin-vue) - ✨ Transform Vue 3 SFC to JavaScript. Supports Vite, esbuild, Rollup, Webpack and more.
+- [HugoRCD/nuppets](https://github.com/HugoRCD/nuppets) - A productivity hub for Nuxt and Vue.js development - Snippets, AI commands, and more tools to enhance your workflow
 - [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.
 - [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk) - 📝 The Vue.js framework for building tailored, accessible, and high-quality forms.
 - [unovue/motion-vue](https://github.com/unovue/motion-vue) - A animation library for Vue
@@ -6571,6 +6589,7 @@
 
 ## vuejs 
 
+- [unplugin/unplugin-vue](https://github.com/unplugin/unplugin-vue) - ✨ Transform Vue 3 SFC to JavaScript. Supports Vite, esbuild, Rollup, Webpack and more.
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue & Nuxt.
 - [graphieros/vue-data-ui](https://github.com/graphieros/vue-data-ui) - An open source user-empowering data visualization Vue 3 components library for eloquent data storytelling
@@ -6718,6 +6737,7 @@
 
 ## webpack 
 
+- [unplugin/unplugin-vue](https://github.com/unplugin/unplugin-vue) - ✨ Transform Vue 3 SFC to JavaScript. Supports Vite, esbuild, Rollup, Webpack and more.
 - [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS

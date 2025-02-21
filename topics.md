@@ -292,6 +292,7 @@
 - [floneum/floneum](https://github.com/floneum/floneum) - Instant, controllable, local pre-trained AI models in Rust
 - [rvion/CushyStudio](https://github.com/rvion/CushyStudio) - 🛋 The AI and Generative Art platform for everyone
 - [ra-jeev/hub-chat](https://github.com/ra-jeev/hub-chat) - Cloudflare Workers AI LLM Playground with Nuxt
+- [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models
@@ -389,6 +390,7 @@
 
 ## api 
 
+- [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [louisgv/local.ai](https://github.com/louisgv/local.ai) - 🎒 local.ai - Run AI locally on your PC!
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
@@ -573,6 +575,7 @@
 
 ## blockchain 
 
+- [raardev/raar](https://github.com/raardev/raar) - An Open-Source, Local-First Swiss Army Knife for Crypto Development
 - [erigontech/erigon](https://github.com/erigontech/erigon) - Ethereum implementation on the efficiency frontier https://docs.erigon.tech
 - [alloy-rs/trie](https://github.com/alloy-rs/trie) - Fast Merkle-Patricia Trie (MPT) state root calculator and proof generator for prefix-sorted nibbles
 - [goat-sdk/goat](https://github.com/goat-sdk/goat) - The open-source framework for connecting AI agents to any onchain app
@@ -977,6 +980,7 @@
 
 ## data-structures 
 
+- [zrwusa/data-structure-typed](https://github.com/zrwusa/data-structure-typed) - Javascript Data Structure & TypeScript Data Structure. Heap, Binary Tree, Red Black Tree, Linked List, Deque, Trie, HashMap, Directed Graph, Undirected Graph, Binary Search Tree, AVL Tree, Priority Qu
 - [elastio/bon](https://github.com/elastio/bon) - Next-gen compile-time-checked builder generator, named function's arguments, and more!
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
@@ -993,6 +997,7 @@
 
 ## database 
 
+- [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
@@ -1181,6 +1186,7 @@
 
 ## electron 
 
+- [lacymorrow/crossover](https://github.com/lacymorrow/crossover) - 🎯 A Crosshair Overlay for any screen.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [deepnight/ldtk](https://github.com/deepnight/ldtk) - Modern, lightweight and efficient 2D level editor
 - [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
@@ -1275,6 +1281,7 @@
 
 ## ethereum 
 
+- [raardev/raar](https://github.com/raardev/raar) - An Open-Source, Local-First Swiss Army Knife for Crypto Development
 - [erigontech/erigon](https://github.com/erigontech/erigon) - Ethereum implementation on the efficiency frontier https://docs.erigon.tech
 - [alloy-rs/trie](https://github.com/alloy-rs/trie) - Fast Merkle-Patricia Trie (MPT) state root calculator and proof generator for prefix-sorted nibbles
 - [a16z/helios](https://github.com/a16z/helios) - A fast, secure, and portable multichain light client for Ethereum
@@ -1610,6 +1617,7 @@
 
 ## games 
 
+- [lacymorrow/crossover](https://github.com/lacymorrow/crossover) - 🎯 A Crosshair Overlay for any screen.
 - [et-nik/gameap](https://github.com/et-nik/gameap) - Game Admin Panel (GameAP) is the opensource game servers control panel.
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 - [AnyRPG/AnyRPGCore](https://github.com/AnyRPG/AnyRPGCore) - Open source Role Playing Game engine for Unity 3D written in C#.
@@ -1761,6 +1769,7 @@
 
 ## hacktoberfest 
 
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -1780,7 +1789,7 @@
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
 - [nuxt/test-utils](https://github.com/nuxt/test-utils) - 🧪 Test utilities for Nuxt
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.7.58911, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.1.59069)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.7.59302, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.1.59069)
 - [getsentry/sentry-rust](https://github.com/getsentry/sentry-rust) - Official Sentry SDK for Rust
 - [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace) - All of the official Tauri plugins in one place!
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
@@ -1892,7 +1901,6 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [anime-dl/anime-downloader](https://github.com/anime-dl/anime-downloader) - A simple but powerful anime downloader and streamer.
-- [beyondcode/expose](https://github.com/beyondcode/expose) - A beautiful, fully open-source, tunneling service - written in pure PHP
 - [rrousselGit/flutter_hooks](https://github.com/rrousselGit/flutter_hooks) - React hooks for Flutter. Hooks are a new kind of object that manages a Widget life-cycles. They are used to increase code sharing between widgets and as a complete replacement for StatefulWidget.
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
@@ -1957,6 +1965,7 @@
 
 ## haskell 
 
+- [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 
 ## homebrew 
@@ -2009,6 +2018,7 @@
 
 ## http 
 
+- [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [DaBigBlob/libsql-stateless-easy](https://github.com/DaBigBlob/libsql-stateless-easy) - Thin libSQL stateless HTTP driver for TypeScript and JavaScript for the edge but easy 🚀
 - [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A powerful and flexible proxy CLI for capturing and inspecting HTTP(S) and WS(S) traffic, with TUI and WebUI.
@@ -2507,7 +2517,7 @@
 - [KABBOUCHI/laravel-vercel](https://github.com/KABBOUCHI/laravel-vercel) - Laravel Vercel - Adapter/Bridge
 - [reed-jones/phase](https://github.com/reed-jones/phase) - A Laravel driven Vuex & Vue-Router orchestration library
 - [brefphp/laravel-bridge](https://github.com/brefphp/laravel-bridge) - Laravel on AWS Lambda with Bref
-- [yabhq/laravel-scout-mysql-driver](https://github.com/yabhq/laravel-scout-mysql-driver) - Laravel Scout MySQL Driver
+- [buildwithyab/laravel-scout-mysql-driver](https://github.com/buildwithyab/laravel-scout-mysql-driver) - Laravel Scout MySQL Driver
 - [matchish/laravel-scout-elasticsearch](https://github.com/matchish/laravel-scout-elasticsearch) - Search among multiple models with ElasticSearch and Laravel Scout
 - [laravel/ui](https://github.com/laravel/ui) - Laravel UI utilities and presets.
 - [laravel/vapor-ui](https://github.com/laravel/vapor-ui) - The Laravel Vapor UI.
@@ -2696,17 +2706,19 @@
 
 ## linux 
 
+- [lacymorrow/crossover](https://github.com/lacymorrow/crossover) - 🎯 A Crosshair Overlay for any screen.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
+- [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [deviceplug/btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.7.58911, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.1.59069)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.7.59302, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.1.59069)
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
@@ -2824,6 +2836,7 @@
 
 ## macos 
 
+- [lacymorrow/crossover](https://github.com/lacymorrow/crossover) - 🎯 A Crosshair Overlay for any screen.
 - [natbro/kaon](https://github.com/natbro/kaon) - Tools, and instructions for more easily installing and launching Windows games via Wine or CrossOver  directly in the macOS Steam client
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - UI components for building fantastic desktop application by using GPUI.
 - [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨
@@ -3002,10 +3015,10 @@
 - [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus) - TablePlus macOS issue tracker
 - [emilpriver/geni](https://github.com/emilpriver/geni) - Standalone database migration tool which works for Postgres, MariaDB, MySQL, Sqlite and LibSQL(Turso).
 - [outerbase/studio](https://github.com/outerbase/studio) - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite.
-- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse]
+- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse, Microsoft SQL Server]
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [Julien-R44/verrou](https://github.com/Julien-R44/verrou) - 🔒 Verrou is a library for managing Locks in Node.js. Support multiple drivers
-- [Julien-R44/bentocache](https://github.com/Julien-R44/bentocache) - 🍱 Bentocache is a robust multi-tier caching solution for Node.js applications
+- [Julien-R44/bentocache](https://github.com/Julien-R44/bentocache) - 🍱 Bentocache is a robust multi-tier caching library for Node.js applications
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust Compile Time ORM with Async Dynamic SQL
@@ -3022,7 +3035,7 @@
 - [grimzy/laravel-mysql-spatial](https://github.com/grimzy/laravel-mysql-spatial) - MySQL Spatial Data Extension integration with Laravel.
 - [protonemedia/laravel-cross-eloquent-search](https://github.com/protonemedia/laravel-cross-eloquent-search) - Laravel package to search through multiple Eloquent models. Supports sorting, pagination, scoped queries, eager load relationships and searching through single or multiple columns.
 - [doctrine/dbal](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer
-- [yabhq/laravel-scout-mysql-driver](https://github.com/yabhq/laravel-scout-mysql-driver) - Laravel Scout MySQL Driver
+- [buildwithyab/laravel-scout-mysql-driver](https://github.com/buildwithyab/laravel-scout-mysql-driver) - Laravel Scout MySQL Driver
 - [TablePlus/DBngin](https://github.com/TablePlus/DBngin) - DB Engine
 - [tighten/takeout](https://github.com/tighten/takeout) - Docker-based development-only dependency manager. macOS, Linux, and WSL2-only and installs via PHP's Composer... for now.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
@@ -3160,6 +3173,7 @@
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
 - [connectrpc/connect-es](https://github.com/connectrpc/connect-es) - The TypeScript implementation of Connect: Protobuf RPC that works.
+- [Julien-R44/bentocache](https://github.com/Julien-R44/bentocache) - 🍱 Bentocache is a robust multi-tier caching library for Node.js applications
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [hectorm/otpauth](https://github.com/hectorm/otpauth) - One Time Password (HOTP/TOTP) library for Node.js, Deno, Bun and browsers.
@@ -3347,6 +3361,8 @@
 
 ## others 
 
+- [unjs/uqr](https://github.com/unjs/uqr) - Generate QR Code universally, in any runtime, to ANSI, Unicode or SVG.
+- [maciejhirsz/tiny-bip39](https://github.com/maciejhirsz/tiny-bip39) - A Rust implementation of BIP-0039
 - [fusion-php/fusion](https://github.com/fusion-php/fusion) - Unite your modern frontend with your Laravel backend.
 - [denoland/wasmbuild](https://github.com/denoland/wasmbuild) - Build tool to use Rust code in Deno and the browser.
 - [NathanBrodin/zed-vercel-theme](https://github.com/NathanBrodin/zed-vercel-theme) - The Vercel Theme, for Zed
@@ -3483,7 +3499,6 @@
 - [PawelBis/bevy_wry](https://github.com/PawelBis/bevy_wry) - 
 - [Accudio/async-alpine](https://github.com/Accudio/async-alpine) - Async Alpine brings advanced code splitting and lazy-loading to Alpine.js components!
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
-- [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
 - [Swatinem/rust-cache](https://github.com/Swatinem/rust-cache) - A GitHub Action that implements smart caching for rust/cargo projects
 - [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the m
 - [nodejs/amaro](https://github.com/nodejs/amaro) - Node.js TypeScript wrapper
@@ -3854,7 +3869,7 @@
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) - Zero-cost asynchronous programming in Rust
 - [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
-- [dirs-dev/dirs-rs](https://github.com/dirs-dev/dirs-rs) - a low-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows
+- [dirs-dev/dirs-rs](https://github.com/dirs-dev/dirs-rs) - moved to https://codeberg.org/dirs/dirs-rs
 - [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs) - An implementation of the diffusers api in Rust
@@ -3952,7 +3967,7 @@
 - [cronhub/crontab](https://github.com/cronhub/crontab) - ⏰   Cron expression generator
 - [lukeed/ms](https://github.com/lukeed/ms) - A tiny (414B) and fast utility to convert milliseconds to and from strings.
 - [lukeed/nestie](https://github.com/lukeed/nestie) - A tiny (215B) and fast utility to expand a flattened object
-- [dwightjack/vue-types](https://github.com/dwightjack/vue-types) - Vue Prop Types definitions
+- [dwightjack/vue-types](https://github.com/dwightjack/vue-types) - Vue3 Prop Types definitions
 - [unjs/giget](https://github.com/unjs/giget) - ✨ Download templates and git repositories with pleasure!
 - [nuxtus/localtunnel](https://github.com/nuxtus/localtunnel) - Localtunnel module for Nuxt to allow remote/external access to your Nuxt development server.
 - [danielroe/nuxt-zero-js](https://github.com/danielroe/nuxt-zero-js) - Remove all client-side JS from your Nuxt 3 app
@@ -4315,6 +4330,7 @@
 - [romaincapelle/OverVue](https://github.com/romaincapelle/OverVue) - 
 - [dommmel/cloudflare-workers-basic-auth](https://github.com/dommmel/cloudflare-workers-basic-auth) - Basic http auth via cloudflare workers
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
+- [exposedev/expose](https://github.com/exposedev/expose) - A beautiful, fully open-source, tunneling service - written in pure PHP
 - [MARUI-PlugIn/BlenderXR](https://github.com/MARUI-PlugIn/BlenderXR) - Use Blender in VR/AR/XR
 - [yasirkula/UnityDynamicPanels](https://github.com/yasirkula/UnityDynamicPanels) - Draggable, resizable, dockable and stackable UI panel solution for Unity 3D
 - [igelbox/blender-retarget](https://github.com/igelbox/blender-retarget) - Applies animation from one armature to another
@@ -5033,16 +5049,17 @@
 
 ## postgresql 
 
+- [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [levkk/pgdog](https://github.com/levkk/pgdog) - Automatic sharding for PostgreSQL.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus) - TablePlus macOS issue tracker
 - [outerbase/studio](https://github.com/outerbase/studio) - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite.
-- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse]
+- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse, Microsoft SQL Server]
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [supabase/index_advisor](https://github.com/supabase/index_advisor) - PostgreSQL Index Advisor
-- [Julien-R44/bentocache](https://github.com/Julien-R44/bentocache) - 🍱 Bentocache is a robust multi-tier caching solution for Node.js applications
+- [Julien-R44/bentocache](https://github.com/Julien-R44/bentocache) - 🍱 Bentocache is a robust multi-tier caching library for Node.js applications
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
@@ -5306,6 +5323,7 @@
 
 ## rust 
 
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [rayon-rs/either](https://github.com/rayon-rs/either) - The enum Either with variants Left and Right is a general purpose sum type with two cases.
 - [piotrostr/listen](https://github.com/piotrostr/listen) - Solana Swiss Army Knife
 - [levkk/pgdog](https://github.com/levkk/pgdog) - Automatic sharding for PostgreSQL.
@@ -5362,7 +5380,7 @@
 - [audulus/vger-rs](https://github.com/audulus/vger-rs) - 2D GPU renderer for dynamic UIs
 - [matze/wastebin](https://github.com/matze/wastebin) - wastebin is a pastebin 📝
 - [databasedav/haalka](https://github.com/databasedav/haalka) - ergonomic reactive Bevy UI library powered by FRP signals
-- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse]
+- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse, Microsoft SQL Server]
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [helix-editor/nucleo](https://github.com/helix-editor/nucleo) - A fast and convenient fuzzy matcher library for rust
@@ -5464,7 +5482,7 @@
 - [marc2332/ghboard](https://github.com/marc2332/ghboard) - 🦑 GitHub Dashboard
 - [louisgv/local.ai](https://github.com/louisgv/local.ai) - 🎒 local.ai - Run AI locally on your PC!
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
-- [riipandi/tauri-start-solid](https://github.com/riipandi/tauri-start-solid) - This project template should help get you started developing a multi-platform desktop application with tray menu support using Tauri, SolidJS, shadcn/ui, Nano Stores, Typescript, Tailwind CSS, and Vit
+- [riipandi/tauri-start-solid](https://github.com/riipandi/tauri-start-solid) - This project template should help get you started developing a multi-platform desktop application with tray menu support using Tauri, SolidJS, Typescript, Tailwind CSS, and Vite.
 - [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [joamag/boytacean](https://github.com/joamag/boytacean) - A GB emulator that is written in Rust 🦀!
@@ -5664,6 +5682,7 @@
 
 ## server 
 
+- [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [0x676e67/ninja](https://github.com/0x676e67/ninja) - Reverse engineered ChatGPT proxy
@@ -5756,6 +5775,7 @@
 
 ## sql 
 
+- [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the modern evolution of SQLite.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust Compile Time ORM with Async Dynamic SQL
@@ -5790,9 +5810,9 @@
 - [outerbase/studio](https://github.com/outerbase/studio) - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite.
 - [rphlmr/drizzle-lab](https://github.com/rphlmr/drizzle-lab) - Play with Drizzle everywhere
 - [matze/wastebin](https://github.com/matze/wastebin) - wastebin is a pastebin 📝
-- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse]
+- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse, Microsoft SQL Server]
 - [tursodatabase/libsql-js](https://github.com/tursodatabase/libsql-js) - A better-sqlite3 compatible API for libSQL that supports Bun, Deno, and Node
-- [Julien-R44/bentocache](https://github.com/Julien-R44/bentocache) - 🍱 Bentocache is a robust multi-tier caching solution for Node.js applications
+- [Julien-R44/bentocache](https://github.com/Julien-R44/bentocache) - 🍱 Bentocache is a robust multi-tier caching library for Node.js applications
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust Compile Time ORM with Async Dynamic SQL
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
@@ -5925,7 +5945,7 @@
 - [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue & Nuxt.
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [HugoRCD/canvas](https://github.com/HugoRCD/canvas) - Portfolio template made with Nuxt 3, Nuxt Content v3, NuxtUI v3 and TailwindCSS v4
-- [riipandi/tauri-start-solid](https://github.com/riipandi/tauri-start-solid) - This project template should help get you started developing a multi-platform desktop application with tray menu support using Tauri, SolidJS, shadcn/ui, Nano Stores, Typescript, Tailwind CSS, and Vit
+- [riipandi/tauri-start-solid](https://github.com/riipandi/tauri-start-solid) - This project template should help get you started developing a multi-platform desktop application with tray menu support using Tauri, SolidJS, Typescript, Tailwind CSS, and Vite.
 - [dcastil/tailwind-merge](https://github.com/dcastil/tailwind-merge) - Merge Tailwind CSS classes without style conflicts
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [nuxt/ui](https://github.com/nuxt/ui) - A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.
@@ -6095,7 +6115,7 @@
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [ariym/whisper-node](https://github.com/ariym/whisper-node) - Node.js bindings for OpenAI's Whisper. (C++ CPU version by ggerganov)
-- [riipandi/tauri-start-solid](https://github.com/riipandi/tauri-start-solid) - This project template should help get you started developing a multi-platform desktop application with tray menu support using Tauri, SolidJS, shadcn/ui, Nano Stores, Typescript, Tailwind CSS, and Vit
+- [riipandi/tauri-start-solid](https://github.com/riipandi/tauri-start-solid) - This project template should help get you started developing a multi-platform desktop application with tray menu support using Tauri, SolidJS, Typescript, Tailwind CSS, and Vite.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [ehmicky/error-serializer](https://github.com/ehmicky/error-serializer) - Convert errors to/from plain objects.
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
@@ -6366,7 +6386,7 @@
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript
 - [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui
 - [vue-email/vue-email](https://github.com/vue-email/vue-email) - 💌 Write email templates with vue
-- [unovue/radix-vue](https://github.com/unovue/radix-vue) - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.
+- [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
 - [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [Vuepic/vue-datepicker](https://github.com/Vuepic/vue-datepicker) - Datepicker component for Vue 3
@@ -6675,6 +6695,7 @@
 
 ## web 
 
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
@@ -6765,6 +6786,7 @@
 
 ## windows 
 
+- [lacymorrow/crossover](https://github.com/lacymorrow/crossover) - 🎯 A Crosshair Overlay for any screen.
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - UI components for building fantastic desktop application by using GPUI.
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.

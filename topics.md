@@ -277,7 +277,7 @@
 
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [Comfy-Org/desktop](https://github.com/Comfy-Org/desktop) - The desktop app for ComfyUI.
-- [echolabsdev/prism](https://github.com/echolabsdev/prism) - A unified interface for working with LLMs in Laravel
+- [prism-php/prism](https://github.com/prism-php/prism) - A unified interface for working with LLMs in Laravel
 - [piotrostr/listen](https://github.com/piotrostr/listen) - Solana Swiss Army Knife
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build portable, modular & lightweight Fullstack Agents
@@ -580,7 +580,7 @@
 ## blockchain 
 
 - [raardev/raar](https://github.com/raardev/raar) - An Open-Source, Local-First Swiss Army Knife for Crypto Development
-- [erigontech/erigon](https://github.com/erigontech/erigon) - Ethereum implementation on the efficiency frontier https://docs.erigon.tech
+- [erigontech/erigon](https://github.com/erigontech/erigon) - Ethereum implementation on the efficiency frontier
 - [alloy-rs/trie](https://github.com/alloy-rs/trie) - Fast Merkle-Patricia Trie (MPT) state root calculator and proof generator for prefix-sorted nibbles
 - [goat-sdk/goat](https://github.com/goat-sdk/goat) - The open-source framework for connecting AI agents to any onchain app
 - [monosux/ethereum-block-by-date](https://github.com/monosux/ethereum-block-by-date) - Get Ethereum block number by a given date. Or blocks by a given period duration.
@@ -884,6 +884,7 @@
 
 ## css 
 
+- [Automattic/juice](https://github.com/Automattic/juice) - Juice inlines CSS stylesheets into your HTML source.
 - [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [nuxt/fonts](https://github.com/nuxt/fonts) - Plug-and-play web font optimization and configuration for Nuxt apps.
@@ -1290,8 +1291,9 @@
 
 ## ethereum 
 
+- [cdump/evmole](https://github.com/cdump/evmole) - Extracts function selectors, arguments, state mutability and storage layout from EVM bytecode, even for unverified contracts
 - [raardev/raar](https://github.com/raardev/raar) - An Open-Source, Local-First Swiss Army Knife for Crypto Development
-- [erigontech/erigon](https://github.com/erigontech/erigon) - Ethereum implementation on the efficiency frontier https://docs.erigon.tech
+- [erigontech/erigon](https://github.com/erigontech/erigon) - Ethereum implementation on the efficiency frontier
 - [alloy-rs/trie](https://github.com/alloy-rs/trie) - Fast Merkle-Patricia Trie (MPT) state root calculator and proof generator for prefix-sorted nibbles
 - [a16z/helios](https://github.com/a16z/helios) - A fast, secure, and portable multichain light client for Ethereum
 - [erpc/erpc](https://github.com/erpc/erpc) - eRPC — fault-tolerant evm rpc proxy
@@ -1800,7 +1802,7 @@
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
 - [nuxt/test-utils](https://github.com/nuxt/test-utils) - 🧪 Test utilities for Nuxt
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.1.0.59538, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.1.59069)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.1.0.59570, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.1.59069)
 - [getsentry/sentry-rust](https://github.com/getsentry/sentry-rust) - Official Sentry SDK for Rust
 - [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace) - All of the official Tauri plugins in one place!
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
@@ -1935,6 +1937,7 @@
 - [Qoraiche/laravel-mail-editor](https://github.com/Qoraiche/laravel-mail-editor) - MailEclipse :zap: Laravel Mail Editor
 - [Developmint/nuxt-purgecss](https://github.com/Developmint/nuxt-purgecss) - Drop superfluous CSS! A neat PurgeCSS wrapper for Nuxt.js
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
+- [beyondcode/laravel-mailbox](https://github.com/beyondcode/laravel-mailbox) - Catch incoming emails in your Laravel application
 - [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your sp
 - [antonioribeiro/health](https://github.com/antonioribeiro/health) - Laravel Health Panel
 - [beyondcode/laravel-websockets](https://github.com/beyondcode/laravel-websockets) - Websockets for Laravel. Done right.
@@ -1987,6 +1990,7 @@
 
 ## html 
 
+- [Automattic/juice](https://github.com/Automattic/juice) - Juice inlines CSS stylesheets into your HTML source.
 - [spider-rs/html2md](https://github.com/spider-rs/html2md) - Fast HTML to markdown lib for Rust
 - [Lommix/bevy_hui](https://github.com/Lommix/bevy_hui) - Component based UI crate using Xml/Html with focus on hot reload for the bevy engine.
 - [fb55/htmlparser2](https://github.com/fb55/htmlparser2) - The fast & forgiving HTML and XML parser
@@ -2459,7 +2463,7 @@
 ## laravel 
 
 - [serversideup/docker-php](https://github.com/serversideup/docker-php) - 🐳 Production-ready Docker images for PHP. Optimized for Laravel, WordPress, and more!
-- [echolabsdev/prism](https://github.com/echolabsdev/prism) - A unified interface for working with LLMs in Laravel
+- [prism-php/prism](https://github.com/prism-php/prism) - A unified interface for working with LLMs in Laravel
 - [yungifez/artisan-ui](https://github.com/yungifez/artisan-ui) - Gorgeous shadcn inspired UI library for laravel blade using Tailwind and AlpineJS
 - [vitodeploy/vito](https://github.com/vitodeploy/vito) - Free and Self-Hosted  Server Management Tool
 - [intentjs/intent](https://github.com/intentjs/intent) - The Intent Framework
@@ -2499,7 +2503,7 @@
 - [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) - IDE Helper for Laravel
 - [Silvanite/brandenburg](https://github.com/Silvanite/brandenburg) - Laravel Authentication Package
 - [Wulfheart/pretty-routes](https://github.com/Wulfheart/pretty-routes) - Display your Laravel routes in the console, but make it pretty. 😎
-- [jantinnerezo/livewire-alert](https://github.com/jantinnerezo/livewire-alert) - SweetAlert2 wrapper for Livewire
+- [jantinnerezo/livewire-alert](https://github.com/jantinnerezo/livewire-alert) - SweetAlert2 integration for Livewire
 - [wire-elements/spotlight](https://github.com/wire-elements/spotlight) - Livewire component that brings Spotlight/Alfred-like functionality to your Laravel application.
 - [ksassnowski/venture](https://github.com/ksassnowski/venture) - Venture allows you to create and manage complex, async workflows in your Laravel apps.
 - [laravel/octane](https://github.com/laravel/octane) - Supercharge your Laravel application's performance.
@@ -2735,7 +2739,7 @@
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [deviceplug/btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.1.0.59538, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.1.59069)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.1.0.59570, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.1.59069)
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
@@ -2761,7 +2765,7 @@
 
 ## llm 
 
-- [echolabsdev/prism](https://github.com/echolabsdev/prism) - A unified interface for working with LLMs in Laravel
+- [prism-php/prism](https://github.com/prism-php/prism) - A unified interface for working with LLMs in Laravel
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
@@ -3345,7 +3349,7 @@
 
 ## openai 
 
-- [echolabsdev/prism](https://github.com/echolabsdev/prism) - A unified interface for working with LLMs in Laravel
+- [prism-php/prism](https://github.com/prism-php/prism) - A unified interface for working with LLMs in Laravel
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
@@ -3384,6 +3388,7 @@
 
 ## others 
 
+- [viridia/bevy_reactor](https://github.com/viridia/bevy_reactor) - Fine-grained reactivity framework for Bevy.
 - [antfu-collective/vite-plugin-inspect](https://github.com/antfu-collective/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins
 - [huggingface/hf_transfer](https://github.com/huggingface/hf_transfer) - 
 - [kyutai-labs/kaudio](https://github.com/kyutai-labs/kaudio) - Rust crate for some audio utilities
@@ -3515,7 +3520,7 @@
 - [markmead/hyperjs](https://github.com/markmead/hyperjs) - HyperJS is a component library for Alpine JS allowing developers to quickly copy and paste functionality into their projects 🛵
 - [markmead/alpinejs-notifications](https://github.com/markmead/alpinejs-notifications) - Simple notifications in your projects using Alpine JS 🙋‍♀️
 - [adonisjs/drive](https://github.com/adonisjs/drive) - Filesystem provider built on top of node-flydrive
-- [adonisjs/lucid-slugify](https://github.com/adonisjs/lucid-slugify) - Generate unique slugs using your Lucid models
+- [adonisjs/lucid-slugify](https://github.com/adonisjs/lucid-slugify) - Lucid slugify gives you a simple API to create and persist unique slugs to the database
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [qawolf/playwright-video](https://github.com/qawolf/playwright-video) - 🎬 Save a video of a Playwright page
 - [sajansharmanz/prettier-plugin-edgejs](https://github.com/sajansharmanz/prettier-plugin-edgejs) - EdgeJS Prettier Plugin
@@ -3580,7 +3585,7 @@
 - [ruifigueira/playwright-crx](https://github.com/ruifigueira/playwright-crx) - Playwright for chrome extensions
 - [microsoft/SoM](https://github.com/microsoft/SoM) - Set-of-Mark Prompting for GPT-4V and LMMs
 - [sqlite/sqlite](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree
-- [meilisearch/heed](https://github.com/meilisearch/heed) - A fully typed LMDB wrapper with minimum overhead 🐦
+- [meilisearch/heed](https://github.com/meilisearch/heed) - Fully typed LMDB wrappers with minimum overhead 🐦
 - [matthiaskrgr/cargo-cache](https://github.com/matthiaskrgr/cargo-cache) - manage cargo cache (${CARGO_HOME}, ~/.cargo/), print sizes of dirs and remove dirs selectively
 - [illicitonion/named](https://github.com/illicitonion/named) - Named arguments and default argument values for rust functions.
 - [Uriopass/inline_tweak](https://github.com/Uriopass/inline_tweak) - Tweak a Rust value directly in the source code
@@ -4400,7 +4405,7 @@
 - [mafintosh/torrent-stream](https://github.com/mafintosh/torrent-stream) - The low level streaming torrent engine that peerflix uses
 - [zenorocha/codecopy](https://github.com/zenorocha/codecopy) - A browser extension that adds copy to clipboard buttons on every code block
 - [nuxt-community/router-extras-module](https://github.com/nuxt-community/router-extras-module) - Extra Add-ons For Nuxt 2 Router
-- [keypax/dynamic-walls-demo](https://github.com/keypax/dynamic-walls-demo) - 
+- [keypax/dynamic-walls-demo](https://github.com/keypax/dynamic-walls-demo) - This demo project showcases dynamic walls whose sides adapt to the environment used in canceled game: Pelagos: Rise of Greece.
 - [juliomrqz/nuxt-netlify](https://github.com/juliomrqz/nuxt-netlify) - Dynamically generate `_headers` and `_redirects` files for Netlify in your Nuxt.js projects
 - [google/spatial-media](https://github.com/google/spatial-media) - Specifications and tools for 360º video and spatial audio.
 - [pnarimani/RTLTMPro](https://github.com/pnarimani/RTLTMPro) - Right-To-Left Text Mesh Pro for Unity. This plugin adds support for Persian and Arabic languages to TextMeshPro.
@@ -4859,7 +4864,7 @@
 
 - [serversideup/docker-php](https://github.com/serversideup/docker-php) - 🐳 Production-ready Docker images for PHP. Optimized for Laravel, WordPress, and more!
 - [DirectoryTree/ImapEngine](https://github.com/DirectoryTree/ImapEngine) - Integrate IMAP mailbox interaction into your PHP application.
-- [echolabsdev/prism](https://github.com/echolabsdev/prism) - A unified interface for working with LLMs in Laravel
+- [prism-php/prism](https://github.com/prism-php/prism) - A unified interface for working with LLMs in Laravel
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 - [vitodeploy/vito](https://github.com/vitodeploy/vito) - Free and Self-Hosted  Server Management Tool
 - [et-nik/gameap](https://github.com/et-nik/gameap) - Game Admin Panel (GameAP) is the opensource game servers control panel.
@@ -5796,6 +5801,7 @@
 
 ## solidity 
 
+- [cdump/evmole](https://github.com/cdump/evmole) - Extracts function selectors, arguments, state mutability and storage layout from EVM bytecode, even for unverified contracts
 - [alloy-rs/svm-rs](https://github.com/alloy-rs/svm-rs) - Solidity-Compiler Version Manager
 - [latticexyz/mud](https://github.com/latticexyz/mud) - MUD is a framework for building autonomous worlds
 - [alloy-rs/core](https://github.com/alloy-rs/core) - High-performance, well-tested & documented core libraries for Ethereum, in Rust
@@ -6039,7 +6045,7 @@
 ## terminal 
 
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
-- [productdevbook/nitro-kutu](https://github.com/productdevbook/nitro-kutu) - See requests in the terminal. Get more detail with the panel.
+- [productdevbook/nitro-kutu](https://github.com/productdevbook/nitro-kutu) - See requests in the terminal. Get more detail with the panel. Nitrojs
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [context-labs/mactop](https://github.com/context-labs/mactop) - mactop - Apple Silicon Monitor Top

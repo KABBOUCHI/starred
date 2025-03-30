@@ -86,6 +86,7 @@
 
 ## C 
 
+- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [fluent/fluent-bit](https://github.com/fluent/fluent-bit) - Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a powerful, open-source software suite for creating, editing, converting, and manipulating images in over 200 formats. Ideal for web developers, graphic designers, and researchers, it o
 - [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
@@ -733,7 +734,7 @@
 - [unovue/radix-icons](https://github.com/unovue/radix-icons) - 
 - [hectorm/otpauth](https://github.com/hectorm/otpauth) - One Time Password (HOTP/TOTP) library for Node.js, Deno, Bun and browsers.
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
-- [UstymUkhman/vite-plugin-glsl](https://github.com/UstymUkhman/vite-plugin-glsl) - :spider_web: Import, inline (and compress) GLSL shader files :electric_plug:
+- [UstymUkhman/vite-plugin-glsl](https://github.com/UstymUkhman/vite-plugin-glsl) - :spider_web: Import, inline (and minify) GLSL/WGSL shader files :electric_plug:
 - [dagrejs/dagre](https://github.com/dagrejs/dagre) - Directed graph layout for JavaScript
 - [chr15m/jsfxr](https://github.com/chr15m/jsfxr) - JavaScript sound effects generator.
 - [kieler/elkjs](https://github.com/kieler/elkjs) - ELK's layout algorithms for JavaScript
@@ -1330,6 +1331,7 @@
 - [openai-php/laravel](https://github.com/openai-php/laravel) - ⚡️ OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API
 - [DirectoryLister/DirectoryLister](https://github.com/DirectoryLister/DirectoryLister) - 📂 Directory Lister is the easiest way to expose the contents of any web-accessible folder for browsing and sharing.
 - [anystack-sh/porter](https://github.com/anystack-sh/porter) - Spin up your development background processes with ease 🪄
+- [smogon/pokemon-showdown-client](https://github.com/smogon/pokemon-showdown-client) - The client for Pokémon Showdown
 - [bavix/laravel-wallet](https://github.com/bavix/laravel-wallet) - It's easy to work with a virtual wallet
 - [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 - [glhd/dawn](https://github.com/glhd/dawn) - Experimental next-gen browser testing for Laravel
@@ -2948,7 +2950,6 @@
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [cavai-research/Adonis-Queue](https://github.com/cavai-research/Adonis-Queue) - Queue provider for Adonis V5
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
-- [smogon/pokemon-showdown-client](https://github.com/smogon/pokemon-showdown-client) - The client for Pokémon Showdown
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
 - [nuxt-experiments/nuxt-remote-config](https://github.com/nuxt-experiments/nuxt-remote-config) - 
 - [web3/web3.js](https://github.com/web3/web3.js) - Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions.

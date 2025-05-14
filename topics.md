@@ -227,6 +227,7 @@
 - [swift](#swift)
 - [swiftui](#swiftui)
 - [symfony](#symfony)
+- [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [telegram-bot](#telegram-bot)
@@ -239,6 +240,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui](#ui)
 - [ui-design](#ui-design)
 - [unity](#unity)
 - [unreal-engine](#unreal-engine)
@@ -602,6 +604,7 @@
 
 ## blockchain 
 
+- [alloy-rs/alloy](https://github.com/alloy-rs/alloy) - Transports, Middleware, and Networks for the Alloy project
 - [solana-foundation/anchor](https://github.com/solana-foundation/anchor) - ⚓ Solana Sealevel Framework
 - [raardev/raar](https://github.com/raardev/raar) - An Open-Source, Local-First Swiss Army Knife for Crypto Development
 - [erigontech/erigon](https://github.com/erigontech/erigon) - Ethereum implementation on the efficiency frontier
@@ -840,7 +843,7 @@
 - [coderonion/awesome-rust-list](https://github.com/coderonion/awesome-rust-list) - This repository lists some awesome public Rust projects, Videos, Blogs and Jobs.
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
 - [shimat/opencvsharp](https://github.com/shimat/opencvsharp) - OpenCV wrapper for .NET
-- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - 3D Reconstruction Software
+- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
 - [AaronJackson/vrn](https://github.com/AaronJackson/vrn) - :man:  Code for "Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression"
 
 ## config 
@@ -1343,6 +1346,7 @@
 
 ## ethereum 
 
+- [alloy-rs/alloy](https://github.com/alloy-rs/alloy) - Transports, Middleware, and Networks for the Alloy project
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [cdump/evmole](https://github.com/cdump/evmole) - Extracts function selectors, arguments, state mutability and storage layout from EVM bytecode, even for unverified contracts
 - [raardev/raar](https://github.com/raardev/raar) - An Open-Source, Local-First Swiss Army Knife for Crypto Development
@@ -1781,6 +1785,7 @@
 
 ## golang 
 
+- [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [pterodactyl/wings](https://github.com/pterodactyl/wings) - The server control plane for Pterodactyl Panel. Written from the ground-up with security, speed, and stability in mind.
 - [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while ex
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
@@ -2180,6 +2185,7 @@
 
 ## ios 
 
+- [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [not-fl3/macroquad](https://github.com/not-fl3/macroquad) - Cross-platform game engine in Rust.
 - [deviceplug/btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
@@ -2967,6 +2973,7 @@
 
 ## macos 
 
+- [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS
 - [peakmojo/applescript-mcp](https://github.com/peakmojo/applescript-mcp) - MCP server that execute applescript giving you full control of your Mac
@@ -3610,8 +3617,6 @@
 - [ibraheemdev/matchit](https://github.com/ibraheemdev/matchit) - A high performance, zero-copy URL router.
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [lukeed/qss](https://github.com/lukeed/qss) - A tiny (294b) browser utility for encoding & decoding a querystring.
-- [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
-- [clay-ui-rs/clay](https://github.com/clay-ui-rs/clay) - Rust bindings for Clay, a UI layout library written in C.
 - [wheregmis/dioxus-motion](https://github.com/wheregmis/dioxus-motion) - A lightweight, cross-platform animation library for Dioxus, designed to bring smooth, flexible animations to your Rust web, desktop, and mobile applications.
 - [vercel/nuxt3-kitchen-sink](https://github.com/vercel/nuxt3-kitchen-sink) - An example template showing all Nuxt 3 features on Vercel.
 - [DioxusLabs/sdk](https://github.com/DioxusLabs/sdk) - A library to provide abstractions to access common utilities when developing Dioxus applications.
@@ -3737,7 +3742,6 @@
 - [nreHieW/r-nn](https://github.com/nreHieW/r-nn) - Tensor library with autograd using only Rust's standard library
 - [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
 - [MalekiRe/lek_nodegraph](https://github.com/MalekiRe/lek_nodegraph) - 
-- [zakarumych/egui-snarl](https://github.com/zakarumych/egui-snarl) - Customizable egui node-graph library
 - [stackblitz-labs/pkg.pr.new](https://github.com/stackblitz-labs/pkg.pr.new) - 📦️ Continuous (Preview) Releases for your libraries!
 - [viridia/quill](https://github.com/viridia/quill) - A reactive UI framework for Bevy
 - [Lommix/bevy_enoki](https://github.com/Lommix/bevy_enoki) - 2D particle system with custom material traits. Works well in wasm webgl2 and mobile
@@ -3773,7 +3777,6 @@
 - [posva/event-emitter](https://github.com/posva/event-emitter) - &lt;200 bytes type safe extendable event emitter / pubsub class
 - [HackerExperience/legacy](https://github.com/HackerExperience/legacy) - 
 - [unjs/unrouting](https://github.com/unjs/unrouting) - Making filesystem routing universal
-- [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 - [egoist/tipc](https://github.com/egoist/tipc) - End-to-end typesafe IPC for Electron
 - [brson/stdx](https://github.com/brson/stdx) - The missing batteries of Rust
 - [m1guelpf/prompt-organizer](https://github.com/m1guelpf/prompt-organizer) - A simple library to better manage AI prompts in your Rust code.
@@ -4498,7 +4501,6 @@
 - [tighten/lambo](https://github.com/tighten/lambo) - Quick new application creation with Laravel and Valet
 - [nuxt-community/mdx-module](https://github.com/nuxt-community/mdx-module) - MDX module for Nuxt 2
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
-- [jorenvanhee/tailwindcss-debug-screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - A Tailwind CSS component that shows the currently active screen (responsive breakpoint).
 - [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
 - [GoogleChromeLabs/bubblewrap](https://github.com/GoogleChromeLabs/bubblewrap) - Bubblewrap is a Command Line Interface (CLI) that helps developers to create a Project for an Android application that launches an existing Progressive Web App (PWAs) using a Trusted Web Activity.
 - [MZanggl/inertia-adonis](https://github.com/MZanggl/inertia-adonis) - Inertia Adonis adapter to create server-driven single page applications
@@ -4954,7 +4956,6 @@
 - [Yonaba/uplink-psp](https://github.com/Yonaba/uplink-psp) - A small clone of Uplink Hacker Elite written in Lua for PSP
 - [sabresaurus/SabreCSG](https://github.com/sabresaurus/SabreCSG) - Level design tools for Unity
 - [LionSec/xerosploit](https://github.com/LionSec/xerosploit) - Efficient and advanced man in the middle framework
-- [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
 - [dario-zubovic/metaballs](https://github.com/dario-zubovic/metaballs) - Unity 3D implementation of metaballs and marching cubes algorithm
 - [mwaterfall/MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) - A simple iOS photo and video browser with grid view, captions and selections.
 - [thedevdojo/chatter](https://github.com/thedevdojo/chatter) - Chatter is a Simple Laravel Forum Package
@@ -6153,6 +6154,7 @@
 
 ## swift 
 
+- [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [trycua/cua](https://github.com/trycua/cua) - c/ua is the Docker Container for Computer-Use AI Agents.
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
 - [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
@@ -6208,6 +6210,28 @@
 - [symfony/console](https://github.com/symfony/console) - Eases the creation of beautiful and testable command line interfaces
 - [php-pm/php-pm](https://github.com/php-pm/php-pm) - PPM is a process manager, supercharger and load balancer for modern PHP applications.
 - [laravel-zero/laravel-zero](https://github.com/laravel-zero/laravel-zero) - A PHP framework for console artisans
+
+## tailwind 
+
+- [deco-cx/deco](https://github.com/deco-cx/deco) - Git-based Visual CMS for Deno, &lt;/&gt; htmx and Tailwind apps. Deploy on any Deno-compatible host.
+- [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+- [nunomaduro/termwind](https://github.com/nunomaduro/termwind) - 🍃 In short, it's like Tailwind CSS, but for the PHP command-line applications.
+- [jjranalli/nightwind](https://github.com/jjranalli/nightwind) - An automatic, customisable, overridable Tailwind dark mode plugin
+- [rogden/tailwind-config-viewer](https://github.com/rogden/tailwind-config-viewer) - A local UI tool for visualizing your Tailwind CSS configuration file.
+- [Arthie/xwind](https://github.com/Arthie/xwind) - Tailwind CSS as a templating language in JS and CSS-in-JS
+- [laravel/jetstream](https://github.com/laravel/jetstream) - Tailwind scaffolding for the Laravel framework.
+- [jorenvanhee/tailwindcss-debug-screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - A Tailwind CSS component that shows the currently active screen (responsive breakpoint).
+- [vuetailwind/components](https://github.com/vuetailwind/components) - Fully responsive and beautiful HTML components made with VueJS and TailwindCSS.
+- [mertJF/tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
+- [posva/vite-tailwind-starter](https://github.com/posva/vite-tailwind-starter) - Starter using Vite + Tailwind for super fast prototyping
+- [ChanceArthur/tailwindcss-dark-mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) - 🌚 A Tailwind CSS plugin that adds variants for dark mode
+- [TitasGailius/laravel-moonlight](https://github.com/TitasGailius/laravel-moonlight) - Batteries included Laravel preset based on InertiaJS, VueJS and TailwindCSS stack.
+- [aniftyco-archive/tailwindcss-spinner](https://github.com/aniftyco-archive/tailwindcss-spinner) - Spinner utility for Tailwind CSS
+- [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense) - Intelligent Tailwind CSS tooling for Visual Studio Code
+- [sgraewe/create-nuxt-tailwind-app](https://github.com/sgraewe/create-nuxt-tailwind-app) - [DEPRECATED] Use create-nuxt-app, they added full tailwindcss & purgecss support
+- [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
+- [laravel-frontend-presets/tailwindcss](https://github.com/laravel-frontend-presets/tailwindcss) - A Tailwind CSS frontend preset for the Laravel Framework
 
 ## tailwindcss 
 
@@ -6547,6 +6571,54 @@
 ## ubuntu 
 
 - [jnsgruk/oxidizr](https://github.com/jnsgruk/oxidizr) - 🦀 Install modern Rust-based replacements of packages such as coreutils, findutils, diffutils and sudo,  making them the default on an Ubuntu system 🦀
+
+## ui 
+
+- [nuxt-ui-pro/portfolio](https://github.com/nuxt-ui-pro/portfolio) - Nuxt Portfolio Template made with Nuxt UI Pro.
+- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
+- [Lommix/bevy_hui](https://github.com/Lommix/bevy_hui) - Component based UI crate using Xml/Html with focus on hot reload for the bevy engine.
+- [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - UI components for building fantastic desktop application by using GPUI.
+- [yungifez/artisan-ui](https://github.com/yungifez/artisan-ui) - Gorgeous shadcn inspired UI library for laravel blade using Tailwind and AlpineJS
+- [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
+- [clay-ui-rs/clay](https://github.com/clay-ui-rs/clay) - Rust bindings for Clay, a UI layout library written in C.
+- [Mockline/mockline](https://github.com/Mockline/mockline) - Your go-to design library crafted to elevate your creative journey
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [ycysdf/rxy_ui](https://github.com/ycysdf/rxy_ui) - An Rust UI framework
+- [zakarumych/egui-snarl](https://github.com/zakarumych/egui-snarl) - Customizable egui node-graph library
+- [databasedav/haalka](https://github.com/databasedav/haalka) - ergonomic reactive Bevy UI library powered by FRP signals
+- [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
+- [nuxt-ui-pro/landing](https://github.com/nuxt-ui-pro/landing) - Nuxt Landing Template made with Nuxt UI Pro.
+- [bytestring-net/bevy_lunex](https://github.com/bytestring-net/bevy_lunex) - Blazingly fast retained layout engine for Bevy ECS.
+- [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
+- [chakra-ui/zag](https://github.com/chakra-ui/zag) - Build your design system in React, Solid, Vue or Svelte. Powered by finite state machines
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+- [nuxt/ui](https://github.com/nuxt/ui) - The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.
+- [henrycunh/golem](https://github.com/henrycunh/golem) - ✨ A beautiful UI for ChatGPT and other conversational models
+- [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build your design system with React, Svelte, Vue, and Solid. Powered by State Machines
+- [oku-ui/primitives](https://github.com/oku-ui/primitives) - Vue Radix UI Primitives 1:1 . Components, icons, colors, and templates for building high-quality, accessible UI.
+- [godbout/Wooshy.blahblah](https://github.com/godbout/Wooshy.blahblah) - it's like Alfred but for the UI
+- [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
+- [yishn/wasm-react](https://github.com/yishn/wasm-react) - WASM bindings for React.
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
+- [ReactUnity/core](https://github.com/ReactUnity/core) - React and HTML framework for Unity UI & UIToolkit
+- [venomgfx/blender-ui](https://github.com/venomgfx/blender-ui) - Blender mockups in web format
+- [LudiKha/Graphene](https://github.com/LudiKha/Graphene) - Graphene for Unity UI Toolkit is a lightweight and modular framework for building user interfaces
+- [laravel/ui](https://github.com/laravel/ui) - Laravel UI utilities and presets.
+- [blade-ui-kit/blade-ui-kit](https://github.com/blade-ui-kit/blade-ui-kit) - A set of renderless components to utilise in your Laravel Blade views.
+- [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - A frontend library for React and Vue that helps developers quickly build fast, accessible, and beautiful storefronts. Made with 💚 by Vue Storefront team and contributors.
+- [Unity-Technologies/com.unity.uiwidgets](https://github.com/Unity-Technologies/com.unity.uiwidgets) - UIWidgets is a Unity Package which helps developers to create, debug and deploy efficient, cross-platform Apps.
+- [DarkaOnLine/L5-Swagger](https://github.com/DarkaOnLine/L5-Swagger) - OpenApi or Swagger integration to Laravel
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
+- [UnityTech/UIWidgets](https://github.com/UnityTech/UIWidgets) - UIWidget is a Unity Package which helps developers to create, debug and deploy efficient, cross-platform Apps.
+- [mob-sakai/UIEffect](https://github.com/mob-sakai/UIEffect) - UIEffect is an open-source package that allows you to intuitively apply rich UI effects directly from the Inspector or via code. Combine various filters, such as grayscale, blur, and dissolve, to deco
+- [mob-sakai/ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) - Render particle effect in UnityUI(uGUI). Maskable, sortable, and no extra Camera/RenderTexture/Canvas.
+- [filp/whoops](https://github.com/filp/whoops) - PHP errors for cool kids
+- [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
+- [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
+- [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
 
 ## ui-design 
 
@@ -7122,7 +7194,7 @@
 - [moxystudio/node-cross-spawn](https://github.com/moxystudio/node-cross-spawn) - A cross platform solution to node's spawn and spawnSync
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [bdlukaa/fluent_ui](https://github.com/bdlukaa/fluent_ui) - Implements Microsoft's WinUI3 in Flutter.
-- [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
+- [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the Web.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows

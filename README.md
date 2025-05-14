@@ -539,6 +539,7 @@
 
 ## Go 
 
+- [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [fosrl/newt](https://github.com/fosrl/newt) - A tunneling client for Pangolin
 - [pterodactyl/wings](https://github.com/pterodactyl/wings) - The server control plane for Pterodactyl Panel. Written from the ground-up with security, speed, and stability in mind.
@@ -872,7 +873,7 @@
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 - [indutny/bn.js](https://github.com/indutny/bn.js) - BigNum in pure javascript
 - [ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts) - Vue.js component for Apache ECharts™.
-- [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
+- [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the Web.
 - [sindresorhus/execa](https://github.com/sindresorhus/execa) - Process execution for humans
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [jjranalli/nightwind](https://github.com/jjranalli/nightwind) - An automatic, customisable, overridable Tailwind dark mode plugin
@@ -1960,7 +1961,7 @@
 
 ## QML 
 
-- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - 3D Reconstruction Software
+- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
 
 ## Roff 
 
@@ -1981,6 +1982,7 @@
 
 ## Rust 
 
+- [alloy-rs/alloy](https://github.com/alloy-rs/alloy) - Transports, Middleware, and Networks for the Alloy project
 - [zed-industries/create-gpui-app](https://github.com/zed-industries/create-gpui-app) - CRA-style tool for creating new gpui apps
 - [KABBOUCHI/invade](https://github.com/KABBOUCHI/invade) - 
 - [KABBOUCHI/bignumber-rs](https://github.com/KABBOUCHI/bignumber-rs) - A Rust library for arbitrary-precision decimal and non-decimal arithmetic
@@ -2026,7 +2028,6 @@
 - [Lommix/bevy_hui](https://github.com/Lommix/bevy_hui) - Component based UI crate using Xml/Html with focus on hot reload for the bevy engine.
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - UI components for building fantastic desktop application by using GPUI.
 - [rayon-rs/either](https://github.com/rayon-rs/either) - The enum Either with variants Left and Right is a general purpose sum type with two cases.
-- [piotrostr/listen](https://github.com/piotrostr/listen) - Solana Swiss Army Knife
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding.
 - [nerdai/llms-from-scratch-rs](https://github.com/nerdai/llms-from-scratch-rs) - A comprehensive Rust translation of the code from Sebastian Raschka's Build an LLM from Scratch book.
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
@@ -2724,6 +2725,7 @@
 - [unjs/nanotar](https://github.com/unjs/nanotar) - 📼  Tiny and fast tar utils for any JavaScript runtime!
 - [Cat1007/vue-markdown-next](https://github.com/Cat1007/vue-markdown-next) - 
 - [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.
+- [piotrostr/listen](https://github.com/piotrostr/listen) - Solana Swiss Army Knife
 - [stamp-labs/stamp](https://github.com/stamp-labs/stamp) - Avatars for web3
 - [outerbase/studio-cli](https://github.com/outerbase/studio-cli) - 
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB

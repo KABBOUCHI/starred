@@ -2450,7 +2450,7 @@
 - [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
 - [wooorm/mdxjs-rs](https://github.com/wooorm/mdxjs-rs) - Compile MDX to JavaScript in Rust
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
-- [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
+- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
 - [nashaofu/xcap](https://github.com/nashaofu/xcap) - XCap is a cross-platform screen capture library written in Rust. It supports Linux (X11, Wayland), MacOS, and Windows. XCap supports screenshot and video recording (WIP).
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
 - [m1guelpf/axum-signed-urls](https://github.com/m1guelpf/axum-signed-urls) - Signed URL middleware for Axum, using extractors.
@@ -2705,6 +2705,7 @@
 
 ## TypeScript 
 
+- [esm-dev/modern-monaco](https://github.com/esm-dev/modern-monaco) - A modern version of Monaco Editor.
 - [vuejs/vue-jsx-vapor](https://github.com/vuejs/vue-jsx-vapor) - Vapor Mode of Vue JSX
 - [ts-macro/ts-macro](https://github.com/ts-macro/ts-macro) - A VSCode plugin to define TS(X) macro powered by Volar.js
 - [zhiyuanzmj/unplugin-vue-reactivity-function](https://github.com/zhiyuanzmj/unplugin-vue-reactivity-function) - Reactivity Function.
@@ -2716,7 +2717,7 @@
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [unpkg/unpkg](https://github.com/unpkg/unpkg) - The CDN for everything on npm
 - [magicasaservice/vue-equipment](https://github.com/magicasaservice/vue-equipment) - Our Frontend Toolkit, Free and Open Source
-- [streamich/memfs](https://github.com/streamich/memfs) - JavaScript file system utilities
+- [streamich/memfs](https://github.com/streamich/memfs) - Node fs and browser File System API adapters and in-memory implementations 👍
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
 - [t0bst4r/home-assistant-matter-hub](https://github.com/t0bst4r/home-assistant-matter-hub) - Publish your Home-Assistant Instance using Matter.
 - [Instadapp/utils](https://github.com/Instadapp/utils) - 
@@ -2809,7 +2810,7 @@
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
 - [pi0/y-crossws](https://github.com/pi0/y-crossws) - yjs server for crossws.unjs.io, works with Node.js, Deno, Bun, Cloudflare Workers without any framework dependency.
 - [Julien-R44/tuyau](https://github.com/Julien-R44/tuyau) - RPC / E2E Client For AdonisJS
-- [h3js/srvx](https://github.com/h3js/srvx) - 💥 Universal Server API based on web platform standards. Works seamlessly with Deno, Bun and Node.js.
+- [h3js/srvx](https://github.com/h3js/srvx) - λ Universal Server based on web standards.
 - [selemondev/spark-ui](https://github.com/selemondev/spark-ui) - Experience The Magic Of Animated Components. Crafted With Vue, TypeScript, TailwindCss And Vueuse Motion ✨
 - [denoland/denokv](https://github.com/denoland/denokv) - A self-hosted backend for Deno KV
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.

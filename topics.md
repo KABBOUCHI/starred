@@ -3330,7 +3330,7 @@
 
 ## node 
 
-- [streamich/memfs](https://github.com/streamich/memfs) - JavaScript file system utilities
+- [streamich/memfs](https://github.com/streamich/memfs) - Node fs and browser File System API adapters and in-memory implementations 👍
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 - [FriendsOfAdonis/shopkeeper](https://github.com/FriendsOfAdonis/shopkeeper) - Adonis Shopkeeper provides an expressive, fluent interface to Stripe's subscription billing services.
@@ -3594,6 +3594,7 @@
 
 ## others 
 
+- [esm-dev/modern-monaco](https://github.com/esm-dev/modern-monaco) - A modern version of Monaco Editor.
 - [CrealityOfficial/CrealityPrint](https://github.com/CrealityOfficial/CrealityPrint) - 
 - [oxc-project/tsgolint](https://github.com/oxc-project/tsgolint) - Type aware linting for oxlint
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
@@ -3756,7 +3757,7 @@
 - [Julien-R44/tuyau](https://github.com/Julien-R44/tuyau) - RPC / E2E Client For AdonisJS
 - [nkeenan38/voice_activity_detector](https://github.com/nkeenan38/voice_activity_detector) - A Voice Activity Detector rust library using the Silero VAD model.
 - [rustyhorde/vergen](https://github.com/rustyhorde/vergen) - Generate cargo instructions at compile time in build scripts for use with the env! or option_env! macros
-- [h3js/srvx](https://github.com/h3js/srvx) - 💥 Universal Server API based on web platform standards. Works seamlessly with Deno, Bun and Node.js.
+- [h3js/srvx](https://github.com/h3js/srvx) - λ Universal Server based on web standards.
 - [GoogleChromeLabs/browser-fs-access](https://github.com/GoogleChromeLabs/browser-fs-access) - File System Access API with legacy fallback in the browser
 - [npm/package-json](https://github.com/npm/package-json) - Programmatic API to update package.json
 - [selemondev/spark-ui](https://github.com/selemondev/spark-ui) - Experience The Magic Of Animated Components. Crafted With Vue, TypeScript, TailwindCss And Vueuse Motion ✨
@@ -4149,7 +4150,7 @@
 - [rogierschouten/async-lock](https://github.com/rogierschouten/async-lock) - Lock on asynchronous code for Nodejs
 - [node-cron/node-cron](https://github.com/node-cron/node-cron) - A simple cron-like job scheduler for Node.js
 - [context-labs/sidecar](https://github.com/context-labs/sidecar) - 
-- [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
+- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a c
 - [sullivan-sean/chat-langchainjs](https://github.com/sullivan-sean/chat-langchainjs) - 
 - [hugoattal/synth-color](https://github.com/hugoattal/synth-color) - 

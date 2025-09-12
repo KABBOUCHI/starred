@@ -688,6 +688,7 @@
 
 ## JavaScript 
 
+- [sindresorhus/strip-indent](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from each line in a string
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [botflux/pino-logfmt](https://github.com/botflux/pino-logfmt) - Logfmt transport for pino
 - [microsoft/libsyncrpc](https://github.com/microsoft/libsyncrpc) - synchronous RPC communication with callbacks for Node.js
@@ -2144,7 +2145,7 @@
 - [trynova/nova](https://github.com/trynova/nova) - JS engine lolz
 - [m1guelpf/orbit](https://github.com/m1guelpf/orbit) - Simple & safe zero-downtime deployments for Laravel.
 - [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) - This template is a great way to get started on a new 2D Bevy game!
-- [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Pants, Buck2, Reclient, and other RE-compatible build systems. It offers drastically faste
+- [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Soong, Pants, Buck2, Reclient, and other RE-compatible build systems. It offers drasticall
 - [evilsocket/cake](https://github.com/evilsocket/cake) - Distributed LLM and StableDiffusion inference for mobile, desktop and server.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
@@ -2898,7 +2899,7 @@
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [shikijs/shiki-magic-move](https://github.com/shikijs/shiki-magic-move) - Smoothly animated code blocks with Shiki
 - [egoist/tauri-updater](https://github.com/egoist/tauri-updater) - Tauri Updater Server for Cloudflare Worker.
-- [nuxt-hub/core](https://github.com/nuxt-hub/core) - Build full-stack applications with Nuxt on Cloudflare, with zero configuration.
+- [nuxt-hub/core](https://github.com/nuxt-hub/core) - Build full-stack applications with Nuxt, with almost zero-config.
 - [unjs/db0](https://github.com/unjs/db0) - 📚  Lightweight SQL Connector
 - [robbie-cahill/tunnelmole-client](https://github.com/robbie-cahill/tunnelmole-client) - Tunnelmole - Connect to local servers from anywhere
 - [h3js/crossws](https://github.com/h3js/crossws) - 🔌   Cross-platform WebSocket Servers for Node.js, Deno, Bun and Cloudflare Workers.

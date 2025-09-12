@@ -95,6 +95,7 @@
 - [game-engine](#game-engine)
 - [gamedev](#gamedev)
 - [games](#games)
+- [gaming](#gaming)
 - [gis](#gis)
 - [git](#git)
 - [github](#github)
@@ -297,8 +298,9 @@
 - [valentinfrlch/ha-llmvision](https://github.com/valentinfrlch/ha-llmvision) - Let Home Assistant see!
 - [e2b-dev/desktop](https://github.com/e2b-dev/desktop) - E2B Desktop Sandbox for LLMs. E2B Sandbox with desktop graphical environment that you can connect to any LLM for secure computer use.
 - [suitedaces/computer-agent](https://github.com/suitedaces/computer-agent) - Desktop app powered by Claude’s computer use capability to control your computer
-- [nuxt-ui-pro/chat](https://github.com/nuxt-ui-pro/chat) - Nuxt AI Chatbot Template made with Nuxt UI Pro on NuxtHub.
+- [nuxt-ui-templates/chat](https://github.com/nuxt-ui-templates/chat) - Nuxt AI Chatbot Template made with Nuxt UI and Vercel AI SDK.
 - [pykeio/ort](https://github.com/pykeio/ort) - Fast ML inference & training for ONNX models in Rust
+- [TM9657/flow-like](https://github.com/TM9657/flow-like) - Flow-Like: Strongly Typed Enterprise Scale Workflows. Built for scalability, speed, seamless AI integration and rich customization.
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [Comfy-Org/desktop](https://github.com/Comfy-Org/desktop) - The desktop app for ComfyUI (Windows & macOS)
 - [prism-php/prism](https://github.com/prism-php/prism) - A unified interface for working with LLMs in Laravel
@@ -425,7 +427,7 @@
 
 ## api 
 
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [louisgv/local.ai](https://github.com/louisgv/local.ai) - 🎒 local.ai - Run AI locally on your PC!
@@ -478,6 +480,7 @@
 
 ## automation 
 
+- [TM9657/flow-like](https://github.com/TM9657/flow-like) - Flow-Like: Strongly Typed Enterprise Scale Workflows. Built for scalability, speed, seamless AI integration and rich customization.
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
 - [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
@@ -525,7 +528,7 @@
 
 ## awesome-list 
 
-- [daryl-z/awesome-gpui](https://github.com/daryl-z/awesome-gpui) - A curated, community-driven “awesome list” of learning resources, crates, examples and tools for building blazingly-fast desktop apps with GPUI in Rust.
+- [edo-zhou/awesome-gpui](https://github.com/edo-zhou/awesome-gpui) - A curated, community-driven “awesome list” of learning resources, crates, examples and tools for building blazingly-fast desktop apps with GPUI in Rust.
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -612,7 +615,7 @@
 
 ## bitcoin 
 
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [paulmillr/noble-curves](https://github.com/paulmillr/noble-curves) - Audited & minimal JS implementation of elliptic curve cryptography.
 - [tiagosiebler/binance](https://github.com/tiagosiebler/binance) - Node.js & JavaScript SDK for Binance REST APIs & WebSockets, with TypeScript & browser support, integration tests, beautification & more.
 - [nicehash/NiceHashQuickMiner](https://github.com/nicehash/NiceHashQuickMiner) - Super simple & easy Windows 10 cryptocurrency miner made by NiceHash.
@@ -640,7 +643,7 @@
 - [0xPolygon/polygon-edge](https://github.com/0xPolygon/polygon-edge) - A Framework for Building Ethereum-compatible Blockchain Networks
 - [dethcrypto/TypeChain](https://github.com/dethcrypto/TypeChain) - 🔌 TypeScript bindings for Ethereum smart contracts
 - [blockscout/blockscout](https://github.com/blockscout/blockscout) - Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.
-- [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
+- [argotorg/solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
 - [trufflesuite/ganache](https://github.com/trufflesuite/ganache) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
 - [Uniswap/interface](https://github.com/Uniswap/interface) - 🦄 Open source interfaces for the Uniswap protocol
@@ -656,7 +659,7 @@
 
 ## bot 
 
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [botman/botman](https://github.com/botman/botman) - A framework agnostic PHP library to build chat bots
 
@@ -694,7 +697,7 @@
 
 ## chatbot 
 
-- [nuxt-ui-pro/chat](https://github.com/nuxt-ui-pro/chat) - Nuxt AI Chatbot Template made with Nuxt UI Pro on NuxtHub.
+- [nuxt-ui-templates/chat](https://github.com/nuxt-ui-templates/chat) - Nuxt AI Chatbot Template made with Nuxt UI and Vercel AI SDK.
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications. -- bolt.new -- Help Center: https://support.bolt.new/ -- Community Support: https://discord.com/invite/stackblitz
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
@@ -854,7 +857,7 @@
 - [trunk-rs/trunk](https://github.com/trunk-rs/trunk) - Build, bundle & ship your Rust WASM application to the web.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [gnidan/abi-to-sol](https://github.com/gnidan/abi-to-sol) - Generate Solidity interface from ABI JSON
-- [ethereum/solc-js](https://github.com/ethereum/solc-js) - Javascript bindings for the Solidity compiler
+- [argotorg/solc-js](https://github.com/argotorg/solc-js) - Javascript bindings for the Solidity compiler
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
@@ -903,7 +906,7 @@
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
-- [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
+- [argotorg/solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PlayStation 3 emulator and debugger
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [arvidn/libtorrent](https://github.com/arvidn/libtorrent) - an efficient feature complete C++ bittorrent implementation
@@ -912,7 +915,7 @@
 
 ## cryptocurrency 
 
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [tiagosiebler/binance](https://github.com/tiagosiebler/binance) - Node.js & JavaScript SDK for Binance REST APIs & WebSockets, with TypeScript & browser support, integration tests, beautification & more.
 - [nicehash/NiceHashQuickMiner](https://github.com/nicehash/NiceHashQuickMiner) - Super simple & easy Windows 10 cryptocurrency miner made by NiceHash.
 - [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark
@@ -1067,7 +1070,7 @@
 
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
-- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & V8.
+- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & WASM.
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
@@ -1103,7 +1106,7 @@
 
 ## deep-learning 
 
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - :hugging_face: Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
@@ -1130,7 +1133,7 @@
 - [tursodatabase/libsql-js](https://github.com/tursodatabase/libsql-js) - A better-sqlite3 compatible API for libSQL that supports Node, Bun, and Deno.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [hectorm/otpauth](https://github.com/hectorm/otpauth) - One Time Password (HOTP/TOTP) library for Node.js, Deno, Bun and browsers.
-- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source alternative to Durable Objects. Rivet Actors provide long-lived processes with durable state, realtime, and scalability.
+- [rivet-gg/engine](https://github.com/rivet-gg/engine) - Scale and orchestrate RivetKit
 - [matmen/ImageScript](https://github.com/matmen/ImageScript) - zero-dependency JavaScript image manipulation
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [supabase/edge-runtime](https://github.com/supabase/edge-runtime) - A server based on Deno runtime, capable of running JavaScript, TypeScript, and WASM services.
@@ -1186,6 +1189,7 @@
 
 ## development 
 
+- [TM9657/flow-like](https://github.com/TM9657/flow-like) - Flow-Like: Strongly Typed Enterprise Scale Workflows. Built for scalability, speed, seamless AI integration and rich customization.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
@@ -1401,7 +1405,7 @@
 ## ethereum 
 
 - [alloy-rs/alloy](https://github.com/alloy-rs/alloy) - Transports, Middleware, and Networks for the Alloy project
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [cdump/evmole](https://github.com/cdump/evmole) - Extracts function selectors, arguments, state mutability and storage layout from EVM bytecode, even for unverified contracts
 - [raardev/raar](https://github.com/raardev/raar) - An Open-Source, Local-First Swiss Army Knife for Crypto Development
 - [erigontech/erigon](https://github.com/erigontech/erigon) - Ethereum implementation on the efficiency frontier
@@ -1441,11 +1445,11 @@
 - [acuarica/vscode-ethers](https://github.com/acuarica/vscode-ethers) - Ethers Mode allows you to explore and call Smart Contracts methods using Ethers.js and view the response directly in VS Code. It interacts with any EVM-compatible blockchain, e.g., Ethereum, Polygon, 
 - [0xPolygon/polygon-edge](https://github.com/0xPolygon/polygon-edge) - A Framework for Building Ethereum-compatible Blockchain Networks
 - [dethcrypto/TypeChain](https://github.com/dethcrypto/TypeChain) - 🔌 TypeScript bindings for Ethereum smart contracts
-- [ethereum/solc-js](https://github.com/ethereum/solc-js) - Javascript bindings for the Solidity compiler
+- [argotorg/solc-js](https://github.com/argotorg/solc-js) - Javascript bindings for the Solidity compiler
 - [blockscout/blockscout](https://github.com/blockscout/blockscout) - Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript
 - [spruceid/siwe](https://github.com/spruceid/siwe) - Sign-In with Ethereum library
-- [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
+- [argotorg/solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
 - [nicehash/NiceHashQuickMiner](https://github.com/nicehash/NiceHashQuickMiner) - Super simple & easy Windows 10 cryptocurrency miner made by NiceHash.
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
 - [digitaldonkey/ethereum-php](https://github.com/digitaldonkey/ethereum-php) - PHP interface to Ethereum JSON-RPC API. Fully typed Web3 for PHP 7.X
@@ -1570,7 +1574,7 @@
 - [levkk/rwf](https://github.com/levkk/rwf) - Comprehensive framework for building web applications in Rust.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [databasedav/haalka](https://github.com/databasedav/haalka) - ergonomic reactive Bevy UI library powered by FRP signals
-- [marcj/untitled-code](https://github.com/marcj/untitled-code) - modular TypeScript framework
+- [marcj/deepkit](https://github.com/marcj/deepkit) - modular TypeScript framework
 - [latticexyz/mud](https://github.com/latticexyz/mud) - MUD is a framework for building autonomous worlds
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [bytestring-net/bevy_lunex](https://github.com/bytestring-net/bevy_lunex) - Blazingly fast retained layout engine for Bevy ECS.
@@ -1663,7 +1667,7 @@
 - [Jondolf/avian](https://github.com/Jondolf/avian) - ECS-driven 2D and 3D physics engine for the Bevy game engine.
 - [vleue/jornet](https://github.com/vleue/jornet) - The social game server for all your game jams!
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source alternative to Durable Objects. Rivet Actors provide long-lived processes with durable state, realtime, and scalability.
+- [rivet-gg/engine](https://github.com/rivet-gg/engine) - Scale and orchestrate RivetKit
 - [NiklasEi/bevy_common_assets](https://github.com/NiklasEi/bevy_common_assets) - Collection of generic asset loaders for common file formats
 - [chr15m/jsfxr](https://github.com/chr15m/jsfxr) - JavaScript sound effects generator.
 - [ggez/ggez](https://github.com/ggez/ggez) - Rust library to create a Good Game Easily
@@ -1757,6 +1761,13 @@
 - [AnyRPG/AnyRPGCore](https://github.com/AnyRPG/AnyRPGCore) - Open source Role Playing Game engine for Unity 3D written in C#.
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 
+## gaming 
+
+- [3Shain/dxmt](https://github.com/3Shain/dxmt) - Metal-based implementation of D3D11 and D3D10 for MacOS / Wine
+- [natbro/kaon](https://github.com/natbro/kaon) - Tools, and instructions for more easily installing and launching Windows games via Wine or CrossOver  directly in the macOS Steam client
+- [Winetricks/winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
+- [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
+
 ## gis 
 
 - [domlysz/BlenderGIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data
@@ -1838,7 +1849,7 @@
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of p
 - [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source alternative to Durable Objects. Rivet Actors provide long-lived processes with durable state, realtime, and scalability.
+- [rivet-gg/engine](https://github.com/rivet-gg/engine) - Scale and orchestrate RivetKit
 - [0xFA11/MultiplayerNetworkingResources](https://github.com/0xFA11/MultiplayerNetworkingResources) - A curated list of Multiplayer Game Network Programming Resources
 
 ## golang 
@@ -1938,7 +1949,7 @@
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
 - [nuxt/test-utils](https://github.com/nuxt/test-utils) - 🧪 Test utilities for Nuxt
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.0.62748, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.0.63003, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [getsentry/sentry-rust](https://github.com/getsentry/sentry-rust) - The official Sentry SDK for Rust
 - [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace) - All of the official Tauri plugins in one place!
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
@@ -1998,9 +2009,9 @@
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [nuxt/bridge](https://github.com/nuxt/bridge) - 🌉 Experience Nuxt 3 features on existing Nuxt 2 projects
-- [ethereum/solc-js](https://github.com/ethereum/solc-js) - Javascript bindings for the Solidity compiler
+- [argotorg/solc-js](https://github.com/argotorg/solc-js) - Javascript bindings for the Solidity compiler
 - [soyuka/pidusage](https://github.com/soyuka/pidusage) - Cross-platform process cpu % and memory usage of a PID
-- [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
+- [argotorg/solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
 - [lukasbach/monaco-editor-auto-typings](https://github.com/lukasbach/monaco-editor-auto-typings) - Automatically load declaration files while typing in monaco editor instances
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
@@ -2616,7 +2627,7 @@
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
-- [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
+- [argotorg/solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
 - [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
@@ -2647,7 +2658,7 @@
 - [Flowframe/laravel-trend](https://github.com/Flowframe/laravel-trend) - Generate trends for your models. Easily generate charts or reports.
 - [chartello/chartello](https://github.com/chartello/chartello) - Visualize your Laravel app data in simple dashboards.
 - [renoki-co/l1](https://github.com/renoki-co/l1) - Extend your PHP/Laravel application with Cloudflare bindings.
-- [marcj/untitled-code](https://github.com/marcj/untitled-code) - modular TypeScript framework
+- [marcj/deepkit](https://github.com/marcj/deepkit) - modular TypeScript framework
 - [laravel/pulse](https://github.com/laravel/pulse) - Laravel Pulse is a real-time application performance monitoring tool and dashboard for your Laravel application.
 - [laravel/pail](https://github.com/laravel/pail) - Dive into your Laravel application's log files directly from the console. 🪣
 - [m1guelpf/ensemble](https://github.com/m1guelpf/ensemble) - A Laravel-inspired ORM for Rust
@@ -2882,7 +2893,7 @@
 
 ## library 
 
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [Mockline/mockline](https://github.com/Mockline/mockline) - Your go-to design library crafted to elevate your creative journey
 - [rolldown/tsdown](https://github.com/rolldown/tsdown) - The elegant bundler for libraries powered by Rolldown
 - [LibVNC/libvncserver](https://github.com/LibVNC/libvncserver) - LibVNCServer/LibVNCClient are cross-platform C libraries that allow you to easily implement VNC server or client functionality in your program.
@@ -2918,7 +2929,7 @@
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [deviceplug/btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.0.62748, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.0.63003, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
@@ -2993,6 +3004,7 @@
 ## low-code 
 
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
+- [TM9657/flow-like](https://github.com/TM9657/flow-like) - Flow-Like: Strongly Typed Enterprise Scale Workflows. Built for scalability, speed, seamless AI integration and rich customization.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -3073,7 +3085,7 @@
 - [tweakphp/tweakphp](https://github.com/tweakphp/tweakphp) - Easily tweak your PHP code
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-- [ahkohd/tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) - Tauri plugin to convert a window to panel
+- [ahkohd/tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) - Create panels for your Tauri app
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [zorgiepoo/Bit-Slicer](https://github.com/zorgiepoo/Bit-Slicer) - Universal game trainer for macOS
 - [deviceplug/btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library
@@ -3133,7 +3145,7 @@
 - [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [remarkjs/remark-rehype](https://github.com/remarkjs/remark-rehype) - plugin that turns markdown into HTML to support rehype
 - [wooorm/mdxjs-rs](https://github.com/wooorm/mdxjs-rs) - Compile MDX to JavaScript in Rust
-- [nuxtlabs/vscode-mdc](https://github.com/nuxtlabs/vscode-mdc) - Provides syntax highlighting and colon matching for MDC (Markdown Components) files for Nuxt Content.
+- [nuxt-content/vscode-mdc](https://github.com/nuxt-content/vscode-mdc) - Provides syntax highlighting and colon matching for MDC (Markdown Components) files for Nuxt Content.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [Dashibase/lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3
@@ -3200,7 +3212,7 @@
 
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [marcj/untitled-code](https://github.com/marcj/untitled-code) - modular TypeScript framework
+- [marcj/deepkit](https://github.com/marcj/deepkit) - modular TypeScript framework
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
 - [aravindnc/mongoose-paginate-v2](https://github.com/aravindnc/mongoose-paginate-v2) - A custom pagination library for Mongoose with customizable labels.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -3332,6 +3344,7 @@
 
 ## no-code 
 
+- [TM9657/flow-like](https://github.com/TM9657/flow-like) - Flow-Like: Strongly Typed Enterprise Scale Workflows. Built for scalability, speed, seamless AI integration and rich customization.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [lunapark/lunapark](https://github.com/lunapark/lunapark) - 🎡 The most advanced visual scripting editor for the web.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
@@ -3402,7 +3415,7 @@
 - [tursodatabase/libsql-js](https://github.com/tursodatabase/libsql-js) - A better-sqlite3 compatible API for libSQL that supports Node, Bun, and Deno.
 - [openai/openai-node](https://github.com/openai/openai-node) - Official JavaScript / TypeScript library for the OpenAI API
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
-- [marcj/untitled-code](https://github.com/marcj/untitled-code) - modular TypeScript framework
+- [marcj/deepkit](https://github.com/marcj/deepkit) - modular TypeScript framework
 - [Julien-R44/verrou](https://github.com/Julien-R44/verrou) - 🔒 Verrou is a library for managing Locks in Node.js. Support multiple drivers
 - [sindresorhus/emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
@@ -3604,6 +3617,10 @@
 
 ## others 
 
+- [sindresorhus/strip-indent](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from each line in a string
+- [adonisjs/http-transformers](https://github.com/adonisjs/http-transformers) - Serialize rich data-types with support for defining relationships with other transformers
+- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
+- [zed-industries/agent-client-protocol](https://github.com/zed-industries/agent-client-protocol) - A protocol for connecting any editor to any agent
 - [pi0/shiki-image](https://github.com/pi0/shiki-image) - Convert code snippets into images. Powered by shiki and takumi. Super fast 🚀
 - [anza-xyz/agave-geyser-plugin-postgres](https://github.com/anza-xyz/agave-geyser-plugin-postgres) - A Geyser plugin using Postgres as the data store.
 - [edge-js/edge-markdown](https://github.com/edge-js/edge-markdown) - Render markdown using the MDC syntax and integrate it with Edge components
@@ -3689,7 +3706,7 @@
 - [eienjs/adonisjs-api-query](https://github.com/eienjs/adonisjs-api-query) - Easily build Lucid queries from API requests
 - [sxzz/tsgo-releases](https://github.com/sxzz/tsgo-releases) - Unofficial  TypeScript 7 Releases
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
-- [viridia/bevy_reactor](https://github.com/viridia/bevy_reactor) - Fine-grained reactivity framework for Bevy.
+- [viridia/bevy_reactor_2](https://github.com/viridia/bevy_reactor_2) - Fine-grained reactivity framework for Bevy.
 - [antfu-collective/vite-plugin-inspect](https://github.com/antfu-collective/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins
 - [huggingface/hf_transfer](https://github.com/huggingface/hf_transfer) - 
 - [kyutai-labs/kaudio](https://github.com/kyutai-labs/kaudio) - Rust crate for some audio utilities
@@ -3756,7 +3773,7 @@
 - [swlkr/shtml](https://github.com/swlkr/shtml) - Yet another ssr only jsx implementation in rust
 - [paradigmxyz/rivet](https://github.com/paradigmxyz/rivet) - Developer Wallet & DevTools for Anvil
 - [wevm/prool](https://github.com/wevm/prool) - HTTP testing instances for Ethereum
-- [codemod/codemod](https://github.com/codemod/codemod) - The command line tool for building, sharing, and running codemods. From quick cleanups to complex migrations. AI-friendly, and language-agnostic.
+- [codemod/codemod](https://github.com/codemod/codemod) - The CLI for codemods: scaffold, share, and run multi-step transformations of any size. First-class ast-grep support. Fast, reliable, polyglot.
 - [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
 - [tweedegolf/mailcrab](https://github.com/tweedegolf/mailcrab) - Email test server for development, written in Rust
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
@@ -3955,7 +3972,7 @@
 - [m1guelpf/epicenter](https://github.com/m1guelpf/epicenter) - Simple sync/async event dispatcher for Rust
 - [calebporzio/livewire-uncovered](https://github.com/calebporzio/livewire-uncovered) - 
 - [m1guelpf/flysystem](https://github.com/m1guelpf/flysystem) - A filesystem abstraction layer for Rust.
-- [paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) - Next generation guids. Secure, collision-resistant ids optimized for horizontal scaling and performance.
+- [paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) - The most secure, collision-resistant ids optimized for horizontal scaling and performance.
 - [ad-on-is/adonis-autoswagger](https://github.com/ad-on-is/adonis-autoswagger) - Auto-Generate swagger docs for AdonisJS
 - [adonisjs/lucid](https://github.com/adonisjs/lucid) - AdonisJS SQL ORM. Supports PostgreSQL, MySQL, MSSQL, Redshift, SQLite and many more
 - [m1guelpf/amnesia](https://github.com/m1guelpf/amnesia) - An expressive Rust library for interacting with a cache.
@@ -4052,14 +4069,14 @@
 - [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 - [maxday/lambda-perf](https://github.com/maxday/lambda-perf) - Lambda Cold Starts analysis, updated daily
 - [gamedolphin/unrust](https://github.com/gamedolphin/unrust) - 
-- [nuxt-modules/mdc](https://github.com/nuxt-modules/mdc) - MDC supercharges regular Markdown to write documents interacting deeply with any Vue component.
+- [nuxt-content/mdc](https://github.com/nuxt-content/mdc) - MDC supercharges regular Markdown to write documents interacting deeply with any Vue component.
 - [linebender/resvg](https://github.com/linebender/resvg) - An SVG rendering library.
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
 - [nogibjj/rust-candle-demos](https://github.com/nogibjj/rust-candle-demos) - Demos using Rust Candle
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [nuxt/cli](https://github.com/nuxt/cli) - Nuxt CLI
 - [edouardpoitras/bevy_text_popup](https://github.com/edouardpoitras/bevy_text_popup) - Bevy plugin to easily create UI text popups using events
-- [nuxtlabs/remark-mdc](https://github.com/nuxtlabs/remark-mdc) - Remark plugin to support MDC syntax.
+- [nuxt-content/remark-mdc](https://github.com/nuxt-content/remark-mdc) - Remark plugin to support MDC syntax.
 - [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 - [aevyrie/bevy_framepace](https://github.com/aevyrie/bevy_framepace) - Framepacing and framelimiting for Bevy
 - [gschup/bevy_ggrs](https://github.com/gschup/bevy_ggrs) - Bevy plugin for the GGRS P2P rollback networking library.
@@ -4225,7 +4242,7 @@
 - [SergioBenitez/state](https://github.com/SergioBenitez/state) - A Rust library for safe and effortless global and thread-local state management.
 - [adonisjs/fold](https://github.com/adonisjs/fold) - IoC container with all required goodies to write flexible node applications
 - [nuxt-themes/typography](https://github.com/nuxt-themes/typography) - Beautifully customizable Prose components for Nuxt Content.
-- [nuxtlabs/docus](https://github.com/nuxtlabs/docus) - Write beautiful documentations with Nuxt and Markdown.
+- [nuxt-content/docus](https://github.com/nuxt-content/docus) - Write beautiful documentations with Nuxt and Markdown.
 - [nickel-org/nickel.rs](https://github.com/nickel-org/nickel.rs) - An expressjs inspired web framework for Rust
 - [paritytech/jsonrpc](https://github.com/paritytech/jsonrpc) - Rust JSON-RPC implementation
 - [felixmosh/bull-board](https://github.com/felixmosh/bull-board) - 🎯 Queue background jobs inspector
@@ -5487,7 +5504,7 @@
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 - [ralfbiedert/interoptopus](https://github.com/ralfbiedert/interoptopus) - The polyglot bindings generator for your library (C#, C, Python, …) 🐙
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
@@ -5522,7 +5539,7 @@
 
 ## pytorch 
 
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - :hugging_face: Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [snakers4/silero-vad](https://github.com/snakers4/silero-vad) - Silero VAD: pre-trained enterprise-grade Voice Activity Detector
@@ -5651,7 +5668,7 @@
 
 ## rest-api 
 
-- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & V8.
+- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & WASM.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [kogosoftwarellc/open-api](https://github.com/kogosoftwarellc/open-api) - A Monorepo of various packages to power OpenAPI in node
@@ -5690,10 +5707,10 @@
 - [Noxmore/bevy_trenchbroom](https://github.com/Noxmore/bevy_trenchbroom) - TrenchBroom integration, .map, and .bsp loading for Bevy
 - [esp-rs/esp-hal](https://github.com/esp-rs/esp-hal) - no_std Hardware Abstraction Layers for ESP32 microcontrollers
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
-- [daryl-z/awesome-gpui](https://github.com/daryl-z/awesome-gpui) - A curated, community-driven “awesome list” of learning resources, crates, examples and tools for building blazingly-fast desktop apps with GPUI in Rust.
+- [edo-zhou/awesome-gpui](https://github.com/edo-zhou/awesome-gpui) - A curated, community-driven “awesome list” of learning resources, crates, examples and tools for building blazingly-fast desktop apps with GPUI in Rust.
 - [KABBOUCHI/bignumber-rs](https://github.com/KABBOUCHI/bignumber-rs) - A Rust library for arbitrary-precision decimal and non-decimal arithmetic
 - [MatinAniss/gpui-book](https://github.com/MatinAniss/gpui-book) - A book teaching you the concepts you need to create your own GPUI application.
-- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & V8.
+- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & WASM.
 - [TheGrimsey/oxidized_navigation](https://github.com/TheGrimsey/oxidized_navigation) - A runtime Nav-Mesh generation plugin for Bevy Engine in Rust.
 - [idanarye/bevy-tnua](https://github.com/idanarye/bevy-tnua) - A floating character controller for Bevy
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
@@ -5765,7 +5782,7 @@
 - [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
 - [elastio/bon](https://github.com/elastio/bon) - Next-gen compile-time-checked builder generator, named function's arguments, and more!
 - [tryandromeda/andromeda](https://github.com/tryandromeda/andromeda) - JS runtime lolz
-- [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Pants, Buck2, Reclient, and other RE-compatible build systems. It offers drastically faste
+- [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Soong, Pants, Buck2, Reclient, and other RE-compatible build systems. It offers drasticall
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [ycysdf/rxy_ui](https://github.com/ycysdf/rxy_ui) - An Rust UI framework
 - [ebkalderon/tower-lsp](https://github.com/ebkalderon/tower-lsp) - Language Server Protocol implementation written in Rust
@@ -5782,7 +5799,7 @@
 - [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
 - [yoshuawuyts/futures-concurrency](https://github.com/yoshuawuyts/futures-concurrency) - Structured concurrency operations for async Rust
 - [ColinEberhardt/wasm-rust-chip8](https://github.com/ColinEberhardt/wasm-rust-chip8) - A WebAssembly CHIP-8 emulator written with Rust
-- [ahkohd/tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) - Tauri plugin to convert a window to panel
+- [ahkohd/tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) - Create panels for your Tauri app
 - [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A powerful and flexible proxy CLI for capturing and inspecting HTTP(S) and WS(S) traffic, with TUI and WebUI.
 - [dizda/fast-socks5](https://github.com/dizda/fast-socks5) - Fast SOCKS5 TCP and UDP client/server implementation written in Rust async (with tokio)
 - [LiamGallagher737/learnbevy](https://github.com/LiamGallagher737/learnbevy) - An online web app for playing around with Bevy in the browser (unofficial)
@@ -5825,7 +5842,7 @@
 - [EnsoBuild/temper](https://github.com/EnsoBuild/temper) - Temper your expectations - Ethereum Transaction Simulator
 - [Jondolf/avian](https://github.com/Jondolf/avian) - ECS-driven 2D and 3D physics engine for the Bevy game engine.
 - [vleue/jornet](https://github.com/vleue/jornet) - The social game server for all your game jams!
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [politrons/FunctionalRust](https://github.com/politrons/FunctionalRust) - 
 - [bitshifter/glam-rs](https://github.com/bitshifter/glam-rs) - A simple and fast linear algebra library for games and graphics
 - [Jake-Shadle/xwin](https://github.com/Jake-Shadle/xwin) - A utility for downloading and packaging the Microsoft CRT & Windows SDK headers and libraries needed for compiling and linking programs targeting Windows.
@@ -5837,7 +5854,7 @@
 - [bluealloy/revm](https://github.com/bluealloy/revm) - Rust implementation of the Ethereum Virtual Machine.
 - [djeedai/bevy_tweening](https://github.com/djeedai/bevy_tweening) - Tweening animation plugin for the Bevy game engine.
 - [johanhelsing/matchbox](https://github.com/johanhelsing/matchbox) - Painless peer-to-peer WebRTC networking for rust wasm (and native!)
-- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source alternative to Durable Objects. Rivet Actors provide long-lived processes with durable state, realtime, and scalability.
+- [rivet-gg/engine](https://github.com/rivet-gg/engine) - Scale and orchestrate RivetKit
 - [rbatis/rbatis](https://github.com/rbatis/rbatis) - Compile Time Async Dynamic SQL ORM
 - [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - A cargo-subcommand to speed up Rust Docker builds using Docker layer caching.
 - [m1guelpf/ensemble](https://github.com/m1guelpf/ensemble) - A Laravel-inspired ORM for Rust
@@ -6062,6 +6079,7 @@
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
+- [TM9657/flow-like](https://github.com/TM9657/flow-like) - Flow-Like: Strongly Typed Enterprise Scale Workflows. Built for scalability, speed, seamless AI integration and rich customization.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [vitodeploy/vito](https://github.com/vitodeploy/vito) - Free and Self-Hosted  Server Management Tool
@@ -6106,7 +6124,7 @@
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
-- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source alternative to Durable Objects. Rivet Actors provide long-lived processes with durable state, realtime, and scalability.
+- [rivet-gg/engine](https://github.com/rivet-gg/engine) - Scale and orchestrate RivetKit
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [vercel-community/rust](https://github.com/vercel-community/rust) - 🦀 Rust runtime for ▲ Vercel Serverless Functions
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
@@ -6168,13 +6186,13 @@
 - [HashEx/abiencoder](https://github.com/HashEx/abiencoder) - HashEx ABI Encoder
 - [acuarica/vscode-ethers](https://github.com/acuarica/vscode-ethers) - Ethers Mode allows you to explore and call Smart Contracts methods using Ethers.js and view the response directly in VS Code. It interacts with any EVM-compatible blockchain, e.g., Ethereum, Polygon, 
 - [dethcrypto/TypeChain](https://github.com/dethcrypto/TypeChain) - 🔌 TypeScript bindings for Ethereum smart contracts
-- [ethereum/solc-js](https://github.com/ethereum/solc-js) - Javascript bindings for the Solidity compiler
-- [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
+- [argotorg/solc-js](https://github.com/argotorg/solc-js) - Javascript bindings for the Solidity compiler
+- [argotorg/solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
 
 ## spring 
 
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
-- [marcj/untitled-code](https://github.com/marcj/untitled-code) - modular TypeScript framework
+- [marcj/deepkit](https://github.com/marcj/deepkit) - modular TypeScript framework
 - [vueuse/motion](https://github.com/vueuse/motion) - 🤹 Vue Composables putting your components in motion
 
 ## sql 
@@ -6241,7 +6259,7 @@
 ## stable-diffusion 
 
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - :hugging_face: Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to Blender
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
@@ -6326,7 +6344,7 @@
 ## symfony 
 
 - [tweakphp/tweakphp](https://github.com/tweakphp/tweakphp) - Easily tweak your PHP code
-- [marcj/untitled-code](https://github.com/marcj/untitled-code) - modular TypeScript framework
+- [marcj/deepkit](https://github.com/marcj/deepkit) - modular TypeScript framework
 - [symfony/var-dumper](https://github.com/symfony/var-dumper) - Provides mechanisms for walking through any arbitrary PHP variable
 - [symfony/translation](https://github.com/symfony/translation) - Provides tools to internationalize your application
 - [symfony/stopwatch](https://github.com/symfony/stopwatch) - Provides a way to profile code
@@ -6505,7 +6523,7 @@
 
 ## trading 
 
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [piotrostr/listen](https://github.com/piotrostr/listen) - Solana Swiss Army Knife
 - [tiagosiebler/binance](https://github.com/tiagosiebler/binance) - Node.js & JavaScript SDK for Binance REST APIs & WebSockets, with TypeScript & browser support, integration tests, beautification & more.
 
@@ -6519,6 +6537,7 @@
 ## typescript 
 
 - [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while ex
+- [TM9657/flow-like](https://github.com/TM9657/flow-like) - Flow-Like: Strongly Typed Enterprise Scale Workflows. Built for scalability, speed, seamless AI integration and rich customization.
 - [pmndrs/koota](https://github.com/pmndrs/koota) - 🌎 Performant real-time state management for React and TypeScript
 - [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) - A standard interface for TypeScript schema validation libraries
 - [Hexagon/croner](https://github.com/Hexagon/croner) - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
@@ -6552,7 +6571,7 @@
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 - [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
 - [kitajs/html](https://github.com/kitajs/html) - 🏛️ Super fast JSX runtime to generate HTML strings that works everywhere. If it supports string we got you covered.
-- [marcj/untitled-code](https://github.com/marcj/untitled-code) - modular TypeScript framework
+- [marcj/deepkit](https://github.com/marcj/deepkit) - modular TypeScript framework
 - [microsoft/reflect-metadata](https://github.com/microsoft/reflect-metadata) - Prototype for a Metadata Reflection API for ECMAScript
 - [twoslashes/twoslash](https://github.com/twoslashes/twoslash) - Markup for generating rich type information in your documentations ahead of time.
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
@@ -6629,7 +6648,7 @@
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [PuruVJ/neodrag](https://github.com/PuruVJ/neodrag) - One Draggable to rule them all 💍
-- [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript
+- [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - A Runtime Type System for JavaScript
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [antfu/esno](https://github.com/antfu/esno) - Alias to `tsx`
 - [denostack/superserial](https://github.com/denostack/superserial) - A comprehensive Serializer/Deserializer that can handle any data type.
@@ -6715,7 +6734,7 @@
 
 ## ui 
 
-- [nuxt-ui-pro/portfolio](https://github.com/nuxt-ui-pro/portfolio) - Nuxt Portfolio Template made with Nuxt UI Pro.
+- [nuxt-ui-templates/portfolio](https://github.com/nuxt-ui-templates/portfolio) - Nuxt Portfolio Template made with Nuxt UI and Nuxt Content.
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [Lommix/bevy_hui](https://github.com/Lommix/bevy_hui) - Component based UI crate using Xml/Html with focus on hot reload for the bevy engine.
 - [yungifez/artisan-ui](https://github.com/yungifez/artisan-ui) - Gorgeous shadcn inspired UI library for laravel blade using Tailwind and AlpineJS
@@ -6728,7 +6747,7 @@
 - [databasedav/haalka](https://github.com/databasedav/haalka) - ergonomic reactive Bevy UI library powered by FRP signals
 - [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- [nuxt-ui-pro/landing](https://github.com/nuxt-ui-pro/landing) - Nuxt Landing Template made with Nuxt UI Pro.
+- [nuxt-ui-templates/landing](https://github.com/nuxt-ui-templates/landing) - Nuxt Landing Template made with Nuxt UI and Nuxt Content.
 - [bytestring-net/bevy_lunex](https://github.com/bytestring-net/bevy_lunex) - Blazingly fast retained layout engine for Bevy ECS.
 - [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Build your design system in React, Solid, Vue or Svelte. Powered by finite state machines
@@ -6834,7 +6853,7 @@
 
 ## unreal-engine 
 
-- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source alternative to Durable Objects. Rivet Actors provide long-lived processes with durable state, realtime, and scalability.
+- [rivet-gg/engine](https://github.com/rivet-gg/engine) - Scale and orchestrate RivetKit
 - [0xFA11/MultiplayerNetworkingResources](https://github.com/0xFA11/MultiplayerNetworkingResources) - A curated list of Multiplayer Game Network Programming Resources
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 
@@ -6874,8 +6893,8 @@
 ## vue 
 
 - [NicolaSpadari/nuxtor](https://github.com/NicolaSpadari/nuxtor) - Build tiny desktop apps with Tauri, Nuxt 4 and NuxtUI
-- [nuxt-ui-pro/portfolio](https://github.com/nuxt-ui-pro/portfolio) - Nuxt Portfolio Template made with Nuxt UI Pro.
-- [nuxt-ui-pro/chat](https://github.com/nuxt-ui-pro/chat) - Nuxt AI Chatbot Template made with Nuxt UI Pro on NuxtHub.
+- [nuxt-ui-templates/portfolio](https://github.com/nuxt-ui-templates/portfolio) - Nuxt Portfolio Template made with Nuxt UI and Nuxt Content.
+- [nuxt-ui-templates/chat](https://github.com/nuxt-ui-templates/chat) - Nuxt AI Chatbot Template made with Nuxt UI and Vercel AI SDK.
 - [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, Svelte, and TS/JS.
 - [atinux/npm-chart](https://github.com/atinux/npm-chart) - Visualize npm downloads in a beautiful chart, ready to be shared with your community.
 - [romhml/compodium](https://github.com/romhml/compodium) - A plug and play component playground for Vue and Nuxt.
@@ -6899,13 +6918,13 @@
 - [atinux/atidraw](https://github.com/atinux/atidraw) - Share your drawings with the world. Powered by Cloudflare R2 & AI.
 - [nuxt/learn.nuxt.com](https://github.com/nuxt/learn.nuxt.com) - [Work in Progress] An interactive tutorial and playground for Nuxt
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-- [nuxt-ui-pro/dashboard](https://github.com/nuxt-ui-pro/dashboard) - Nuxt Admin Dashboard Template made with Nuxt UI Pro.
-- [nuxt-hub/core](https://github.com/nuxt-hub/core) - Build full-stack applications with Nuxt on Cloudflare, with zero configuration.
+- [nuxt-ui-templates/dashboard](https://github.com/nuxt-ui-templates/dashboard) - Nuxt Dashboard Template made with Nuxt UI.
+- [nuxt-hub/core](https://github.com/nuxt-hub/core) - Build full-stack applications with Nuxt, with almost zero-config.
 - [danielroe/vue-bind-once](https://github.com/danielroe/vue-bind-once) - A tiny, SSR-safe directive for binding random data to an element.
 - [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
-- [nuxt-ui-pro/landing](https://github.com/nuxt-ui-pro/landing) - Nuxt Landing Template made with Nuxt UI Pro.
-- [nuxt-ui-pro/docs](https://github.com/nuxt-ui-pro/docs) - Nuxt Docs Template made with Nuxt UI Pro.
-- [nuxt-ui-pro/starter](https://github.com/nuxt-ui-pro/starter) - Nuxt UI Pro minimal starter.
+- [nuxt-ui-templates/landing](https://github.com/nuxt-ui-templates/landing) - Nuxt Landing Template made with Nuxt UI and Nuxt Content.
+- [nuxt-ui-templates/docs](https://github.com/nuxt-ui-templates/docs) - Nuxt Docs Template made with Nuxt UI and Nuxt Content.
+- [nuxt-ui-templates/starter](https://github.com/nuxt-ui-templates/starter) - Nuxt Starter Template for Nuxt UI.
 - [nuxt/nuxt.com](https://github.com/nuxt/nuxt.com) - The Nuxt website, made with Nuxt.
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript
 - [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui

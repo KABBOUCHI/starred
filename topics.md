@@ -391,7 +391,7 @@
 - [nuxt-modules/ionic](https://github.com/nuxt-modules/ionic) - Batteries-included, zero-config Ionic integration for Nuxt
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
-- [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
+- [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
 - [hydro-sdk/hydro-sdk](https://github.com/hydro-sdk/hydro-sdk) - Author Flutter experiences in Typescript. No native bridge, no V8. Just Dart. From runtime to virtual machine.
 - [Unity-Technologies/com.unity.uiwidgets](https://github.com/Unity-Technologies/com.unity.uiwidgets) - UIWidgets is a Unity Package which helps developers to create, debug and deploy efficient, cross-platform Apps.
 - [vaibhavpandeyvpz/deapk](https://github.com/vaibhavpandeyvpz/deapk) - DeAPK is an open-source, online APK decompiler which lets you upload an APK and then decompile it to Smali or Java sources. It is built using Laravel, Vue.js, Bootstrap, FontAwesome, Pusher, Redis, My
@@ -2279,7 +2279,7 @@
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [yukiarrr/ios-build-action](https://github.com/yukiarrr/ios-build-action) - Build iOS project (.xcodeproj, .xcworkspace), and export ipa
-- [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
+- [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [hydro-sdk/hydro-sdk](https://github.com/hydro-sdk/hydro-sdk) - Author Flutter experiences in Typescript. No native bridge, no V8. Just Dart. From runtime to virtual machine.
 - [Unity-Technologies/com.unity.uiwidgets](https://github.com/Unity-Technologies/com.unity.uiwidgets) - UIWidgets is a Unity Package which helps developers to create, debug and deploy efficient, cross-platform Apps.
@@ -2947,7 +2947,7 @@
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
-- [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
+- [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
@@ -3122,7 +3122,7 @@
 - [macosui/macos_ui](https://github.com/macosui/macos_ui) - Flutter widgets and themes implementing the current macOS design language.
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
-- [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
+- [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
@@ -7367,7 +7367,7 @@
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [bdlukaa/fluent_ui](https://github.com/bdlukaa/fluent_ui) - Implements Microsoft's WinUI3 in Flutter.
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the Web.
-- [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
+- [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows

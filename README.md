@@ -57,6 +57,7 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+- [WGSL](#wgsl)
 - [WebAssembly](#webassembly)
 - [Zig](#zig)
 
@@ -145,7 +146,7 @@
 ## C# # 
 
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [SebLague/Text-Rendering](https://github.com/SebLague/Text-Rendering) - 
 - [SebLague/Fluid-Sim](https://github.com/SebLague/Fluid-Sim) - A simple particle-based fluid simulation
@@ -349,7 +350,7 @@
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.0.63163, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.0.63305, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
@@ -688,6 +689,7 @@
 
 ## JavaScript 
 
+- [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [leukipp/touchkio](https://github.com/leukipp/touchkio) - Home Assistant Touch Panel Kiosk application for a Linux device (e.g. Raspberry Pi) with Touch Display.
 - [sindresorhus/strip-indent](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from each line in a string
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
@@ -2025,7 +2027,6 @@
 - [idanarye/bevy-tnua](https://github.com/idanarye/bevy-tnua) - A floating character controller for Bevy
 - [simgine/bevy_enhanced_input](https://github.com/simgine/bevy_enhanced_input) - Input manager for Bevy.
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
-- [wgsl-tooling-wg/wesl-rs](https://github.com/wgsl-tooling-wg/wesl-rs) - wesl-rs: a compiler for WESL (WGSL Extended) shaders.
 - [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS
 - [facet-rs/facet](https://github.com/facet-rs/facet) - Rust reflection, serialization, deserialization, pretty printing, etc. — the last proc macro you should need
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -2710,6 +2711,7 @@
 
 ## TypeScript 
 
+- [lxsmnsyc/seroval](https://github.com/lxsmnsyc/seroval) - Stringify JS values
 - [adonisjs/http-transformers](https://github.com/adonisjs/http-transformers) - Serialize rich data-types with support for defining relationships with other transformers
 - [pi0/shiki-image](https://github.com/pi0/shiki-image) - Convert code snippets into images. Powered by shiki and takumi. Super fast 🚀
 - [edge-js/edge-markdown](https://github.com/edge-js/edge-markdown) - Render markdown using the MDC syntax and integrate it with Edge components
@@ -3007,7 +3009,7 @@
 - [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
 - [unjs/citty](https://github.com/unjs/citty) - 🌆 Elegant CLI Builder
 - [nuxt-modules/supabase](https://github.com/nuxt-modules/supabase) - Supabase module for Nuxt.
-- [johannschopplich/nuxt-gtag](https://github.com/johannschopplich/nuxt-gtag) - 🔸 Google Analytics & Ads integration made easy
+- [johannschopplich/nuxt-gtag](https://github.com/johannschopplich/nuxt-gtag) - 🔸 Google Analytics & Google Ads integration made easy
 - [antfu/vue-template-promise](https://github.com/antfu/vue-template-promise) - Template as Promise in Vue
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [Baroshem/nuxt-security](https://github.com/Baroshem/nuxt-security) - 🛡 Automatically configure your app to follow OWASP security patterns and principles by using HTTP Headers and Middleware
@@ -3648,6 +3650,10 @@
 - [luosijie/vue-manager](https://github.com/luosijie/vue-manager) - A panel framework based on Vue 2.0, iView and ECharts.
 - [creativetimofficial/vue-paper-dashboard](https://github.com/creativetimofficial/vue-paper-dashboard) - Creative Tim Paper Dashboard made for Vue
 - [Coffcer/vue-chat](https://github.com/Coffcer/vue-chat) - chat example by vue.js + vuex + webpack
+
+## WGSL 
+
+- [wgsl-tooling-wg/wesl-rs](https://github.com/wgsl-tooling-wg/wesl-rs) - wesl-rs: a compiler for WESL (WGSL Extended) shaders.
 
 ## WebAssembly 
 

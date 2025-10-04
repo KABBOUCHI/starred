@@ -442,6 +442,7 @@
 
 ## Dart 
 
+- [JGeek00/adguard-home-manager](https://github.com/JGeek00/adguard-home-manager) - AdGuard Home client created with Flutter
 - [DonutWare/Fladder](https://github.com/DonutWare/Fladder) - Fladder - A Simple Jellyfin frontend built on top of Flutter.
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [felangel/equatable](https://github.com/felangel/equatable) - A Dart package that helps to implement value based equality without needing to explicitly override == and hashCode.
@@ -547,6 +548,8 @@
 
 ## Go 
 
+- [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [oxc-project/tsgolint](https://github.com/oxc-project/tsgolint) - Type aware linting for oxlint
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
@@ -1245,7 +1248,7 @@
 - [near/borsh](https://github.com/near/borsh) - Binary Object Representation Serializer for Hashing
 - [NathanBrodin/zed-vercel-theme](https://github.com/NathanBrodin/zed-vercel-theme) - The Vercel Theme, for Zed
 - [nolantait/awesome-bevy](https://github.com/nolantait/awesome-bevy) - A list of resources for Bevy maintained by https://taintedcoders.com
-- [Vrixyz/bevy_awesome_prod](https://github.com/Vrixyz/bevy_awesome_prod) - My curated list of projects using bevy in production, preferably with a company or a business model in mind.
+- [ThierryBerger/bevy_awesome_prod](https://github.com/ThierryBerger/bevy_awesome_prod) - My curated list of projects using bevy in production, preferably with a company or a business model in mind.
 - [2-fly-4-ai/V0-system-prompt](https://github.com/2-fly-4-ai/V0-system-prompt) - 
 - [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus) - TablePlus macOS issue tracker
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
@@ -1997,6 +2000,7 @@
 
 ## Rust 
 
+- [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
 - [zed-industries/agent-client-protocol](https://github.com/zed-industries/agent-client-protocol) - A protocol for connecting any editor to any agent
 - [anza-xyz/agave-geyser-plugin-postgres](https://github.com/anza-xyz/agave-geyser-plugin-postgres) - A Geyser plugin using Postgres as the data store.
@@ -2156,7 +2160,7 @@
 - [ycysdf/rxy_ui](https://github.com/ycysdf/rxy_ui) - An Rust UI framework
 - [rust-analyzer/rust-analyzer-wasm](https://github.com/rust-analyzer/rust-analyzer-wasm) - 
 - [ebkalderon/tower-lsp](https://github.com/ebkalderon/tower-lsp) - Language Server Protocol implementation written in Rust
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso Database is a project to build the next evolution of SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [bkchr/impl-trait-for-tuples](https://github.com/bkchr/impl-trait-for-tuples) - Rust attribute macro to implement a trait for tuples
 - [audulus/vger-rs](https://github.com/audulus/vger-rs) - 2D GPU renderer for dynamic UIs
 - [nreHieW/r-nn](https://github.com/nreHieW/r-nn) - Tensor library with autograd using only Rust's standard library
@@ -2715,6 +2719,7 @@
 
 ## TypeScript 
 
+- [josdejong/jsonrepair](https://github.com/josdejong/jsonrepair) - Repair invalid JSON documents
 - [fallenbagel/jellyseerr](https://github.com/fallenbagel/jellyseerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [lxsmnsyc/seroval](https://github.com/lxsmnsyc/seroval) - Stringify JS values
 - [adonisjs/http-transformers](https://github.com/adonisjs/http-transformers) - Serialize rich data-types with support for defining relationships with other transformers
@@ -3273,7 +3278,7 @@
 - [tiged/tiged](https://github.com/tiged/tiged) - Community driven fork of degit
 - [quirrel-dev/quirrel](https://github.com/quirrel-dev/quirrel) - The Task Queueing Solution for Serverless.
 - [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes.
-- [trufflesuite/ganache](https://github.com/trufflesuite/ganache) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
+- [ConsenSys-archive/ganache](https://github.com/ConsenSys-archive/ganache) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
 - [antfu/vscode-auto-npx](https://github.com/antfu/vscode-auto-npx) - Auto resolving local Node.js binaries in VS Code terminal.
 - [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework.
 - [janovekj/cmdkit](https://github.com/janovekj/cmdkit) - Command palette component for React

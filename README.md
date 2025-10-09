@@ -366,7 +366,7 @@
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [yoshoku/hnswlib-node](https://github.com/yoshoku/hnswlib-node) - hnswlib-node provides Node.js bindings for Hnswlib
-- [supertuxkart/stk-code](https://github.com/supertuxkart/stk-code) - The code base of supertuxkart
+- [supertuxkart/stk-code](https://github.com/supertuxkart/stk-code) - The code base of SuperTuxKart
 - [UPBGE/upbge](https://github.com/UPBGE/upbge) - UPBGE, the best integrated game engine in Blender
 - [phpv8/v8js](https://github.com/phpv8/v8js) - V8 Javascript Engine for PHP — This PHP extension embeds the Google V8 Javascript Engine
 - [facebook/yoga](https://github.com/facebook/yoga) - Yoga is an embeddable layout engine targeting web standards.
@@ -2029,7 +2029,7 @@
 - [MatinAniss/gpui-book](https://github.com/MatinAniss/gpui-book) - A book teaching you the concepts you need to create your own GPUI application.
 - [notmd/bevy_tailwind](https://github.com/notmd/bevy_tailwind) - TailwindCSS for Bevy.
 - [rscarson/rustyscript](https://github.com/rscarson/rustyscript) - Effortless JS integration for rust
-- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & WASM.
+- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in WebAssembly runtime, realtime, auth, and admin UI built on Rust, SQLite & Wasmtime.
 - [TheGrimsey/oxidized_navigation](https://github.com/TheGrimsey/oxidized_navigation) - A runtime Nav-Mesh generation plugin for Bevy Engine in Rust.
 - [idanarye/bevy-tnua](https://github.com/idanarye/bevy-tnua) - A floating character controller for Bevy
 - [simgine/bevy_enhanced_input](https://github.com/simgine/bevy_enhanced_input) - Input manager for Bevy.

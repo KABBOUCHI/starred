@@ -707,7 +707,7 @@
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
-- [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic counters and rate limiting tools. Limit resource access at any scale.
+- [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic and non-atomic counters and rate limiting tools. Limit resource access at any scale.
 - [alewin/useWorker](https://github.com/alewin/useWorker) - ⚛️ useWorker() - A React Hook for Blocking-Free Background Tasks
 - [sxzz/tsgo-releases](https://github.com/sxzz/tsgo-releases) - Unofficial  TypeScript 7 Releases
 - [Automattic/juice](https://github.com/Automattic/juice) - Juice inlines CSS stylesheets into your HTML source.
@@ -1999,6 +1999,7 @@
 
 ## Rust 
 
+- [Far-Beyond-Pulsar/Pulsar-Native](https://github.com/Far-Beyond-Pulsar/Pulsar-Native) - The next-generation game engine that you deserve implemented in rust on top of GPUI
 - [justjavac/gpui-router](https://github.com/justjavac/gpui-router) - A router for GPUI App.
 - [fereidani/kanal](https://github.com/fereidani/kanal) - The fast sync and async channel that Rust deserves
 - [plotters-rs/plotters](https://github.com/plotters-rs/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
@@ -2330,7 +2331,7 @@
 - [EnsoBuild/temper](https://github.com/EnsoBuild/temper) - Temper your expectations - Ethereum Transaction Simulator
 - [james-j-obrien/bevy_vector_shapes](https://github.com/james-j-obrien/bevy_vector_shapes) - A library for rendering vector shapes using the Bevy game engine
 - [dimforge/parry](https://github.com/dimforge/parry) - 2D and 3D collision-detection library for Rust.
-- [Jondolf/avian](https://github.com/Jondolf/avian) - ECS-driven 2D and 3D physics engine for the Bevy game engine.
+- [avianphysics/avian](https://github.com/avianphysics/avian) - ECS-driven 2D and 3D physics engine for the Bevy game engine.
 - [AmadiMichael/evm_simulator_rs](https://github.com/AmadiMichael/evm_simulator_rs) - CLI based transaction simulator supporting any EVM chain, written in Rust.
 - [foxzool/bevy_cronjob](https://github.com/foxzool/bevy_cronjob) - A simple, efficient, and reliable helper for running scheduled tasks (cronjobs) in Bevy applications.
 - [MrGVSV/bevy_enum_filter](https://github.com/MrGVSV/bevy_enum_filter) - Filter by enum variant in Bevy queries

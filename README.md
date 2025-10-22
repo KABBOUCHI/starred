@@ -1212,7 +1212,6 @@
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) - A technical explainer by @kognise of how your computer runs programs, from start to finish.
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
-- [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 
 ## Markdown 
 
@@ -1347,7 +1346,7 @@
 - [fusion-php/fusion](https://github.com/fusion-php/fusion) - Unite your modern frontend with your Laravel backend.
 - [DirectoryTree/ImapEngine](https://github.com/DirectoryTree/ImapEngine) - Manage IMAP mailboxes without the PHP extension
 - [prism-php/prism](https://github.com/prism-php/prism) - A unified interface for working with LLMs in Laravel
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binaries on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone portable PHP binaries on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 - [janyksteenbeek/uppi](https://github.com/janyksteenbeek/uppi) - Uppi: A self-hosted robust uptime monitoring solution built with Laravel
 - [vitodeploy/vito](https://github.com/vitodeploy/vito) - Free and Self-Hosted  Server Management Tool
 - [et-nik/gameap](https://github.com/et-nik/gameap) - Game Admin Panel (GameAP) is the opensource game servers control panel.
@@ -1816,7 +1815,6 @@
 - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
 - [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
 - [jplhomer/fresa](https://github.com/jplhomer/fresa) - 🍓 Developing WordPress should be sweet.
-- [studio-net/laravel-scoresearch](https://github.com/studio-net/laravel-scoresearch) - Laravel entity search engine based on scoring
 - [spatie/eloquent-sortable](https://github.com/spatie/eloquent-sortable) - Sortable behaviour for Eloquent models
 - [always-open/laravel-totem](https://github.com/always-open/laravel-totem) - Manage Your Laravel Schedule From A Web Dashboard
 - [laravel/horizon](https://github.com/laravel/horizon) - Dashboard and code-driven configuration for Laravel queues.
@@ -1866,6 +1864,7 @@
 
 ## Python 
 
+- [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [DevilXD/TwitchDropsMiner](https://github.com/DevilXD/TwitchDropsMiner) - An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching.
 - [alandtse/alexa_media_player](https://github.com/alandtse/alexa_media_player) - This is a custom component to allow control of Amazon Alexa devices in Home Assistant using the unofficial Alexa API.
@@ -2462,7 +2461,7 @@
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [rustformers/llm](https://github.com/rustformers/llm) - [Unmaintained, see README] An ecosystem of Rust libraries for working with large language models
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with webpack-compatible API 🦀️
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [Jon-Becker/heimdall-rs](https://github.com/Jon-Becker/heimdall-rs) - Heimdall is an advanced EVM smart contract toolkit specializing in bytecode analysis and extracting information from unverified contracts.
@@ -2723,6 +2722,7 @@
 
 ## TypeScript 
 
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [josdejong/jsonrepair](https://github.com/josdejong/jsonrepair) - Repair invalid JSON documents
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [lxsmnsyc/seroval](https://github.com/lxsmnsyc/seroval) - Stringify JS values
@@ -3280,6 +3280,7 @@
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [tiged/tiged](https://github.com/tiged/tiged) - Community driven fork of degit
+- [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [quirrel-dev/quirrel](https://github.com/quirrel-dev/quirrel) - The Task Queueing Solution for Serverless.
 - [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes.
 - [ConsenSys-archive/ganache](https://github.com/ConsenSys-archive/ganache) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.

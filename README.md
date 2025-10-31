@@ -1092,7 +1092,7 @@
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 - [CVarisco/gitlab-merge](https://github.com/CVarisco/gitlab-merge) - First Gitlab guided CLI to create your merge request from terminal
 - [val-bubbleflat/laravel-vue-validator](https://github.com/val-bubbleflat/laravel-vue-validator) - Simple package to display error in vue from laravel validation
-- [mikerockett/vue-routisan](https://github.com/mikerockett/vue-routisan) - Archived – new package coming soon!
+- [mikerockett/vue-routisan](https://github.com/mikerockett/vue-routisan) - 
 - [happyDemon/vue-echo](https://github.com/happyDemon/vue-echo) - Vue integration for the Laravel Echo library.
 - [shentao/vue-multiselect](https://github.com/shentao/vue-multiselect) - Universal select/multiselect/tagging component for Vue.js
 - [shakee93/vue-toasted](https://github.com/shakee93/vue-toasted) - 🖖 Responsive Touch Compatible Toast plugin for VueJS 2+
@@ -1293,6 +1293,7 @@
 - [sonicoder86/awesome-vue-3](https://github.com/sonicoder86/awesome-vue-3) - A curated list of awesome things related to Vue 3
 - [umasteeringgroup/content-pack](https://github.com/umasteeringgroup/content-pack) - UMA Base content
 - [ianramzy/decentralized-video-chat](https://github.com/ianramzy/decentralized-video-chat) - 🚀 Zipcall- Acquired @ 250k users 🚀 Peer to peer browser video calling platform with unmatched video quality and latency.
+- [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
 - [nunomaduro/pest](https://github.com/nunomaduro/pest) - This repository contains an old version of PEST. A new and better version is being coded in private and will be out soon: https://github.com/pestphp/pest.
 - [beyondcode/tinkerwell-community](https://github.com/beyondcode/tinkerwell-community) - 
 - [alpine-collective/awesome](https://github.com/alpine-collective/awesome) - 🚀A curated list of awesome resources related to Alpine.
@@ -1774,7 +1775,7 @@
 - [cretueusebiu/laravel-nuxt](https://github.com/cretueusebiu/laravel-nuxt) - A Laravel-Nuxt starter kit.
 - [uxweb/sweet-alert](https://github.com/uxweb/sweet-alert) - A simple PHP package to show SweetAlerts with the Laravel Framework
 - [spatie/laravel-translatable](https://github.com/spatie/laravel-translatable) - Making Eloquent models translatable
-- [renatomarinho/laravel-page-speed](https://github.com/renatomarinho/laravel-page-speed) - Package to optimize your site automatically which results in a 35%+ optimization
+- [vinkius-labs/laravel-page-speed](https://github.com/vinkius-labs/laravel-page-speed) - Package to optimize your site automatically which results in a 35%+ optimization. Laravel Page Speed delivers an end-to-end optimization pipeline for Blade-rendered pages and REST APIs with measurable
 - [adamwathan/laravel-preset](https://github.com/adamwathan/laravel-preset) - 
 - [d13r/laravel-breadcrumbs](https://github.com/d13r/laravel-breadcrumbs) - Please see the Diglactic fork.
 - [jenssegers/agent](https://github.com/jenssegers/agent) - 👮 A PHP desktop/mobile user agent parser with support for Laravel, based on Mobiledetect
@@ -1928,7 +1929,7 @@
 - [nuclia/nucliadb](https://github.com/nuclia/nucliadb) - NucliaDB, The AI Search database for RAG
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 - [emilianobonassi/testnet-fyi](https://github.com/emilianobonassi/testnet-fyi) - Testnet as a service - create shareable short lived testnets
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to Blender
 - [zai-org/GLM-130B](https://github.com/zai-org/GLM-130B) - GLM-130B: An Open Bilingual Pre-Trained Model (ICLR 2023)
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
@@ -1999,6 +2000,8 @@
 
 ## Rust 
 
+- [iamnbutler/luna](https://github.com/iamnbutler/luna) - In-development software design tool in the vein of figma, sketchapp, and old Framer.
+- [KABBOUCHI/cronox](https://github.com/KABBOUCHI/cronox) - 
 - [Far-Beyond-Pulsar/Pulsar-Native](https://github.com/Far-Beyond-Pulsar/Pulsar-Native) - The next-generation game engine that you deserve implemented in rust on top of GPUI
 - [justjavac/gpui-router](https://github.com/justjavac/gpui-router) - A router for GPUI App.
 - [fereidani/kanal](https://github.com/fereidani/kanal) - The fast sync and async channel that Rust deserves
@@ -2408,7 +2411,7 @@
 - [PistonDevelopers/piston](https://github.com/PistonDevelopers/piston) - A modular game engine written in Rust
 - [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust.
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
-- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
+- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 - [JelteF/derive_more](https://github.com/JelteF/derive_more) - Some more derive(Trait) options
 - [tazz4843/whisper-rs](https://github.com/tazz4843/whisper-rs) - Rust bindings to https://github.com/ggerganov/whisper.cpp
 - [simgine/bevy_replicon](https://github.com/simgine/bevy_replicon) - A server-authoritative replication crate for Bevy.
@@ -2522,7 +2525,7 @@
 - [paritytech/jsonrpc](https://github.com/paritytech/jsonrpc) - Rust JSON-RPC implementation
 - [tower-rs/tower](https://github.com/tower-rs/tower) - async fn(Request) -&gt; Result&lt;Response, Error&gt;
 - [geofmureithi/apalis](https://github.com/geofmureithi/apalis) - Simple, extensible multithreaded background job and message processing library for Rust
-- [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust.
+- [extphprs/ext-php-rs](https://github.com/extphprs/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust.
 - [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
 - [ayrat555/el_monitorro](https://github.com/ayrat555/el_monitorro) - 🐂 El Monitorro is a high-performance feed reader as a Telegram bot. It supports RSS, Atom and JSON feeds
 - [idanarye/rust-typed-builder](https://github.com/idanarye/rust-typed-builder) - Compile-time type-checked builder derive
@@ -2717,11 +2720,11 @@
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [insidegui/WWDC](https://github.com/insidegui/WWDC) - The unofficial WWDC app for macOS
-- [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
 - [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
 
 ## TypeScript 
 
+- [KABBOUCHI/adonisjs-ui](https://github.com/KABBOUCHI/adonisjs-ui) - 
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [josdejong/jsonrepair](https://github.com/josdejong/jsonrepair) - Repair invalid JSON documents
@@ -2786,11 +2789,11 @@
 - [unjs/nanotar](https://github.com/unjs/nanotar) - 📼  Tiny and fast tar utils for any JavaScript runtime!
 - [Cat1007/vue-markdown-next](https://github.com/Cat1007/vue-markdown-next) - 
 - [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.
-- [piotrostr/listen](https://github.com/piotrostr/listen) - Solana Swiss Army Knife
+- [piotrostr/listen](https://github.com/piotrostr/listen) - DeFAI Swiss Army Knife
 - [snapshot-labs/stamp](https://github.com/snapshot-labs/stamp) - Avatars for web3
 - [outerbase/studio-cli](https://github.com/outerbase/studio-cli) - 
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
-- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
 - [laravel/vs-code-extension](https://github.com/laravel/vs-code-extension) - 
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
@@ -2799,7 +2802,6 @@
 - [iccicci/rotating-file-stream](https://github.com/iccicci/rotating-file-stream) - Opens a stream.Writable to a file rotated by interval and/or size. A logrotate alternative.
 - [poppinss/chokidar-ts](https://github.com/poppinss/chokidar-ts) - File watcher for TypeScript projects
 - [productdevbook/nitro-kutu](https://github.com/productdevbook/nitro-kutu) - See requests in the terminal. Get more detail with the panel. Nitrojs
-- [callstackincubator/fabrice-ai](https://github.com/callstackincubator/fabrice-ai) - A lightweight, functional, and composable framework for building AI agents. No PhD required.
 - [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk) - 📝 The Vue.js framework for building tailored, accessible, and high-quality forms.
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
 - [xdevplatform/twitter-api-typescript-sdk](https://github.com/xdevplatform/twitter-api-typescript-sdk) - A TypeScript SDK for the Twitter API
@@ -3013,7 +3015,7 @@
 - [johannschopplich/unlazy](https://github.com/johannschopplich/unlazy) - 🪧 Universal lazy loading library for placeholder images leveraging native browser APIs
 - [hunyan-io/vite-plugin-vue-nested-sfc](https://github.com/hunyan-io/vite-plugin-vue-nested-sfc) - Nest SFCs within your SFC.
 - [unjs/pkg-types](https://github.com/unjs/pkg-types) - Node.js utilities and TypeScript definitions for package.json and tsconfig.json
-- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build scalable design systems with React, Vue, Solid, and Svelte.
 - [Instadapp/avocado-sdk](https://github.com/Instadapp/avocado-sdk) - 
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
@@ -3371,7 +3373,7 @@
 - [bmewburn/vscode-intelephense](https://github.com/bmewburn/vscode-intelephense) - PHP intellisense for Visual Studio Code
 - [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
 - [yyx990803/okie](https://github.com/yyx990803/okie) - Dead simple worker threads pool
-- [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works on node, browser and workers.
+- [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works everywhere.
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [antfu/p5i](https://github.com/antfu/p5i) - p5.js, but with more friendly instance mode APIs
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
@@ -3455,7 +3457,7 @@
 - [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 3
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
 - [Gomah/nuxt-shopify](https://github.com/Gomah/nuxt-shopify) - 🛍 Seamless Shopify Buy SDK integration with Nuxt.js.
 - [niklashigi/apk-mitm](https://github.com/niklashigi/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection

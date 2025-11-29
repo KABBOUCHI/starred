@@ -2016,6 +2016,7 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [openai/harmony](https://github.com/openai/harmony) - Renderer for the harmony response format to be used with gpt-oss
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
+- [vuejs/vue-jsx-vapor](https://github.com/vuejs/vue-jsx-vapor) - Vapor Mode of Vue JSX
 - [jarl-opensource/drakkar-vfx](https://github.com/jarl-opensource/drakkar-vfx) - VFX editor for Bevy and Hanabi
 - [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
 - [oxc-project/oxc-zed](https://github.com/oxc-project/oxc-zed) - Oxc extension for Zed
@@ -2737,7 +2738,6 @@
 - [pi0/shiki-image](https://github.com/pi0/shiki-image) - Convert code snippets into images. Powered by shiki and takumi. Super fast 🚀
 - [edge-js/edge-markdown](https://github.com/edge-js/edge-markdown) - Render markdown using the MDC syntax and integrate it with Edge components
 - [esm-dev/modern-monaco](https://github.com/esm-dev/modern-monaco) - A modern version of Monaco Editor.
-- [vuejs/vue-jsx-vapor](https://github.com/vuejs/vue-jsx-vapor) - Vapor Mode of Vue JSX
 - [ts-macro/ts-macro](https://github.com/ts-macro/ts-macro) - A VSCode plugin to define TS(X) macro powered by Volar.js
 - [zhiyuanzmj/unplugin-vue-reactivity-function](https://github.com/zhiyuanzmj/unplugin-vue-reactivity-function) - Reactivity Function.
 - [oxc-project/oxc-walker](https://github.com/oxc-project/oxc-walker) - A wrapper around `estree-walker` that accepts an `oxc` AST and alternatively uses `oxc-parser` to parse code.
@@ -2981,7 +2981,7 @@
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 - [unjs/untun](https://github.com/unjs/untun) - 🚇 Tunnel your local HTTP(s) server to the world! powered by  Cloudflare Quick Tunnels.
 - [antfu/shikiji](https://github.com/antfu/shikiji) - A syntax highlighter based on TextMate grammars. ESM rewrite of shiki, with more features and capabilities.
-- [cschroeter/park-ui](https://github.com/cschroeter/park-ui) - Beautifully designed components built with Ark UI and Panda CSS that work with a variety of JS frameworks.
+- [chakra-ui/park-ui](https://github.com/chakra-ui/park-ui) - Beautifully designed components built with Ark UI and Panda CSS that work with a variety of JS frameworks.
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [toddcooke/namechecker](https://github.com/toddcooke/namechecker) - Find out if your project name is taken
 - [actions-rs/toolchain](https://github.com/actions-rs/toolchain) - 🛠️ GitHub Action for `rustup` commands
@@ -3024,7 +3024,7 @@
 - [Instadapp/avocado-sdk](https://github.com/Instadapp/avocado-sdk) - 
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
-- [alexbudure/queuedash](https://github.com/alexbudure/queuedash) - A stunning, sleek dashboard for Bull, BullMQ, and Bee-Queue
+- [alexbudure/queuedash](https://github.com/alexbudure/queuedash) - A stunning, sleek dashboard for Bull, BullMQ, Bee-Queue, and GroupMQ.
 - [RevokeCash/revoke.cash](https://github.com/RevokeCash/revoke.cash) - ❌ Revoke or update your token approvals
 - [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
 - [unjs/citty](https://github.com/unjs/citty) - 🌆 Elegant CLI Builder
@@ -3162,7 +3162,7 @@
 - [webfansplz/temir](https://github.com/webfansplz/temir) - Vue for interactive command-line apps
 - [wheatjs/vue-2048](https://github.com/wheatjs/vue-2048) - Multiplayer version of 2048 written in Vue
 - [danielroe/nuxt-full-static](https://github.com/danielroe/nuxt-full-static) - Full static implementation for Nuxt 3
-- [Uninen/tauri-vue-template](https://github.com/Uninen/tauri-vue-template) - Tauri 2 + Vue  (TypeScript) template w/ Vitest, Tailwind, and full CI/CD configured
+- [Uninen/tauri-vue-template](https://github.com/Uninen/tauri-vue-template) - Production-ready Tauri + Vue template with TypeScript, Tailwind 4, testing, and CI/CD
 - [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
 - [convergencelabs/monaco-collab-ext](https://github.com/convergencelabs/monaco-collab-ext) - Adds collaborative editing capabilities to the Monaco Editor
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.

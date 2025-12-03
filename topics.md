@@ -2051,7 +2051,7 @@
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
-- [fosrl/newt](https://github.com/fosrl/newt) - A tunneling client for Pangolin
+- [fosrl/newt](https://github.com/fosrl/newt) - Pangolin tunneled site & network connector
 - [alandtse/alexa_media_player](https://github.com/alandtse/alexa_media_player) - This is a custom component to allow control of Amazon Alexa devices in Home Assistant using the unofficial Alexa API.
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
@@ -3866,7 +3866,7 @@
 - [antfu/nip](https://github.com/antfu/nip) - 
 - [directus/rstore](https://github.com/directus/rstore) - The Reactive Data Store for Vue and Nuxt developers.
 - [eienjs/adonisjs-api-query](https://github.com/eienjs/adonisjs-api-query) - Easily build Lucid queries from API requests
-- [sxzz/tsgo-releases](https://github.com/sxzz/tsgo-releases) - Unofficial  TypeScript 7 Releases
+- [sxzz/tsgo-wasm-releases](https://github.com/sxzz/tsgo-wasm-releases) - Unofficial  TypeScript 7 Releases
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [viridia/bevy_reactor_2](https://github.com/viridia/bevy_reactor_2) - Fine-grained reactivity framework for Bevy.
 - [antfu-collective/vite-plugin-inspect](https://github.com/antfu-collective/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins
@@ -7069,7 +7069,7 @@
 ## vpn 
 
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
-- [fosrl/newt](https://github.com/fosrl/newt) - A tunneling client for Pangolin
+- [fosrl/newt](https://github.com/fosrl/newt) - Pangolin tunneled site & network connector
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 - [jkennethcarino/droidovpn](https://github.com/jkennethcarino/droidovpn) - An unofficial VPN Gate client for Android.
 

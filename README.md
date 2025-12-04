@@ -558,12 +558,13 @@
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
-- [fosrl/newt](https://github.com/fosrl/newt) - A tunneling client for Pangolin
+- [fosrl/newt](https://github.com/fosrl/newt) - Pangolin tunneled site & network connector
 - [pterodactyl/wings](https://github.com/pterodactyl/wings) - The server control plane for Pterodactyl Panel. Written from the ground-up with security, speed, and stability in mind.
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [erigontech/erigon](https://github.com/erigontech/erigon) - Ethereum implementation on the efficiency frontier
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
@@ -712,7 +713,7 @@
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic and non-atomic counters and rate limiting tools. Limit resource access at any scale.
 - [alewin/useWorker](https://github.com/alewin/useWorker) - ⚛️ useWorker() - A React Hook for Blocking-Free Background Tasks
-- [sxzz/tsgo-releases](https://github.com/sxzz/tsgo-releases) - Unofficial  TypeScript 7 Releases
+- [sxzz/tsgo-wasm](https://github.com/sxzz/tsgo-wasm) - TypeScript 7 WASM
 - [Automattic/juice](https://github.com/Automattic/juice) - Juice inlines CSS stylesheets into your HTML source.
 - [sindresorhus/string-width](https://github.com/sindresorhus/string-width) - Get the visual width of a string - the number of columns required to display it
 - [yoannmoinet/nipplejs](https://github.com/yoannmoinet/nipplejs) - :video_game: A virtual joystick for touch capable interfaces.
@@ -1878,7 +1879,6 @@
 - [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon) - :page_facing_up: Python Apps for Home Automation
 - [droidrun/droidrun](https://github.com/droidrun/droidrun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
 - [HiDream-ai/HiDream-I1](https://github.com/HiDream-ai/HiDream-I1) - 
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [kyutai-labs/moshivis](https://github.com/kyutai-labs/moshivis) - Kyutai with an "eye"
 - [tlkh/asitop](https://github.com/tlkh/asitop) - Perf monitoring CLI tool for Apple Silicon
@@ -1998,6 +1998,7 @@
 
 ## Rust 
 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [eckz/bevy_flair](https://github.com/eckz/bevy_flair) - Bevy UI styling using CSS
 - [benfdking/gpuiflow](https://github.com/benfdking/gpuiflow) - 
 - [Hans-Halverson/brimstone](https://github.com/Hans-Halverson/brimstone) - New JavaScript engine written in Rust
@@ -2372,7 +2373,7 @@
 - [johanhelsing/matchbox](https://github.com/johanhelsing/matchbox) - Painless peer-to-peer WebRTC networking for rust wasm (and native!)
 - [mdenchev/bevy_aseprite](https://github.com/mdenchev/bevy_aseprite) - 
 - [aws/aws-lambda-rust-runtime](https://github.com/aws/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
-- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - infrastructure for long-lived, in-memory processes called Actors. It's what you reach for when you hit the limitations of HTTP, databases, or queues.
+- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors: long-lived, in-memory processes. It's what you reach for when you hit the limitations of HTTP, databases, or queues.
 - [rbatis/rbatis](https://github.com/rbatis/rbatis) - Compile Time Async Dynamic SQL ORM
 - [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - A cargo-subcommand to speed up Rust Docker builds using Docker layer caching.
 - [m1guelpf/ensemble](https://github.com/m1guelpf/ensemble) - A Laravel-inspired ORM for Rust
@@ -2541,6 +2542,7 @@
 - [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust compatible with Jinja/Jinja2
 - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [specta-rs/rspc](https://github.com/specta-rs/rspc) - A framework for building typesafe web backends in Rust
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [tczajka/ibig-rs](https://github.com/tczajka/ibig-rs) - A big integer library in Rust with good performance.
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
@@ -2730,6 +2732,7 @@
 
 ## TypeScript 
 
+- [boringnode/queue](https://github.com/boringnode/queue) - A simple and efficient framework-agnostic queue system for Node.js applications
 - [nuxt-content/studio](https://github.com/nuxt-content/studio) - Edit your Markdown website, in production.
 - [KABBOUCHI/adonisjs-ui](https://github.com/KABBOUCHI/adonisjs-ui) - 
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
@@ -3107,7 +3110,6 @@
 - [unjs/ungh](https://github.com/unjs/ungh) - 🐙 Unlimited access to github API
 - [LinusBorg/vue-mixable](https://github.com/LinusBorg/vue-mixable) - Turn Vue Mixins into Composables with a simple wrapper function
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [webbertakken/map-editor-2d](https://github.com/webbertakken/map-editor-2d) - Cross-platform 2D editor that saves scenes to json
 - [adonisjs/vite](https://github.com/adonisjs/vite) - Vite plugin for AdonisJS
 - [nvh95/vitest-preview](https://github.com/nvh95/vitest-preview) - Debug your Vitest tests. Effortlessly. 🧪🖼⚡️

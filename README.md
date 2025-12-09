@@ -444,6 +444,7 @@
 
 ## Dart 
 
+- [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) - Flutter/Dart &lt;-&gt; Rust binding generator, feature-rich, but seamless and simple.
 - [JGeek00/adguard-home-manager](https://github.com/JGeek00/adguard-home-manager) - AdGuard Home client created with Flutter
 - [DonutWare/Fladder](https://github.com/DonutWare/Fladder) - Fladder - A Simple Jellyfin frontend built on top of Flutter.
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
@@ -621,7 +622,6 @@
 - [spider-rs/html2md](https://github.com/spider-rs/html2md) - HTML to markdown for Rust
 - [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨
 - [rust-lang/arewewebyet](https://github.com/rust-lang/arewewebyet) - Are we web yet? A simple reckoning of Rust's readiness for Web-related things.
-- [markmead/hyperjs](https://github.com/markmead/hyperjs) - HyperJS is a component library for Alpine JS allowing developers to quickly copy and paste functionality into their projects 🛵
 - [Accudio/async-alpine](https://github.com/Accudio/async-alpine) - Async Alpine brings advanced code splitting and lazy-loading to Alpine.js components!
 - [andypf/json-viewer](https://github.com/andypf/json-viewer) - 
 - [rylev/DMG-01](https://github.com/rylev/DMG-01) - A Gameboy Emulator in Rust
@@ -1601,7 +1601,7 @@
 - [spatie/laravel-cors](https://github.com/spatie/laravel-cors) - Send CORS headers in a Laravel application
 - [spatie/laravel-blade-x](https://github.com/spatie/laravel-blade-x) - Use custom HTML components in your Blade views
 - [spatie/laravel-view-models](https://github.com/spatie/laravel-view-models) - View models in Laravel
-- [driesvints/vat-calculator](https://github.com/driesvints/vat-calculator) - Handle all the hard stuff related to EU MOSS tax/vat regulations, the way it should be.
+- [laravel/vat-calculator](https://github.com/laravel/vat-calculator) - Handle all the hard stuff related to EU MOSS tax/vat regulations, the way it should be.
 - [thephpleague/omnipay-paypal](https://github.com/thephpleague/omnipay-paypal) - PayPal driver for the Omnipay PHP payment processing library
 - [spatie/laravel-validation-rules](https://github.com/spatie/laravel-validation-rules) - A set of useful Laravel validation rules
 - [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
@@ -1998,6 +1998,7 @@
 
 ## Rust 
 
+- [solana-playground/solana-playground](https://github.com/solana-playground/solana-playground) - Quickly develop, deploy and test Solana programs from browsers
 - [iamsauravsharma/sqlx_migrator](https://github.com/iamsauravsharma/sqlx_migrator) - SQLX migration using Rust insted of SQL
 - [jasonjmcghee/ron-lsp](https://github.com/jasonjmcghee/ron-lsp) - An LSP and CLI for RON files that provides autocomplete, diagnostics, go to definition, code actions, and hover support based on Rust type annotations
 - [rust-lang/flate2-rs](https://github.com/rust-lang/flate2-rs) - DEFLATE, gzip, and zlib bindings for Rust
@@ -2739,6 +2740,7 @@
 
 ## TypeScript 
 
+- [W4G1/multithreading](https://github.com/W4G1/multithreading) - The missing standard library for multithreading in JavaScript (Works in the browser, Node.js, Deno, Bun)
 - [boringnode/queue](https://github.com/boringnode/queue) - A simple and efficient framework-agnostic queue system for Node.js applications
 - [nuxt-content/studio](https://github.com/nuxt-content/studio) - Edit your Markdown website, in production.
 - [KABBOUCHI/adonisjs-ui](https://github.com/KABBOUCHI/adonisjs-ui) - 

@@ -3885,7 +3885,7 @@
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
 - [HiDream-ai/HiDream-I1](https://github.com/HiDream-ai/HiDream-I1) - 
-- [water-rs/waterui](https://github.com/water-rs/waterui) - Bring your app to all plaform, once for all.
+- [water-rs/waterui](https://github.com/water-rs/waterui) - Bring your app to all platform, learning once and applying anywhere
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [TechHutTV/homelab](https://github.com/TechHutTV/homelab) - Homelab stacks, templates, and more fun resources!
 - [cyco130/detype](https://github.com/cyco130/detype) - Remove the types, keep the formatting

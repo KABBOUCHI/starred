@@ -73,7 +73,6 @@
 
 - [HassanZahirnia/laravel-package-ocean](https://github.com/HassanZahirnia/laravel-package-ocean) - Discover new & useful Laravel packages.
 - [livewire/flux](https://github.com/livewire/flux) - The official Livewire UI component library
-- [mckenziearts/laravel-notify](https://github.com/mckenziearts/laravel-notify) - Flexible Flash notifications for Laravel
 - [Miaababikir/laravel-tailwind-css-dashboard-preset](https://github.com/Miaababikir/laravel-tailwind-css-dashboard-preset) - :fire:Dashboard preset using tailwindcss that support RTL out of the box
 - [Qoraiche/laravel-mail-editor](https://github.com/Qoraiche/laravel-mail-editor) - MailEclipse :zap: Laravel Mail Editor
 - [papertank/envoy-deploy](https://github.com/papertank/envoy-deploy) - Laravel Envoy Deployment
@@ -354,7 +353,7 @@
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.7.64877, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.7.64978, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
@@ -554,6 +553,7 @@
 
 ## Go 
 
+- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [TwiN/gatus](https://github.com/TwiN/gatus) - The most advanced status page in the world
 - [oxc-project/tsgolint](https://github.com/oxc-project/tsgolint) - Type aware linting for oxlint
@@ -981,7 +981,6 @@
 - [galvez/nuxt-esbuild-module](https://github.com/galvez/nuxt-esbuild-module) - Nuxt module for enabling ESBuild compilation
 - [gridsome/gridsome](https://github.com/gridsome/gridsome) - ⚡️ The Jamstack framework for Vue.js
 - [nuxt/vue-meta](https://github.com/nuxt/vue-meta) - Manage HTML metadata in Vue.js components with SSR support
-- [stalniy/casl](https://github.com/stalniy/casl) - CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access
 - [m1guelpf/better-pest](https://github.com/m1guelpf/better-pest) - A better Pest test runner for VS Code
 - [posva/vue-ts-lib](https://github.com/posva/vue-ts-lib) - Vue 3 library starter in TS with lint, auto release, changelog and tests
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
@@ -1445,6 +1444,7 @@
 - [spatie/twitter-streaming-api](https://github.com/spatie/twitter-streaming-api) - Easily work with the Twitter Streaming API
 - [moneyphp/money](https://github.com/moneyphp/money) - PHP implementation of Fowler's Money pattern.
 - [lavary/laravel-menu](https://github.com/lavary/laravel-menu) - A quick way to create menus in Laravel
+- [mckenziearts/laravel-notify](https://github.com/mckenziearts/laravel-notify) - Flexible Flash notifications for Laravel
 - [grimzy/laravel-mysql-spatial](https://github.com/grimzy/laravel-mysql-spatial) - MySQL Spatial Data Extension integration with Laravel.
 - [filamentphp/filament](https://github.com/filamentphp/filament) - A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire
 - [laravel-json-api/laravel](https://github.com/laravel-json-api/laravel) - JSON:API for Laravel applications
@@ -2130,6 +2130,7 @@
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [a16z/helios](https://github.com/a16z/helios) - A fast, secure, and portable multichain light client for Ethereum
+- [codemod/codemod](https://github.com/codemod/codemod) - The CLI for codemods: scaffold, share, and run multi-step transformations of any size. First-class ast-grep support. Fast, reliable, polyglot.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.
@@ -2524,7 +2525,7 @@
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
 - [saru-tora/anansi](https://github.com/saru-tora/anansi) - A simple full-stack web framework for Rust
 - [quadrupleslap/scrap](https://github.com/quadrupleslap/scrap) - 📸 Screen capture made easy!
-- [webrtc-rs/webrtc](https://github.com/webrtc-rs/webrtc) - A pure Rust implementation of WebRTC
+- [webrtc-rs/webrtc](https://github.com/webrtc-rs/webrtc) - Async-friendly WebRTC implementation in Rust
 - [RustAudio/cpal](https://github.com/RustAudio/cpal) - Cross-platform audio I/O library in pure Rust
 - [rwasm/vite-rsw-wasm-template](https://github.com/rwasm/vite-rsw-wasm-template) - Vite + Rust 💖 WebAssembly
 - [emoon/rust_minifb](https://github.com/emoon/rust_minifb) - Cross platfrom window and framebuffer crate for Rust
@@ -2750,6 +2751,7 @@
 
 ## TypeScript 
 
+- [nuxt-ui-templates/editor](https://github.com/nuxt-ui-templates/editor) - Notion-like WYSIWYG editor with AI-powered autocompletion in Vue & Nuxt.
 - [poppinss/ts-exec](https://github.com/poppinss/ts-exec) - Execute TypeScript on Node using SWC
 - [mathuo/dockview](https://github.com/mathuo/dockview) - Zero dependency Docking Layout Manager. Supports Vanilla TypeScript, React and Vue.
 - [tinylibs/tinypool](https://github.com/tinylibs/tinypool) - 🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB)
@@ -2849,7 +2851,6 @@
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [paradigmxyz/rivet](https://github.com/paradigmxyz/rivet) - Developer Wallet & DevTools for Anvil
 - [wevm/prool](https://github.com/wevm/prool) - HTTP testing instances for Ethereum
-- [codemod/codemod](https://github.com/codemod/codemod) - The CLI for codemods: scaffold, share, and run multi-step transformations of any size. First-class ast-grep support. Fast, reliable, polyglot.
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [LyonSyonII/rubri](https://github.com/LyonSyonII/rubri) - Rust interpreter that runs in the browser!
 - [tus/tus-node-server](https://github.com/tus/tus-node-server) - Node.js tus server, standalone or integrable in any framework, with disk, S3, Azure, and GGC stores.
@@ -3256,7 +3257,7 @@
 - [kwhitley/itty-router](https://github.com/kwhitley/itty-router) - A little router.
 - [acuarica/vscode-ethers](https://github.com/acuarica/vscode-ethers) - Ethers Mode allows you to explore and call Smart Contracts methods using Ethers.js and view the response directly in VS Code. It interacts with any EVM-compatible blockchain, e.g., Ethereum, Polygon, 
 - [unjs/node-fetch-native](https://github.com/unjs/node-fetch-native) - better fetch for Node.js. Works on any JavaScript runtime!
-- [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - The best apps in the AI era aren’t solo experiences—they’re collaborative. Liveblocks provides customizable pre‑built features to make your product multiplayer, engaging, and AI‑ready. All without der
+- [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks gives you the building blocks and infrastructure to enable people and AI to work together inside your app.
 - [antfu/vscode-goto-alias](https://github.com/antfu/vscode-goto-alias) - Go to Definition following alias redirections.
 - [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Flexible, minimal, data-oriented ECS library for Typescript
 - [antfu/esno](https://github.com/antfu/esno) - Alias to `tsx`
@@ -3436,6 +3437,7 @@
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [brattonross/vite-plugin-voie](https://github.com/brattonross/vite-plugin-voie) - File system based routing plugin for Vite
 - [antfu/vscode-iconify](https://github.com/antfu/vscode-iconify) - 🙂 Iconify IntelliSense for VS Code
+- [stalniy/casl](https://github.com/stalniy/casl) - CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access
 - [laravel-presets/pest](https://github.com/laravel-presets/pest) - A preset for installing @pestphp in a fresh Laravel project
 - [preset/preset](https://github.com/preset/preset) - Elegant, ecosystem-agnostic preset mechanism
 - [antfu-collective/vitesse](https://github.com/antfu-collective/vitesse) - 🏕 Opinionated Vite + Vue Starter Template

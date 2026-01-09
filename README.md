@@ -26,6 +26,7 @@
 - [Haskell](#haskell)
 - [Haxe](#haxe)
 - [Inno Setup](#inno-setup)
+- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -86,6 +87,7 @@
 
 ## C 
 
+- [ducalex/retro-go](https://github.com/ducalex/retro-go) - Retro emulation for the ODROID-GO and other ESP32 devices
 - [cc65/cc65](https://github.com/cc65/cc65) - cc65 - a freeware C compiler for 6502 based systems
 - [libjpeg-turbo/libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo) - Main libjpeg-turbo repository
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
@@ -562,7 +564,7 @@
 
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
-- [TwiN/gatus](https://github.com/TwiN/gatus) - The most advanced status page in the world
+- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [oxc-project/tsgolint](https://github.com/oxc-project/tsgolint) - Type aware linting for oxlint
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
@@ -574,6 +576,7 @@
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [erigontech/erigon](https://github.com/erigontech/erigon) - Ethereum implementation on the efficiency frontier
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
@@ -678,6 +681,10 @@
 ## Inno Setup 
 
 - [CnCNet/cncnet-yr-client-package](https://github.com/CnCNet/cncnet-yr-client-package) - The official CnCNet Yuri's Revenge package for online.
+
+## JSON 
+
+- [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
 
 ## Java 
 
@@ -980,7 +987,6 @@
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [adambullmer/vue-cli-plugin-browser-extension](https://github.com/adambullmer/vue-cli-plugin-browser-extension) - Browser extension development plugin for vue-cli 3.0
 - [Kocal/vue-web-extension](https://github.com/Kocal/vue-web-extension) - 🛠️ A Vue CLI 3+ preset (previously a Vue CLI 2 boilerplate) for quickly starting a web extension with Vue, Babel, ESLint and more!
-- [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [MZanggl/inertia-adonis](https://github.com/MZanggl/inertia-adonis) - Inertia Adonis adapter to create server-driven single page applications
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
@@ -1359,7 +1365,7 @@
 - [vitodeploy/vito](https://github.com/vitodeploy/vito) - Free and Self-Hosted  Server Management Tool
 - [et-nik/gameap](https://github.com/et-nik/gameap) - Game Admin Panel (GameAP) is the opensource game servers control panel. This is an outdated version of the GameAP. New version: https://github.com/gameap/gameap
 - [soloterm/solo](https://github.com/soloterm/solo) - Your all-in-one Laravel command to tame local development
-- [tempestphp/highlight](https://github.com/tempestphp/highlight) - 🎨 Fast, extensible, server-side code highlighting for web and terminal
+- [tempestphp/highlight](https://github.com/tempestphp/highlight) - Fast, extensible, server-side code highlighting for web and terminal
 - [imliam/cpx](https://github.com/imliam/cpx) - Run any command from any composer package, even if it's not installed in your project.
 - [laradumps/laradumps](https://github.com/laradumps/laradumps) - 🛻 LaraDumps is a friendly app designed to boost your Laravel PHP coding and debugging experience.
 - [phpactor/phpactor](https://github.com/phpactor/phpactor) - Mainly a PHP Language Server with more features than you can shake a stick at
@@ -1887,7 +1893,6 @@
 - [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon) - :page_facing_up: Python Apps for Home Automation
 - [droidrun/droidrun](https://github.com/droidrun/droidrun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
 - [HiDream-ai/HiDream-I1](https://github.com/HiDream-ai/HiDream-I1) - 
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [kyutai-labs/moshivis](https://github.com/kyutai-labs/moshivis) - Kyutai with an "eye"
 - [tlkh/asitop](https://github.com/tlkh/asitop) - Perf monitoring CLI tool for Apple Silicon
@@ -1906,7 +1911,7 @@
 - [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi) - Moshi is a speech-text foundation model and full-duplex spoken dialogue framework. It uses Mimi, a state-of-the-art streaming neural audio codec.
 - [crystian/ComfyUI-Crystools](https://github.com/crystian/ComfyUI-Crystools) - A powerful set of tools for ComfyUI
 - [Comfy-Org/ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) - ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this 
-- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [google/diff-match-patch](https://github.com/google/diff-match-patch) - Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
@@ -2007,6 +2012,7 @@
 
 ## Rust 
 
+- [arryndoestech/adt_os](https://github.com/arryndoestech/adt_os) - 
 - [misprit7/computerraria](https://github.com/misprit7/computerraria) - A fully compliant RISC-V computer made inside the game Terraria
 - [probe-rs/probe-rs](https://github.com/probe-rs/probe-rs) - A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host
 - [bergercookie/asm-lsp](https://github.com/bergercookie/asm-lsp) - Language server for NASM/GAS/GO Assembly
@@ -2076,7 +2082,7 @@
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS
 - [facet-rs/facet](https://github.com/facet-rs/facet) - Rust reflection, serialization, deserialization, pretty printing, etc. — the last proc macro you should need
-- [suitedaces/computer-agent](https://github.com/suitedaces/computer-agent) - Desktop app to control your computer with AI, written in Rust
+- [suitedaces/computer-agent](https://github.com/suitedaces/computer-agent) - Desktop app to control your computer with AI using your terminal, browser, mouse & keyboard
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [not-fl3/macroquad](https://github.com/not-fl3/macroquad) - Cross-platform game engine in Rust.
 - [ferronweb/ferron](https://github.com/ferronweb/ferron) - A fast, memory-safe web server written in Rust.
@@ -2591,7 +2597,7 @@
 - [sgrif/swirl](https://github.com/sgrif/swirl) - A simple background processing framework for Diesel and PostgreSQL
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
 - [mvniekerk/tokio-cron-scheduler](https://github.com/mvniekerk/tokio-cron-scheduler) - Schedule tasks on Tokio using cron-like annotation
-- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
 - [paritytech/parity-common](https://github.com/paritytech/parity-common) - Collection of crates used in Parity projects
 - [cmpute/dashu](https://github.com/cmpute/dashu) - A library set of arbitrary precision numbers implemented in Rust.
 - [sigp/lighthouse](https://github.com/sigp/lighthouse) - Ethereum consensus client in Rust
@@ -2694,6 +2700,7 @@
 
 ## Shell 
 
+- [christianhaitian/dArkOS](https://github.com/christianhaitian/dArkOS) - Debian based ArkOS
 - [AngelJumbo/gruvbox-wallpapers](https://github.com/AngelJumbo/gruvbox-wallpapers) - Gruvbox theme Wallpapers
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [Danilop95/Proxmox-Enhanced-Configuration-Utility](https://github.com/Danilop95/Proxmox-Enhanced-Configuration-Utility) - Is a comprehensive and versatile Bash script designed to simplify and optimize the configuration and management of Proxmox Virtual Environment (VE) systems.
@@ -2769,13 +2776,13 @@
 
 - [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash) - 
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
-- [nuxt-ui-templates/editor](https://github.com/nuxt-ui-templates/editor) - Notion-like WYSIWYG editor with AI-powered autocompletion in Vue & Nuxt.
+- [nuxt-ui-templates/editor](https://github.com/nuxt-ui-templates/editor) - Notion-like WYSIWYG editor with AI-powered completions and real-time collaboration in Vue & Nuxt.
 - [poppinss/ts-exec](https://github.com/poppinss/ts-exec) - Execute TypeScript on Node using SWC
 - [mathuo/dockview](https://github.com/mathuo/dockview) - Zero dependency Docking Layout Manager. Supports Vanilla TypeScript, React and Vue.
 - [tinylibs/tinypool](https://github.com/tinylibs/tinypool) - 🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB)
 - [W4G1/multithreading](https://github.com/W4G1/multithreading) - The missing standard library for multithreading in JavaScript (Works in the browser, Node.js, Deno, Bun)
 - [boringnode/queue](https://github.com/boringnode/queue) - A simple and efficient framework-agnostic queue system for Node.js applications
-- [nuxt-content/studio](https://github.com/nuxt-content/studio) - Edit your Markdown website, in production.
+- [nuxt-content/nuxt-studio](https://github.com/nuxt-content/nuxt-studio) - Edit your Markdown website, in production.
 - [KABBOUCHI/adonisjs-ui](https://github.com/KABBOUCHI/adonisjs-ui) - 
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
@@ -2819,7 +2826,6 @@
 - [directus/rstore](https://github.com/directus/rstore) - The Reactive Data Store for Vue and Nuxt developers.
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [eienjs/adonisjs-api-query](https://github.com/eienjs/adonisjs-api-query) - Easily build Lucid queries from API requests
-- [antfu-collective/vite-plugin-inspect](https://github.com/antfu-collective/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins
 - [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink) - Two conversational AI agents switching from English to sound-level protocol after confirming they are both AI agents
 - [romhml/compodium](https://github.com/romhml/compodium) - A plug and play component playground for Vue and Nuxt.
 - [Comfy-Org/desktop](https://github.com/Comfy-Org/desktop) - The desktop app for ComfyUI (Windows & macOS)
@@ -3007,7 +3013,7 @@
 - [nuxt-modules/og-image](https://github.com/nuxt-modules/og-image) - Generate OG Images with Vue templates in Nuxt.
 - [Julien-R44/bentocache](https://github.com/Julien-R44/bentocache) - 🍱 Bentocache is a robust multi-tier caching library for Node.js applications
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
-- [peterboyer/pb.adt](https://github.com/peterboyer/pb.adt) - Universal ADT utilities. (Formerly unenum).
+- [peterboyer/pb.adt](https://github.com/peterboyer/pb.adt) - Universal ADT utilities.
 - [nuxtrdev/nuxtr-vscode](https://github.com/nuxtrdev/nuxtr-vscode) - An extension offering commands and tools to make your experience with Nuxt more pleasant.
 - [taskforcesh/bullmq-proxy](https://github.com/taskforcesh/bullmq-proxy) - HTTP based proxy for accessing BullMQ Queues
 - [latticexyz/mud](https://github.com/latticexyz/mud) - MUD is a framework for building autonomous worlds
@@ -3279,7 +3285,7 @@
 - [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Flexible, minimal, data-oriented ECS library for Typescript
 - [antfu/esno](https://github.com/antfu/esno) - Alias to `tsx`
 - [denostack/superserial](https://github.com/denostack/superserial) - A comprehensive Serializer/Deserializer that can handle any data type.
-- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [epiphone/routing-controllers-openapi](https://github.com/epiphone/routing-controllers-openapi) - Runtime OpenAPI v3 schema generation for routing-controllers.
 - [DamianOsipiuk/vue-query](https://github.com/DamianOsipiuk/vue-query) - Hooks for fetching, caching and updating asynchronous data in Vue
@@ -3535,7 +3541,7 @@
 - [ktsn/vue-route-generator](https://github.com/ktsn/vue-route-generator) - Vue Router route config generator
 - [ktsn/vue-auto-routing](https://github.com/ktsn/vue-auto-routing) - Generate Vue Router routing automatically
 - [Developmint/nuxt-purgecss](https://github.com/Developmint/nuxt-purgecss) - Drop superfluous CSS! A neat PurgeCSS wrapper for Nuxt.js
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
 - [stuffmatic/fSpy](https://github.com/stuffmatic/fSpy) - A cross platform app for quick and easy still image camera matching
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
@@ -3591,6 +3597,7 @@
 - [nuxt-ui-templates/chat](https://github.com/nuxt-ui-templates/chat) - Nuxt AI Chatbot Template made with Nuxt UI and Vercel AI SDK.
 - [fayazara/animated-lucide-vue](https://github.com/fayazara/animated-lucide-vue) - Animated Lucide Icons for vue using the new motion-vue library
 - [atinux/npm-chart](https://github.com/atinux/npm-chart) - Visualize npm downloads in a beautiful chart, ready to be shared with your community.
+- [antfu-collective/vite-plugin-inspect](https://github.com/antfu-collective/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins
 - [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit) - 
 - [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) - JET Pilot is an open-source Kubernetes desktop client that focuses on less clutter, speed and good looks.
 - [HugoRCD/nuppets](https://github.com/HugoRCD/nuppets) - A productivity hub for Nuxt and Vue.js development - Snippets, AI commands, and more tools to enhance your workflow

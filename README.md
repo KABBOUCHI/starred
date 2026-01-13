@@ -1826,7 +1826,7 @@
 - [spatie/laravel-backup](https://github.com/spatie/laravel-backup) - A package to backup your Laravel app
 - [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
-- [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
+- [fruitcake/laravel-debugbar](https://github.com/fruitcake/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
 - [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
 - [jplhomer/fresa](https://github.com/jplhomer/fresa) - 🍓 Developing WordPress should be sweet.
 - [spatie/eloquent-sortable](https://github.com/spatie/eloquent-sortable) - Sortable behaviour for Eloquent models
@@ -1870,7 +1870,7 @@
 
 ## PowerShell 
 
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker for fine-tuning Windows 10 & Windows 11
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker for fine-tuning Windows on GitHub
 
 ## Pug 
 
@@ -2774,6 +2774,8 @@
 
 ## TypeScript 
 
+- [boringnode/bus](https://github.com/boringnode/bus) - A simple and lean service bus implementation for Node.js
+- [boringnode/encryption](https://github.com/boringnode/encryption) - A framework agnostic encryption library
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash) - 
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.

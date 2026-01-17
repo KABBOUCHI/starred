@@ -3852,7 +3852,7 @@
 - [bergercookie/asm-lsp](https://github.com/bergercookie/asm-lsp) - Language server for NASM/GAS/GO Assembly
 - [cc65/cc65](https://github.com/cc65/cc65) - cc65 - a freeware C compiler for 6502 based systems
 - [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs) - Rust library for build scripts to compile C/C++ code into a Rust library
-- [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash) - 
+- [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash) - Bash for Agents
 - [tag1consulting/feste](https://github.com/tag1consulting/feste) - A GPT-2 style transformer language model implemented from scratch in Rust for educational purposes.
 - [poppinss/ts-exec](https://github.com/poppinss/ts-exec) - Execute TypeScript on Node using SWC
 - [gpui-ce/gpui-ce](https://github.com/gpui-ce/gpui-ce) - GPUI – Community Edition
@@ -6574,7 +6574,7 @@
 
 ## sublime-text 
 
-- [dempfi/ayu](https://github.com/dempfi/ayu) - 🎨🖌 Modern Sublime Text theme
+- [dempfi/ayu](https://github.com/dempfi/ayu) - 🎨🖌 Modern, bright color theme for Sublime Text
 
 ## svelte 
 

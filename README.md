@@ -1833,7 +1833,7 @@
 - [always-open/laravel-totem](https://github.com/always-open/laravel-totem) - Manage Your Laravel Schedule From A Web Dashboard
 - [laravel/horizon](https://github.com/laravel/horizon) - Dashboard and code-driven configuration for Laravel queues.
 - [jorijn/laravel-security-checker](https://github.com/jorijn/laravel-security-checker) - Added Laravel functionality to Enlightn Security Checker. Adds a command to check for, and optionally emails you, vulnerabilities when they affect you.
-- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax.
 - [spatie/browsershot](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string
 - [kitetail/zttp](https://github.com/kitetail/zttp) - A developer-experience focused HTTP client, optimized for most common use cases.
 - [KABBOUCHI/laravel-table-view](https://github.com/KABBOUCHI/laravel-table-view) - Laravel 5 Package for easily displaying table views for Eloquent Collections
@@ -1907,7 +1907,6 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [snakers4/silero-vad](https://github.com/snakers4/silero-vad) - Silero VAD: pre-trained enterprise-grade Voice Activity Detector
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
 - [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi) - Moshi is a speech-text foundation model and full-duplex spoken dialogue framework. It uses Mimi, a state-of-the-art streaming neural audio codec.
 - [crystian/ComfyUI-Crystools](https://github.com/crystian/ComfyUI-Crystools) - A powerful set of tools for ComfyUI
@@ -2905,6 +2904,7 @@
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [lookinlab/adonis-lucid-soft-deletes](https://github.com/lookinlab/adonis-lucid-soft-deletes) - Addon for soft deletes AdonisJS Lucid ORM
 - [stackblitz/alien-signals](https://github.com/stackblitz/alien-signals) - 👾 The lightest signal library
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [sdfxai/sdfx](https://github.com/sdfxai/sdfx) - The ultimate no-code platform to build and share AI apps with beautiful UI.
 - [unjs/unenv](https://github.com/unjs/unenv) - 🕊️ Node.js compatibility for any JavaScript runtime, including browsers and edge workers.
 - [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.

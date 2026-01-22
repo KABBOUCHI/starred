@@ -341,7 +341,7 @@
 - [goat-sdk/goat](https://github.com/goat-sdk/goat) - The leading agentic finance toolkit for AI agents
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - open source rewind | 100% local | dev friendly | 24/7 screen, mic recording
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
@@ -966,7 +966,7 @@
 
 ## computer-vision 
 
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - open source rewind | 100% local | dev friendly | 24/7 screen, mic recording
 - [robertknight/ocrs](https://github.com/robertknight/ocrs) - Rust library and CLI tool for OCR (extracting text from images)
 - [coderonion/awesome-rust-list](https://github.com/coderonion/awesome-rust-list) - This repository lists some awesome public Rust projects, Videos, Blogs and Jobs.
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
@@ -1717,7 +1717,7 @@
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [ssannandeji/Zenject-2019](https://github.com/ssannandeji/Zenject-2019) - Dependency Injection Framework for Unity3D
-- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax.
 - [laravel-zero/laravel-zero](https://github.com/laravel-zero/laravel-zero) - A PHP framework for console artisans
 - [noodlehaus/dispatch](https://github.com/noodlehaus/dispatch) - a tiny library for quick and easy PHP apps
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
@@ -3072,7 +3072,7 @@
 - [jorijn/laravel-security-checker](https://github.com/jorijn/laravel-security-checker) - Added Laravel functionality to Enlightn Security Checker. Adds a command to check for, and optionally emails you, vulnerabilities when they affect you.
 - [tlaverdure/laravel-echo-server](https://github.com/tlaverdure/laravel-echo-server) - Socket.io server for Laravel Echo
 - [TimothyDJones/awesome-laravel](https://github.com/TimothyDJones/awesome-laravel) - A curated list of delightful Laravel PHP framework packages and resources
-- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax.
 - [laravel-zero/laravel-zero](https://github.com/laravel-zero/laravel-zero) - A PHP framework for console artisans
 - [ecrmnn/collect.js](https://github.com/ecrmnn/collect.js) - 💎  Convenient and dependency free wrapper for working with arrays and objects
 - [voten-co/voten](https://github.com/voten-co/voten) - The code that powers voten.co
@@ -3165,7 +3165,7 @@
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - open source rewind | 100% local | dev friendly | 24/7 screen, mic recording
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
@@ -3229,7 +3229,7 @@
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [blackportal-ai/delta](https://github.com/blackportal-ai/delta) - An Open-Source Machine Learning Framework in Rust Δ
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - open source rewind | 100% local | dev friendly | 24/7 screen, mic recording
 - [robertknight/ocrs](https://github.com/robertknight/ocrs) - Rust library and CLI tool for OCR (extracting text from images)
 - [Comfy-Org/ComfyUI_frontend](https://github.com/Comfy-Org/ComfyUI_frontend) - Official front-end implementation of ComfyUI
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
@@ -5610,7 +5610,7 @@
 - [spatie/eloquent-sortable](https://github.com/spatie/eloquent-sortable) - Sortable behaviour for Eloquent models
 - [jorijn/laravel-security-checker](https://github.com/jorijn/laravel-security-checker) - Added Laravel functionality to Enlightn Security Checker. Adds a command to check for, and optionally emails you, vulnerabilities when they affect you.
 - [TimothyDJones/awesome-laravel](https://github.com/TimothyDJones/awesome-laravel) - A curated list of delightful Laravel PHP framework packages and resources
-- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax.
 - [spatie/browsershot](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string
 - [laravel-zero/laravel-zero](https://github.com/laravel-zero/laravel-zero) - A PHP framework for console artisans
 - [voten-co/voten](https://github.com/voten-co/voten) - The code that powers voten.co

@@ -595,7 +595,7 @@
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
@@ -2140,7 +2140,7 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [c2i-junia/rustcraft](https://github.com/c2i-junia/rustcraft) - Minecraft game clone written in Rust.
 - [blackportal-ai/delta](https://github.com/blackportal-ai/delta) - An Open-Source Machine Learning Framework in Rust Δ
-- [actuate-rs/actuate](https://github.com/actuate-rs/actuate) - A framework for declarative programming in Rust
+- [matthunz/actuate](https://github.com/matthunz/actuate) - A framework for declarative programming in Rust
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [TheSeekerGame/TheSeeker](https://github.com/TheSeekerGame/TheSeeker) - Metroidvania game in Bevy
 - [bionic-gpt/daisy-rsx](https://github.com/bionic-gpt/daisy-rsx) - Dioxus Components for DaisyUI

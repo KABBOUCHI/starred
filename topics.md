@@ -5973,6 +5973,7 @@
 
 ## rust 
 
+- [ansuz/RIIR](https://github.com/ansuz/RIIR) - why not Rewrite It In Rust
 - [ohkami-rs/alien-signals-rs](https://github.com/ohkami-rs/alien-signals-rs) - Rust port of alien-signals 👾 the lightest signal library
 - [dmmulroy/better-result](https://github.com/dmmulroy/better-result) - Lightweight Result type for TypeScript with generator-based composition.
 - [probe-rs/probe-rs](https://github.com/probe-rs/probe-rs) - A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host

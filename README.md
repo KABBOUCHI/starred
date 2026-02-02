@@ -595,7 +595,7 @@
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
@@ -1249,6 +1249,7 @@
 
 ## Others 
 
+- [ansuz/RIIR](https://github.com/ansuz/RIIR) - why not Rewrite It In Rust
 - [zed-industries/awesome-gpui](https://github.com/zed-industries/awesome-gpui) - Awesome projects, built with or for GPUI!
 - [K11MCH1/AdrenoToolsDrivers](https://github.com/K11MCH1/AdrenoToolsDrivers) - A repository for Skyline, Strato, Vita3K and Yuzu Android compatible Adreno drivers.
 - [edo-zhou/awesome-gpui](https://github.com/edo-zhou/awesome-gpui) - A curated, community-driven “awesome list” of learning resources, crates, examples and tools for building blazingly-fast desktop apps with GPUI in Rust.
@@ -1301,7 +1302,6 @@
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
 - [github/rest-api-description](https://github.com/github/rest-api-description) - An OpenAPI description for GitHub's REST API
 - [sonicoder86/awesome-vue-3](https://github.com/sonicoder86/awesome-vue-3) - A curated list of awesome things related to Vue 3
-- [umasteeringgroup/content-pack](https://github.com/umasteeringgroup/content-pack) - UMA Base content
 - [ianramzy/decentralized-video-chat](https://github.com/ianramzy/decentralized-video-chat) - 🚀 Zipcall- Acquired @ 250k users 🚀 Peer to peer browser video calling platform with unmatched video quality and latency.
 - [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
 - [nunomaduro/pest](https://github.com/nunomaduro/pest) - This repository contains an old version of PEST. A new and better version is being coded in private and will be out soon: https://github.com/pestphp/pest.
@@ -1339,6 +1339,7 @@
 - [sschoger/heroicons-ui](https://github.com/sschoger/heroicons-ui) - 
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
+- [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [TimothyDJones/awesome-laravel](https://github.com/TimothyDJones/awesome-laravel) - A curated list of delightful Laravel PHP framework packages and resources
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [RyanNielson/awesome-unity](https://github.com/RyanNielson/awesome-unity) - A curated list of awesome Unity assets, resources, and more.
@@ -1969,6 +1970,7 @@
 - [armadillica/dillo](https://github.com/armadillica/dillo) - Free and open web platform created to support crowd-driven content.
 - [igelbox/blender-retarget](https://github.com/igelbox/blender-retarget) - Applies animation from one armature to another
 - [Mwni/blender-animation-retargeting](https://github.com/Mwni/blender-animation-retargeting) - Add-on for Blender that allows the transfer of animations and poses from one armature to another
+- [umasteeringgroup/content-pack](https://github.com/umasteeringgroup/content-pack) - UMA Base content
 - [EdyJ/blender-to-unity-fbx-exporter](https://github.com/EdyJ/blender-to-unity-fbx-exporter) - FBX exporter addon for Blender compatible with Unity's coordinate and scaling system.
 - [google/spatial-media](https://github.com/google/spatial-media) - Specifications and tools for 360º video and spatial audio.
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
@@ -2680,7 +2682,6 @@
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [minio/docs](https://github.com/minio/docs) - MinIO Object Storage Documentation
 - [bencodezen/vue-enterprise-boilerplate](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
-- [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 
 ## Scheme 
 

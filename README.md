@@ -362,7 +362,7 @@
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.0.65655, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.0.65727, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
@@ -576,7 +576,6 @@
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [erigontech/erigon](https://github.com/erigontech/erigon) - Ethereum implementation on the efficiency frontier
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
@@ -776,7 +775,6 @@
 - [gr3p1p3/transparent-proxy](https://github.com/gr3p1p3/transparent-proxy) - 
 - [unjs/unwasm](https://github.com/unjs/unwasm) - 🇼 WebAssembly tools for JavaScript
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
-- [jcmujica/human-ids](https://github.com/jcmujica/human-ids) - A library to generate human readable IDs
 - [unjs/mdbox](https://github.com/unjs/mdbox) - ⬇ Just simple markdown utils
 - [Pranomvignesh/constrained-editor-plugin](https://github.com/Pranomvignesh/constrained-editor-plugin) - This project is to restrict the editable area in the monaco-editor
 - [sindresorhus/strip-json-comments](https://github.com/sindresorhus/strip-json-comments) - Strip comments from JSON. Lets you use comments in your JSON files!
@@ -1891,6 +1889,7 @@
 - [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon) - :page_facing_up: Python Apps for Home Automation
 - [droidrun/droidrun](https://github.com/droidrun/droidrun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
 - [HiDream-ai/HiDream-I1](https://github.com/HiDream-ai/HiDream-I1) - 
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [kyutai-labs/moshivis](https://github.com/kyutai-labs/moshivis) - Kyutai with an "eye"
 - [tlkh/asitop](https://github.com/tlkh/asitop) - Perf monitoring CLI tool for Apple Silicon
@@ -2801,6 +2800,7 @@
 - [pi0/shiki-image](https://github.com/pi0/shiki-image) - Convert code snippets into images. Powered by shiki and takumi. Super fast 🚀
 - [edge-js/edge-markdown](https://github.com/edge-js/edge-markdown) - Render markdown using the MDC syntax and integrate it with Edge components
 - [esm-dev/modern-monaco](https://github.com/esm-dev/modern-monaco) - A modern version of Monaco Editor.
+- [vitejs/devtools](https://github.com/vitejs/devtools) - DevTools for Vite (Rolldown). Working in Progress
 - [ts-macro/ts-macro](https://github.com/ts-macro/ts-macro) - A VSCode plugin to define TS(X) macro powered by Volar.js
 - [zhiyuanzmj/unplugin-vue-reactivity-function](https://github.com/zhiyuanzmj/unplugin-vue-reactivity-function) - Reactivity Function.
 - [oxc-project/oxc-walker](https://github.com/oxc-project/oxc-walker) - A wrapper around `estree-walker` that accepts an `oxc` AST and alternatively uses `oxc-parser` to parse code.
@@ -2980,6 +2980,7 @@
 - [paulmillr/noble-curves](https://github.com/paulmillr/noble-curves) - Audited & minimal JS implementation of elliptic curve cryptography.
 - [unjs/undio](https://github.com/unjs/undio) - ⇔ Conventionally and Safely convert between various JavaScript data types
 - [nuxt/fonts](https://github.com/nuxt/fonts) - Plug-and-play web font optimization and configuration for Nuxt apps.
+- [jcmujica/human-ids](https://github.com/jcmujica/human-ids) - A library to generate human readable IDs
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [shikijs/shiki-magic-move](https://github.com/shikijs/shiki-magic-move) - Smoothly animated code blocks with Shiki
@@ -3159,6 +3160,7 @@
 - [unjs/unhead](https://github.com/unjs/unhead) - The full stack &lt;head&gt; package for any framework.
 - [geelen/npx-import](https://github.com/geelen/npx-import) - 
 - [adonisjs/fold](https://github.com/adonisjs/fold) - IoC container with all required goodies to write flexible node applications
+- [nuxt-content/docus](https://github.com/nuxt-content/docus) - Write beautiful documentations with Nuxt and Markdown.
 - [tjk/vue-o2c](https://github.com/tjk/vue-o2c) - Vue 3 convert options API to composition API
 - [felixmosh/bull-board](https://github.com/felixmosh/bull-board) - 🎯 Queue background jobs inspector
 - [pk910/PoWFaucet](https://github.com/pk910/PoWFaucet) - Modularized faucet for EVM chains with different protection methods (Captcha, Mining, IP, Mainnet Balance, Gitcoin Passport and more)
@@ -3602,7 +3604,6 @@
 
 - [yuyinws/oxlint-inspector](https://github.com/yuyinws/oxlint-inspector) - Visualize The Oxlint.
 - [NicolaSpadari/nuxtor](https://github.com/NicolaSpadari/nuxtor) - Build tiny desktop apps with Tauri, Nuxt 4 and NuxtUI 4
-- [vitejs/devtools](https://github.com/vitejs/devtools) - DevTools for Vite (Rolldown). Working in Progress
 - [nuxt-ui-templates/portfolio](https://github.com/nuxt-ui-templates/portfolio) - Nuxt Portfolio Template made with Nuxt UI and Nuxt Content.
 - [nuxt-ui-templates/chat](https://github.com/nuxt-ui-templates/chat) - Nuxt AI Chatbot Template made with Nuxt UI and Vercel AI SDK.
 - [fayazara/animated-lucide-vue](https://github.com/fayazara/animated-lucide-vue) - Animated Lucide Icons for vue using the new motion-vue library
@@ -3661,7 +3662,6 @@
 - [kakajun/vue3-sketch-ruler](https://github.com/kakajun/vue3-sketch-ruler) - Zoom operation of page display in vue 3
 - [kanriapp/kanri](https://github.com/kanriapp/kanri) - 🪐 Modern offline Kanban board app for Windows, MacOS and Linux made with Tauri and Nuxt. Built with simplicity and user experience in mind.
 - [nuxt-themes/typography](https://github.com/nuxt-themes/typography) - Beautifully customizable Prose components for Nuxt Content.
-- [nuxt-content/docus](https://github.com/nuxt-content/docus) - Write beautiful documentations with Nuxt and Markdown.
 - [zernonia/keypress](https://github.com/zernonia/keypress) - KeyPress - an open-source blogging platform + free custom domains.
 - [kevinmarrec/nuxt-modals-module](https://github.com/kevinmarrec/nuxt-modals-module) - 
 - [xiaoluoboding/vue-command-palette](https://github.com/xiaoluoboding/vue-command-palette) - ⌨️ A fast, composable, unstyled command palette interface for Vue.

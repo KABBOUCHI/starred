@@ -2248,7 +2248,7 @@
 - [brson/stdx](https://github.com/brson/stdx) - The missing batteries of Rust
 - [m1guelpf/prompt-organizer](https://github.com/m1guelpf/prompt-organizer) - A simple library to better manage AI prompts in your Rust code.
 - [ajmwagar/merino](https://github.com/ajmwagar/merino) - :sheep: A SOCKS5 Proxy server written in Rust
-- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
+- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
 - [ColinEberhardt/wasm-rust-chip8](https://github.com/ColinEberhardt/wasm-rust-chip8) - A WebAssembly CHIP-8 emulator written with Rust
 - [Lommix/bevy_aseprite_ultra](https://github.com/Lommix/bevy_aseprite_ultra) - The ultimate bevy aseprite binary plugin. Featuring animations and static atlas loading with pivots. Full support for hot reloading!
 - [dtolnay/watt](https://github.com/dtolnay/watt) - Runtime for executing procedural macros as WebAssembly

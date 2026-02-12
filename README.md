@@ -437,7 +437,6 @@
 - [ffmpegwasm/nuxt-app](https://github.com/ffmpegwasm/nuxt-app) - 📹 An example to use ffmpeg.wasm in Nuxt 3
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [danieljpalmer/alptail](https://github.com/danieljpalmer/alptail) - A collection of frontend components using Tailwind.css and Alpine.js.
-- [box-icons/boxicons](https://github.com/box-icons/boxicons) - High Quality web friendly icons
 - [moreta/vue-search-select](https://github.com/moreta/vue-search-select) - A Vue.js search select component
 - [jgthms/bulma-start](https://github.com/jgthms/bulma-start) - Start package for Bulma
 - [abdullah/plekan](https://github.com/abdullah/plekan) - A content builder
@@ -2784,7 +2783,7 @@
 - [boringnode/encryption](https://github.com/boringnode/encryption) - A framework agnostic encryption library
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash) - Bash for Agents
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
 - [nuxt-ui-templates/editor](https://github.com/nuxt-ui-templates/editor) - Notion-like WYSIWYG editor with AI-powered completions and real-time collaboration in Vue & Nuxt.
 - [poppinss/ts-exec](https://github.com/poppinss/ts-exec) - Execute TypeScript on Node using SWC
 - [mathuo/dockview](https://github.com/mathuo/dockview) - Zero dependency Docking Layout Manager. Supports Vanilla TypeScript, React and Vue.
@@ -3523,6 +3522,7 @@
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [vuejs/devtools-v6](https://github.com/vuejs/devtools-v6) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [vue-styleguidist/vue-live](https://github.com/vue-styleguidist/vue-live) - A component to demo components, inspired by react-live
+- [box-icons/boxicons](https://github.com/box-icons/boxicons) - High Quality web friendly icons
 - [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
 - [posva/vue-reactive-refs](https://github.com/posva/vue-reactive-refs) - Make $refs reactive so they can be used in computed properties and watchers
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -3604,7 +3604,7 @@
 
 ## Vue 
 
-- [yuyinws/oxlint-inspector](https://github.com/yuyinws/oxlint-inspector) - Visualize The Oxlint.
+- [yuyinws/oxc-inspector](https://github.com/yuyinws/oxc-inspector) - [WIP] Inspect and understand your Oxc toolchain better.
 - [NicolaSpadari/nuxtor](https://github.com/NicolaSpadari/nuxtor) - Build tiny desktop apps with Tauri, Nuxt 4 and NuxtUI 4
 - [nuxt-ui-templates/portfolio](https://github.com/nuxt-ui-templates/portfolio) - Nuxt Portfolio Template made with Nuxt UI and Nuxt Content.
 - [nuxt-ui-templates/chat](https://github.com/nuxt-ui-templates/chat) - Nuxt AI Chatbot Template made with Nuxt UI and Vercel AI SDK.

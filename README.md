@@ -369,7 +369,7 @@
 - [webgpu-native/webgpu-headers](https://github.com/webgpu-native/webgpu-headers) - webgpu.h - C version of the JS API, for both native and Wasm. A multi-vendor standard between Dawn/Emdawnwebgpu and wgpu-native. Designed primarily for binding into higher-level languages.
 - [google/angle](https://github.com/google/angle) - A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-- [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
+- [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.  See documentation for contribution instructions.
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [ggml-org/ggml](https://github.com/ggml-org/ggml) - Tensor library for machine learning
@@ -1357,7 +1357,7 @@
 - [fusion-php/fusion](https://github.com/fusion-php/fusion) - Unite your modern frontend with your Laravel backend.
 - [DirectoryTree/ImapEngine](https://github.com/DirectoryTree/ImapEngine) - Manage mailboxes using IMAP without the PHP extension
 - [prism-php/prism](https://github.com/prism-php/prism) - A unified interface for working with LLMs in Laravel
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone portable PHP binaries on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone portable PHP binaries on Linux, macOS, Windows, with PHP project together, with popular extensions included.
 - [janyksteenbeek/uppi](https://github.com/janyksteenbeek/uppi) - Uppi: A self-hosted robust uptime monitoring solution built with Laravel
 - [vitodeploy/vito](https://github.com/vitodeploy/vito) - Free and Self-Hosted  Server Management Tool
 - [et-nik/gameap](https://github.com/et-nik/gameap) - Game Admin Panel (GameAP) is the opensource game servers control panel. This is an outdated version of the GameAP. New version: https://github.com/gameap/gameap
@@ -2412,7 +2412,7 @@
 - [johanhelsing/matchbox](https://github.com/johanhelsing/matchbox) - Painless peer-to-peer WebRTC networking for rust wasm (and native!)
 - [mdenchev/bevy_aseprite](https://github.com/mdenchev/bevy_aseprite) - 
 - [aws/aws-lambda-rust-runtime](https://github.com/aws/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
-- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are long-lived, in-memory processes. It's what you reach for when you hit the limitations of HTTP, databases, or queues.
+- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are a serverless primitive for stateful workloads. Each actor has built-in state, storage, workflows, scheduling, and WebSockets — everything needed to build the next generation of softwa
 - [rbatis/rbatis](https://github.com/rbatis/rbatis) - Compile Time Async Dynamic SQL ORM
 - [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - A cargo-subcommand to speed up Rust Docker builds using Docker layer caching.
 - [m1guelpf/ensemble](https://github.com/m1guelpf/ensemble) - A Laravel-inspired ORM for Rust

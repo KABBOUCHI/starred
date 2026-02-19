@@ -325,7 +325,7 @@
 - [astrum-chat/astrum](https://github.com/astrum-chat/astrum) - Local-first AI chat app.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
-- [valentinfrlch/ha-llmvision](https://github.com/valentinfrlch/ha-llmvision) - Visual Intelligence for your home.
+- [valentinfrlch/ha-llmvision](https://github.com/valentinfrlch/ha-llmvision) - Visual intelligence for your home.
 - [e2b-dev/desktop](https://github.com/e2b-dev/desktop) - E2B Desktop Sandbox for LLMs. E2B Sandbox with desktop graphical environment that you can connect to any LLM for secure computer use.
 - [suitedaces/computer-agent](https://github.com/suitedaces/computer-agent) - Desktop app to control your computer with AI using your terminal, browser, mouse & keyboard
 - [nuxt-ui-templates/chat](https://github.com/nuxt-ui-templates/chat) - Nuxt AI Chatbot Template made with Nuxt UI and Vercel AI SDK.
@@ -2129,7 +2129,7 @@
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
 - [nuxt/test-utils](https://github.com/nuxt/test-utils) - 🧪 Test utilities for Nuxt
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.65893, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.65940, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [getsentry/sentry-rust](https://github.com/getsentry/sentry-rust) - The official Sentry SDK for Rust
 - [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace) - All of the official Tauri plugins in one place!
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
@@ -2307,7 +2307,7 @@
 - [leukipp/touchkio](https://github.com/leukipp/touchkio) - Home Assistant Touch Panel Kiosk application for a Linux device (e.g. Raspberry Pi) with Touch Display.
 - [zigbee2mqtt/hassio-zigbee2mqtt](https://github.com/zigbee2mqtt/hassio-zigbee2mqtt) - Official Zigbee2MQTT Home Assistant add-on
 - [alandtse/alexa_media_player](https://github.com/alandtse/alexa_media_player) - This is a custom component to allow control of Amazon Alexa devices in Home Assistant using the unofficial Alexa API.
-- [valentinfrlch/ha-llmvision](https://github.com/valentinfrlch/ha-llmvision) - Visual Intelligence for your home.
+- [valentinfrlch/ha-llmvision](https://github.com/valentinfrlch/ha-llmvision) - Visual intelligence for your home.
 - [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
@@ -3128,7 +3128,7 @@
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [deviceplug/btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.65893, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.65940, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
@@ -3157,7 +3157,7 @@
 ## llm 
 
 - [astrum-chat/astrum](https://github.com/astrum-chat/astrum) - Local-first AI chat app.
-- [valentinfrlch/ha-llmvision](https://github.com/valentinfrlch/ha-llmvision) - Visual Intelligence for your home.
+- [valentinfrlch/ha-llmvision](https://github.com/valentinfrlch/ha-llmvision) - Visual intelligence for your home.
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [e2b-dev/desktop](https://github.com/e2b-dev/desktop) - E2B Desktop Sandbox for LLMs. E2B Sandbox with desktop graphical environment that you can connect to any LLM for secure computer use.
 - [TM9657/flow-like](https://github.com/TM9657/flow-like) - Flow-Like: Strongly Typed Enterprise Scale Workflows. Built for scalability, speed, seamless AI integration and rich customization.
@@ -6391,7 +6391,7 @@
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [ueberdosis/hocuspocus](https://github.com/ueberdosis/hocuspocus) - The CRDT Yjs WebSocket backend for conflict-free real-time collaboration in your app.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.

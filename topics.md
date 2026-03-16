@@ -453,7 +453,7 @@
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [jangrewe/gitlab-ci-android](https://github.com/jangrewe/gitlab-ci-android) - GitLab CI image for building Android apps
 - [ProgrammationAndroid/Laravel-Passport-Android](https://github.com/ProgrammationAndroid/Laravel-Passport-Android) - Laravel + Passport for an Android App
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [dzonatan/Unity3D-LogCat-extension](https://github.com/dzonatan/Unity3D-LogCat-extension) - Logcat (android logging) extension for Unity3D
 - [nativescript-vue/nativescript-vue](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications using Vue and NativeScript.
 - [alibaba/weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI
@@ -943,7 +943,7 @@
 - [symfony/console](https://github.com/symfony/console) - Eases the creation of beautiful and testable command line interfaces
 - [BrainMaestro/composer-git-hooks](https://github.com/BrainMaestro/composer-git-hooks) - Easily manage git hooks in your composer config
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [laravel-zero/laravel-zero](https://github.com/laravel-zero/laravel-zero) - A PHP framework for console artisans
 
@@ -1409,7 +1409,7 @@
 - [saleem-hadad/larecipe](https://github.com/saleem-hadad/larecipe) - ✏️ Write gorgeous documentation for your products using Markdown inside your Laravel app
 - [minio/docs](https://github.com/minio/docs) - MinIO Object Storage Documentation
 - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 
 ## dotfiles 
 
@@ -2291,7 +2291,7 @@
 - [tighten/collect](https://github.com/tighten/collect) - A Collections-only split from Laravel's Illuminate Support
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) - Associate files with Eloquent models
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [nWidart/laravel-modules](https://github.com/nWidart/laravel-modules) - Module Management In Laravel
 - [fruitcake/laravel-cors](https://github.com/fruitcake/laravel-cors) - Adds CORS (Cross-Origin Resource Sharing) headers support in your Laravel application
 - [logaretm/vee-validate](https://github.com/logaretm/vee-validate) - ✅  Painless Vue forms
@@ -3161,7 +3161,7 @@
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 
 ## llm 
@@ -3347,7 +3347,7 @@
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [sequelpro/sequelpro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [iffy/electron-updater-example](https://github.com/iffy/electron-updater-example) - A complete example showing how to use `electron-updater`
 - [laravel/valet](https://github.com/laravel/valet) - A more enjoyable local development experience for Mac.
@@ -6479,7 +6479,7 @@
 - [sindresorhus/execa](https://github.com/sindresorhus/execa) - Process execution for humans
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [bobthecow/psysh](https://github.com/bobthecow/psysh) - A REPL for PHP
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [laravel-zero/laravel-zero](https://github.com/laravel-zero/laravel-zero) - A PHP framework for console artisans
 
@@ -6810,7 +6810,7 @@
 - [CVarisco/gitlab-merge](https://github.com/CVarisco/gitlab-merge) - First Gitlab guided CLI to create your merge request from terminal
 - [hugomd/parrot.live](https://github.com/hugomd/parrot.live) - 🐦  Bringing animated parrots to terminals everywhere
 - [symfony/console](https://github.com/symfony/console) - Eases the creation of beautiful and testable command line interfaces
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [laravel-zero/laravel-zero](https://github.com/laravel-zero/laravel-zero) - A PHP framework for console artisans
 
@@ -7758,7 +7758,7 @@
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [iffy/electron-updater-example](https://github.com/iffy/electron-updater-example) - A complete example showing how to use `electron-updater`
 

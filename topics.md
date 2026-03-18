@@ -645,7 +645,7 @@
 - [tinyhttp/tinyhttp](https://github.com/tinyhttp/tinyhttp) - 🦄 0-legacy, tiny & fast web framework as a replacement of Express
 - [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend) - The backend server for the live-torrent project
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
+- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
 ## bash 
@@ -1020,6 +1020,7 @@
 - [arvidn/libtorrent](https://github.com/arvidn/libtorrent) - an efficient feature complete C++ bittorrent implementation
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [0xFA11/MultiplayerNetworkingResources](https://github.com/0xFA11/MultiplayerNetworkingResources) - A curated list of Multiplayer Game Network Programming Resources
+- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
 
 ## cryptocurrency 
 
@@ -1050,6 +1051,7 @@
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [0xFA11/MultiplayerNetworkingResources](https://github.com/0xFA11/MultiplayerNetworkingResources) - A curated list of Multiplayer Game Network Programming Resources
+- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
 - [proepkes/SpeedDate](https://github.com/proepkes/SpeedDate) - SpeedDate Masterserver: Connecting Players
 - [RevenantX/LiteNetLib](https://github.com/RevenantX/LiteNetLib) - Lite reliable UDP library for Mono and .NET
 - [sschmid/Entitas](https://github.com/sschmid/Entitas) - Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
@@ -1424,6 +1426,7 @@
 - [ClearFoundry/ClearScript](https://github.com/ClearFoundry/ClearScript) - A library for adding scripting to .NET applications. Supports V8 (Windows, Linux, macOS) and JScript/VBScript (Windows).
 - [nxrighthere/ValveSockets-CSharp](https://github.com/nxrighthere/ValveSockets-CSharp) - Managed C# abstraction of GameNetworkingSockets library by Valve Software
 - [shimat/opencvsharp](https://github.com/shimat/opencvsharp) - OpenCV wrapper for .NET
+- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
 
 ## electron 
 
@@ -1775,6 +1778,7 @@
 - [UnityTechnologies/open-project-1](https://github.com/UnityTechnologies/open-project-1) - Unity Open Project #1: Chop Chop
 - [Armour/Multiplayer-FPS](https://github.com/Armour/Multiplayer-FPS) - :video_game: A multiplayer first person shooter game based on Unity Game Engine
 - [0xFA11/MultiplayerNetworkingResources](https://github.com/0xFA11/MultiplayerNetworkingResources) - A curated list of Multiplayer Game Network Programming Resources
+- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
 - [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [galaxyofdrones/galaxyofdrones](https://github.com/galaxyofdrones/galaxyofdrones) - 🚀 An open source multiplayer space strategy game.
@@ -1878,6 +1882,7 @@
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [0xFA11/MultiplayerNetworkingResources](https://github.com/0xFA11/MultiplayerNetworkingResources) - A curated list of Multiplayer Game Network Programming Resources
 - [AdultLink/RadialProgressBar](https://github.com/AdultLink/RadialProgressBar) - Customizable radial progress bar shader for Unity3D. Allows you to set arc range, minimum and maximum colors, textures, radius, and a few more things. Create HP Bars, Speedometers, rank progress, etc!
+- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
 - [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [ssannandeji/Zenject-2019](https://github.com/ssannandeji/Zenject-2019) - Dependency Injection Framework for Unity3D
@@ -1991,6 +1996,7 @@
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
 
 ## godot 
 
@@ -1998,6 +2004,7 @@
 - [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [0xFA11/MultiplayerNetworkingResources](https://github.com/0xFA11/MultiplayerNetworkingResources) - A curated list of Multiplayer Game Network Programming Resources
+- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
 
 ## golang 
 
@@ -2714,6 +2721,7 @@
 - [JakeChampion/fetch](https://github.com/JakeChampion/fetch) - A window.fetch JavaScript polyfill.
 - [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
 - [kazupon/vue-i18n](https://github.com/kazupon/vue-i18n) - :globe_with_meridians: Internationalization plugin for Vue.js
+- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [bencodezen/vue-enterprise-boilerplate](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
@@ -3227,6 +3235,7 @@
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
+- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
 
 ## mac 
 
@@ -6432,6 +6441,7 @@
 - [Davenchy/live-torrent-backend](https://github.com/Davenchy/live-torrent-backend) - The backend server for the live-torrent project
 - [antonioribeiro/health](https://github.com/antonioribeiro/health) - Laravel Health Panel
 - [DarkRiftNetworking/DarkRift](https://github.com/DarkRiftNetworking/DarkRift) - DarkRift Networking by Unordinal
+- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
 
 ## serverless 
 
@@ -7051,6 +7061,7 @@
 - [sgraewe/create-nuxt-tailwind-app](https://github.com/sgraewe/create-nuxt-tailwind-app) - [DEPRECATED] Use create-nuxt-app, they added full tailwindcss & purgecss support
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
+- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
 - [michitaro/vue-window](https://github.com/michitaro/vue-window) - Window component for vue2
 - [michitaro/vue-menu](https://github.com/michitaro/vue-menu) - Menu/Contextmenu Component for vue2
 - [DavidDuwaer/Coloquent](https://github.com/DavidDuwaer/Coloquent) - Javascript/Typescript library mapping objects and their interrelations to JSON API, with a clean, fluent ActiveRecord-like (e.g. similar to Laravel's Eloquent) syntax  for creating, retrieving, updati
@@ -7163,6 +7174,7 @@
 - [mob-sakai/UIEffect](https://github.com/mob-sakai/UIEffect) - UIEffect is an open-source package that allows you to intuitively apply rich UI effects directly from the Inspector or via code. Combine various filters, such as grayscale, blur, and dissolve, to deco
 - [AdultLink/RadialProgressBar](https://github.com/AdultLink/RadialProgressBar) - Customizable radial progress bar shader for Unity3D. Allows you to set arc range, minimum and maximum colors, textures, radius, and a few more things. Create HP Bars, Speedometers, rank progress, etc!
 - [mob-sakai/ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) - Render particle effect in UnityUI(uGUI). Maskable, sortable, and no extra Camera/RenderTexture/Canvas.
+- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
 - [proepkes/MSF-DarkRiftServer](https://github.com/proepkes/MSF-DarkRiftServer) - MSF-Port for DarkRiftNetworking Pro 2
 - [Unity-Technologies/PostProcessing](https://github.com/Unity-Technologies/PostProcessing) - Post Processing Stack
 - [unity3d-jp/MeshSync](https://github.com/unity3d-jp/MeshSync) - A package for synchronizing meshes/models editing in DCC tools into Unity in real time.
@@ -7193,7 +7205,7 @@
 ## unreal-engine 
 
 - [0xFA11/MultiplayerNetworkingResources](https://github.com/0xFA11/MultiplayerNetworkingResources) - A curated list of Multiplayer Game Network Programming Resources
-- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
+- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
 
 ## userscript 
 

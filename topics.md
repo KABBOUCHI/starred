@@ -372,7 +372,7 @@
 - [mpociot/llamero](https://github.com/mpociot/llamero) - A GUI application to easily try out Facebook's LLaMA models.
 - [rustformers/llm](https://github.com/rustformers/llm) - [Unmaintained, see README] An ecosystem of Rust libraries for working with large language models
 - [beyondcode/laravel-ask-database](https://github.com/beyondcode/laravel-ask-database) - Query your database using natural language
-- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
+- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Data infrastructure for AI
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to Blender
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -389,7 +389,7 @@
 
 - [droidrun/droidrun](https://github.com/droidrun/droidrun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
-- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
+- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Data infrastructure for AI
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks gives you the building blocks and infrastructure to enable people and AI to work together inside your app.
 
@@ -1202,7 +1202,7 @@
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [nuclia/nucliadb](https://github.com/nuclia/nucliadb) - NucliaDB, The AI Search database for RAG
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
-- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
+- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Data infrastructure for AI
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
@@ -2145,7 +2145,7 @@
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
 - [nuxt/test-utils](https://github.com/nuxt/test-utils) - 🧪 Test utilities for Nuxt
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66384, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66431, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [getsentry/sentry-rust](https://github.com/getsentry/sentry-rust) - The official Sentry SDK for Rust
 - [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace) - All of the official Tauri plugins in one place!
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
@@ -2667,7 +2667,7 @@
 - [mblarsen/mongoose-hidden](https://github.com/mblarsen/mongoose-hidden) - A Mongoose schema plugin for filtering properties you usually do not want to sent client-side like passwords and IDs.
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
-- [senchalabs/connect](https://github.com/senchalabs/connect) - Connect is a middleware layer for Node.js
+- [senchalabs/connect](https://github.com/senchalabs/connect) - Connect is an extensible HTTP server framework for node using "plugins" known as middleware.
 - [vuestorefront/shopify](https://github.com/vuestorefront/shopify) - Vue Storefront 2 integration for Shopify
 - [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 - [potato4d/nuxt-basic-auth-module](https://github.com/potato4d/nuxt-basic-auth-module) - Provide basic auth your Nuxt.js application
@@ -3146,7 +3146,7 @@
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [deviceplug/btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66384, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66431, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
@@ -3210,7 +3210,6 @@
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [mpociot/llamero](https://github.com/mpociot/llamero) - A GUI application to easily try out Facebook's LLaMA models.
 - [rustformers/llm](https://github.com/rustformers/llm) - [Unmaintained, see README] An ecosystem of Rust libraries for working with large language models
-- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 
@@ -3731,7 +3730,7 @@
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [ream/ream](https://github.com/ream/ream) - A Vue 3 framework, powered by Vite.
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
-- [senchalabs/connect](https://github.com/senchalabs/connect) - Connect is a middleware layer for Node.js
+- [senchalabs/connect](https://github.com/senchalabs/connect) - Connect is an extensible HTTP server framework for node using "plugins" known as middleware.
 - [nodegui/vue-nodegui](https://github.com/nodegui/vue-nodegui) - Build performant, native and cross-platform desktop applications with native Vue + powerful CSS like styling.🚀
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
@@ -5854,7 +5853,6 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
-- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 
 ## rails 
@@ -6241,7 +6239,7 @@
 - [Jon-Becker/heimdall-rs](https://github.com/Jon-Becker/heimdall-rs) - Heimdall is an advanced EVM smart contract toolkit specializing in bytecode analysis and extracting information from unverified contracts.
 - [wooorm/mdxjs-rs](https://github.com/wooorm/mdxjs-rs) - Compile MDX to JavaScript in Rust
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
-- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
+- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Data infrastructure for AI
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
 - [mmastrac/rust-ctor](https://github.com/mmastrac/rust-ctor) - Module initialization/global constructor functions for Rust
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image

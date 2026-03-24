@@ -2139,6 +2139,7 @@
 - [DioxusLabs/sdk](https://github.com/DioxusLabs/sdk) - A library to provide abstractions to access common utilities when developing Dioxus applications.
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [shanecelis/bevy_minibuffer](https://github.com/shanecelis/bevy_minibuffer) - A gamedev console inspired by classic Unix text editors
 - [askama-rs/askama](https://github.com/askama-rs/askama) - A template rendering engine based on Jinja, generating type-safe Rust code at compile time.
 - [cart/bevy_construct_prototype](https://github.com/cart/bevy_construct_prototype) - 
@@ -2878,7 +2879,6 @@
 - [laravel/vs-code-extension](https://github.com/laravel/vs-code-extension) - 
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
 - [goat-sdk/goat](https://github.com/goat-sdk/goat) - The leading agentic finance toolkit for AI agents
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [iccicci/rotating-file-stream](https://github.com/iccicci/rotating-file-stream) - Opens a stream.Writable to a file rotated by interval and/or size. A logrotate alternative.
 - [poppinss/chokidar-ts](https://github.com/poppinss/chokidar-ts) - File watcher for TypeScript projects
 - [productdevbook/nitro-kutu](https://github.com/productdevbook/nitro-kutu) - See requests in the terminal. Get more detail with the panel. Nitrojs

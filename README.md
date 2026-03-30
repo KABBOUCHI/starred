@@ -2010,6 +2010,7 @@
 
 ## Rust 
 
+- [Uzaaft/libghostty-rs](https://github.com/Uzaaft/libghostty-rs) - 
 - [oxidecomputer/omicron](https://github.com/oxidecomputer/omicron) - Omicron: Oxide control plane
 - [solana-foundation/surfpool](https://github.com/solana-foundation/surfpool) - Surfpool is where developers start their Solana journey.
 - [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
@@ -3040,7 +3041,7 @@
 - [nuxt-modules/og-image](https://github.com/nuxt-modules/og-image) - Generate OG Images with Vue templates in Nuxt.
 - [Julien-R44/bentocache](https://github.com/Julien-R44/bentocache) - 🍱 Bentocache is a robust multi-tier caching library for Node.js applications
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
-- [peterboyer/pb.adt](https://github.com/peterboyer/pb.adt) - Universal ADT utilities.
+- [peterboyer/pb.adt](https://github.com/peterboyer/pb.adt) - Simple ADT types and values.
 - [nuxtrdev/nuxtr-vscode](https://github.com/nuxtrdev/nuxtr-vscode) - An extension offering commands and tools to make your experience with Nuxt more pleasant.
 - [taskforcesh/bullmq-proxy](https://github.com/taskforcesh/bullmq-proxy) - HTTP based proxy for accessing BullMQ Queues
 - [latticexyz/mud](https://github.com/latticexyz/mud) - MUD is a framework for building autonomous worlds

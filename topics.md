@@ -3879,6 +3879,7 @@
 
 ## others 
 
+- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - 
 - [ysharma3501/LuxTTS](https://github.com/ysharma3501/LuxTTS) - A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime.
 - [Uzaaft/libghostty-rs](https://github.com/Uzaaft/libghostty-rs) - 
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
@@ -3957,7 +3958,7 @@
 - [TheBevyFlock/bevy_cli](https://github.com/TheBevyFlock/bevy_cli) - A Bevy CLI tool and linter.
 - [wasvy-org/wasvy](https://github.com/wasvy-org/wasvy) - Bevy modding engine powered by WASI
 - [unjs/obuild](https://github.com/unjs/obuild) - 📦 😯 Zero-config ESM/TS package builder.
-- [ExpressLRS/ExpressLRS](https://github.com/ExpressLRS/ExpressLRS) - ESP32/ESP8285-based High-Performance Radio Link for RC applications
+- [ExpressLRS/ExpressLRS](https://github.com/ExpressLRS/ExpressLRS) - High Performance Open Source Radio Control Link
 - [zed-extensions/tsgo](https://github.com/zed-extensions/tsgo) - Extension for Zed to support TypeScript Native
 - [microsoft/libsyncrpc](https://github.com/microsoft/libsyncrpc) - synchronous RPC communication with callbacks for Node.js
 - [ZDoom/gzdoom](https://github.com/ZDoom/gzdoom) - GZDoom is a feature centric port for all Doom engine games, based on ZDoom, adding an OpenGL renderer and powerful scripting capabilities
@@ -4753,7 +4754,7 @@
 - [code16/carbon-business-days](https://github.com/code16/carbon-business-days) - A simple class for business days counting
 - [antfu/vscode-auto-npx](https://github.com/antfu/vscode-auto-npx) - Auto resolving local Node.js binaries in VS Code terminal.
 - [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth
-- [Cesio137/ALSReplicated](https://github.com/Cesio137/ALSReplicated) - This is a community-based effort to fully and effectively replicate Advanced Locomotion System v4 which is permanently free on the Epic Marketplace.
+- [nathancmiguel/ALSReplicated](https://github.com/nathancmiguel/ALSReplicated) - This is a community-based effort to fully and effectively replicate Advanced Locomotion System v4 which is permanently free on the Epic Marketplace.
 - [janovekj/cmdkit](https://github.com/janovekj/cmdkit) - Command palette component for React
 - [unjs/unstorage](https://github.com/unjs/unstorage) - 💾 Unstorage provides an async Key-Value storage API with conventional features like multi driver mounting, watching and working with metadata, dozens of built-in drivers and a tiny core.
 - [vuejs/repl](https://github.com/vuejs/repl) - Vue SFC REPL as a Vue 3 component

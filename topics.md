@@ -1952,7 +1952,7 @@
 ## git 
 
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
@@ -3896,6 +3896,7 @@
 
 ## others 
 
+- [fbraz3/GeneralsX](https://github.com/fbraz3/GeneralsX) - Command and Conquer: Generals - Zero Hour
 - [steveukx/git-js](https://github.com/steveukx/git-js) - A light weight interface for running git commands in any node.js application.
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and sc
 - [railwayapp/railpack](https://github.com/railwayapp/railpack) - Zero-config application builder that automatically analyzes and turns your code into an image
@@ -3975,7 +3976,7 @@
 - [nunomaduro/pokio](https://github.com/nunomaduro/pokio) - Pokio is a dead simple Asynchronous API for PHP that just works.
 - [Boshen/cargo-shear](https://github.com/Boshen/cargo-shear) - Remove unused dependencies in a Rust project
 - [TheBevyFlock/bevy_cli](https://github.com/TheBevyFlock/bevy_cli) - A Bevy CLI tool and linter.
-- [wasvy-org/wasvy](https://github.com/wasvy-org/wasvy) - Bevy modding engine powered by WASI
+- [wasvy-org/wasvy](https://github.com/wasvy-org/wasvy) - WASI-powered modding for the Bevy engine
 - [unjs/obuild](https://github.com/unjs/obuild) - 📦 😯 Zero-config ESM/TS package builder.
 - [zed-extensions/tsgo](https://github.com/zed-extensions/tsgo) - Extension for Zed to support TypeScript Native
 - [microsoft/libsyncrpc](https://github.com/microsoft/libsyncrpc) - synchronous RPC communication with callbacks for Node.js
@@ -4709,7 +4710,7 @@
 - [flutter/pinball](https://github.com/flutter/pinball) - Google I/O 2022 Pinball game built with Flutter and Firebase
 - [SebLague/Geographical-Adventures](https://github.com/SebLague/Geographical-Adventures) - 
 - [epiphone/routing-controllers-openapi](https://github.com/epiphone/routing-controllers-openapi) - Runtime OpenAPI v3 schema generation for routing-controllers.
-- [archangel4031/Myra](https://github.com/archangel4031/Myra) - This is the source code for for the Plugin GAS Associate, that is supposed to make your life easier while using Unreal's Gameplay Ability System.
+- [archangel4031/Myra](https://github.com/archangel4031/Myra) - This is the source code for for the Plugin Myra (formerly GAS Associate), that is supposed to make your life easier while using Unreal's Gameplay Ability System.
 - [Instadapp/infinite-proxy](https://github.com/Instadapp/infinite-proxy) - 
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
 - [nonara/ts-patch](https://github.com/nonara/ts-patch) - Augment the TypeScript compiler to support extended functionality
@@ -6112,7 +6113,7 @@
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [LyonSyonII/rubri](https://github.com/LyonSyonII/rubri) - Rust interpreter that runs in the browser!
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.

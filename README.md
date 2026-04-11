@@ -336,6 +336,7 @@
 
 ## C++ 
 
+- [fbraz3/GeneralsX](https://github.com/fbraz3/GeneralsX) - Command and Conquer: Generals - Zero Hour
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 - [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
@@ -390,7 +391,7 @@
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
-- [archangel4031/Myra](https://github.com/archangel4031/Myra) - This is the source code for for the Plugin GAS Associate, that is supposed to make your life easier while using Unreal's Gameplay Ability System.
+- [archangel4031/Myra](https://github.com/archangel4031/Myra) - This is the source code for for the Plugin Myra (formerly GAS Associate), that is supposed to make your life easier while using Unreal's Gameplay Ability System.
 - [mordentral/AdvancedSessionsPlugin](https://github.com/mordentral/AdvancedSessionsPlugin) - Advanced Sessions Plugin for UE4
 - [chromiumembedded/cef](https://github.com/chromiumembedded/cef) - Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications.
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
@@ -2072,7 +2073,7 @@
 - [pacak/bpaf](https://github.com/pacak/bpaf) - Command line parser with applicative interface
 - [Boshen/cargo-shear](https://github.com/Boshen/cargo-shear) - Remove unused dependencies in a Rust project
 - [TheBevyFlock/bevy_cli](https://github.com/TheBevyFlock/bevy_cli) - A Bevy CLI tool and linter.
-- [wasvy-org/wasvy](https://github.com/wasvy-org/wasvy) - Bevy modding engine powered by WASI
+- [wasvy-org/wasvy](https://github.com/wasvy-org/wasvy) - WASI-powered modding for the Bevy engine
 - [Noxmore/bevy_trenchbroom](https://github.com/Noxmore/bevy_trenchbroom) - TrenchBroom integration, .map, and .bsp loading for Bevy
 - [esp-rs/esp-hal](https://github.com/esp-rs/esp-hal) - no_std Hardware Abstraction Layers for ESP32 microcontrollers
 - [zed-extensions/tsgo](https://github.com/zed-extensions/tsgo) - Extension for Zed to support TypeScript Native
@@ -2164,7 +2165,7 @@
 - [a16z/helios](https://github.com/a16z/helios) - A fast, secure, and portable multichain light client for Ethereum
 - [codemod/codemod](https://github.com/codemod/codemod) - The CLI for codemods: scaffold, share, and run multi-step transformations of any size. First-class ast-grep support. Fast, reliable, polyglot.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.

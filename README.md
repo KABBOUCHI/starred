@@ -2014,6 +2014,7 @@
 
 ## Rust 
 
+- [dnlmlr/cargo-clean-all](https://github.com/dnlmlr/cargo-clean-all) - Fast recursive detection and cleaning of rust projects with interactive TUI and filters. Find rust projects anywhere that meet conditions like "last used more than 3 days ago" or "freable size &gt; 1G
 - [lazy-hq/aisdk](https://github.com/lazy-hq/aisdk) - The AI Toolkit for Rust, inspired by the Vercel AI SDK.
 - [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 - [Uzaaft/libghostty-rs](https://github.com/Uzaaft/libghostty-rs) - 
@@ -2793,6 +2794,7 @@
 
 ## TypeScript 
 
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [steveukx/git-js](https://github.com/steveukx/git-js) - A light weight interface for running git commands in any node.js application.
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [Huxpro/vue-lynx](https://github.com/Huxpro/vue-lynx) - Vue on Lynx
@@ -2835,7 +2837,7 @@
 - [unpkg/unpkg](https://github.com/unpkg/unpkg) - The CDN for everything on npm
 - [magicasaservice/vue-equipment](https://github.com/magicasaservice/vue-equipment) - Our Frontend Toolkit, Free and Open Source
 - [streamich/memfs](https://github.com/streamich/memfs) - Node.js "fs" and browser "File System API" adapters and in-memory implementations 👍
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and reverse proxy for remote access
 - [t0bst4r/home-assistant-matter-hub](https://github.com/t0bst4r/home-assistant-matter-hub) - Publish your Home-Assistant Instance using Matter.
 - [Instadapp/utils](https://github.com/Instadapp/utils) - 
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
@@ -3149,7 +3151,7 @@
 - [vite-pwa/nuxt](https://github.com/vite-pwa/nuxt) - Zero-config PWA Plugin for Nuxt 3
 - [Tahul/pinceau-vscode](https://github.com/Tahul/pinceau-vscode) - ⚙️ IntelliSense integration for Pinceau features
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
-- [nuxt-content/vscode-mdc](https://github.com/nuxt-content/vscode-mdc) - Provides syntax highlighting and colon matching for MDC (Markdown Components) files for Nuxt Content.
+- [comarkdown/vscode-comark](https://github.com/comarkdown/vscode-comark) - Provides syntax highlighting and colon matching for MDC (Markdown Components) files for Nuxt Content.
 - [volarjs/volar.js](https://github.com/volarjs/volar.js) - 💙🌊
 - [ueberdosis/hocuspocus](https://github.com/ueberdosis/hocuspocus) - The Yjs CRDT WebSocket backend for conflict-free real-time collaboration in your app.
 - [wobsoriano/numix](https://github.com/wobsoriano/numix) - Write your server code inside Vue SFC's and handle forms easily.

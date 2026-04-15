@@ -3899,6 +3899,7 @@
 
 ## others 
 
+- [lucascompython/wgsl-wesl-zed](https://github.com/lucascompython/wgsl-wesl-zed) - WGSL/WESL language support for Zed
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [lazy-hq/aisdk](https://github.com/lazy-hq/aisdk) - The AI Toolkit for Rust, inspired by the Vercel AI SDK.
 - [fbraz3/GeneralsX](https://github.com/fbraz3/GeneralsX) - Command and Conquer: Generals - Zero Hour

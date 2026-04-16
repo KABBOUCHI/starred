@@ -3899,6 +3899,7 @@
 
 ## others 
 
+- [iamnbutler/gpui-unofficial](https://github.com/iamnbutler/gpui-unofficial) - publishes gpui releases on zed release tags
 - [lucascompython/wgsl-wesl-zed](https://github.com/lucascompython/wgsl-wesl-zed) - WGSL/WESL language support for Zed
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [lazy-hq/aisdk](https://github.com/lazy-hq/aisdk) - The AI Toolkit for Rust, inspired by the Vercel AI SDK.
@@ -4418,7 +4419,7 @@
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 - [zaycev/bevy-magic-light-2d](https://github.com/zaycev/bevy-magic-light-2d) - Experiment with computing 2D shading, lighting and shadows with Bevy Engine
 - [RustCrypto/block-ciphers](https://github.com/RustCrypto/block-ciphers) - Collection of block cipher algorithms written in pure Rust
-- [huggingface/safetensors](https://github.com/huggingface/safetensors) - Simple, safe way to store and distribute tensors
+- [safetensors/safetensors](https://github.com/safetensors/safetensors) - Simple, safe way to store and distribute tensors
 - [evcxr/evcxr](https://github.com/evcxr/evcxr) - 
 - [huggingface/hf-hub](https://github.com/huggingface/hf-hub) - Rust client for the huggingface hub aiming for minimal subset of features over `huggingface-hub` python package
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
@@ -5547,7 +5548,7 @@
 - [predis/predis](https://github.com/predis/predis) - A flexible and feature-complete Redis/Valkey client for PHP.
 - [teamtnt/tntsearch](https://github.com/teamtnt/tntsearch) - A fully featured full text search engine written in PHP
 - [lazychaser/laravel-nestedset](https://github.com/lazychaser/laravel-nestedset) - Effective tree structures in Laravel 4-8
-- [srmklive/laravel-paypal](https://github.com/srmklive/laravel-paypal) - Laravel plugin for processing payments through PayPal.
+- [blendbyte/laravel-paypal](https://github.com/blendbyte/laravel-paypal) - PayPal REST API client for Laravel and standalone PHP.
 - [profclems/postman-collection-generator](https://github.com/profclems/postman-collection-generator) - A package that automatically generates postman collection from laravel api/web routes
 - [spatie/laravel-fractal](https://github.com/spatie/laravel-fractal) - An easy to use Fractal wrapper built for Laravel and Lumen applications
 - [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) - Eloquent Filter is a package for filter data of models by the query strings. Easy to use and fully dynamic.

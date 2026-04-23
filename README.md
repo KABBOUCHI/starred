@@ -102,7 +102,6 @@
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [fluent/fluent-bit](https://github.com/fluent/fluent-bit) - Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scr
-- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_
@@ -367,7 +366,7 @@
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66838, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.5.67088, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
@@ -1876,6 +1875,7 @@
 
 ## Python 
 
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [ysharma3501/LuxTTS](https://github.com/ysharma3501/LuxTTS) - A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime.
 - [Davixk/TwitchDropsMiner](https://github.com/Davixk/TwitchDropsMiner) - An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching.
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
@@ -2797,6 +2797,8 @@
 
 ## TypeScript 
 
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
+- [vercel-labs/github-tools](https://github.com/vercel-labs/github-tools) - GitHub tools and agents for the Vercel AI SDK, wrap GitHub's API as AI SDK tools ready to plug into any agent
 - [vercel-labs/wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [steveukx/git-js](https://github.com/steveukx/git-js) - A light weight interface for running git commands in any node.js application.
@@ -3206,7 +3208,7 @@
 - [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
 - [nadeesha/ts-prune](https://github.com/nadeesha/ts-prune) - Find unused exports in a typescript project. 🛀
 - [Akryum/vue-safe-teleport](https://github.com/Akryum/vue-safe-teleport) - Recommended for teleporting inside the app
-- [nuxt/movies](https://github.com/nuxt/movies) - 🍿 A TMDB client built with Nuxt 3
+- [nuxt/movies](https://github.com/nuxt/movies) - 🍿 A TMDB client built with Nuxt and View Transitions
 - [shuding/yoga-wasm-web](https://github.com/shuding/yoga-wasm-web) - WASM build of Yoga, targeting the web worker runtime.
 - [nuxt-modules/turnstile](https://github.com/nuxt-modules/turnstile) - 🔥 Cloudflare Turnstile integration for Nuxt
 - [openchainxyz/ethereum-transaction-viewer-frontend](https://github.com/openchainxyz/ethereum-transaction-viewer-frontend) - Frontend for https://tx.eth.samczsun.com/
@@ -3786,6 +3788,7 @@
 
 ## Zig 
 
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 

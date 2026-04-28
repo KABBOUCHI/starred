@@ -1276,7 +1276,7 @@
 - [ubports/ubuntu-touch](https://github.com/ubports/ubuntu-touch) - Ubuntu Touch's issue inbox is now migrated to GitLab.
 - [godbout/Wooshy.blahblah](https://github.com/godbout/Wooshy.blahblah) - it's like Alfred but for the UI
 - [Molay/LaunchPadder](https://github.com/Molay/LaunchPadder) - LaunchPadder is a free macOS LaunchPad tool that organizes and sorts apps and folders on LaunchPad according to certain rules.
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is an agentic development environment, born out of the terminal.
+- [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [naive-ui/awesome-naive](https://github.com/naive-ui/awesome-naive) - A curated list of awesome things related to Naive UI
 - [chentsulin/awesome-react-renderer](https://github.com/chentsulin/awesome-react-renderer) - Awesome list of React Renderer
@@ -2176,7 +2176,7 @@
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [tweedegolf/mailcrab](https://github.com/tweedegolf/mailcrab) - Email test server for development, written in Rust
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work for you based on what you do. AI finally knows what you are doing
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work based on what you do. 24/7 local screen & mic recording for the superintelligence era
 - [viridia/thorium_ui](https://github.com/viridia/thorium_ui) - Dynamic control flow for Bevy UI
 - [cBournhonesque/lightyear](https://github.com/cBournhonesque/lightyear) - A networking library to make multiplayer games for the Bevy game engine
 - [RazrFalcon/roxmltree](https://github.com/RazrFalcon/roxmltree) - Represent an XML document as a read-only tree.

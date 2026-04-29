@@ -33,6 +33,7 @@
 - [bot](#bot)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [c-sharp](#c-sharp)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
@@ -757,6 +758,14 @@
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [versatica/mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
+## c-sharp 
+
+- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
+- [neuecc/UniRx](https://github.com/neuecc/UniRx) - Reactive Extensions for Unity
+- [ServiceStack/ServiceStack.Redis](https://github.com/ServiceStack/ServiceStack.Redis) - .NET's leading C# Redis Client
+- [Real-Serious-Games/C-Sharp-Promise](https://github.com/Real-Serious-Games/C-Sharp-Promise) - Promises library for C# for management of asynchronous operations.
+- [sschmid/Entitas](https://github.com/sschmid/Entitas) - Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
 
 ## chatbot 
 
@@ -2179,7 +2188,7 @@
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
 - [nuxt/test-utils](https://github.com/nuxt/test-utils) - 🧪 Test utilities for Nuxt
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.5.67186, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.5.67235, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [getsentry/sentry-rust](https://github.com/getsentry/sentry-rust) - The official Sentry SDK for Rust
 - [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace) - All of the official Tauri plugins in one place!
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
@@ -3087,7 +3096,7 @@
 - [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - A DOMPDF Wrapper for Laravel
 - [robsontenorio/vue-api-query](https://github.com/robsontenorio/vue-api-query) - 💎 Elegant and simple way to build requests for REST API
 - [rap2hpoutre/fast-excel](https://github.com/rap2hpoutre/fast-excel) - 🦉 Fast Excel import/export for Laravel
-- [spatie/laravel-newsletter](https://github.com/spatie/laravel-newsletter) - Manage Mailcoach and MailChimp newsletters in Laravel
+- [spatie/laravel-newsletter](https://github.com/spatie/laravel-newsletter) - Manage newsletters in Laravel
 - [nunomaduro/collision](https://github.com/nunomaduro/collision) - 💥 Collision is a beautiful error reporting tool for command-line applications
 - [laravel/tinker](https://github.com/laravel/tinker) - Powerful REPL for the Laravel framework.
 - [laravel/passport](https://github.com/laravel/passport) - Laravel Passport provides OAuth2 server support to Laravel.
@@ -3178,7 +3187,7 @@
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [deviceplug/btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.5.67186, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.5.67235, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
@@ -5216,7 +5225,6 @@
 - [Robmaister/SharpNav](https://github.com/Robmaister/SharpNav) - Advanced Pathfinding for C#
 - [coraxster/flysystem-aws-s3-v3-minio](https://github.com/coraxster/flysystem-aws-s3-v3-minio) - Flysystem Adapter for AWS SDK V3 (minio fork)
 - [TeamSirenix/odin-serializer](https://github.com/TeamSirenix/odin-serializer) - Fast, robust, powerful and extendible .NET serializer built for Unity
-- [ServiceStack/ServiceStack.Redis](https://github.com/ServiceStack/ServiceStack.Redis) - .NET's leading C# Redis Client
 - [dragagon/mgf-framework-2](https://github.com/dragagon/mgf-framework-2) - Repository for the MGF Framework v2.0 for the CJR Gaming videos
 - [mwage/DarkRift2_Boilerplate](https://github.com/mwage/DarkRift2_Boilerplate) - Login, Friendlist, Chat (with PM and chatgroups) and Rooms. Using MongoDB.
 - [s-ichikawa/laravel-sendgrid-driver](https://github.com/s-ichikawa/laravel-sendgrid-driver) - This library can add sendgrid driver into the laravel's mail configure.
@@ -5619,7 +5627,7 @@
 - [tenancy/tenancy](https://github.com/tenancy/tenancy) - Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups.
 - [tomschlick/townhouse](https://github.com/tomschlick/townhouse) - [WORK IN PROGRESS] A Multitenancy package for Laravel that keeps each tenant in a separate database.
 - [rap2hpoutre/fast-excel](https://github.com/rap2hpoutre/fast-excel) - 🦉 Fast Excel import/export for Laravel
-- [spatie/laravel-newsletter](https://github.com/spatie/laravel-newsletter) - Manage Mailcoach and MailChimp newsletters in Laravel
+- [spatie/laravel-newsletter](https://github.com/spatie/laravel-newsletter) - Manage newsletters in Laravel
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) - A small library for converting tokenized PHP source code into XML (and potentially other formats)
 - [symfony/var-dumper](https://github.com/symfony/var-dumper) - Provides mechanisms for walking through any arbitrary PHP variable

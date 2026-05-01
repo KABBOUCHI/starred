@@ -2014,6 +2014,7 @@
 
 ## Rust 
 
+- [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
 - [iamnbutler/gpui-unofficial](https://github.com/iamnbutler/gpui-unofficial) - publishes gpui releases on zed release tags
 - [lucascompython/wgsl-wesl-zed](https://github.com/lucascompython/wgsl-wesl-zed) - WGSL/WESL language support for Zed
 - [dnlmlr/cargo-clean-all](https://github.com/dnlmlr/cargo-clean-all) - Fast recursive detection and cleaning of rust projects with interactive TUI and filters. Find rust projects anywhere that meet conditions like "last used more than 3 days ago" or "freable size &gt; 1G
@@ -2540,7 +2541,7 @@
 - [Enet4/faiss-rs](https://github.com/Enet4/faiss-rs) - Rust language bindings for Faiss
 - [rust-headless-chrome/rust-headless-chrome](https://github.com/rust-headless-chrome/rust-headless-chrome) - A high-level API to control headless Chrome or Chromium over the DevTools Protocol. It is the Rust equivalent of Puppeteer, a Node library maintained by the Chrome DevTools team.
 - [darfink/detour-rs](https://github.com/darfink/detour-rs) - A cross-platform detour library written in Rust
-- [mmastrac/rust-ctor](https://github.com/mmastrac/rust-ctor) - Module initialization/global constructor functions for Rust
+- [mmastrac/linktime](https://github.com/mmastrac/linktime) - Module initialization/global constructor functions for Rust
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [autometrics-dev/autometrics-rs](https://github.com/autometrics-dev/autometrics-rs) - Easily add metrics to your code that actually help you spot and debug issues in production. Built on Prometheus and OpenTelemetry.

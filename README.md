@@ -88,6 +88,7 @@
 
 ## C 
 
+- [raylib-rs/raylib-rs](https://github.com/raylib-rs/raylib-rs) - Rust bindings for raylib
 - [rayliwell/tree-sitter-rstml](https://github.com/rayliwell/tree-sitter-rstml) - Rust + html grammar for the tree-sitter parser library.
 - [pgbouncer/pgbouncer](https://github.com/pgbouncer/pgbouncer) - lightweight connection pooler for PostgreSQL
 - [ducalex/retro-go](https://github.com/ducalex/retro-go) - Retro emulation for the ODROID-GO and other ESP32 devices
@@ -695,7 +696,7 @@
 
 ## Java 
 
-- [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages.
+- [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android on screen keyboard for multiple languages and NO internet access
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
@@ -1593,7 +1594,7 @@
 - [scrnhq/laravel-bakery](https://github.com/scrnhq/laravel-bakery) - 🍞🧑‍🍳 An on-the-fly GraphQL Schema generator from Eloquent models for Laravel.
 - [envant/fireable](https://github.com/envant/fireable) - An elegant way to trigger Laravel events based on attributes changes.
 - [laravel-frontend-presets/inertiajs](https://github.com/laravel-frontend-presets/inertiajs) - An Inertia.js frontend preset for the Laravel Framework
-- [itsjeffro/deploy](https://github.com/itsjeffro/deploy) - Laravel package for zero-downtime deployments
+- [itsjeffro/laravel-deploy](https://github.com/itsjeffro/laravel-deploy) - Laravel package for zero-downtime deployments
 - [thephpleague/omnipay-stripe](https://github.com/thephpleague/omnipay-stripe) - Stripe driver for the Omnipay PHP payment processing library
 - [marcioAlmada/yay](https://github.com/marcioAlmada/yay) - Yay is a high level PHP preprocessor
 - [Rackbeat/laravel-ui-avatars](https://github.com/Rackbeat/laravel-ui-avatars) - Official ui-avatars.com Laravel wrapper.
@@ -2013,6 +2014,7 @@
 
 ## Rust 
 
+- [mlua-rs/mlua](https://github.com/mlua-rs/mlua) - High level Lua 5.5/5.4/5.3/5.2/5.1 (including LuaJIT) and Luau bindings to Rust with async/await support
 - [brettchalupa/sola-raylib](https://github.com/brettchalupa/sola-raylib) - Maintained Rust Raylib bindings & wrapper with support for Raylib v6.0; fork of raylib-rs from the 5.5.1 release
 - [brettchalupa/usagi](https://github.com/brettchalupa/usagi) - Simple 2D game engine for rapid prototyping with Lua, featuring live reload and cross-platform export; powered by Rust and sola-raylib
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
@@ -2542,7 +2544,7 @@
 - [Enet4/faiss-rs](https://github.com/Enet4/faiss-rs) - Rust language bindings for Faiss
 - [rust-headless-chrome/rust-headless-chrome](https://github.com/rust-headless-chrome/rust-headless-chrome) - A high-level API to control headless Chrome or Chromium over the DevTools Protocol. It is the Rust equivalent of Puppeteer, a Node library maintained by the Chrome DevTools team.
 - [darfink/detour-rs](https://github.com/darfink/detour-rs) - A cross-platform detour library written in Rust
-- [mmastrac/linktime](https://github.com/mmastrac/linktime) - Module initialization/global constructor functions for Rust
+- [mmastrac/linktime](https://github.com/mmastrac/linktime) - Link-time initialization, destruction, scattered data collection macros for Rust
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [autometrics-dev/autometrics-rs](https://github.com/autometrics-dev/autometrics-rs) - Easily add metrics to your code that actually help you spot and debug issues in production. Built on Prometheus and OpenTelemetry.
@@ -2721,6 +2723,7 @@
 
 ## Shell 
 
+- [vimichael/terminal-setup](https://github.com/vimichael/terminal-setup) - Links to tools I use for my terminal setup.
 - [christianhaitian/dArkOS](https://github.com/christianhaitian/dArkOS) - Debian based ArkOS
 - [AngelJumbo/gruvbox-wallpapers](https://github.com/AngelJumbo/gruvbox-wallpapers) - Gruvbox theme Wallpapers
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:

@@ -725,6 +725,7 @@
 
 ## JavaScript 
 
+- [replit/codemirror-vim](https://github.com/replit/codemirror-vim) - Vim keybindings for CM6
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [nodejs/import-in-the-middle](https://github.com/nodejs/import-in-the-middle) - Like `require-in-the-middle`, but for ESM import

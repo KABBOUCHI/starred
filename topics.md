@@ -40,6 +40,7 @@
 - [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [claude-code](#claude-code)
 - [cli](#cli)
 - [clojure](#clojure)
 - [cloud](#cloud)
@@ -839,6 +840,10 @@
 - [harshjv/github-repo-size](https://github.com/harshjv/github-repo-size) - 🚀 Chrome extension to display repository size on GitHub
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 
+## claude-code 
+
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
+
 ## cli 
 
 - [jasonjmcghee/ron-lsp](https://github.com/jasonjmcghee/ron-lsp) - An LSP and CLI for RON files that provides autocomplete, diagnostics, go to definition, code actions, and hover support based on Rust type annotations
@@ -1307,7 +1312,7 @@
 ## design 
 
 - [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [dhanishgajjar/vscode-icons](https://github.com/dhanishgajjar/vscode-icons) - Custom Visual Studio Code Icons
@@ -2506,7 +2511,7 @@
 
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scr
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
 - [matmen/ImageScript](https://github.com/matmen/ImageScript) - zero-dependency JavaScript image manipulation
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [fengyuanchen/cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
@@ -3614,6 +3619,7 @@
 
 ## neovim 
 
+- [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
 - [saghen/blink.cmp](https://github.com/saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.
@@ -6908,6 +6914,7 @@
 
 ## terminal 
 
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)

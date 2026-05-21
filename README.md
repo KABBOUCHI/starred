@@ -45,7 +45,6 @@
 - [PowerShell](#powershell)
 - [Pug](#pug)
 - [Python](#python)
-- [QML](#qml)
 - [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -2000,16 +1999,13 @@
 - [jayanam/fast-sculpt](https://github.com/jayanam/fast-sculpt) - Fast Sculpt is a Blender sculpting utility
 - [stuffmatic/blam](https://github.com/stuffmatic/blam) - 🚨 No longer maintained. Check out fSpy instead 🚨 A camera and projector calibration toolkit for Blender that also does automatic 3D reconstruction of geometry with rectangular faces.
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
+- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
 - [sketchfab/gltf2-blender-importer](https://github.com/sketchfab/gltf2-blender-importer) - Blender importer addon for glTF 2.0 files
 - [Supervisor/supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for Unix (supervisord)
 - [rehmatworks/serverpilot-letsencrypt](https://github.com/rehmatworks/serverpilot-letsencrypt) - Automate the installation of Let's Encrypt SSL on the free plan of ServerPilot
 - [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code) - pix2code: Generating Code from a Graphical User Interface Screenshot
 - [Bombaba/BlenderPythonScripts](https://github.com/Bombaba/BlenderPythonScripts) - 
 - [a1studmuffin/SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) - A Blender script to procedurally generate 3D spaceships
-
-## QML 
-
-- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
 
 ## Roff 
 
@@ -2031,6 +2027,7 @@
 
 ## Rust 
 
+- [illegalstudio/elephc](https://github.com/illegalstudio/elephc) - A PHP-to-native compiler. Takes a subset of PHP and compiles it directly to native assembly, producing standalone binaries for the currently supported targets: macOS ARM64, Linux ARM64, and Linux x86_
 - [pacifio/cersei](https://github.com/pacifio/cersei) - The Rust SDK for building coding agents. Tool execution, LLM streaming, graph memory, sub-agent orchestration, MCP — as composable library functions.
 - [doceazedo/sprinkles](https://github.com/doceazedo/sprinkles) - 🍩 GPU particle system & editor for Bevy
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
@@ -2133,7 +2130,7 @@
 - [water-rs/waterui](https://github.com/water-rs/waterui) - Bring your app to all platform, learning once and applying anywhere
 - [pykeio/ort](https://github.com/pykeio/ort) - Fast ML inference & training for ONNX models in Rust
 - [mitsuhiko/systemfd](https://github.com/mitsuhiko/systemfd) - Development helper utility for helping with auto reloading for projects supporting systemd socket activation
-- [TM9657/flow-like](https://github.com/TM9657/flow-like) - Flow-Like: Strongly Typed Enterprise Scale Workflows. Built for scalability, speed, seamless AI integration and rich customization.
+- [Rheosoph/flow-like](https://github.com/Rheosoph/flow-like) - Flow-Like: Strongly Typed Enterprise Scale Workflows. Built for scalability, speed, seamless AI integration and rich customization.
 - [zed-extensions/vue](https://github.com/zed-extensions/vue) - Vue support
 - [zed-extensions/php](https://github.com/zed-extensions/php) - PHP Zed Extension
 - [makspll/bevy_mod_scripting](https://github.com/makspll/bevy_mod_scripting) - Bevy Scripting Plugin

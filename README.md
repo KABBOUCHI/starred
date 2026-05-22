@@ -2625,7 +2625,7 @@
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [tczajka/ibig-rs](https://github.com/tczajka/ibig-rs) - A big integer library in Rust with good performance.
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
-- [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
+- [grpc/grpc-rust](https://github.com/grpc/grpc-rust) - A native gRPC client & server implementation with async/await support.
 - [StarArawn/kayak_ui](https://github.com/StarArawn/kayak_ui) - 
 - [killercup/cargo-edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line.
 - [dtolnay/typetag](https://github.com/dtolnay/typetag) - Serde serializable and deserializable trait objects
@@ -2828,7 +2828,7 @@
 ## TypeScript 
 
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [vercel-labs/github-tools](https://github.com/vercel-labs/github-tools) - GitHub tools and agents for the Vercel AI SDK, wrap GitHub's API as AI SDK tools ready to plug into any agent
 - [vercel-labs/wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web
@@ -3213,6 +3213,7 @@
 - [joshstevens19/ethereum-multicall](https://github.com/joshstevens19/ethereum-multicall) - Ability to call many ethereum constant function calls in 1 JSONRPC request
 - [rwasm/vite-plugin-rsw](https://github.com/rwasm/vite-plugin-rsw) - 🦞 wasm-pack plugin for Vite
 - [wevm/abitype](https://github.com/wevm/abitype) - Strict TypeScript types for Ethereum ABIs
+- [kakajun/vue3-sketch-ruler](https://github.com/kakajun/vue3-sketch-ruler) - Zoom operation of page display in vue 3
 - [unjs/nypm](https://github.com/unjs/nypm) - 🌈 Unified Package Manager for Node.js (npm, pnpm, yarn), Bun and Deno
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [cavai-research/Adonis-Queue](https://github.com/cavai-research/Adonis-Queue) - Queue provider for Adonis V6
@@ -3728,7 +3729,6 @@
 - [bhaveshpatel200/vue3-datatable](https://github.com/bhaveshpatel200/vue3-datatable) - vue3-datatable is a powerful component for creating dynamic and customizable data tables. It supports large amounts of data, sorting, pagination, and filtering and highly customizable
 - [nuxt/nuxt.new](https://github.com/nuxt/nuxt.new) - Create a new Nuxt project from your address bar.
 - [scottyzen/woonuxt](https://github.com/scottyzen/woonuxt) - Static e-commerce powered by WooCommerce & Nuxt
-- [kakajun/vue3-sketch-ruler](https://github.com/kakajun/vue3-sketch-ruler) - Zoom operation of page display in vue 3
 - [kanriapp/kanri](https://github.com/kanriapp/kanri) - Modern offline Kanban board app for Windows, MacOS and Linux made with Tauri and Nuxt. Built with simplicity and user experience in mind.
 - [nuxt-themes/typography](https://github.com/nuxt-themes/typography) - Beautifully customizable Prose components for Nuxt Content.
 - [zernonia/keypress](https://github.com/zernonia/keypress) - KeyPress - an open-source blogging platform + free custom domains.

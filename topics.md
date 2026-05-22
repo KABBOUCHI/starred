@@ -333,7 +333,7 @@
 
 ## agents 
 
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [vercel-labs/github-tools](https://github.com/vercel-labs/github-tools) - GitHub tools and agents for the Vercel AI SDK, wrap GitHub's API as AI SDK tools ready to plug into any agent
 - [Rheosoph/flow-like](https://github.com/Rheosoph/flow-like) - Flow-Like: Strongly Typed Enterprise Scale Workflows. Built for scalability, speed, seamless AI integration and rich customization.
 - [goat-sdk/goat](https://github.com/goat-sdk/goat) - The leading agentic finance toolkit for AI agents
@@ -350,7 +350,7 @@
 ## ai 
 
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [vercel-labs/github-tools](https://github.com/vercel-labs/github-tools) - GitHub tools and agents for the Vercel AI SDK, wrap GitHub's API as AI SDK tools ready to plug into any agent
@@ -3203,7 +3203,7 @@
 ## linux 
 
 - [illegalstudio/elephc](https://github.com/illegalstudio/elephc) - A PHP-to-native compiler. Takes a subset of PHP and compiles it directly to native assembly, producing standalone binaries for the currently supported targets: macOS ARM64, Linux ARM64, and Linux x86_
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [JGeek00/adguard-home-manager](https://github.com/JGeek00/adguard-home-manager) - AdGuard Home client created with Flutter
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -3367,7 +3367,7 @@
 ## macos 
 
 - [illegalstudio/elephc](https://github.com/illegalstudio/elephc) - A PHP-to-native compiler. Takes a subset of PHP and compiles it directly to native assembly, producing standalone binaries for the currently supported targets: macOS ARM64, Linux ARM64, and Linux x86_
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS
 - [socsieng/sendkeys](https://github.com/socsieng/sendkeys) - Command line tool for automating keystrokes and mouse events on macOS
 - [madsmtm/objc2](https://github.com/madsmtm/objc2) - Bindings to Apple frameworks in Rust
@@ -6081,7 +6081,7 @@
 
 ## reactjs 
 
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [suitedaces/computer-agent](https://github.com/suitedaces/computer-agent) - Desktop app to control your computer with AI using your terminal, browser, mouse & keyboard
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 - [formkit/formkit](https://github.com/formkit/formkit) - The form framework for coding agents
@@ -6136,7 +6136,7 @@
 
 - [pacifio/cersei](https://github.com/pacifio/cersei) - The Rust SDK for building coding agents. Tool execution, LLM streaming, graph memory, sub-agent orchestration, MCP — as composable library functions.
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide) - cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language b
 - [mlua-rs/mlua](https://github.com/mlua-rs/mlua) - High level Lua 5.5/5.4/5.3/5.2/5.1 (including LuaJIT) and Luau bindings to Rust with async/await support
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
@@ -6428,7 +6428,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
-- [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
+- [grpc/grpc-rust](https://github.com/grpc/grpc-rust) - A native gRPC client & server implementation with async/await support.
 - [killercup/cargo-edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line.
 - [insipx/coil](https://github.com/insipx/coil) - Futures-based background work queue built with SQLx and Postgres
 - [Plume-org/rocket_i18n](https://github.com/Plume-org/rocket_i18n) - A crate to help you internationalize your Rocket applications.
@@ -6932,7 +6932,7 @@
 ## terminal 
 
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
@@ -7884,7 +7884,7 @@
 
 ## windows 
 
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [JGeek00/adguard-home-manager](https://github.com/JGeek00/adguard-home-manager) - AdGuard Home client created with Flutter
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.

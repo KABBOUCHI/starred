@@ -3190,7 +3190,7 @@
 - [vite-pwa/nuxt](https://github.com/vite-pwa/nuxt) - Zero-config PWA Plugin for Nuxt 3
 - [Tahul/pinceau-vscode](https://github.com/Tahul/pinceau-vscode) - ⚙️ IntelliSense integration for Pinceau features
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
-- [comarkdown/vscode-comark](https://github.com/comarkdown/vscode-comark) - Provides syntax highlighting and colon matching for MDC (Markdown Components) files for Nuxt Content.
+- [comarkdown/vscode-comark](https://github.com/comarkdown/vscode-comark) - Provides syntax highlighting and colon matching for Comark (Components in Markdown, formerly MDC) files.
 - [volarjs/volar.js](https://github.com/volarjs/volar.js) - 💙🌊
 - [ueberdosis/hocuspocus](https://github.com/ueberdosis/hocuspocus) - The Yjs CRDT WebSocket backend for conflict-free real-time collaboration in your app.
 - [wobsoriano/numix](https://github.com/wobsoriano/numix) - Write your server code inside Vue SFC's and handle forms easily.

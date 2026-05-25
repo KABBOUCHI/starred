@@ -6136,6 +6136,7 @@
 
 ## rust 
 
+- [harryfei/which-rs](https://github.com/harryfei/which-rs) - A Rust equivalent of Unix command "which".
 - [pacifio/cersei](https://github.com/pacifio/cersei) - The Rust SDK for building coding agents. Tool execution, LLM streaming, graph memory, sub-agent orchestration, MCP — as composable library functions.
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace

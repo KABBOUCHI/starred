@@ -1861,7 +1861,7 @@
 
 ## game-development 
 
-- [brettchalupa/usagi](https://github.com/brettchalupa/usagi) - Simple 2D game engine for rapid prototyping with Lua, featuring live reload and cross-platform export
+- [brettchalupa/usagi](https://github.com/brettchalupa/usagi) - [MIRROR] Development happens at: https://codeberg.org/brettchalupa/usagi - Usagi is a simple 2D game engine for rapid prototyping with Lua, featuring live reload and cross-platform export
 - [Noxmore/bevy_trenchbroom](https://github.com/Noxmore/bevy_trenchbroom) - TrenchBroom integration, .map, and .bsp loading for Bevy
 - [TrenchBroom/TrenchBroom](https://github.com/TrenchBroom/TrenchBroom) - Cross-Platform Level Editor
 - [makspll/bevy_mod_scripting](https://github.com/makspll/bevy_mod_scripting) - Bevy Scripting Plugin
@@ -1911,7 +1911,7 @@
 
 ## game-engine 
 
-- [brettchalupa/usagi](https://github.com/brettchalupa/usagi) - Simple 2D game engine for rapid prototyping with Lua, featuring live reload and cross-platform export
+- [brettchalupa/usagi](https://github.com/brettchalupa/usagi) - [MIRROR] Development happens at: https://codeberg.org/brettchalupa/usagi - Usagi is a simple 2D game engine for rapid prototyping with Lua, featuring live reload and cross-platform export
 - [Far-Beyond-Pulsar/Pulsar-Native](https://github.com/Far-Beyond-Pulsar/Pulsar-Native) - The next-generation game engine that you deserve implemented in rust on top of GPUI
 - [not-fl3/macroquad](https://github.com/not-fl3/macroquad) - Cross-platform game engine in Rust.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
@@ -2102,6 +2102,7 @@
 - [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 - [context-labs/mactop](https://github.com/context-labs/mactop) - mactop - Apple Silicon Monitor Top
+- [runZeroInc/sshamble](https://github.com/runZeroInc/sshamble) - SSHamble: Unexpected Exposures in SSH
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [golang/go](https://github.com/golang/go) - The Go programming language
@@ -3318,7 +3319,7 @@
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.
 - [mason-org/mason.nvim](https://github.com/mason-org/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [mlua-rs/mlua](https://github.com/mlua-rs/mlua) - High level Lua 5.5/5.4/5.3/5.2/5.1 (including LuaJIT) and Luau bindings to Rust with async/await support
-- [brettchalupa/usagi](https://github.com/brettchalupa/usagi) - Simple 2D game engine for rapid prototyping with Lua, featuring live reload and cross-platform export
+- [brettchalupa/usagi](https://github.com/brettchalupa/usagi) - [MIRROR] Development happens at: https://codeberg.org/brettchalupa/usagi - Usagi is a simple 2D game engine for rapid prototyping with Lua, featuring live reload and cross-platform export
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
 - [makspll/bevy_mod_scripting](https://github.com/makspll/bevy_mod_scripting) - Bevy Scripting Plugin
 - [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
@@ -4266,7 +4267,6 @@
 - [edge-js/edge-iconify](https://github.com/edge-js/edge-iconify) - Iconify integration for the Edge template engine
 - [batosai/edge-components](https://github.com/batosai/edge-components) - 
 - [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy) - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
-- [runZeroInc/sshamble](https://github.com/runZeroInc/sshamble) - SSHamble: Unexpected Exposures in SSH
 - [lukeed/klona](https://github.com/lukeed/klona) - A tiny (240B to 501B) and fast utility to "deep clone" Objects, Arrays, Dates, RegExps, and more!
 - [penberg/hiisi](https://github.com/penberg/hiisi) - Hiisi is a proof of concept libSQL written in Rust following TigerBeetle-style with deterministic simulation testing.
 - [PawelBis/bevy_wry](https://github.com/PawelBis/bevy_wry) - 
@@ -5799,7 +5799,7 @@
 
 ## pico-8 
 
-- [brettchalupa/usagi](https://github.com/brettchalupa/usagi) - Simple 2D game engine for rapid prototyping with Lua, featuring live reload and cross-platform export
+- [brettchalupa/usagi](https://github.com/brettchalupa/usagi) - [MIRROR] Development happens at: https://codeberg.org/brettchalupa/usagi - Usagi is a simple 2D game engine for rapid prototyping with Lua, featuring live reload and cross-platform export
 
 ## pixel-art 
 
@@ -6416,7 +6416,7 @@
 - [saru-tora/anansi](https://github.com/saru-tora/anansi) - A simple full-stack web framework for Rust
 - [quadrupleslap/scrap](https://github.com/quadrupleslap/scrap) - 📸 Screen capture made easy!
 - [webrtc-rs/webrtc](https://github.com/webrtc-rs/webrtc) - Async-friendly WebRTC implementation in Rust
-- [RustAudio/cpal](https://github.com/RustAudio/cpal) - Cross-platform audio I/O library in pure Rust
+- [RustAudio/cpal](https://github.com/RustAudio/cpal) - Low-level cross-platform audio I/O library in Rust
 - [rwasm/vite-plugin-rsw](https://github.com/rwasm/vite-plugin-rsw) - 🦞 wasm-pack plugin for Vite
 - [emoon/rust_minifb](https://github.com/emoon/rust_minifb) - Cross platfrom window and framebuffer crate for Rust
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
@@ -6525,6 +6525,7 @@
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic and non-atomic counters and rate limiting tools. Limit resource access at any scale.
 - [HugoRCD/shelve](https://github.com/HugoRCD/shelve) - Open-source secret & environment management. Secure, simple, collaborative. CLI & Github Sync
+- [runZeroInc/sshamble](https://github.com/runZeroInc/sshamble) - SSHamble: Unexpected Exposures in SSH
 - [hectorm/otpauth](https://github.com/hectorm/otpauth) - One Time Password (HOTP/TOTP) library for Node.js, Deno, Bun and browsers.
 - [RevokeCash/revoke.cash](https://github.com/RevokeCash/revoke.cash) - ❌ Revoke or update your token approvals
 - [Baroshem/nuxt-security](https://github.com/Baroshem/nuxt-security) - 🛡 Automatically configure your app to follow OWASP security patterns and principles by using HTTP Headers and Middleware

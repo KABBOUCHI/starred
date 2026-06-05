@@ -1861,7 +1861,7 @@
 
 ## game-development 
 
-- [brettchalupa/usagi](https://github.com/brettchalupa/usagi) - [MIRROR] Development happens at: https://codeberg.org/brettchalupa/usagi - Usagi is a simple 2D game engine for rapid prototyping with Lua, featuring live reload and cross-platform export
+- [brettchalupa/usagi](https://github.com/brettchalupa/usagi) - A simple 2D game engine for rapid prototyping with Lua, featuring live reload and cross-platform export - [MIRROR] development happens at: https://codeberg.org/brettchalupa/usagi
 - [Noxmore/bevy_trenchbroom](https://github.com/Noxmore/bevy_trenchbroom) - TrenchBroom integration, .map, and .bsp loading for Bevy
 - [TrenchBroom/TrenchBroom](https://github.com/TrenchBroom/TrenchBroom) - Cross-Platform Level Editor
 - [makspll/bevy_mod_scripting](https://github.com/makspll/bevy_mod_scripting) - Bevy Scripting Plugin
@@ -1911,7 +1911,7 @@
 
 ## game-engine 
 
-- [brettchalupa/usagi](https://github.com/brettchalupa/usagi) - [MIRROR] Development happens at: https://codeberg.org/brettchalupa/usagi - Usagi is a simple 2D game engine for rapid prototyping with Lua, featuring live reload and cross-platform export
+- [brettchalupa/usagi](https://github.com/brettchalupa/usagi) - A simple 2D game engine for rapid prototyping with Lua, featuring live reload and cross-platform export - [MIRROR] development happens at: https://codeberg.org/brettchalupa/usagi
 - [Far-Beyond-Pulsar/Pulsar-Native](https://github.com/Far-Beyond-Pulsar/Pulsar-Native) - The next-generation game engine that you deserve implemented in rust on top of GPUI
 - [not-fl3/macroquad](https://github.com/not-fl3/macroquad) - Cross-platform game engine in Rust.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
@@ -3319,7 +3319,7 @@
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.
 - [mason-org/mason.nvim](https://github.com/mason-org/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [mlua-rs/mlua](https://github.com/mlua-rs/mlua) - High level Lua 5.5/5.4/5.3/5.2/5.1 (including LuaJIT) and Luau bindings to Rust with async/await support
-- [brettchalupa/usagi](https://github.com/brettchalupa/usagi) - [MIRROR] Development happens at: https://codeberg.org/brettchalupa/usagi - Usagi is a simple 2D game engine for rapid prototyping with Lua, featuring live reload and cross-platform export
+- [brettchalupa/usagi](https://github.com/brettchalupa/usagi) - A simple 2D game engine for rapid prototyping with Lua, featuring live reload and cross-platform export - [MIRROR] development happens at: https://codeberg.org/brettchalupa/usagi
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
 - [makspll/bevy_mod_scripting](https://github.com/makspll/bevy_mod_scripting) - Bevy Scripting Plugin
 - [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
@@ -5799,7 +5799,7 @@
 
 ## pico-8 
 
-- [brettchalupa/usagi](https://github.com/brettchalupa/usagi) - [MIRROR] Development happens at: https://codeberg.org/brettchalupa/usagi - Usagi is a simple 2D game engine for rapid prototyping with Lua, featuring live reload and cross-platform export
+- [brettchalupa/usagi](https://github.com/brettchalupa/usagi) - A simple 2D game engine for rapid prototyping with Lua, featuring live reload and cross-platform export - [MIRROR] development happens at: https://codeberg.org/brettchalupa/usagi
 
 ## pixel-art 
 

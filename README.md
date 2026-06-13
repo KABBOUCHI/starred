@@ -1981,7 +1981,7 @@
 - [JacquesLucke/animation_nodes](https://github.com/JacquesLucke/animation_nodes) - Node based visual scripting system designed for motion graphics in Blender.
 - [ubisoft/mixer](https://github.com/ubisoft/mixer) - Add-on for real-time collaboration in Blender.
 - [CreativeDesigner3D/ProSidebar](https://github.com/CreativeDesigner3D/ProSidebar) - Sidebar for Blender 2.8
-- [EpicGamesExt/BlenderTools](https://github.com/EpicGamesExt/BlenderTools) - Blender addons that improve the game development workflow between Blender and Unreal.
+- [EpicGames/BlenderTools](https://github.com/EpicGames/BlenderTools) - Blender addons that improve the game development workflow between Blender and Unreal.
 - [cgvirus/blender-vse-easy-proxy](https://github.com/cgvirus/blender-vse-easy-proxy) - Addon to create proxy files easily using FFMPEG
 - [cgvirus/Blender-Compositor-Disc-Cache-Realtime-Preview-Addon](https://github.com/cgvirus/Blender-Compositor-Disc-Cache-Realtime-Preview-Addon) - An Addon for Blender compositor to disc cache and do real time preview through Blender VSE
 - [stuffmatic/fSpy-Blender](https://github.com/stuffmatic/fSpy-Blender) - Official fSpy importer for Blender
@@ -2040,7 +2040,7 @@
 - [raylib-rs/raylib-rs](https://github.com/raylib-rs/raylib-rs) - Rust bindings for raylib
 - [mlua-rs/mlua](https://github.com/mlua-rs/mlua) - High level Lua 5.5/5.4/5.3/5.2/5.1 (including LuaJIT) and Luau bindings to Rust with async/await support
 - [brettchalupa/sola-raylib](https://github.com/brettchalupa/sola-raylib) - Maintained Rust Raylib bindings & wrapper with support for Raylib v6.0; fork of raylib-rs from the 5.5.1 release
-- [brettchalupa/usagi](https://github.com/brettchalupa/usagi) - A simple 2D game engine for rapid prototyping with Lua, featuring live reload and cross-platform export; this repo is a mirror anddevelopment happens at: https://codeberg.org/brettchalupa/usagi
+- [brettchalupa/usagi](https://github.com/brettchalupa/usagi) - A simple 2D game engine for rapid prototyping with Lua, featuring live reload and cross-platform export; this repo is a mirror and development happens at: https://codeberg.org/brettchalupa/usagi
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
 - [iamnbutler/gpui-unofficial](https://github.com/iamnbutler/gpui-unofficial) - publishes gpui releases on zed release tags
 - [lucascompython/wgsl-wesl-zed](https://github.com/lucascompython/wgsl-wesl-zed) - WGSL/WESL language support for Zed
@@ -2052,7 +2052,7 @@
 - [solana-foundation/surfpool](https://github.com/solana-foundation/surfpool) - Surfpool is where developers start their Solana journey.
 - [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
 - [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust
-- [ubugeeei-prod/vize](https://github.com/ubugeeei-prod/vize) - Unofficial High-Performance Vue.js Toolchain in Rust
+- [ubugeeei-prod/vize](https://github.com/ubugeeei-prod/vize) - High-Performance Vue.js Toolchain in Rust. "Vue-specific" part Compiler, Linter, Type Checker, Formatter, LSP, Story System, Editor Extensions. This already passed 6000+ test suites, includes real wor
 - [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
 - [astrum-chat/astrum](https://github.com/astrum-chat/astrum) - Local-first AI chat app.
 - [ohkami-rs/alien-signals-rs](https://github.com/ohkami-rs/alien-signals-rs) - Rust port of alien-signals 👾 the lightest signal library
@@ -3235,7 +3235,7 @@
 - [nuxt-experiments/nuxt-remote-config](https://github.com/nuxt-experiments/nuxt-remote-config) - 
 - [web3/web3.js](https://github.com/web3/web3.js) - Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions.
 - [vue-terminal/vue-termui](https://github.com/vue-terminal/vue-termui) - The Modern Terminal UI Framework
-- [sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth) - Authentication built for Nuxt 3! Easily add authentication via OAuth providers, credentials or Email Magic URLs!
+- [sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth) - Authentication built for Nuxt! Easily add authentication via OAuth providers, credentials or Email Magic URLs!
 - [unjs/unhead](https://github.com/unjs/unhead) - The full stack &lt;head&gt; package for any framework.
 - [geelen/npx-import](https://github.com/geelen/npx-import) - 
 - [adonisjs/fold](https://github.com/adonisjs/fold) - IoC container with all required goodies to write flexible node applications
@@ -3640,7 +3640,7 @@
 - [stuffmatic/fSpy](https://github.com/stuffmatic/fSpy) - A cross platform app for quick and easy still image camera matching
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
+- [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - Windows 95 in an app. Runs on macOS, Linux, and Windows.
 - [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
 - [michitaro/vue-window](https://github.com/michitaro/vue-window) - Window component for vue2
 - [michitaro/vue-menu](https://github.com/michitaro/vue-menu) - Menu/Contextmenu Component for vue2

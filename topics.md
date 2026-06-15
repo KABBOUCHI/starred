@@ -3976,6 +3976,7 @@
 
 ## others 
 
+- [omerxx/tmux-sessionx](https://github.com/omerxx/tmux-sessionx) - A Tmux session manager, with preview, fuzzy finding, and MORE
 - [ytnrvdf/wha-spell-simulator](https://github.com/ytnrvdf/wha-spell-simulator) - A fan-made browser-based Witch Hat Atelier spell simulator.
 - [ExtendDB/extenddb](https://github.com/ExtendDB/extenddb) - ExtendDB
 - [peterp/cmdcmd](https://github.com/peterp/cmdcmd) - Keyboard-first window switcher for macOS. Press both ⌘ keys to fan windows into a grid of live previews.

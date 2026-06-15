@@ -2750,6 +2750,7 @@
 
 ## Shell 
 
+- [omerxx/tmux-sessionx](https://github.com/omerxx/tmux-sessionx) - A Tmux session manager, with preview, fuzzy finding, and MORE
 - [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [vimichael/terminal-setup](https://github.com/vimichael/terminal-setup) - Links to tools I use for my terminal setup.

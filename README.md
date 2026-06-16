@@ -1948,7 +1948,6 @@
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 - [hotshotco/Hotshot-XL](https://github.com/hotshotco/Hotshot-XL) - ✨ Hotshot-XL: State-of-the-art AI text-to-GIF model trained to work alongside Stable Diffusion XL
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.
@@ -2434,6 +2433,7 @@
 - [Bluefinger/bevy_turborand](https://github.com/Bluefinger/bevy_turborand) - A plugin to enable random number generation for the Bevy game engine.
 - [pop-os/cosmic-text](https://github.com/pop-os/cosmic-text) - Pure Rust multi-line text handling
 - [politrons/FunctionalRust](https://github.com/politrons/FunctionalRust) - 
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
 - [bitshifter/glam-rs](https://github.com/bitshifter/glam-rs) - A simple and fast linear algebra library for games and graphics
 - [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation.

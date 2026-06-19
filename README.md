@@ -1906,7 +1906,7 @@
 - [e2b-dev/desktop](https://github.com/e2b-dev/desktop) - E2B Desktop Sandbox for LLMs. E2B Sandbox with desktop graphical environment that you can connect to any LLM for secure computer use.
 - [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
 - [peakmojo/applescript-mcp](https://github.com/peakmojo/applescript-mcp) - MCP server that execute applescript giving you full control of your Mac
-- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - 
+- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - Open-source MCP to use Blender with any LLM
 - [christgau/wsdd](https://github.com/christgau/wsdd) - A Web Service Discovery host daemon.
 - [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon) - :page_facing_up: Python Apps for Home Automation
 - [droidrun/mobilerun](https://github.com/droidrun/mobilerun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
@@ -2135,7 +2135,6 @@
 - [water-rs/waterui](https://github.com/water-rs/waterui) - Bring your app to all platform, learning once and applying anywhere
 - [pykeio/ort](https://github.com/pykeio/ort) - Fast ML inference & training for ONNX models in Rust
 - [mitsuhiko/systemfd](https://github.com/mitsuhiko/systemfd) - Development helper utility for helping with auto reloading for projects supporting systemd socket activation
-- [Rheosoph/flow-like](https://github.com/Rheosoph/flow-like) - Flow-Like: Strongly Typed Enterprise Scale Workflows. Built for scalability, speed, seamless AI integration and rich customization.
 - [zed-extensions/vue](https://github.com/zed-extensions/vue) - Vue support
 - [zed-extensions/php](https://github.com/zed-extensions/php) - PHP Zed Extension
 - [makspll/bevy_mod_scripting](https://github.com/makspll/bevy_mod_scripting) - Bevy Scripting Plugin
@@ -2896,6 +2895,7 @@
 - [unovue/detypes](https://github.com/unovue/detypes) - Remove the types, keep the formatting
 - [innocenzi/vite-plugin-run](https://github.com/innocenzi/vite-plugin-run) - Run commands when Vite starts or a file changes
 - [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, Svelte, and TS/JS.
+- [Rheosoph/flow-like](https://github.com/Rheosoph/flow-like) - Flow-Like: Strongly Typed Enterprise Scale Workflows. Built for scalability, speed, seamless AI integration and rich customization.
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [antfu/vite-plugin-vue-tracer](https://github.com/antfu/vite-plugin-vue-tracer) - Tracer for the source code of elements and vdoms in Vue SFC.
 - [dimerapp/docs-boilerplate](https://github.com/dimerapp/docs-boilerplate) - A simple boilerplate for creating documentation. Built on top of Dimer and AdonisJS HTTP server

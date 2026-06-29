@@ -4652,7 +4652,7 @@
 - [benmccann/esm-env](https://github.com/benmccann/esm-env) - 
 - [rwasm/vite-rsw-wasm-template](https://github.com/rwasm/vite-rsw-wasm-template) - Vite + Rust 💖 WebAssembly
 - [kakajun/vue3-sketch-ruler](https://github.com/kakajun/vue3-sketch-ruler) - 标尺组件库, 目前master是3x版本, 需要查看2x版本, 请切换到对应分支
-- [unjs/nypm](https://github.com/unjs/nypm) - 🌈 Unified Package Manager for Node.js (npm, pnpm, yarn), Bun, Deno, and Aube.
+- [unjs/nypm](https://github.com/unjs/nypm) - 🌈 Unified Package Manager for Node.js (npm, pnpm, yarn), Bun, Deno, Nub, Aube.
 - [cavai-research/Adonis-Queue](https://github.com/cavai-research/Adonis-Queue) - Queue provider for Adonis V6
 - [paritytech/jsonrpsee](https://github.com/paritytech/jsonrpsee) - Rust JSON-RPC library on top of async/await
 - [nuxt-experiments/nuxt-remote-config](https://github.com/nuxt-experiments/nuxt-remote-config) - 

@@ -901,7 +901,6 @@
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [davestewart/nuxt-areas](https://github.com/davestewart/nuxt-areas) - Simple and scalable folder management for large Nuxt projects
 - [MikeMcl/bignumber.js](https://github.com/MikeMcl/bignumber.js) - A JavaScript library for arbitrary-precision decimal and non-decimal arithmetic
-- [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [ReactUnity/core](https://github.com/ReactUnity/core) - React and HTML framework for Unity UI & UIToolkit
@@ -3109,6 +3108,7 @@
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [peterboyer/pb.adt](https://github.com/peterboyer/pb.adt) - Simple ADT types and values.
 - [nuxtrdev/nuxtr-vscode](https://github.com/nuxtrdev/nuxtr-vscode) - An extension offering commands and tools to make your experience with Nuxt more pleasant.
+- [nuxt/nuxt.com](https://github.com/nuxt/nuxt.com) - The Nuxt website, made with Nuxt.
 - [taskforcesh/bullmq-proxy](https://github.com/taskforcesh/bullmq-proxy) - HTTP based proxy for accessing BullMQ Queues
 - [latticexyz/mud](https://github.com/latticexyz/mud) - MUD is a framework for building autonomous worlds
 - [ddahan/ui-libs](https://github.com/ddahan/ui-libs) - A UI Lib Picker for Vue 3 / Nuxt 3/4
@@ -3439,6 +3439,7 @@
 - [nuxt/modules](https://github.com/nuxt/modules) - Discover the Nuxt modules to add any CMS, Database, UI, Auth and integrations into your Vue application.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [tiged/tiged](https://github.com/tiged/tiged) - Community driven fork of degit
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
@@ -3723,7 +3724,6 @@
 - [nuxt-ui-templates/landing](https://github.com/nuxt-ui-templates/landing) - Nuxt Landing Template made with Nuxt UI and Nuxt Content.
 - [nuxt-ui-templates/docs](https://github.com/nuxt-ui-templates/docs) - Nuxt Docs Template made with Nuxt UI and Nuxt Content.
 - [nuxt-ui-templates/starter](https://github.com/nuxt-ui-templates/starter) - Nuxt Starter Template for Nuxt UI.
-- [nuxt/nuxt.com](https://github.com/nuxt/nuxt.com) - The Nuxt website, made with Nuxt.
 - [antfu/eslint-flat-config-viewer](https://github.com/antfu/eslint-flat-config-viewer) - A visual tool to help you view and understand your ESLint Flat config.
 - [selemondev/nuxt-ui-vue](https://github.com/selemondev/nuxt-ui-vue) - :construction: WIP Fully styled and customizable components from Nuxt UI to Vue 3.
 - [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue

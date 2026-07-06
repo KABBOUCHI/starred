@@ -2987,7 +2987,7 @@
 - [pi0/y-crossws](https://github.com/pi0/y-crossws) - yjs server for crossws.unjs.io, works with Node.js, Deno, Bun, Cloudflare Workers without any framework dependency.
 - [Julien-R44/tuyau](https://github.com/Julien-R44/tuyau) - RPC / E2E Client For AdonisJS
 - [h3js/srvx](https://github.com/h3js/srvx) - λ Universal Server based on web standards.
-- [selemondev/spark-ui](https://github.com/selemondev/spark-ui) - :construction: Experience The Magic Of Animated Components. Crafted With Vue, TypeScript, TailwindCss And Vueuse Motion.
+- [selemondev/spark-ui](https://github.com/selemondev/spark-ui) - Experience The Magic Of Animated Components. Crafted With Vue, TypeScript, TailwindCss And Vueuse Motion.
 - [denoland/denokv](https://github.com/denoland/denokv) - A self-hosted backend for Deno KV
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [deco-cx/deco](https://github.com/deco-cx/deco) - Git-based Visual CMS for Deno, &lt;/&gt; htmx and Tailwind apps. Deploy on any Deno-compatible host.

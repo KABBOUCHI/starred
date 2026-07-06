@@ -4240,7 +4240,7 @@
 - [h3js/srvx](https://github.com/h3js/srvx) - λ Universal Server based on web standards.
 - [GoogleChromeLabs/browser-fs-access](https://github.com/GoogleChromeLabs/browser-fs-access) - File System Access API with legacy fallback in the browser
 - [npm/package-json](https://github.com/npm/package-json) - Programmatic API to update package.json
-- [selemondev/spark-ui](https://github.com/selemondev/spark-ui) - :construction: Experience The Magic Of Animated Components. Crafted With Vue, TypeScript, TailwindCss And Vueuse Motion.
+- [selemondev/spark-ui](https://github.com/selemondev/spark-ui) - Experience The Magic Of Animated Components. Crafted With Vue, TypeScript, TailwindCss And Vueuse Motion.
 - [redgoose-dev/json-editor](https://github.com/redgoose-dev/json-editor) - JSON data editor and management
 - [napi-rs/package-template-pnpm](https://github.com/napi-rs/package-template-pnpm) - Template project for using napi-rs to build native package via pnpm.
 - [lookinlab/adonis-lucid-soft-deletes](https://github.com/lookinlab/adonis-lucid-soft-deletes) - Addon for soft deletes AdonisJS Lucid ORM

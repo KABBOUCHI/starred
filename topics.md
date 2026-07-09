@@ -4248,7 +4248,7 @@
 - [napi-rs/package-template-pnpm](https://github.com/napi-rs/package-template-pnpm) - Template project for using napi-rs to build native package via pnpm.
 - [lookinlab/adonis-lucid-soft-deletes](https://github.com/lookinlab/adonis-lucid-soft-deletes) - Addon for soft deletes AdonisJS Lucid ORM
 - [stackblitz/alien-signals](https://github.com/stackblitz/alien-signals) - 👾 The lightest signal library
-- [audiojs/audio-decode](https://github.com/audiojs/audio-decode) - Minimal audio decoders layer
+- [audiojs/decode](https://github.com/audiojs/decode) - Minimal audio decoders layer
 - [shikijs/textmate-grammars-themes](https://github.com/shikijs/textmate-grammars-themes) - Collection of TextMate grammars and themes in JSON
 - [m1guelpf/openai-realtime-proxy](https://github.com/m1guelpf/openai-realtime-proxy) - Safely deploy OpenAI's Realtime APIs in less than 5 minutes!
 - [unjs/unenv](https://github.com/unjs/unenv) - 🕊️ Node.js compatibility for any JavaScript runtime, including browsers and edge workers.

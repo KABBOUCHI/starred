@@ -1913,7 +1913,7 @@
 - [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon) - :page_facing_up: Python Apps for Home Automation
 - [droidrun/mobilerun](https://github.com/droidrun/mobilerun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
 - [HiDream-ai/HiDream-I1](https://github.com/HiDream-ai/HiDream-I1) - 
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 crypto and prediction exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [kyutai-labs/moshivis](https://github.com/kyutai-labs/moshivis) - Kyutai with an "eye"
 - [tlkh/asitop](https://github.com/tlkh/asitop) - Perf monitoring CLI tool for Apple Silicon
@@ -2035,6 +2035,7 @@
 
 ## Rust 
 
+- [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
 - [forjedio/yerd](https://github.com/forjedio/yerd) - A powerful, developer-friendly tool for local PHP development
 - [zortax/gpui-terminal](https://github.com/zortax/gpui-terminal) - Terminal emulator component for GPUI
 - [Eugeny/russh](https://github.com/Eugeny/russh) - Rust SSH client & server library
@@ -2999,7 +3000,7 @@
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [lookinlab/adonis-lucid-soft-deletes](https://github.com/lookinlab/adonis-lucid-soft-deletes) - Addon for soft deletes AdonisJS Lucid ORM
 - [stackblitz/alien-signals](https://github.com/stackblitz/alien-signals) - 👾 The lightest signal library
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [sdfxai/sdfx](https://github.com/sdfxai/sdfx) - The ultimate no-code platform to build and share AI apps with beautiful UI.
 - [unjs/unenv](https://github.com/unjs/unenv) - 🕊️ Node.js compatibility for any JavaScript runtime, including browsers and edge workers.
 - [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.

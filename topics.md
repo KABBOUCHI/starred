@@ -1815,7 +1815,7 @@
 - [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework.
 - [Siccity/xNode](https://github.com/Siccity/xNode) - Unity Node Editor: Lets you view and edit node graphs inside Unity
 - [armadillica/dillo](https://github.com/armadillica/dillo) - Free and open web platform created to support crowd-driven content.
-- [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
+- [pestphp/pest](https://github.com/pestphp/pest) - The elegant testing framework for PHP developers and AI agents.
 - [laravel/lumen](https://github.com/laravel/lumen) - The Laravel Lumen Framework.
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
@@ -5675,7 +5675,7 @@
 - [spatie/laravel-fractal](https://github.com/spatie/laravel-fractal) - An easy to use Fractal wrapper built for Laravel and Lumen applications
 - [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) - Eloquent Filter is a package for filter data of models by the query strings. Easy to use and fully dynamic.
 - [reactphp/event-loop](https://github.com/reactphp/event-loop) - ReactPHP's core reactor event loop that libraries can use for evented I/O.
-- [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
+- [pestphp/pest](https://github.com/pestphp/pest) - The elegant testing framework for PHP developers and AI agents.
 - [CodeDredd/laravel-soap](https://github.com/CodeDredd/laravel-soap) - Laravel Soap Client
 - [ohseesoftware/laravel-schema-list](https://github.com/ohseesoftware/laravel-schema-list) - List tables, columns, and indices for your database connections.
 - [andriichuk/laracash](https://github.com/andriichuk/laracash) - PHP Laravel Money Package 💰
@@ -7048,7 +7048,7 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [spatie/laravel-mail-preview](https://github.com/spatie/laravel-mail-preview) - A mail driver to quickly preview mail
-- [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
+- [pestphp/pest](https://github.com/pestphp/pest) - The elegant testing framework for PHP developers and AI agents.
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [christophrumpel/laravel-factories-reloaded](https://github.com/christophrumpel/laravel-factories-reloaded) - 🏭This package lets you create factory classes for your Laravel project.
 - [spatie/test-time](https://github.com/spatie/test-time) - A helper to control the flow of time

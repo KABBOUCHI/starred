@@ -867,6 +867,7 @@
 
 ## cli 
 
+- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser that runs directly inside your existing terminal
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [jasonjmcghee/ron-lsp](https://github.com/jasonjmcghee/ron-lsp) - An LSP and CLI for RON files that provides autocomplete, diagnostics, go to definition, code actions, and hover support based on Rust type annotations
@@ -934,7 +935,6 @@
 - [DragonBox/u3d](https://github.com/DragonBox/u3d) - U3d is a cross-platform set of tools to interact with Unity3D from command line.
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
-- [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 - [svenluijten/forge-cli](https://github.com/svenluijten/forge-cli) - 🔥 A command line utility to interact with your Laravel Forge servers, sites, and more.
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [CVarisco/gitlab-merge](https://github.com/CVarisco/gitlab-merge) - First Gitlab guided CLI to create your merge request from terminal
@@ -1018,7 +1018,7 @@
 ## compiler 
 
 - [illegalstudio/elephc](https://github.com/illegalstudio/elephc) - A PHP-to-native compiler. Takes a subset of PHP - including eval() - and compiles it directly to native assembly, producing standalone binaries for macOS ARM64, Linux ARM64, and Linux x86_64. No VM, n
-- [ubugeeei-prod/vize](https://github.com/ubugeeei-prod/vize) - Blazing fast Vue.js Toolchain. Compiler, Linter, Type Checker, Formatter, LSP, Story System, Editor Extensions. This already passed 9000+ test suites, includes real world E2E.
+- [ubugeeei-prod/vize](https://github.com/ubugeeei-prod/vize) - Blazing fast Vue.js Toolchain. Compiler, Linter, Type Checker, Formatter, LSP, Story System, Editor Extensions. This already passed 10k+ test suites, includes real world E2E.
 - [Hans-Halverson/brimstone](https://github.com/Hans-Halverson/brimstone) - New JavaScript engine written in Rust
 - [Rust-GPU/rust-gpu](https://github.com/Rust-GPU/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
@@ -1852,7 +1852,7 @@
 
 ## game 
 
-- [Far-Beyond-Pulsar/Pulsar-Native](https://github.com/Far-Beyond-Pulsar/Pulsar-Native) - The next-generation game engine that you deserve implemented in rust https://pulsarnative.com/
+- [Far-Beyond-Pulsar/Pulsar-Native](https://github.com/Far-Beyond-Pulsar/Pulsar-Native) - The next-generation game engine that you deserve implemented in rust https://pulsarnative.com/ Developer_Blogs: https://pulsarnative.com/blog/ Research: https://pulsarnative.com/Research/ UI-Framework
 - [c2i-junia/rustcraft](https://github.com/c2i-junia/rustcraft) - Minecraft game clone written in Rust.
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
 - [veloren/veloren](https://github.com/veloren/veloren) - [mirror of https://gitlab.com/veloren/veloren] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitL
@@ -1932,7 +1932,7 @@
 ## game-engine 
 
 - [brettchalupa/usagi](https://github.com/brettchalupa/usagi) - A simple 2D game engine for rapid prototyping with Lua, featuring live reload and cross-platform export; this repo is a mirror and development happens at: https://codeberg.org/brettchalupa/usagi
-- [Far-Beyond-Pulsar/Pulsar-Native](https://github.com/Far-Beyond-Pulsar/Pulsar-Native) - The next-generation game engine that you deserve implemented in rust https://pulsarnative.com/
+- [Far-Beyond-Pulsar/Pulsar-Native](https://github.com/Far-Beyond-Pulsar/Pulsar-Native) - The next-generation game engine that you deserve implemented in rust https://pulsarnative.com/ Developer_Blogs: https://pulsarnative.com/blog/ Research: https://pulsarnative.com/Research/ UI-Framework
 - [not-fl3/macroquad](https://github.com/not-fl3/macroquad) - Cross-platform game engine in Rust.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
@@ -2369,7 +2369,6 @@
 - [nklayman/vue-cli-plugin-electron-builder](https://github.com/nklayman/vue-cli-plugin-electron-builder) - Easily Build Your Vue.js App For Desktop With Electron
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [facade/ignition](https://github.com/facade/ignition) - A beautiful error page for Laravel apps
-- [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 - [vuejs/vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code.
 - [svenluijten/forge-cli](https://github.com/svenluijten/forge-cli) - 🔥 A command line utility to interact with your Laravel Forge servers, sites, and more.
 - [fluttercommunity/flutter_launcher_icons](https://github.com/fluttercommunity/flutter_launcher_icons) - Flutter Launcher Icons - A package which simplifies the task of updating your Flutter app's launcher icon. Fully flexible, allowing you to choose what platform you wish to update the launcher icon for
@@ -2816,7 +2815,6 @@
 - [spatie/laravel-cors](https://github.com/spatie/laravel-cors) - Send CORS headers in a Laravel application
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
-- [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 - [feross/simple-peer](https://github.com/feross/simple-peer) - 📡 Simple WebRTC video, voice, and data channels
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
@@ -3882,7 +3880,6 @@
 - [perry-mitchell/iocane](https://github.com/perry-mitchell/iocane) - An odorless, tasteless NodeJS crypto library that dissolves instantly in liquid
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
-- [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 - [feross/simple-peer](https://github.com/feross/simple-peer) - 📡 Simple WebRTC video, voice, and data channels
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -4213,7 +4210,7 @@
 - [wheregmis/dioxus-motion](https://github.com/wheregmis/dioxus-motion) - A lightweight, cross-platform animation library for Dioxus, designed to bring smooth, flexible animations to your Rust web, desktop, and mobile applications.
 - [vercel/nuxt3-kitchen-sink](https://github.com/vercel/nuxt3-kitchen-sink) - An example template showing all Nuxt 3 features on Vercel.
 - [DioxusLabs/sdk](https://github.com/DioxusLabs/sdk) - A library to provide abstractions to access common utilities when developing Dioxus applications.
-- [laravel/vs-code-extension](https://github.com/laravel/vs-code-extension) - 
+- [laravel/vs-code-extension](https://github.com/laravel/vs-code-extension) - Laravel support for Sublime Text, powered by Laravel LSP.
 - [iccicci/rotating-file-stream](https://github.com/iccicci/rotating-file-stream) - Opens a stream.Writable to a file rotated by interval and/or size. A logrotate alternative.
 - [shanecelis/bevy_minibuffer](https://github.com/shanecelis/bevy_minibuffer) - A gamedev console inspired by classic Unix text editors
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
@@ -6187,6 +6184,7 @@
 
 ## rust 
 
+- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser that runs directly inside your existing terminal
 - [zortax/gpui-terminal](https://github.com/zortax/gpui-terminal) - Terminal emulator component for GPUI
 - [Eugeny/russh](https://github.com/Eugeny/russh) - Rust SSH client & server library
 - [alacritty/vte](https://github.com/alacritty/vte) - Parser for virtual terminal emulators
@@ -6213,7 +6211,7 @@
 - [solana-playground/solana-playground](https://github.com/solana-playground/solana-playground) - Quickly develop, deploy and test Solana programs from browsers
 - [iamsauravsharma/sqlx_migrator](https://github.com/iamsauravsharma/sqlx_migrator) - SQLX migration using Rust insted of SQL
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
-- [Far-Beyond-Pulsar/Pulsar-Native](https://github.com/Far-Beyond-Pulsar/Pulsar-Native) - The next-generation game engine that you deserve implemented in rust https://pulsarnative.com/
+- [Far-Beyond-Pulsar/Pulsar-Native](https://github.com/Far-Beyond-Pulsar/Pulsar-Native) - The next-generation game engine that you deserve implemented in rust https://pulsarnative.com/ Developer_Blogs: https://pulsarnative.com/blog/ Research: https://pulsarnative.com/Research/ UI-Framework
 - [fereidani/kanal](https://github.com/fereidani/kanal) - The fast sync and async channel that Rust deserves
 - [plotters-rs/plotters](https://github.com/plotters-rs/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
@@ -6810,7 +6808,7 @@
 
 ## storybook 
 
-- [ubugeeei-prod/vize](https://github.com/ubugeeei-prod/vize) - Blazing fast Vue.js Toolchain. Compiler, Linter, Type Checker, Formatter, LSP, Story System, Editor Extensions. This already passed 9000+ test suites, includes real world E2E.
+- [ubugeeei-prod/vize](https://github.com/ubugeeei-prod/vize) - Blazing fast Vue.js Toolchain. Compiler, Linter, Type Checker, Formatter, LSP, Story System, Editor Extensions. This already passed 10k+ test suites, includes real world E2E.
 - [vuedx/preview](https://github.com/vuedx/preview) - Quick prototyping and UI feedback tool built on top Vite
 
 ## sublime-text 
@@ -6994,6 +6992,7 @@
 
 ## terminal 
 
+- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser that runs directly inside your existing terminal
 - [zortax/gpui-terminal](https://github.com/zortax/gpui-terminal) - Terminal emulator component for GPUI
 - [alacritty/vte](https://github.com/alacritty/vte) - Parser for virtual terminal emulators
 - [muxy-app/muxy](https://github.com/muxy-app/muxy) - Lightweight and Memory efficient terminal for Mac built with SwiftUI and libghostty
@@ -7079,6 +7078,7 @@
 
 ## tui 
 
+- [mishushakov/desktui](https://github.com/mishushakov/desktui) - A remote desktop for your terminal
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust
@@ -7490,7 +7490,7 @@
 ## vue 
 
 - [Huxpro/vue-lynx](https://github.com/Huxpro/vue-lynx) - Vue on Lynx
-- [ubugeeei-prod/vize](https://github.com/ubugeeei-prod/vize) - Blazing fast Vue.js Toolchain. Compiler, Linter, Type Checker, Formatter, LSP, Story System, Editor Extensions. This already passed 9000+ test suites, includes real world E2E.
+- [ubugeeei-prod/vize](https://github.com/ubugeeei-prod/vize) - Blazing fast Vue.js Toolchain. Compiler, Linter, Type Checker, Formatter, LSP, Story System, Editor Extensions. This already passed 10k+ test suites, includes real world E2E.
 - [nuxt-ui-templates/editor](https://github.com/nuxt-ui-templates/editor) - Notion-like WYSIWYG editor with AI-powered completions and real-time collaboration in Vue & Nuxt.
 - [mathuo/dockview](https://github.com/mathuo/dockview) - Zero dependency docking layout manager supporting tabs, groups, grids and splitviews. Supports React, Vue, Angular, and vanilla TypeScript.
 - [NicolaSpadari/nuxtor](https://github.com/NicolaSpadari/nuxtor) - Build tiny desktop apps with Tauri, Nuxt 4 and NuxtUI 4
@@ -7752,7 +7752,7 @@
 
 ## vuejs 
 
-- [ubugeeei-prod/vize](https://github.com/ubugeeei-prod/vize) - Blazing fast Vue.js Toolchain. Compiler, Linter, Type Checker, Formatter, LSP, Story System, Editor Extensions. This already passed 9000+ test suites, includes real world E2E.
+- [ubugeeei-prod/vize](https://github.com/ubugeeei-prod/vize) - Blazing fast Vue.js Toolchain. Compiler, Linter, Type Checker, Formatter, LSP, Story System, Editor Extensions. This already passed 10k+ test suites, includes real world E2E.
 - [mathuo/dockview](https://github.com/mathuo/dockview) - Zero dependency docking layout manager supporting tabs, groups, grids and splitviews. Supports React, Vue, Angular, and vanilla TypeScript.
 - [chibivue-land/chibivue](https://github.com/chibivue-land/chibivue) - chibivue is a minimal vuejs/core implementations (reactivity, virtual dom, component runtime, compiler, vapor, ssr, store, router, language tools). An online book for building your own Vue.js.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
@@ -7840,6 +7840,7 @@
 
 ## web 
 
+- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser that runs directly inside your existing terminal
 - [ferronweb/ferron](https://github.com/ferronweb/ferron) - A fast, modern, and easily configurable web server with automatic TLS.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands

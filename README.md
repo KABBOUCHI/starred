@@ -1310,7 +1310,7 @@
 - [TablePlus/DBngin](https://github.com/TablePlus/DBngin) - DB Engine
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
 - [github/rest-api-description](https://github.com/github/rest-api-description) - An OpenAPI description for GitHub's REST API
-- [sonicoder86/awesome-vue-3](https://github.com/sonicoder86/awesome-vue-3) - A curated list of awesome things related to Vue 3
+- [gs00s/awesome-vue-3](https://github.com/gs00s/awesome-vue-3) - A curated list of awesome things related to Vue 3
 - [ianramzy/decentralized-video-chat](https://github.com/ianramzy/decentralized-video-chat) - 🚀 Zipcall- Acquired @ 250k users 🚀 Peer to peer browser video calling platform with unmatched video quality and latency.
 - [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
 - [nunomaduro/pest](https://github.com/nunomaduro/pest) - This repository contains an old version of PEST. A new and better version is being coded in private and will be out soon: https://github.com/pestphp/pest.
@@ -3395,7 +3395,7 @@
 - [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Flexible, minimal, data-oriented ECS library for Typescript
 - [antfu/esno](https://github.com/antfu/esno) - Alias to `tsx`
 - [denostack/superserial](https://github.com/denostack/superserial) - A comprehensive Serializer/Deserializer that can handle any data type.
-- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir, Rust and PHP based on Redis
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, .NET, Elixir, Rust and PHP based on Redis or PostgreSQL
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [epiphone/routing-controllers-openapi](https://github.com/epiphone/routing-controllers-openapi) - Runtime OpenAPI v3 schema generation for routing-controllers.
 - [DamianOsipiuk/vue-query](https://github.com/DamianOsipiuk/vue-query) - Hooks for fetching, caching and updating asynchronous data in Vue

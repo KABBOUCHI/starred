@@ -939,7 +939,7 @@
 - [samuells/vue-tailwindcss-responsive-directive](https://github.com/samuells/vue-tailwindcss-responsive-directive) - Vue directive for tailwind responsive variants.
 - [GregBrimble/tailwindui-crawler-action](https://github.com/GregBrimble/tailwindui-crawler-action) - Automate the crawling and cataloging of the Tailwind UI components
 - [kiliman/tailwindui-crawler](https://github.com/kiliman/tailwindui-crawler) - tailwindui-crawler downloads the component HTML files locally
-- [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
+- [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive email easy
 - [testing-library/vue-testing-library](https://github.com/testing-library/vue-testing-library) - 🦎 Simple and complete Vue.js testing utilities that encourage good testing practices.
 - [lepikhinb/tinymotion](https://github.com/lepikhinb/tinymotion) - 
 - [senchalabs/connect](https://github.com/senchalabs/connect) - Connect is an extensible HTTP server framework for node using "plugins" known as middleware.
@@ -1880,7 +1880,7 @@
 
 ## PowerShell 
 
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows 10 & Windows 11 on GitHub
 
 ## Pug 
 
@@ -1904,6 +1904,7 @@
 - [e2b-dev/desktop](https://github.com/e2b-dev/desktop) - E2B Desktop Sandbox for LLMs. E2B Sandbox with desktop graphical environment that you can connect to any LLM for secure computer use.
 - [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
 - [peakmojo/applescript-mcp](https://github.com/peakmojo/applescript-mcp) - MCP server that execute applescript giving you full control of your Mac
+- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - Community plugin to control Blender 3D with any LLM of your choice
 - [christgau/wsdd](https://github.com/christgau/wsdd) - A Web Service Discovery host daemon.
 - [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon) - :page_facing_up: Python Apps for Home Automation
 - [droidrun/mobilerun](https://github.com/droidrun/mobilerun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
@@ -2041,7 +2042,7 @@
 - [harryfei/which-rs](https://github.com/harryfei/which-rs) - A Rust equivalent of Unix command "which".
 - [ExtendDB/extenddb](https://github.com/ExtendDB/extenddb) - ExtendDB
 - [illegalstudio/elephc](https://github.com/illegalstudio/elephc) - A PHP-to-native compiler. Takes a subset of PHP - including eval() - and compiles it directly to native assembly, producing standalone binaries for macOS ARM64, Linux ARM64, and Linux x86_64. No VM, n
-- [pacifio/cersei](https://github.com/pacifio/cersei) - The Rust SDK for building coding agents. Tool execution, LLM streaming, graph memory, sub-agent orchestration, MCP — as composable library functions.
+- [pacifio/cersei](https://github.com/pacifio/cersei) - The Rust SDK for building coding agents. Tools, streaming, graph, sub-agent orchestration, MCP — as composable functions
 - [doceazedo/sprinkles](https://github.com/doceazedo/sprinkles) - 🍩 GPU particle system & editor for Bevy
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
 - [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide) - cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language b
@@ -2466,7 +2467,7 @@
 - [johanhelsing/matchbox](https://github.com/johanhelsing/matchbox) - Painless peer-to-peer WebRTC networking for rust wasm (and native!)
 - [mdenchev/bevy_aseprite](https://github.com/mdenchev/bevy_aseprite) - 
 - [aws/aws-lambda-rust-runtime](https://github.com/aws/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
-- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
+- [rivet-dev/actors](https://github.com/rivet-dev/actors) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
 - [rbatis/rbatis](https://github.com/rbatis/rbatis) - Compile Time Async Dynamic SQL ORM
 - [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - A cargo-subcommand to speed up Rust Docker builds using Docker layer caching.
 - [m1guelpf/ensemble](https://github.com/m1guelpf/ensemble) - A Laravel-inspired ORM for Rust
@@ -2845,6 +2846,8 @@
 
 ## TypeScript 
 
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
+- [jakobhoeg/browser-ai](https://github.com/jakobhoeg/browser-ai) - TypeScript SDK for different in-browser AI model providers, built to make client-side AI integration simpler and more consistent across vendors.
 - [Effect-TS/effect-smol](https://github.com/Effect-TS/effect-smol) - Core libraries and experimental work for Effect v4
 - [vercel-labs/emulate](https://github.com/vercel-labs/emulate) - Local API emulation for CI and no-network sandboxes
 - [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
@@ -3237,7 +3240,6 @@
 - [TimMikeladze/huggingface](https://github.com/TimMikeladze/huggingface) - Typescript wrapper for the Hugging Face Inference API.
 - [wobsoriano/authey](https://github.com/wobsoriano/authey) - Universal support for Auth.js.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
-- [scottyzen/woonuxt](https://github.com/scottyzen/woonuxt) - Static e-commerce powered by WooCommerce & Nuxt
 - [KABBOUCHI/adonisjs-scheduler](https://github.com/KABBOUCHI/adonisjs-scheduler) - Task scheduler for AdonisJS
 - [Destiner/ethcall](https://github.com/Destiner/ethcall) - ethers.js-compatible wrapper around Multicall
 - [joshstevens19/ethereum-multicall](https://github.com/joshstevens19/ethereum-multicall) - Ability to call many ethereum constant function calls in 1 JSONRPC request
@@ -3755,6 +3757,7 @@
 - [P4sca1/nuxt-headlessui](https://github.com/P4sca1/nuxt-headlessui) - Headless UI integration for Nuxt. Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [bhaveshpatel200/vue3-datatable](https://github.com/bhaveshpatel200/vue3-datatable) - vue3-datatable is a powerful component for creating dynamic and customizable data tables. It supports large amounts of data, sorting, pagination, and filtering and highly customizable
 - [nuxt/nuxt.new](https://github.com/nuxt/nuxt.new) - Create a new Nuxt project from your address bar.
+- [scottyzen/woonuxt](https://github.com/scottyzen/woonuxt) - Static e-commerce powered by WooCommerce & Nuxt
 - [kanriapp/kanri](https://github.com/kanriapp/kanri) - Modern offline Kanban board app for Windows, MacOS and Linux made with Tauri and Nuxt. Built with simplicity and user experience in mind.
 - [nuxt-themes/typography](https://github.com/nuxt-themes/typography) - Beautifully customizable Prose components for Nuxt Content.
 - [zernonia/keypress](https://github.com/zernonia/keypress) - KeyPress - an open-source blogging platform + free custom domains.

@@ -2027,6 +2027,7 @@
 
 ## Rust 
 
+- [rust-random/getrandom](https://github.com/rust-random/getrandom) - A small cross-platform library for retrieving random data from (operating) system source
 - [zmwangx/rust-ffmpeg](https://github.com/zmwangx/rust-ffmpeg) - Safe FFmpeg wrapper.
 - [egoist/waku](https://github.com/egoist/waku) - ⚡ A native app for all your coding agents.
 - [lassejlv/termy](https://github.com/lassejlv/termy) - The terminal, at full speed ⚡

@@ -4038,6 +4038,7 @@
 
 ## others 
 
+- [rust-random/getrandom](https://github.com/rust-random/getrandom) - A small cross-platform library for retrieving random data from (operating) system source
 - [PaulRBerg/prb-effect](https://github.com/PaulRBerg/prb-effect) - Effect-ts monorepo with utilities for web3, next.js, and more
 - [zmwangx/rust-ffmpeg](https://github.com/zmwangx/rust-ffmpeg) - Safe FFmpeg wrapper.
 - [lassejlv/gpui-starter](https://github.com/lassejlv/gpui-starter) - A basic starter template for GPUI

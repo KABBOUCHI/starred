@@ -368,7 +368,7 @@
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.7.68974, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.1.0.69404, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
@@ -1291,7 +1291,7 @@
 - [ubports/ubuntu-touch](https://github.com/ubports/ubuntu-touch) - Ubuntu Touch's issue inbox is now migrated to GitLab.
 - [godbout/Wooshy.blahblah](https://github.com/godbout/Wooshy.blahblah) - it's like Alfred but for the UI
 - [Molay/LaunchPadder](https://github.com/Molay/LaunchPadder) - LaunchPadder is a free macOS LaunchPad tool that organizes and sorts apps and folders on LaunchPad according to certain rules.
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [naive-ui/awesome-naive](https://github.com/naive-ui/awesome-naive) - A curated list of awesome things related to Naive UI
 - [chentsulin/awesome-react-renderer](https://github.com/chentsulin/awesome-react-renderer) - Awesome list of React Renderer
 - [KABBOUCHI/awesome-vue-renderer](https://github.com/KABBOUCHI/awesome-vue-renderer) - Awesome list of Vue Renderer
@@ -2028,6 +2028,8 @@
 
 ## Rust 
 
+- [jdx/usage](https://github.com/jdx/usage) - A specification for CLIs
+- [crabtalk/bezel](https://github.com/crabtalk/bezel) - A SwiftUI-lean GPUI component library, style flows through the environment, never through parameters.
 - [rust-mobile/android-activity](https://github.com/rust-mobile/android-activity) - Glue for building Rust applications on Android with NativeActivity or GameActivity
 - [rust-random/getrandom](https://github.com/rust-random/getrandom) - A small cross-platform library for retrieving random data from (operating) system source
 - [zmwangx/rust-ffmpeg](https://github.com/zmwangx/rust-ffmpeg) - Safe FFmpeg wrapper.
@@ -2134,7 +2136,7 @@
 - [MatinAniss/gpui-book](https://github.com/MatinAniss/gpui-book) - A book teaching you the concepts you need to create your own GPUI application.
 - [notmd/bevy_tailwind](https://github.com/notmd/bevy_tailwind) - TailwindCSS for Bevy.
 - [rscarson/rustyscript](https://github.com/rscarson/rustyscript) - Effortless JS integration for rust
-- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
+- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, MCP and admin UI built on Rust, SQLite (PG) & Wasmtime
 - [TheGrimsey/oxidized_navigation](https://github.com/TheGrimsey/oxidized_navigation) - A runtime Nav-Mesh generation plugin for Bevy Engine in Rust.
 - [idanarye/bevy-tnua](https://github.com/idanarye/bevy-tnua) - A floating character controller for Bevy
 - [simgine/bevy_enhanced_input](https://github.com/simgine/bevy_enhanced_input) - Input manager for Bevy.
@@ -2850,6 +2852,7 @@
 
 ## TypeScript 
 
+- [Alain00/blobatar](https://github.com/Alain00/blobatar) - 
 - [PaulRBerg/prb-effect](https://github.com/PaulRBerg/prb-effect) - Effect-ts monorepo with utilities for web3, next.js, and more
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [jakobhoeg/browser-ai](https://github.com/jakobhoeg/browser-ai) - TypeScript SDK for different in-browser AI model providers, built to make client-side AI integration simpler and more consistent across vendors.
@@ -3135,7 +3138,7 @@
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript
 - [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant & for the age of AI. Develop powerful apps, clouds & framework-agnostic libraries—faster.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant, optimized for DX & AX. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [pi0/space-invaders](https://github.com/pi0/space-invaders) - 👾 Space Invaders game in single (~4KB Gzipped) JavaScript file!
 - [nuxt-content/mdc](https://github.com/nuxt-content/mdc) - MDC supercharges regular Markdown to write documents interacting deeply with any Vue component.
 - [thx/resvg-js](https://github.com/thx/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.

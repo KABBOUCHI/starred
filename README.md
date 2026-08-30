@@ -627,7 +627,6 @@
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Go implementation of the Ethereum protocol
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [0xPolygon/polygon-edge](https://github.com/0xPolygon/polygon-edge) - A Framework for Building Ethereum-compatible Blockchain Networks
-- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - The Node.js version manager for Windows.
 - [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A no-build JavaScript CDN for modern web development.
 - [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -699,6 +698,7 @@
 ## Inno Setup 
 
 - [CnCNet/cncnet-yr-client-package](https://github.com/CnCNet/cncnet-yr-client-package) - The official CnCNet Yuri's Revenge package for online.
+- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - The Node.js version manager for Windows.
 
 ## JSON 
 
@@ -2777,7 +2777,7 @@
 - [AngelJumbo/gruvbox-wallpapers](https://github.com/AngelJumbo/gruvbox-wallpapers) - Gruvbox theme Wallpapers
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [Danilop95/Proxmox-Enhanced-Configuration-Utility](https://github.com/Danilop95/Proxmox-Enhanced-Configuration-Utility) - Is a comprehensive and versatile Bash script designed to simplify and optimize the configuration and management of Proxmox Virtual Environment (VE) systems.
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
+- [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
 - [zigbee2mqtt/hassio-zigbee2mqtt](https://github.com/zigbee2mqtt/hassio-zigbee2mqtt) - Official Zigbee2MQTT Home Assistant add-on
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [serversideup/docker-php](https://github.com/serversideup/docker-php) - 🐳 Production-ready Docker images for PHP. Optimized for Laravel, WordPress, and more!

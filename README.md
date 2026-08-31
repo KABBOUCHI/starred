@@ -621,7 +621,7 @@
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a c
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [gobitfly/eth2-beaconchain-explorer](https://github.com/gobitfly/eth2-beaconchain-explorer) - Open source golang based explorer for the eth2 beacon chain
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Go implementation of the Ethereum protocol
@@ -2032,6 +2032,7 @@
 
 ## Rust 
 
+- [soirihiroka/shrimply](https://github.com/soirihiroka/shrimply) - you're telling me a shrimp made this video?
 - [jdx/usage](https://github.com/jdx/usage) - A specification for CLIs
 - [crabtalk/bezel](https://github.com/crabtalk/bezel) - A SwiftUI-lean GPUI component library, style flows through the environment, never through parameters.
 - [rust-mobile/android-activity](https://github.com/rust-mobile/android-activity) - Glue for building Rust applications on Android with NativeActivity or GameActivity

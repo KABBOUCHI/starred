@@ -2256,7 +2256,7 @@
 - [enigo-rs/enigo](https://github.com/enigo-rs/enigo) - Cross platform input simulation in Rust
 - [rust-sailfish/sailfish](https://github.com/rust-sailfish/sailfish) - Simple, small, and extremely fast template engine for Rust
 - [penberg/hiisi](https://github.com/penberg/hiisi) - Hiisi is a proof of concept libSQL written in Rust following TigerBeetle-style with deterministic simulation testing.
-- [PawelBis/bevy_wry](https://github.com/PawelBis/bevy_wry) - 
+- [VectorOfInt/bevy_wry](https://github.com/VectorOfInt/bevy_wry) - 
 - [not-elm/bevy_webview_projects](https://github.com/not-elm/bevy_webview_projects) - Provides crates for using Webview within Bevy.
 - [emilpriver/geni](https://github.com/emilpriver/geni) - Standalone database migration tool which works for Postgres, MariaDB, MySQL, Sqlite and LibSQL(Turso).
 - [versotile-org/verso](https://github.com/versotile-org/verso) - Mirror of https://gitlab.com/verso-browser/verso
@@ -3460,6 +3460,7 @@
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [vitebook/vitebook](https://github.com/vitebook/vitebook) - Blazing fast alternative to Storybook.
 - [shuding/cobe](https://github.com/shuding/cobe) - 5KB WebGL globe lib.
+- [vuejs/create-vue](https://github.com/vuejs/create-vue) - 🛠️ The recommended way to start a Vite-powered Vue project
 - [pillarjs/path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Turn a path string such as `/user/:name` into a regular expression
 - [unjs/mlly](https://github.com/unjs/mlly) - 🤝 Common ECMAScript module utils
 - [unplugin/unplugin-vue-components](https://github.com/unplugin/unplugin-vue-components) - 📲 On-demand components auto importing for Vue
@@ -3788,7 +3789,6 @@
 - [gitFoxCode/nuxt-icons](https://github.com/gitFoxCode/nuxt-icons) - Module for Nuxt allowing pleasant use of svg icons
 - [Instadapp/smart-lookup](https://github.com/Instadapp/smart-lookup) - 
 - [atinux/content-wind](https://github.com/atinux/content-wind) - A lightweight Nuxt theme to build a Markdown driven website. Powered by Nuxt Content, TailwindCSS and Iconify.
-- [vuejs/create-vue](https://github.com/vuejs/create-vue) - 🛠️ The recommended way to start a Vite-powered Vue project
 - [lepikhinb/sugar](https://github.com/lepikhinb/sugar) - 
 - [atinux/discuss](https://github.com/atinux/discuss) - Discuss with me 💬
 - [stevebauman/showcode](https://github.com/stevebauman/showcode) - Create beautiful images of code.

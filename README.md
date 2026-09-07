@@ -59,7 +59,6 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
-- [WGSL](#wgsl)
 - [WebAssembly](#webassembly)
 - [Zig](#zig)
 
@@ -1215,6 +1214,7 @@
 
 ## Lua 
 
+- [c0mb1ne/training_polygon](https://github.com/c0mb1ne/training_polygon) - 
 - [nvimdev/dashboard-nvim](https://github.com/nvimdev/dashboard-nvim) - vim dashboard
 - [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
@@ -1911,7 +1911,6 @@
 - [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon) - :page_facing_up: Python Apps for Home Automation
 - [droidrun/mobilerun](https://github.com/droidrun/mobilerun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
 - [HiDream-ai/HiDream-I1](https://github.com/HiDream-ai/HiDream-I1) - 
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [kyutai-labs/moshivis](https://github.com/kyutai-labs/moshivis) - Kyutai with an "eye"
 - [tlkh/asitop](https://github.com/tlkh/asitop) - Perf monitoring CLI tool for Apple Silicon
@@ -2144,6 +2143,7 @@
 - [idanarye/bevy-tnua](https://github.com/idanarye/bevy-tnua) - A floating character controller for Bevy
 - [simgine/bevy_enhanced_input](https://github.com/simgine/bevy_enhanced_input) - Input manager for Bevy.
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
+- [webgpu-tools/wesl-rs](https://github.com/webgpu-tools/wesl-rs) - wesl-rs: a compiler for WESL (WGSL Extended) shaders.
 - [facet-rs/facet](https://github.com/facet-rs/facet) - Rust reflection, serialization, deserialization, pretty printing, etc. — the last proc macro you should need
 - [suitedaces/computer-agent](https://github.com/suitedaces/computer-agent) - Desktop app to control your computer with AI using your terminal, browser, mouse & keyboard
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -2155,6 +2155,7 @@
 - [pykeio/ort](https://github.com/pykeio/ort) - Fast ML inference & training for ONNX models in Rust
 - [mitsuhiko/systemfd](https://github.com/mitsuhiko/systemfd) - Development helper utility for helping with auto reloading for projects supporting systemd socket activation
 - [Rheosoph/flow-like](https://github.com/Rheosoph/flow-like) - Flow-Like: Strongly Typed Enterprise Scale Workflows. Built for scalability, speed, seamless AI integration and rich customization.
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [zed-extensions/vue](https://github.com/zed-extensions/vue) - Vue support
 - [zed-extensions/php](https://github.com/zed-extensions/php) - PHP Zed Extension
 - [makspll/bevy_mod_scripting](https://github.com/makspll/bevy_mod_scripting) - Bevy Scripting Plugin
@@ -3144,7 +3145,7 @@
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript
 - [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant, optimized for DX & AX. Develop powerful apps, clouds & framework-agnostic libraries—faster.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant, optimized for DX/AX. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [pi0/space-invaders](https://github.com/pi0/space-invaders) - 👾 Space Invaders game in single (~4KB Gzipped) JavaScript file!
 - [nuxt-content/mdc](https://github.com/nuxt-content/mdc) - MDC supercharges regular Markdown to write documents interacting deeply with any Vue component.
 - [thx/resvg-js](https://github.com/thx/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.
@@ -3853,10 +3854,6 @@
 - [luosijie/vue-manager](https://github.com/luosijie/vue-manager) - A panel framework based on Vue 2.0, iView and ECharts.
 - [creativetimofficial/vue-paper-dashboard](https://github.com/creativetimofficial/vue-paper-dashboard) - Creative Tim Paper Dashboard made for Vue
 - [Coffcer/vue-chat](https://github.com/Coffcer/vue-chat) - chat example by vue.js + vuex + webpack
-
-## WGSL 
-
-- [webgpu-tools/wesl-rs](https://github.com/webgpu-tools/wesl-rs) - wesl-rs: a compiler for WESL (WGSL Extended) shaders.
 
 ## WebAssembly 
 

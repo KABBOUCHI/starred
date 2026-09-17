@@ -1891,6 +1891,7 @@
 
 ## Python 
 
+- [selkies-project/selkies](https://github.com/selkies-project/selkies) - Low-Latency Accelerated Web Remote Desktop Streaming Platform for Self-Hosting, Containers, Kubernetes, or Cloud/HPC
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 60+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
 - [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3) - Offline Text To Speech synthesis for python
@@ -1907,7 +1908,7 @@
 - [e2b-dev/desktop](https://github.com/e2b-dev/desktop) - E2B Desktop Sandbox for LLMs. E2B Sandbox with desktop graphical environment that you can connect to any LLM for secure computer use.
 - [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
 - [peakmojo/applescript-mcp](https://github.com/peakmojo/applescript-mcp) - MCP server that execute applescript giving you full control of your Mac
-- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - Community plugin to control Blender 3D with any LLM of your choice
+- [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) - Community plugin to control Blender 3D with any LLM of your choice
 - [christgau/wsdd](https://github.com/christgau/wsdd) - A Web Service Discovery host daemon.
 - [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon) - :page_facing_up: Python Apps for Home Automation
 - [droidrun/mobilerun](https://github.com/droidrun/mobilerun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
@@ -2168,7 +2169,7 @@
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [VoidStarKat/half-rs](https://github.com/VoidStarKat/half-rs) - Half-precision floating point types f16 and bf16 for Rust.
 - [otter-sec/anchor](https://github.com/otter-sec/anchor) - ⚓ Solana Program Framework
-- [cdump/evmole](https://github.com/cdump/evmole) - Extracts function selectors, arguments, state mutability and storage layout from EVM bytecode, even for unverified contracts
+- [cdump/evmole](https://github.com/cdump/evmole) - EVMole is an open-source library that analyzes deployed EVM bytecode to infer function selectors, argument types, state mutability, persistent and transient storage layout, control flow, and compiler 
 - [viridia/bevy_reactor_2](https://github.com/viridia/bevy_reactor_2) - Fine-grained reactivity framework for Bevy.
 - [huggingface/hf_transfer](https://github.com/huggingface/hf_transfer) - 
 - [EricLBuehler/candle-lora](https://github.com/EricLBuehler/candle-lora) - Low rank adaptation (LoRA) for Candle.
@@ -2222,7 +2223,6 @@
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers
 - [tweedegolf/mailcrab](https://github.com/tweedegolf/mailcrab) - Email test server for development, written in Rust
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
 - [viridia/thorium_ui](https://github.com/viridia/thorium_ui) - Dynamic control flow for Bevy UI
 - [cBournhonesque/lightyear](https://github.com/cBournhonesque/lightyear) - A networking library to make multiplayer games for the Bevy game engine
 - [RazrFalcon/roxmltree](https://github.com/RazrFalcon/roxmltree) - Represent an XML document as a read-only tree.
@@ -2962,7 +2962,7 @@
 - [fb55/htmlparser2](https://github.com/fb55/htmlparser2) - The fast & forgiving HTML and XML parser
 - [unjs/nanotar](https://github.com/unjs/nanotar) - 📼  Tiny and fast tar utils for any JavaScript runtime!
 - [Cat1007/vue-markdown-next](https://github.com/Cat1007/vue-markdown-next) - 
-- [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list and grid component for React, Vue, Solid, Svelte and Angular.
+- [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small virtual list and grid component for React, Vue, Solid, Svelte and Angular.
 - [piotrostr/listen](https://github.com/piotrostr/listen) - DeFAI Swiss Army Knife
 - [snapshot-labs/stamp](https://github.com/snapshot-labs/stamp) - Avatars for web3
 - [outerbase/studio-cli](https://github.com/outerbase/studio-cli) - 
@@ -2995,8 +2995,9 @@
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [LyonSyonII/rubri](https://github.com/LyonSyonII/rubri) - Rust interpreter that runs in the browser!
 - [tus/tus-node-server](https://github.com/tus/tus-node-server) - Node.js tus server, standalone or integrable in any framework, with disk, S3, Azure, and GGC stores.
-- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK for browser agents. Interact, search, extract, and fetch any site reliably across the web
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller, a major upgrade to lodash.
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
 - [vue-vine/vue-vine](https://github.com/vue-vine/vue-vine) - Another style of writing Vue components.
 - [Mockline/mockline](https://github.com/Mockline/mockline) - Your go-to design library crafted to elevate your creative journey
 - [HugoRCD/shelve](https://github.com/HugoRCD/shelve) - Open-source secret & environment management. Secure, simple, collaborative. CLI & Github Sync

@@ -2142,7 +2142,7 @@
 - [gammons/slk](https://github.com/gammons/slk) - A blazingly fast Slack TUI
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices, users, and agents into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [pterodactyl/wings](https://github.com/pterodactyl/wings) - The server control plane for Pterodactyl Panel. Written from the ground-up with security, speed, and stability in mind.
 - [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while ex
@@ -7553,7 +7553,7 @@
 
 ## vpn 
 
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices, users, and agents into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [fosrl/newt](https://github.com/fosrl/newt) - Tunneled network connector for Pangolin
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth

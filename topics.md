@@ -4684,7 +4684,7 @@
 - [graphul-rs/graphul](https://github.com/graphul-rs/graphul) - Optimize, speed, scale your microservices and save money 💵
 - [italomandara/CXPatcher](https://github.com/italomandara/CXPatcher) - A patcher to upgrade Crossover dependencies and improve compatibility
 - [Instadapp/avocado-sdk](https://github.com/Instadapp/avocado-sdk) - 
-- [alexbudure/queuedash](https://github.com/alexbudure/queuedash) - A stunning, sleek dashboard for Bull, BullMQ, Bee-Queue, and GroupMQ.
+- [alexbudure/queuedash](https://github.com/alexbudure/queuedash) - A dashboard for your job queues. Works with Bull, BullMQ, Bee-Queue, and GroupMQ.
 - [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
 - [Gcenx/CrossOver-fixes](https://github.com/Gcenx/CrossOver-fixes) - 
 - [unjs/citty](https://github.com/unjs/citty) - 🌆 Elegant CLI Builder

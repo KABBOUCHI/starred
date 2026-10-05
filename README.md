@@ -459,7 +459,7 @@
 
 ## Dart 
 
-- [finamp-app/finamp](https://github.com/finamp-app/finamp) - An open source Jellyfin music player
+- [finamp-app/finamp](https://github.com/finamp-app/finamp) - An open source music player made for Jellyfin
 - [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) - Flutter/Dart &lt;-&gt; Rust binding generator, feature-rich, but seamless and simple.
 - [JGeek00/adguard-home-manager](https://github.com/JGeek00/adguard-home-manager) - AdGuard Home client created with Flutter
 - [DonutWare/Fladder](https://github.com/DonutWare/Fladder) - Fladder - A cross-platform Jellyfin Frontend built on top of Flutter.
@@ -1251,7 +1251,6 @@
 ## Objective-C 
 
 - [zorgiepoo/Bit-Slicer](https://github.com/zorgiepoo/Bit-Slicer) - Universal game trainer for macOS
-- [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 - [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend) - A fast and clever hex editor for macOS
 - [sequelpro/sequelpro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS
 - [mwaterfall/MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) - A simple iOS photo and video browser with grid view, captions and selections.
@@ -1909,7 +1908,7 @@
 - [e2b-dev/desktop](https://github.com/e2b-dev/desktop) - E2B Desktop Sandbox for LLMs. E2B Sandbox with desktop graphical environment that you can connect to any LLM for secure computer use.
 - [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
 - [peakmojo/applescript-mcp](https://github.com/peakmojo/applescript-mcp) - MCP server that execute applescript giving you full control of your Mac
-- [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) - Community plugin to control Blender 3D with any LLM of your choice
+- [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) - Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.
 - [christgau/wsdd](https://github.com/christgau/wsdd) - A Web Service Discovery host daemon.
 - [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon) - :page_facing_up: Python Apps for Home Automation
 - [droidrun/mobilerun](https://github.com/droidrun/mobilerun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
@@ -1987,7 +1986,7 @@
 - [EpicGames/BlenderTools](https://github.com/EpicGames/BlenderTools) - Blender addons that improve the game development workflow between Blender and Unreal.
 - [cgvirus/blender-vse-easy-proxy](https://github.com/cgvirus/blender-vse-easy-proxy) - Addon to create proxy files easily using FFMPEG
 - [cgvirus/Blender-Compositor-Disc-Cache-Realtime-Preview-Addon](https://github.com/cgvirus/Blender-Compositor-Disc-Cache-Realtime-Preview-Addon) - An Addon for Blender compositor to disc cache and do real time preview through Blender VSE
-- [stuffmatic/fSpy-Blender](https://github.com/stuffmatic/fSpy-Blender) - Official fSpy importer for Blender
+- [perarnia/fSpy-Blender](https://github.com/perarnia/fSpy-Blender) - Official fSpy importer for Blender
 - [anime-dl/anime-downloader](https://github.com/anime-dl/anime-downloader) - A simple but powerful anime downloader and streamer.
 - [ranjian0/building_tools](https://github.com/ranjian0/building_tools) - Building generation addon for blender
 - [armadillica/dillo](https://github.com/armadillica/dillo) - Free and open web platform created to support crowd-driven content.
@@ -2002,7 +2001,7 @@
 - [Laurencitow/Farmer-Joe-Render-Farm](https://github.com/Laurencitow/Farmer-Joe-Render-Farm) - A render farm for Blender 3D which includes rendering by parts, frames and render result to AVI / FFMPEG
 - [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 - [jayanam/fast-sculpt](https://github.com/jayanam/fast-sculpt) - Fast Sculpt is a Blender sculpting utility
-- [stuffmatic/blam](https://github.com/stuffmatic/blam) - 🚨 No longer maintained. Check out fSpy instead 🚨 A camera and projector calibration toolkit for Blender that also does automatic 3D reconstruction of geometry with rectangular faces.
+- [perarnia/blam](https://github.com/perarnia/blam) - 🚨 No longer maintained. Check out fSpy instead 🚨 A camera and projector calibration toolkit for Blender that also does automatic 3D reconstruction of geometry with rectangular faces.
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
 - [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
 - [sketchfab/gltf2-blender-importer](https://github.com/sketchfab/gltf2-blender-importer) - Blender importer addon for glTF 2.0 files
@@ -2032,6 +2031,8 @@
 
 ## Rust 
 
+- [kitlangton/psychopomp](https://github.com/kitlangton/psychopomp) - 
+- [joris-gallot/gpui-devtools](https://github.com/joris-gallot/gpui-devtools) - Developer tools for inspecting and debugging GPUI applications
 - [lassejlv/whisple](https://github.com/lassejlv/whisple) - A voice bar at the bottom of your Mac. Press a shortcut, talk, and clean text lands on your clipboard — transcribed on-device.
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native OSS search engine for observability
 - [zeronsh/zeron](https://github.com/zeronsh/zeron) - A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.
@@ -2046,7 +2047,6 @@
 - [lassejlv/gpui-starter](https://github.com/lassejlv/gpui-starter) - A basic starter template for GPUI
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [mishushakov/desktui](https://github.com/mishushakov/desktui) - A remote desktop for your terminal
-- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
 - [forjedio/yerd](https://github.com/forjedio/yerd) - A powerful, developer-friendly tool for local PHP development
 - [zortax/gpui-terminal](https://github.com/zortax/gpui-terminal) - Terminal emulator component for GPUI
@@ -2076,7 +2076,7 @@
 - [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - The unified toolchain and entry point for web development.
 - [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
-- [ubugeeei-prod/vize](https://github.com/ubugeeei-prod/vize) - blazing fast Vue.js toolchain. compiler, linter, type checker, formatter, lsp, story system, editors.  already passed 21k+ tests.
+- [ubugeeei-prod/vize](https://github.com/ubugeeei-prod/vize) - blazing fast Vue.js toolchain. compiler, linter, type checker, formatter, lsp, story system, editors.  already passed 25k+ tests.
 - [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
 - [astrum-chat/astrum](https://github.com/astrum-chat/astrum) - Local-first AI chat app.
 - [ohkami-rs/alien-signals-rs](https://github.com/ohkami-rs/alien-signals-rs) - Rust port of alien-signals 👾 the lightest signal library
@@ -2229,7 +2229,7 @@
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers
 - [tweedegolf/mailcrab](https://github.com/tweedegolf/mailcrab) - Email test server for development, written in Rust
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
 - [viridia/thorium_ui](https://github.com/viridia/thorium_ui) - Dynamic control flow for Bevy UI
 - [cBournhonesque/lightyear](https://github.com/cBournhonesque/lightyear) - A networking library to make multiplayer games for the Bevy game engine
 - [RazrFalcon/roxmltree](https://github.com/RazrFalcon/roxmltree) - Represent an XML document as a read-only tree.
@@ -2850,6 +2850,7 @@
 - [lucyllewy/macOS-Linux-VM-with-Rosetta](https://github.com/lucyllewy/macOS-Linux-VM-with-Rosetta) - 
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3, M4
 - [Dimillian/RedditOS](https://github.com/Dimillian/RedditOS) - The product name is Curiosity, a SwiftUI Reddit client for macOS Big Sur
+- [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
@@ -2869,6 +2870,7 @@
 - [PaulRBerg/prb-effect](https://github.com/PaulRBerg/prb-effect) - Effect-ts monorepo with utilities for web3, next.js, and more
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [jakobhoeg/browser-ai](https://github.com/jakobhoeg/browser-ai) - TypeScript SDK for different in-browser AI model providers, built to make client-side AI integration simpler and more consistent across vendors.
+- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [Effect-TS/effect-smol](https://github.com/Effect-TS/effect-smol) - Core libraries and experimental work for Effect v4
 - [vercel-labs/emulate](https://github.com/vercel-labs/emulate) - Local API emulation for CI and no-network sandboxes
 - [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
@@ -2948,6 +2950,7 @@
 - [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink) - Two conversational AI agents switching from English to sound-level protocol after confirming they are both AI agents
 - [romhml/compodium](https://github.com/romhml/compodium) - A plug and play component playground for Vue and Nuxt.
 - [Comfy-Org/desktop](https://github.com/Comfy-Org/desktop) - [ARCHIVED] Superseded by https://github.com/Comfy-Org/Comfy-Desktop
+- [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) - JET Pilot is an open-source Kubernetes desktop client that focuses on less clutter, speed and good looks.
 - [kermanx/js.rs](https://github.com/kermanx/js.rs) - JavaScript in Rust Syntax
 - [yoannmoinet/nipplejs](https://github.com/yoannmoinet/nipplejs) - :video_game: A virtual joystick for touch capable interfaces.
 - [zrwusa/data-structure-typed](https://github.com/zrwusa/data-structure-typed) - TypeScript & Javascript Data Structures
@@ -2967,7 +2970,7 @@
 - [fb55/htmlparser2](https://github.com/fb55/htmlparser2) - The fast & forgiving HTML and XML parser
 - [unjs/nanotar](https://github.com/unjs/nanotar) - 📼  Tiny and fast tar utils for any JavaScript runtime!
 - [Cat1007/vue-markdown-next](https://github.com/Cat1007/vue-markdown-next) - 
-- [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small virtual list and grid component for React, Vue, Solid, Svelte and Angular.
+- [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small virtual list, grid and masonry component for React, Vue, Solid, Svelte and Angular.
 - [piotrostr/listen](https://github.com/piotrostr/listen) - DeFAI Swiss Army Knife
 - [snapshot-labs/stamp](https://github.com/snapshot-labs/stamp) - Avatars for web3
 - [outerbase/studio-cli](https://github.com/outerbase/studio-cli) - 
@@ -3687,7 +3690,7 @@
 - [ktsn/vue-auto-routing](https://github.com/ktsn/vue-auto-routing) - Generate Vue Router routing automatically
 - [Developmint/nuxt-purgecss](https://github.com/Developmint/nuxt-purgecss) - Drop superfluous CSS! A neat PurgeCSS wrapper for Nuxt.js
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
-- [stuffmatic/fSpy](https://github.com/stuffmatic/fSpy) - A cross platform app for quick and easy still image camera matching
+- [perarnia/fSpy](https://github.com/perarnia/fSpy) - A cross platform app for quick and easy still image camera matching
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - Windows 95 in an app. Runs on macOS, Linux, and Windows.
 - [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
@@ -3741,7 +3744,6 @@
 - [fayazara/animated-lucide-vue](https://github.com/fayazara/animated-lucide-vue) - Animated Lucide Icons for vue using the new motion-vue library
 - [atinux/npm-chart](https://github.com/atinux/npm-chart) - Visualize npm downloads in a beautiful chart, ready to be shared with your community.
 - [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit) - 
-- [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) - JET Pilot is an open-source Kubernetes desktop client that focuses on less clutter, speed and good looks.
 - [HugoRCD/nuppets](https://github.com/HugoRCD/nuppets) - A productivity hub for Nuxt and Vue.js development - Snippets, AI commands, and more tools to enhance your workflow
 - [hieuhani/nuxt-multi-tenancy](https://github.com/hieuhani/nuxt-multi-tenancy) - Nuxt Multi Tenancy Module - multi-tenancy by sub domain for Nuxt application
 - [vercel/nuxt3-kitchen-sink](https://github.com/vercel/nuxt3-kitchen-sink) - An example template showing all Nuxt 3 features on Vercel.

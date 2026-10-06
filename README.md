@@ -567,6 +567,7 @@
 
 ## Go 
 
+- [Effect-TS/tsgo](https://github.com/Effect-TS/tsgo) - TypeScript-go enhanced with the Effect LSP experience
 - [container2wasm/container2wasm](https://github.com/container2wasm/container2wasm) - Container to WASM converter
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
@@ -1087,7 +1088,7 @@
 - [egoist/vue-client-only](https://github.com/egoist/vue-client-only) - Vue component to wrap non SSR friendly components (428 bytes)
 - [simonwep/pickr](https://github.com/simonwep/pickr) - 🎨 Pickr - A simple, multi-themed, responsive and hackable Color-Picker library. No dependencies, no jQuery. Compatible with all CSS Frameworks e.g. Bootstrap, Materialize. Supports alpha channel, rgba
 - [tailwindlabs/tailwindcss-custom-forms](https://github.com/tailwindlabs/tailwindcss-custom-forms) - A better base for styling form elements with Tailwind CSS.
-- [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
+- [sampotts/plyr](https://github.com/sampotts/plyr) - Deprecated in favour of Video.js 10; security updates only. Simple HTML5, YouTube and Vimeo player.
 - [vue-generators/vue-form-generator](https://github.com/vue-generators/vue-form-generator) - :clipboard: A schema-based form generator component for Vue.js
 - [alexjoverm/v-runtime-template](https://github.com/alexjoverm/v-runtime-template) - Vue component for compiling templates on the fly using a v-html like API
 - [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff) - A javascript text differencing implementation.
@@ -2179,6 +2180,7 @@
 - [huggingface/hf_transfer](https://github.com/huggingface/hf_transfer) - 
 - [EricLBuehler/candle-lora](https://github.com/EricLBuehler/candle-lora) - Low rank adaptation (LoRA) for Candle.
 - [kyutai-labs/kaudio](https://github.com/kyutai-labs/kaudio) - Rust crate for some audio utilities
+- [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) - JET Pilot is an open-source Kubernetes desktop client that focuses on less clutter, speed and good looks.
 - [maciejhirsz/tiny-bip39](https://github.com/maciejhirsz/tiny-bip39) - A Rust implementation of BIP-0039
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [m1guelpf/pipeline-rs](https://github.com/m1guelpf/pipeline-rs) - A lightweight pipeline system for Rust.
@@ -2869,7 +2871,7 @@
 - [Alain00/blobatar](https://github.com/Alain00/blobatar) - 
 - [PaulRBerg/prb-effect](https://github.com/PaulRBerg/prb-effect) - Effect-ts monorepo with utilities for web3, next.js, and more
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
-- [jakobhoeg/browser-ai](https://github.com/jakobhoeg/browser-ai) - TypeScript SDK for different in-browser AI model providers, built to make client-side AI integration simpler and more consistent across vendors.
+- [jakobhoeg/browser-ai](https://github.com/jakobhoeg/browser-ai) - In-browser AI model providers for the Vercel AI SDK, built to make client-side AI integration simpler and more consistent across vendors.
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [Effect-TS/effect-smol](https://github.com/Effect-TS/effect-smol) - Core libraries and experimental work for Effect v4
 - [vercel-labs/emulate](https://github.com/vercel-labs/emulate) - Local API emulation for CI and no-network sandboxes
@@ -2950,7 +2952,6 @@
 - [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink) - Two conversational AI agents switching from English to sound-level protocol after confirming they are both AI agents
 - [romhml/compodium](https://github.com/romhml/compodium) - A plug and play component playground for Vue and Nuxt.
 - [Comfy-Org/desktop](https://github.com/Comfy-Org/desktop) - [ARCHIVED] Superseded by https://github.com/Comfy-Org/Comfy-Desktop
-- [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) - JET Pilot is an open-source Kubernetes desktop client that focuses on less clutter, speed and good looks.
 - [kermanx/js.rs](https://github.com/kermanx/js.rs) - JavaScript in Rust Syntax
 - [yoannmoinet/nipplejs](https://github.com/yoannmoinet/nipplejs) - :video_game: A virtual joystick for touch capable interfaces.
 - [zrwusa/data-structure-typed](https://github.com/zrwusa/data-structure-typed) - TypeScript & Javascript Data Structures
@@ -3245,7 +3246,7 @@
 - [botisan-ai/gpt3-tokenizer](https://github.com/botisan-ai/gpt3-tokenizer) - Isomorphic JavaScript/TypeScript Tokenizer for GPT-3 and Codex Models by OpenAI.
 - [vite-pwa/nuxt](https://github.com/vite-pwa/nuxt) - Zero-config PWA Plugin for Nuxt 3
 - [Tahul/pinceau-vscode](https://github.com/Tahul/pinceau-vscode) - ⚙️ IntelliSense integration for Pinceau features
-- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites.
 - [comarkdown/vscode-comark](https://github.com/comarkdown/vscode-comark) - Provides syntax highlighting and colon matching for Comark (Components in Markdown, formerly MDC) files.
 - [volarjs/volar.js](https://github.com/volarjs/volar.js) - 💙🌊
 - [ueberdosis/hocuspocus](https://github.com/ueberdosis/hocuspocus) - The Yjs CRDT WebSocket backend for conflict-free real-time collaboration in your app.

@@ -2080,7 +2080,7 @@
 - [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - The unified toolchain and entry point for web development.
 - [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
-- [ubugeeei-prod/vize](https://github.com/ubugeeei-prod/vize) - blazing fast Vue.js toolchain. compiler, linter, type checker, formatter, lsp, story system, editors.  already passed 27k+ tests.
+- [ubugeeei-prod/vize](https://github.com/ubugeeei-prod/vize) - blazing fast Vue.js toolchain. compiler, linter, type checker, formatter, lsp, story system, editors.  already 30k+ tests.
 - [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
 - [astrum-chat/astrum](https://github.com/astrum-chat/astrum) - Local-first AI chat app.
 - [ohkami-rs/alien-signals-rs](https://github.com/ohkami-rs/alien-signals-rs) - Rust port of alien-signals 👾 the lightest signal library
@@ -2183,7 +2183,7 @@
 - [huggingface/hf_transfer](https://github.com/huggingface/hf_transfer) - 
 - [EricLBuehler/candle-lora](https://github.com/EricLBuehler/candle-lora) - Low rank adaptation (LoRA) for Candle.
 - [kyutai-labs/kaudio](https://github.com/kyutai-labs/kaudio) - Rust crate for some audio utilities
-- [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) - JET Pilot is an open-source Kubernetes desktop client that focuses on less clutter, speed and good looks.
+- [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) - A beautiful, native Kubernetes desktop client. Every cluster and cloud account in one place. Free and open source, no account, no telemetry.
 - [maciejhirsz/tiny-bip39](https://github.com/maciejhirsz/tiny-bip39) - A Rust implementation of BIP-0039
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [m1guelpf/pipeline-rs](https://github.com/m1guelpf/pipeline-rs) - A lightweight pipeline system for Rust.
@@ -2867,6 +2867,7 @@
 
 ## TypeScript 
 
+- [kitlangton/skulk](https://github.com/kitlangton/skulk) - Your agent sleeps. The event wakes it. Durable timers and event triggers that wake OpenCode sessions.
 - [vercel-labs/vgpu](https://github.com/vercel-labs/vgpu) - Modular cross-runtime WebGPU library for shaders, 3D scenes, GPU tensors, neural networks, and math viz
 - [TeamWarp/effect-mq](https://github.com/TeamWarp/effect-mq) - 
 - [vercel-labs/run](https://github.com/vercel-labs/run) - A secure and efficient alternative to `eval` for coding agents

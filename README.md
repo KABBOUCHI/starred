@@ -369,7 +369,7 @@
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.1.0.69933, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.1.5.70391, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
@@ -816,7 +816,6 @@
 - [d3/d3-hierarchy](https://github.com/d3/d3-hierarchy) - 2D layout algorithms for visualizing hierarchical data.
 - [belladoreai/llama-tokenizer-js](https://github.com/belladoreai/llama-tokenizer-js) - JS tokenizer for LLaMA 1 and 2
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
-- [matmen/ImageScript](https://github.com/matmen/ImageScript) - zero-dependency JavaScript image manipulation
 - [jamiebuilds/tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate) - A Tailwind CSS plugin for creating beautiful animations
 - [bee-queue/bee-queue](https://github.com/bee-queue/bee-queue) - A simple, fast, robust job/task queue for Node.js, backed by Redis.
 - [thomas4019/mongo-query-to-postgres-jsonb](https://github.com/thomas4019/mongo-query-to-postgres-jsonb) - Converts MongoDB queries to postgresql queries for jsonb fields.
@@ -2183,7 +2182,6 @@
 - [huggingface/hf_transfer](https://github.com/huggingface/hf_transfer) - 
 - [EricLBuehler/candle-lora](https://github.com/EricLBuehler/candle-lora) - Low rank adaptation (LoRA) for Candle.
 - [kyutai-labs/kaudio](https://github.com/kyutai-labs/kaudio) - Rust crate for some audio utilities
-- [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) - A beautiful, native Kubernetes desktop client. Every cluster and cloud account in one place. Free and open source, no account, no telemetry.
 - [maciejhirsz/tiny-bip39](https://github.com/maciejhirsz/tiny-bip39) - A Rust implementation of BIP-0039
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [m1guelpf/pipeline-rs](https://github.com/m1guelpf/pipeline-rs) - A lightweight pipeline system for Rust.
@@ -2875,12 +2873,12 @@
 - [PaulRBerg/prb-effect](https://github.com/PaulRBerg/prb-effect) - Effect-ts monorepo with utilities for web3, next.js, and more
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [jakobhoeg/browser-ai](https://github.com/jakobhoeg/browser-ai) - In-browser AI model providers for the Vercel AI SDK, built to make client-side AI integration simpler and more consistent across vendors.
-- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
+- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A real browser inside your terminal
 - [Effect-TS/effect-smol](https://github.com/Effect-TS/effect-smol) - Core libraries and experimental work for Effect v4
 - [vercel-labs/emulate](https://github.com/vercel-labs/emulate) - Local API emulation for CI and no-network sandboxes
 - [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
 - [oribarilan/vimcode](https://github.com/oribarilan/vimcode) - Vim for OpenCode.
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) terminal-first AI-native devevelopment environment
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [vercel-labs/github-tools](https://github.com/vercel-labs/github-tools) - GitHub tools and agents for the Vercel AI SDK, wrap GitHub's API as AI SDK tools ready to plug into any agent
 - [vercel-labs/wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web
@@ -2954,6 +2952,7 @@
 - [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink) - Two conversational AI agents switching from English to sound-level protocol after confirming they are both AI agents
 - [romhml/compodium](https://github.com/romhml/compodium) - A plug and play component playground for Vue and Nuxt.
 - [Comfy-Org/desktop](https://github.com/Comfy-Org/desktop) - [ARCHIVED] Superseded by https://github.com/Comfy-Org/Comfy-Desktop
+- [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) - A beautiful, native Kubernetes desktop client. Every cluster and cloud account in one place. Free and open source, no account, no telemetry.
 - [kermanx/js.rs](https://github.com/kermanx/js.rs) - JavaScript in Rust Syntax
 - [yoannmoinet/nipplejs](https://github.com/yoannmoinet/nipplejs) - :video_game: A virtual joystick for touch capable interfaces.
 - [zrwusa/data-structure-typed](https://github.com/zrwusa/data-structure-typed) - TypeScript & Javascript Data Structures
@@ -3190,6 +3189,7 @@
 - [mezg0/vue-ui](https://github.com/mezg0/vue-ui) - 
 - [Kaperskyguru/adonis-cache](https://github.com/Kaperskyguru/adonis-cache) - AdonisJS Cache makes it seamless to implement any Caching strategy in AdonisJS 5 applications.
 - [unjs/fontaine](https://github.com/unjs/fontaine) - Automatic font fallback based on font metrics
+- [matmen/ImageScript](https://github.com/matmen/ImageScript) - zero-dependency JavaScript image manipulation
 - [dan-kwiat/openai-edge](https://github.com/dan-kwiat/openai-edge) - 
 - [Vuepic/vue-datepicker](https://github.com/Vuepic/vue-datepicker) - Datepicker component for Vue 3
 - [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project

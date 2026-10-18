@@ -336,7 +336,7 @@
 - [pacifio/cersei](https://github.com/pacifio/cersei) - The Rust SDK for building coding agents. Tools, streaming, graph, sub-agent orchestration, MCP — as composable functions
 - [vercel-labs/github-tools](https://github.com/vercel-labs/github-tools) - GitHub tools and agents for the Vercel AI SDK, wrap GitHub's API as AI SDK tools ready to plug into any agent
 - [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
-- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
@@ -441,7 +441,7 @@
 ## ai-agent 
 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.
 
 ## ai-agents 
 
@@ -539,6 +539,7 @@
 
 ## api 
 
+- [danielroe/forges](https://github.com/danielroe/forges) - One API for every code forge.
 - [oxidecomputer/omicron](https://github.com/oxidecomputer/omicron) - Omicron: Oxide control plane
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
@@ -2082,6 +2083,7 @@
 
 ## git 
 
+- [danielroe/forges](https://github.com/danielroe/forges) - One API for every code forge.
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
@@ -2283,7 +2285,7 @@
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [alandtse/alexa_media_player](https://github.com/alandtse/alexa_media_player) - This is a custom component to allow control of Amazon Alexa devices in Home Assistant using the unofficial Alexa API.
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
-- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.
 - [droidrun/mobilerun](https://github.com/droidrun/mobilerun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
@@ -3475,7 +3477,7 @@
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [peakmojo/applescript-mcp](https://github.com/peakmojo/applescript-mcp) - MCP server that execute applescript giving you full control of your Mac
-- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [3Shain/dxmt](https://github.com/3Shain/dxmt) - Metal-based implementation of D3D11 and D3D10 for macOS / Wine
@@ -4078,6 +4080,8 @@
 
 ## others 
 
+- [longbridge/nsh](https://github.com/longbridge/nsh) - NSH runs modules written in TSX — natively on iOS, Android, macOS, Windows, Linux, GPUI and the web
+- [longbridge/gpui-mobile](https://github.com/longbridge/gpui-mobile) - Mobile platform support for GPUI — iOS (wgpu/Metal) and Android (wgpu/Vulkan)
 - [voidzero-dev/void](https://github.com/voidzero-dev/void) - Build with Vite. Deploy with Void.
 - [Effect-TS/tsgo](https://github.com/Effect-TS/tsgo) - TypeScript-go enhanced with the Effect LSP experience
 - [kitlangton/psychopomp](https://github.com/kitlangton/psychopomp) - 
@@ -6946,7 +6950,7 @@
 - [socsieng/sendkeys](https://github.com/socsieng/sendkeys) - Command line tool for automating keystrokes and mouse events on macOS
 - [nickustinov/itsyhome-macos](https://github.com/nickustinov/itsyhome-macos) - A native macOS menu bar app for controlling your smart home devices.
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
-- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask
 - [buresdv/Cork](https://github.com/buresdv/Cork) - [NO AI] Fast GUI for Homebrew written in SwiftUI
 - [FuzzyIdeas/YellowDot](https://github.com/FuzzyIdeas/YellowDot) - Hide the macOS yellow recording dot in the corner of your screen
@@ -8073,7 +8077,7 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
-- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [lacymorrow/crossover](https://github.com/lacymorrow/crossover) - 🎯 A Crosshair Overlay for any screen.

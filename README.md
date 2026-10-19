@@ -2218,7 +2218,7 @@
 - [blackportal-ai/delta](https://github.com/blackportal-ai/delta) - An Open-Source Machine Learning Framework in Rust Δ
 - [matthunz/actuate](https://github.com/matthunz/actuate) - A framework for declarative programming in Rust
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
-- [TheSeekerGame/TheSeeker](https://github.com/TheSeekerGame/TheSeeker) - Metroidvania game in Bevy
+- [TheSeekerGame/the-seeker](https://github.com/TheSeekerGame/the-seeker) - Metroidvania game in Bevy
 - [bionic-gpt/daisy-rsx](https://github.com/bionic-gpt/daisy-rsx) - Dioxus Components for DaisyUI
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
@@ -2883,7 +2883,7 @@
 - [vercel-labs/emulate](https://github.com/vercel-labs/emulate) - Local API emulation for CI and no-network sandboxes
 - [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
 - [oribarilan/vimcode](https://github.com/oribarilan/vimcode) - Vim for OpenCode.
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) terminal-first AI-native devevelopment environment
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) terminal-first AI-native development environment
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [vercel-labs/github-tools](https://github.com/vercel-labs/github-tools) - GitHub tools and agents for the Vercel AI SDK, wrap GitHub's API as AI SDK tools ready to plug into any agent
 - [vercel-labs/wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web

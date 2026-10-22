@@ -466,7 +466,6 @@
 - [felangel/equatable](https://github.com/felangel/equatable) - A Dart package that helps to implement value based equality without needing to explicitly override == and hashCode.
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
 - [flutter-team-archive/pinball](https://github.com/flutter-team-archive/pinball) - Google I/O 2022 Pinball game built with Flutter and Firebase
-- [bdlukaa/fluent_ui](https://github.com/bdlukaa/fluent_ui) - Microsoft's WinUI3 in Flutter.
 - [macosui/macos_ui](https://github.com/macosui/macos_ui) - Flutter widgets and themes implementing the current macOS design language.
 - [transistorsoft/flutter_background_fetch](https://github.com/transistorsoft/flutter_background_fetch) - Periodic callbacks in the background for both IOS and Android.  Includes Android Headless mechanism
 - [bmw-tech/lumberdash](https://github.com/bmw-tech/lumberdash) - Do you need logs? Lumberdash is the answer!
@@ -779,7 +778,6 @@
 - [tree-sitter/tree-sitter-javascript](https://github.com/tree-sitter/tree-sitter-javascript) - Javascript grammar for tree-sitter
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [imacrayon/alpine-ajax](https://github.com/imacrayon/alpine-ajax) - An Alpine.js plugin for building server-powered frontends.
-- [nodejs/amaro](https://github.com/nodejs/amaro) - Node.js TypeScript wrapper
 - [oframe/ogl](https://github.com/oframe/ogl) - Minimal WebGL Library
 - [bevyengine/bevy_github_ci_template](https://github.com/bevyengine/bevy_github_ci_template) - 
 - [chartello/chartello](https://github.com/chartello/chartello) - Visualize your Laravel app data in simple dashboards.
@@ -899,6 +897,7 @@
 - [vercel/nft](https://github.com/vercel/nft) - Node.js dependency tracing utility
 - [browserify/events](https://github.com/browserify/events) - Node's event emitter for all engines.
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
+- [bdlukaa/fluent_ui](https://github.com/bdlukaa/fluent_ui) - Microsoft's WinUI3 in Flutter.
 - [davestewart/nuxt-areas](https://github.com/davestewart/nuxt-areas) - Simple and scalable folder management for large Nuxt projects
 - [MikeMcl/bignumber.js](https://github.com/MikeMcl/bignumber.js) - A JavaScript library for arbitrary-precision decimal and non-decimal arithmetic
 - [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
@@ -1411,7 +1410,7 @@
 - [brick/math](https://github.com/brick/math) - Arbitrary-precision arithmetic library for PHP
 - [simplito/bn-php](https://github.com/simplito/bn-php) - BigNum library for PHP compatible with bn.js
 - [yukaige/web3.php](https://github.com/yukaige/web3.php) - A simple encapsulation of Web3 framework in PHP environment
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 - [aarondfrancis/sidecar](https://github.com/aarondfrancis/sidecar) - Deploy and execute AWS Lambda functions from your Laravel application.
 - [fumeapp/laranuxt](https://github.com/fumeapp/laranuxt) - Laravel and Nuxt.js boilerplate
 - [digitaldonkey/ethereum-php](https://github.com/digitaldonkey/ethereum-php) - PHP interface to Ethereum JSON-RPC API. Fully typed Web3 for PHP 7.X
@@ -1664,7 +1663,7 @@
 - [mpociot/laravel-apidoc-generator](https://github.com/mpociot/laravel-apidoc-generator) - Laravel API Documentation Generator
 - [laravel/forge-sdk](https://github.com/laravel/forge-sdk) - The official Laravel Forge PHP SDK.
 - [KABBOUCHI/nova-impersonate](https://github.com/KABBOUCHI/nova-impersonate) - A Laravel Nova field allows you to authenticate as your users.
-- [saleem-hadad/larecipe](https://github.com/saleem-hadad/larecipe) - ✏️ Write gorgeous documentation for your products using Markdown inside your Laravel app
+- [saleem-hadad/larecipe](https://github.com/saleem-hadad/larecipe) - ✏️ LaRecipe lives inside your Laravel app. Your coding agents write the docs and update them with every change. People get a fast, beautiful site; agents get Markdown, llms.txt and MCP.
 - [beyondcode/laravel-comments](https://github.com/beyondcode/laravel-comments) - Add comments to your Laravel application
 - [SpartnerNL/Laravel-Nova-Excel](https://github.com/SpartnerNL/Laravel-Nova-Excel) - 🚀 Supercharged Excel exports for Laravel Nova Resources
 - [botman/botman](https://github.com/botman/botman) - A framework agnostic PHP library to build chat bots
@@ -2032,6 +2031,9 @@
 
 ## Rust 
 
+- [1bye/gpui-motion](https://github.com/1bye/gpui-motion) - Declarative, interruptible motion for native Rust applications on stock GPUI CE
+- [oxc-project/tsrs](https://github.com/oxc-project/tsrs) - Rust port of the TypeScript 7 type checker
+- [kitlangton/scrawl](https://github.com/kitlangton/scrawl) - Show an agent a problem: mark up, record, send
 - [longbridge/nsh](https://github.com/longbridge/nsh) - NSH runs modules written in TSX — natively on iOS, Android, macOS, Windows, Linux, GPUI and the web
 - [longbridge/gpui-mobile](https://github.com/longbridge/gpui-mobile) - Mobile platform support for GPUI — iOS (wgpu/Metal) and Android (wgpu/Vulkan)
 - [MystenLabs/sui](https://github.com/MystenLabs/sui) - Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
@@ -2070,7 +2072,7 @@
 - [brettchalupa/sola-raylib](https://github.com/brettchalupa/sola-raylib) - Maintained Rust Raylib bindings & wrapper with support for Raylib v6.0; fork of raylib-rs from the 5.5.1 release
 - [brettchalupa/usagi](https://github.com/brettchalupa/usagi) - A simple 2D game engine for rapid prototyping with Lua, featuring live reload and cross-platform export; this repo is a mirror and development happens at: https://codeberg.org/brettchalupa/usagi
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
-- [iamnbutler/gpui-unofficial](https://github.com/iamnbutler/gpui-unofficial) - publishes gpui releases on zed release tags
+- [gpui-archipelago/gpui-unofficial](https://github.com/gpui-archipelago/gpui-unofficial) - publishes gpui releases on zed release tags
 - [lucascompython/wgsl-wesl-zed](https://github.com/lucascompython/wgsl-wesl-zed) - WGSL/WESL language support for Zed
 - [dnlmlr/cargo-clean-all](https://github.com/dnlmlr/cargo-clean-all) - Fast recursive detection and cleaning of rust projects with interactive TUI and filters. Find rust projects anywhere that meet conditions like "last used more than 3 days ago" or "freable size &gt; 1G
 - [lazy-hq/aisdk](https://github.com/lazy-hq/aisdk) - The AI Toolkit for Rust, inspired by the Vercel AI SDK.
@@ -2272,6 +2274,7 @@
 - [emilpriver/geni](https://github.com/emilpriver/geni) - Standalone database migration tool which works for Postgres, MariaDB, MySQL, Sqlite and LibSQL(Turso).
 - [versotile-org/verso](https://github.com/versotile-org/verso) - Mirror of https://gitlab.com/verso-browser/verso
 - [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
+- [nodejs/amaro](https://github.com/nodejs/amaro) - Node.js TypeScript wrapper
 - [elastio/bon](https://github.com/elastio/bon) - Next-gen compile-time-checked builder generator, named function's arguments, and more!
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
 - [tryandromeda/andromeda](https://github.com/tryandromeda/andromeda) - JS runtime lolz
@@ -2867,7 +2870,7 @@
 
 ## TypeScript 
 
-- [danielroe/forges](https://github.com/danielroe/forges) - One API for every code forge.
+- [danielroe/forges](https://github.com/danielroe/forges) - One client, every forge.
 - [voidzero-dev/void](https://github.com/voidzero-dev/void) - Build with Vite. Deploy with Void.
 - [elie222/rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
 - [kitlangton/skulk](https://github.com/kitlangton/skulk) - Your agent sleeps. The event wakes it. Durable timers and event triggers that wake OpenCode sessions.

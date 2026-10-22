@@ -4085,6 +4085,7 @@
 
 ## others 
 
+- [1bye/gpui-motion](https://github.com/1bye/gpui-motion) - Declarative, interruptible motion for native Rust applications on stock GPUI CE
 - [oxc-project/tsrs](https://github.com/oxc-project/tsrs) - Rust port of the TypeScript 7 type checker
 - [longbridge/gpui-mobile](https://github.com/longbridge/gpui-mobile) - Mobile platform support for GPUI — iOS (wgpu/Metal) and Android (wgpu/Vulkan)
 - [voidzero-dev/void](https://github.com/voidzero-dev/void) - Build with Vite. Deploy with Void.
@@ -4127,7 +4128,7 @@
 - [raylib-rs/raylib-rs](https://github.com/raylib-rs/raylib-rs) - Rust bindings for raylib
 - [brettchalupa/sola-raylib](https://github.com/brettchalupa/sola-raylib) - Maintained Rust Raylib bindings & wrapper with support for Raylib v6.0; fork of raylib-rs from the 5.5.1 release
 - [vercel-labs/wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web
-- [iamnbutler/gpui-unofficial](https://github.com/iamnbutler/gpui-unofficial) - publishes gpui releases on zed release tags
+- [gpui-archipelago/gpui-unofficial](https://github.com/gpui-archipelago/gpui-unofficial) - publishes gpui releases on zed release tags
 - [lucascompython/wgsl-wesl-zed](https://github.com/lucascompython/wgsl-wesl-zed) - WGSL/WESL language support for Zed
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [lazy-hq/aisdk](https://github.com/lazy-hq/aisdk) - The AI Toolkit for Rust, inspired by the Vercel AI SDK.

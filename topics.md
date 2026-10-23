@@ -756,6 +756,7 @@
 - [erigontech/erigon](https://github.com/erigontech/erigon) - Ethereum implementation on the efficiency frontier
 - [alloy-rs/trie](https://github.com/alloy-rs/trie) - Fast Merkle-Patricia Trie (MPT) state root calculator and proof generator for prefix-sorted nibbles
 - [goat-sdk/goat](https://github.com/goat-sdk/goat) - [Archived] Read-only historical snapshot. No issues, PRs, or updates. Use as-is.
+- [erpc/erpc](https://github.com/erpc/erpc) - eRPC — fault-tolerant evm rpc proxy
 - [monosux/ethereum-block-by-date](https://github.com/monosux/ethereum-block-by-date) - Get Ethereum block number by a given date. Or blocks by a given period duration.
 - [EnsoBuild/temper](https://github.com/EnsoBuild/temper) - Temper your expectations - Ethereum Transaction Simulator
 - [bluealloy/revm](https://github.com/bluealloy/revm) - Rust implementation of the Ethereum Virtual Machine.
@@ -1303,7 +1304,7 @@
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, MCP and admin UI built on Rust, SQLite (PG) & Wasmtime
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
-- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 - [denoland/denokv](https://github.com/denoland/denokv) - A self-hosted backend for Deno KV
@@ -2706,7 +2707,7 @@
 - [Hexagon/croner](https://github.com/Hexagon/croner) - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
 - [fb55/htmlparser2](https://github.com/fb55/htmlparser2) - The fast & forgiving HTML and XML parser
 - [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
-- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 - [xdevplatform/twitter-api-typescript-sdk](https://github.com/xdevplatform/twitter-api-typescript-sdk) - A TypeScript SDK for the Twitter API
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
@@ -3645,7 +3646,7 @@
 
 ## mongodb 
 
-- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [marcj/deepkit](https://github.com/marcj/deepkit) - modular high-performance TypeScript framework
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
@@ -3686,7 +3687,7 @@
 
 ## mysql 
 
-- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 - [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus) - TablePlus macOS issue tracker
 - [emilpriver/geni](https://github.com/emilpriver/geni) - Standalone database migration tool which works for Postgres, MariaDB, MySQL, Sqlite and LibSQL(Turso).
 - [outerbase/studio](https://github.com/outerbase/studio) - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite.
@@ -3850,7 +3851,7 @@
 - [tinylibs/tinypool](https://github.com/tinylibs/tinypool) - 🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB)
 - [W4G1/multithreading](https://github.com/W4G1/multithreading) - The missing standard library for multithreading in JavaScript (Works in the browser, Node.js, Deno, Bun)
 - [boringnode/queue](https://github.com/boringnode/queue) - A simple and efficient framework-agnostic queue system for Node.js applications
-- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
 - [xdevplatform/twitter-api-typescript-sdk](https://github.com/xdevplatform/twitter-api-typescript-sdk) - A TypeScript SDK for the Twitter API
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
@@ -5950,7 +5951,7 @@
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - PostgreSQL connection pooler, load balancer and database sharder.
-- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 - [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus) - TablePlus macOS issue tracker
 - [outerbase/studio](https://github.com/outerbase/studio) - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite.
 - [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, DuckDB, Microsoft SQL Server]
@@ -6859,14 +6860,14 @@
 
 ## sql-server 
 
-- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
 - [doctrine/dbal](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer
 
 ## sqlite 
 
 - [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic and non-atomic counters and rate limiting tools. Limit resource access at any scale.
-- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 - [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
 - [denoland/denokv](https://github.com/denoland/denokv) - A self-hosted backend for Deno KV
 - [tursodatabase/libsql-client-ts](https://github.com/tursodatabase/libsql-client-ts) - TypeScript/JavaScript client API for libSQL
@@ -7229,7 +7230,7 @@
 - [zrwusa/data-structure-typed](https://github.com/zrwusa/data-structure-typed) - TypeScript & Javascript Data Structures
 - [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) - A standard interface for TypeScript schema validation libraries
 - [Hexagon/croner](https://github.com/Hexagon/croner) - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
-- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 - [poppinss/chokidar-ts](https://github.com/poppinss/chokidar-ts) - File watcher for TypeScript projects
 - [xdevplatform/twitter-api-typescript-sdk](https://github.com/xdevplatform/twitter-api-typescript-sdk) - A TypeScript SDK for the Twitter API
 - [intentjs/intent](https://github.com/intentjs/intent) - The Intent Framework
@@ -8027,6 +8028,7 @@
 - [solana-foundation/surfpool](https://github.com/solana-foundation/surfpool) - Surfpool is where developers start their Solana journey.
 - [zemse/walletconnect-sdk-rs](https://github.com/zemse/walletconnect-sdk-rs) - implementation of walletconnect specs in rust
 - [cdump/evmole](https://github.com/cdump/evmole) - EVMole is an open-source library that analyzes deployed EVM bytecode to infer function selectors, argument types, state mutability, persistent and transient storage layout, control flow, and compiler 
+- [erpc/erpc](https://github.com/erpc/erpc) - eRPC — fault-tolerant evm rpc proxy
 - [monosux/ethereum-block-by-date](https://github.com/monosux/ethereum-block-by-date) - Get Ethereum block number by a given date. Or blocks by a given period duration.
 - [coderonion/awesome-rust-list](https://github.com/coderonion/awesome-rust-list) - This repository lists some awesome public Rust projects, Videos, Blogs and Jobs.
 - [wevm/viem](https://github.com/wevm/viem) - TypeScript Interface for Ethereum

@@ -368,7 +368,7 @@
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.1.5.70391, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.1.5.70575, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
@@ -565,7 +565,6 @@
 
 ## Go 
 
-- [Effect-TS/tsgo](https://github.com/Effect-TS/tsgo) - TypeScript-go enhanced with the Effect LSP experience
 - [container2wasm/container2wasm](https://github.com/container2wasm/container2wasm) - Container to WASM converter
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
@@ -2037,6 +2036,7 @@
 - [longbridge/nsh](https://github.com/longbridge/nsh) - NSH runs modules written in TSX — natively on iOS, Android, macOS, Windows, Linux, GPUI and the web
 - [longbridge/gpui-mobile](https://github.com/longbridge/gpui-mobile) - Mobile platform support for GPUI — iOS (wgpu/Metal) and Android (wgpu/Vulkan)
 - [MystenLabs/sui](https://github.com/MystenLabs/sui) - Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
+- [Effect-TS/tsgo](https://github.com/Effect-TS/tsgo) - TypeScript-go enhanced with the Effect LSP experience
 - [kitlangton/psychopomp](https://github.com/kitlangton/psychopomp) - 
 - [joris-gallot/gpui-devtools](https://github.com/joris-gallot/gpui-devtools) - Developer tools for inspecting and debugging GPUI applications
 - [lassejlv/whisple](https://github.com/lassejlv/whisple) - A voice bar at the bottom of your Mac. Press a shortcut, talk, and clean text lands on your clipboard — transcribed on-device.
@@ -2425,7 +2425,7 @@
 - [polako-rs/polako](https://github.com/polako-rs/polako) - Open app & game engine on the top of the `bevy` with all the good.
 - [lee-orr/dexterous_developer](https://github.com/lee-orr/dexterous_developer) - A hot reload system for the Bevy game engine
 - [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust.
-- [servo/rust-smallvec](https://github.com/servo/rust-smallvec) - "Small vector" optimization for Rust: store up to a small number of items on the stack
+- [servo/rust-smallvec](https://github.com/servo/rust-smallvec) - 'Small vector' optimization for Rust: store up to a small number of items on the stack
 - [orhun/daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter! 📇
 - [SDesya74/bevy_mod_static_inventory](https://github.com/SDesya74/bevy_mod_static_inventory) - 
 - [fralonra/wgshadertoy](https://github.com/fralonra/wgshadertoy) - A WGSL playground inspired by Shadertoy.
@@ -2848,7 +2848,6 @@
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [italomandara/CXPatcher](https://github.com/italomandara/CXPatcher) - A patcher to upgrade Crossover dependencies and improve compatibility
-- [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0
 - [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen) - A Swift command line tool for generating your Xcode project
@@ -2984,7 +2983,7 @@
 - [piotrostr/listen](https://github.com/piotrostr/listen) - DeFAI Swiss Army Knife
 - [snapshot-labs/stamp](https://github.com/snapshot-labs/stamp) - Avatars for web3
 - [outerbase/studio-cli](https://github.com/outerbase/studio-cli) - 
-- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 - [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
 - [laravel/vs-code-extension](https://github.com/laravel/vs-code-extension) - 
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
@@ -3808,7 +3807,7 @@
 - [javisperez/tailwindcolorshades](https://github.com/javisperez/tailwindcolorshades) - Color shades generator for TailwindCSS - https://javisperez.github.io/tailwindcolorshades
 - [gitFoxCode/nuxt-icons](https://github.com/gitFoxCode/nuxt-icons) - Module for Nuxt allowing pleasant use of svg icons
 - [Instadapp/smart-lookup](https://github.com/Instadapp/smart-lookup) - 
-- [atinux/content-wind](https://github.com/atinux/content-wind) - A lightweight Nuxt theme to build a Markdown driven website. Powered by Nuxt Content, TailwindCSS and Iconify.
+- [atinux/content-wind](https://github.com/atinux/content-wind) - A lightweight Nuxt template to build a Markdown driven website. Powered by Nuxt Content, TailwindCSS and Iconify.
 - [lepikhinb/sugar](https://github.com/lepikhinb/sugar) - 
 - [atinux/discuss](https://github.com/atinux/discuss) - Discuss with me 💬
 - [stevebauman/showcode](https://github.com/stevebauman/showcode) - Create beautiful images of code.

@@ -1101,6 +1101,7 @@
 - [KABBOUCHI/laravel-mix-register-aliases](https://github.com/KABBOUCHI/laravel-mix-register-aliases) - A quick Laravel Mix extension to register aliases (~,@).
 - [spatie/form-backend-validation](https://github.com/spatie/form-backend-validation) - An easy way to validate forms using back end logic
 - [ConsoleTVs/Skara](https://github.com/ConsoleTVs/Skara) - Sample admin panel with tailwind and nuxtjs
+- [SpartnerNL/laravel-excel-docs](https://github.com/SpartnerNL/laravel-excel-docs) - Laravel Excel Docs
 - [KABBOUCHI/laravel-mix-vue-auto-routing](https://github.com/KABBOUCHI/laravel-mix-vue-auto-routing) - A quick Laravel Mix extension to generate "Vue Router" routing automatically.
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 - [CVarisco/gitlab-merge](https://github.com/CVarisco/gitlab-merge) - First Gitlab guided CLI to create your merge request from terminal
@@ -3848,7 +3849,6 @@
 - [adamwathan/workcation](https://github.com/adamwathan/workcation) - 
 - [dulnan/drawmote](https://github.com/dulnan/drawmote) - Draw remotely on a screen with your phone
 - [adamwathan/vue-tailwind-examples](https://github.com/adamwathan/vue-tailwind-examples) - 
-- [SpartnerNL/laravel-excel-docs](https://github.com/SpartnerNL/laravel-excel-docs) - Laravel Excel Docs
 - [BinarCode/vue2-transitions](https://github.com/BinarCode/vue2-transitions) - ✨ Reusable Vue 2 transition components
 - [KABBOUCHI/date-countdown-component](https://github.com/KABBOUCHI/date-countdown-component) - https://kabbouchi.github.io/date-countdown-component
 - [themsaid/wink](https://github.com/themsaid/wink) - A Laravel-based publishing platform

@@ -2031,10 +2031,12 @@
 
 ## Rust 
 
+- [nspawn/nspawn](https://github.com/nspawn/nspawn) - Docker-like management of systemd-nspawn machines
+- [gradium-ai/xn](https://github.com/gradium-ai/xn) - Yet another minimalist deep-learning framework optimized for inference
 - [1bye/gpui-motion](https://github.com/1bye/gpui-motion) - Declarative, interruptible motion for native Rust applications on stock GPUI CE
 - [oxc-project/tsrs](https://github.com/oxc-project/tsrs) - Rust port of the TypeScript 7 type checker
 - [kitlangton/scrawl](https://github.com/kitlangton/scrawl) - Show an agent a problem: mark up, record, send
-- [longbridge/nsh](https://github.com/longbridge/nsh) - NSH runs modules written in TSX — natively on iOS, Android, macOS, Windows, Linux, GPUI and the web
+- [longbridge/nsh](https://github.com/longbridge/nsh) - Native Shell is a native UI framework for iOS, Android, macOS, Windows, Linux and the web, built in Rust.
 - [longbridge/gpui-mobile](https://github.com/longbridge/gpui-mobile) - Mobile platform support for GPUI — iOS (wgpu/Metal) and Android (wgpu/Vulkan)
 - [MystenLabs/sui](https://github.com/MystenLabs/sui) - Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
 - [Effect-TS/tsgo](https://github.com/Effect-TS/tsgo) - TypeScript-go enhanced with the Effect LSP experience

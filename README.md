@@ -1887,6 +1887,7 @@
 
 ## Python 
 
+- [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [selkies-project/selkies](https://github.com/selkies-project/selkies) - Low-Latency Accelerated Web Remote Desktop Streaming Platform for Self-Hosting, Containers, Kubernetes, or Cloud/HPC
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -2031,6 +2032,7 @@
 
 ## Rust 
 
+- [anomalyco/opentunnel](https://github.com/anomalyco/opentunnel) - 
 - [nspawn/nspawn](https://github.com/nspawn/nspawn) - Docker-like management of systemd-nspawn machines
 - [gradium-ai/xn](https://github.com/gradium-ai/xn) - Yet another minimalist deep-learning framework optimized for inference
 - [1bye/gpui-motion](https://github.com/1bye/gpui-motion) - Declarative, interruptible motion for native Rust applications on stock GPUI CE
@@ -2347,7 +2349,7 @@
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [ramosbugs/oauth2-rs](https://github.com/ramosbugs/oauth2-rs) - Extensible, strongly-typed Rust OAuth2 client library
 - [tamasfe/aide](https://github.com/tamasfe/aide) - An API documentation library
-- [Couch-Chilis/Sudoku-Pi](https://github.com/Couch-Chilis/Sudoku-Pi) - Finger-friendly Sudoku game
+- [Couch-Chilis/Sudoku-Pi](https://github.com/Couch-Chilis/Sudoku-Pi) - Finger-friendly Sudoku game (mirror)
 - [443eb9/bevy_incandescent](https://github.com/443eb9/bevy_incandescent) - A 2d lighting crate for bevy.
 - [rive-app/rive-rs](https://github.com/rive-app/rive-rs) - 
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
@@ -2872,6 +2874,7 @@
 
 ## TypeScript 
 
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [danielroe/forges](https://github.com/danielroe/forges) - One client, every forge.
 - [voidzero-dev/void](https://github.com/voidzero-dev/void) - Build with Vite. Deploy with Void.
 - [elie222/rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.

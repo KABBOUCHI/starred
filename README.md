@@ -2041,7 +2041,7 @@
 - [longbridge/nsh](https://github.com/longbridge/nsh) - Native Shell is a native UI framework for iOS, Android, macOS, Windows, Linux and the web, built in Rust.
 - [longbridge/gpui-mobile](https://github.com/longbridge/gpui-mobile) - Mobile platform support for GPUI — iOS (wgpu/Metal) and Android (wgpu/Vulkan)
 - [MystenLabs/sui](https://github.com/MystenLabs/sui) - Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
-- [Effect-TS/tsgo](https://github.com/Effect-TS/tsgo) - TypeScript-go enhanced with the Effect LSP experience
+- [Effect-TS/tsgo](https://github.com/Effect-TS/tsgo) - TSRS, TypeScript-go and Oxlint enhanced with the Effect LSP experience
 - [kitlangton/psychopomp](https://github.com/kitlangton/psychopomp) - 
 - [joris-gallot/gpui-devtools](https://github.com/joris-gallot/gpui-devtools) - Developer tools for inspecting and debugging GPUI applications
 - [lassejlv/whisple](https://github.com/lassejlv/whisple) - A voice bar at the bottom of your Mac. Press a shortcut, talk, and clean text lands on your clipboard — transcribed on-device.
@@ -3201,7 +3201,7 @@
 - [mezg0/vue-ui](https://github.com/mezg0/vue-ui) - 
 - [Kaperskyguru/adonis-cache](https://github.com/Kaperskyguru/adonis-cache) - AdonisJS Cache makes it seamless to implement any Caching strategy in AdonisJS 5 applications.
 - [unjs/fontaine](https://github.com/unjs/fontaine) - Automatic font fallback based on font metrics
-- [matmen/ImageScript](https://github.com/matmen/ImageScript) - zero-dependency JavaScript image manipulation
+- [matmen/ImageScript](https://github.com/matmen/ImageScript) - Pure TypeScript image processing that runs everywhere
 - [dan-kwiat/openai-edge](https://github.com/dan-kwiat/openai-edge) - 
 - [Vuepic/vue-datepicker](https://github.com/Vuepic/vue-datepicker) - Datepicker component for Vue 3
 - [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project

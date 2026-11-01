@@ -1393,7 +1393,7 @@
 - [tursodatabase/libsql-js](https://github.com/tursodatabase/libsql-js) - A better-sqlite3 compatible API for libSQL that supports Node, Bun, and Deno.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [hectorm/otpauth](https://github.com/hectorm/otpauth) - One Time Password (HOTP/TOTP) library for Node.js, Deno, Bun and browsers.
-- [matmen/ImageScript](https://github.com/matmen/ImageScript) - Pure TypeScript image processing that runs everywhere
+- [imagescript/ImageScript](https://github.com/imagescript/ImageScript) - Pure TypeScript image processing that runs everywhere
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [supabase/edge-runtime](https://github.com/supabase/edge-runtime) - A server based on Deno runtime, capable of running JavaScript, TypeScript, and WASM services.
 - [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes
@@ -2347,7 +2347,7 @@
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
 - [nuxt/test-utils](https://github.com/nuxt/test-utils) - 🧪 Test utilities for Nuxt
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.1.5.70575, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.1.5.70688, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [getsentry/sentry-rust](https://github.com/getsentry/sentry-rust) - The official Sentry SDK for Rust
 - [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace) - All of the official Tauri plugins in one place!
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
@@ -2638,7 +2638,7 @@
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scr
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
-- [matmen/ImageScript](https://github.com/matmen/ImageScript) - Pure TypeScript image processing that runs everywhere
+- [imagescript/ImageScript](https://github.com/imagescript/ImageScript) - Pure TypeScript image processing that runs everywhere
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [fengyuanchen/cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
 - [shimat/opencvsharp](https://github.com/shimat/opencvsharp) - OpenCV wrapper for .NET
@@ -2785,7 +2785,7 @@
 - [dsherret/ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
 - [belladoreai/llama-tokenizer-js](https://github.com/belladoreai/llama-tokenizer-js) - JS tokenizer for LLaMA 1 and 2
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
-- [matmen/ImageScript](https://github.com/matmen/ImageScript) - Pure TypeScript image processing that runs everywhere
+- [imagescript/ImageScript](https://github.com/imagescript/ImageScript) - Pure TypeScript image processing that runs everywhere
 - [ehmicky/error-serializer](https://github.com/ehmicky/error-serializer) - Convert errors to/from plain objects.
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Fast Rust-based bundler for the web with a modernized webpack API 🦀
@@ -3327,6 +3327,7 @@
 
 ## linux 
 
+- [anomalyco/hex](https://github.com/anomalyco/hex) - Local-first voice dictation for macOS. Hold a shortcut, speak, and paste into any app. Native Rust, on-device speech recognition, and a Linux beta.
 - [nspawn/nspawn](https://github.com/nspawn/nspawn) - Docker-like management of systemd-nspawn machines
 - [illegalstudio/elephc](https://github.com/illegalstudio/elephc) - A PHP-to-native compiler. Takes a subset of PHP - including eval() - and compiles it directly to native assembly, producing standalone binaries for macOS ARM64, Linux ARM64, and Linux x86_64. No VM, n
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) terminal-first AI-native development environment
@@ -3350,7 +3351,7 @@
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [deviceplug/btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.1.5.70575, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.1.5.70688, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
@@ -3498,6 +3499,7 @@
 
 ## macos 
 
+- [anomalyco/hex](https://github.com/anomalyco/hex) - Local-first voice dictation for macOS. Hold a shortcut, speak, and paste into any app. Native Rust, on-device speech recognition, and a Linux beta.
 - [kitlangton/scrawl](https://github.com/kitlangton/scrawl) - Show an agent a problem: mark up, record, send
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [muxy-app/muxy](https://github.com/muxy-app/muxy) - Lightweight and Memory efficient terminal multiplexer
@@ -3918,7 +3920,7 @@
 - [thx/resvg-js](https://github.com/thx/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.
 - [ariym/whisper-node](https://github.com/ariym/whisper-node) - Node.js bindings for OpenAI's Whisper. (C++ CPU version by ggerganov)
 - [Atome-FE/llama-node](https://github.com/Atome-FE/llama-node) - Believe in AI democratization. llama for nodejs backed by llama-rs, llama.cpp and rwkv.cpp, work locally on your laptop CPU. support llama/alpaca/gpt4all/vicuna/rwkv model.
-- [matmen/ImageScript](https://github.com/matmen/ImageScript) - Pure TypeScript image processing that runs everywhere
+- [imagescript/ImageScript](https://github.com/imagescript/ImageScript) - Pure TypeScript image processing that runs everywhere
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [vinejs/vine](https://github.com/vinejs/vine) - VineJS is a form data validation library for Node.js
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
@@ -4130,7 +4132,7 @@
 - [Effect-TS/tsgo](https://github.com/Effect-TS/tsgo) - TSRS, TypeScript-go and Oxlint enhanced with the Effect LSP experience
 - [kitlangton/psychopomp](https://github.com/kitlangton/psychopomp) - 
 - [lassejlv/whisple](https://github.com/lassejlv/whisple) - A voice bar at the bottom of your Mac. Press a shortcut, talk, and clean text lands on your clipboard — transcribed on-device.
-- [c0mb1ne/training_polygon](https://github.com/c0mb1ne/training_polygon) - 
+- [c0mb1ne/training_polygon](https://github.com/c0mb1ne/training_polygon) - repo of dota 2 custom game "training polygon"
 - [soirihiroka/shrimply](https://github.com/soirihiroka/shrimply) - you're telling me a shrimp made this video?!
 - [vercel-labs/vgpu](https://github.com/vercel-labs/vgpu) - Modular cross-runtime WebGPU library for shaders, 3D scenes, GPU tensors, neural networks, and math viz
 - [TeamWarp/effect-mq](https://github.com/TeamWarp/effect-mq) - 
@@ -6319,6 +6321,7 @@
 
 ## rust 
 
+- [anomalyco/hex](https://github.com/anomalyco/hex) - Local-first voice dictation for macOS. Hold a shortcut, speak, and paste into any app. Native Rust, on-device speech recognition, and a Linux beta.
 - [kitlangton/scrawl](https://github.com/kitlangton/scrawl) - Show an agent a problem: mark up, record, send
 - [joris-gallot/gpui-devtools](https://github.com/joris-gallot/gpui-devtools) - Developer tools for inspecting and debugging GPUI applications
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native OSS search engine for observability
@@ -6802,7 +6805,7 @@
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 - [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
-- [matmen/ImageScript](https://github.com/matmen/ImageScript) - Pure TypeScript image processing that runs everywhere
+- [imagescript/ImageScript](https://github.com/imagescript/ImageScript) - Pure TypeScript image processing that runs everywhere
 - [vercel-community/rust](https://github.com/vercel-community/rust) - 🦀 Rust runtime for ▲ Vercel Serverless Functions
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [lagonapp/lagon](https://github.com/lagonapp/lagon) - Deploy Serverless Functions at the Edge. Current status: Alpha
@@ -7321,7 +7324,7 @@
 - [open-circle/valibot](https://github.com/open-circle/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [ariym/whisper-node](https://github.com/ariym/whisper-node) - Node.js bindings for OpenAI's Whisper. (C++ CPU version by ggerganov)
 - [riipandi/tauri-start-solid](https://github.com/riipandi/tauri-start-solid) - This project template should help get you started developing a multi-platform desktop application with tray menu support using Tauri, SolidJS, TanStack Router, Typescript, Tailwind CSS, and Vite.
-- [matmen/ImageScript](https://github.com/matmen/ImageScript) - Pure TypeScript image processing that runs everywhere
+- [imagescript/ImageScript](https://github.com/imagescript/ImageScript) - Pure TypeScript image processing that runs everywhere
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [ehmicky/error-serializer](https://github.com/ehmicky/error-serializer) - Convert errors to/from plain objects.
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀

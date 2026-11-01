@@ -368,7 +368,7 @@
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.1.5.70575, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.1.5.70688, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
@@ -1211,7 +1211,7 @@
 
 ## Lua 
 
-- [c0mb1ne/training_polygon](https://github.com/c0mb1ne/training_polygon) - 
+- [c0mb1ne/training_polygon](https://github.com/c0mb1ne/training_polygon) - repo of dota 2 custom game "training polygon"
 - [nvimdev/dashboard-nvim](https://github.com/nvimdev/dashboard-nvim) - vim dashboard
 - [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
@@ -2032,6 +2032,7 @@
 
 ## Rust 
 
+- [anomalyco/hex](https://github.com/anomalyco/hex) - Local-first voice dictation for macOS. Hold a shortcut, speak, and paste into any app. Native Rust, on-device speech recognition, and a Linux beta.
 - [anomalyco/opentunnel](https://github.com/anomalyco/opentunnel) - 
 - [nspawn/nspawn](https://github.com/nspawn/nspawn) - Docker-like management of systemd-nspawn machines
 - [gradium-ai/xn](https://github.com/gradium-ai/xn) - Yet another minimalist deep-learning framework optimized for inference
@@ -3201,7 +3202,7 @@
 - [mezg0/vue-ui](https://github.com/mezg0/vue-ui) - 
 - [Kaperskyguru/adonis-cache](https://github.com/Kaperskyguru/adonis-cache) - AdonisJS Cache makes it seamless to implement any Caching strategy in AdonisJS 5 applications.
 - [unjs/fontaine](https://github.com/unjs/fontaine) - Automatic font fallback based on font metrics
-- [matmen/ImageScript](https://github.com/matmen/ImageScript) - Pure TypeScript image processing that runs everywhere
+- [imagescript/ImageScript](https://github.com/imagescript/ImageScript) - Pure TypeScript image processing that runs everywhere
 - [dan-kwiat/openai-edge](https://github.com/dan-kwiat/openai-edge) - 
 - [Vuepic/vue-datepicker](https://github.com/Vuepic/vue-datepicker) - Datepicker component for Vue 3
 - [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project

@@ -2495,7 +2495,7 @@
 - [johanhelsing/matchbox](https://github.com/johanhelsing/matchbox) - Painless peer-to-peer WebRTC networking for rust wasm (and native!)
 - [mdenchev/bevy_aseprite](https://github.com/mdenchev/bevy_aseprite) - 
 - [aws/aws-lambda-rust-runtime](https://github.com/aws/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
-- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
+- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - The orchestrator for agentic workloads. A fast, high-density and scalable orchestrator for every workload an agent needs.
 - [rbatis/rbatis](https://github.com/rbatis/rbatis) - Compile Time Async Dynamic SQL ORM
 - [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - A cargo-subcommand to speed up Rust Docker builds using Docker layer caching.
 - [m1guelpf/ensemble](https://github.com/m1guelpf/ensemble) - A Laravel-inspired ORM for Rust

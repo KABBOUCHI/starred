@@ -642,7 +642,7 @@
 ## HTML 
 
 - [tc39/proposal-do-expressions](https://github.com/tc39/proposal-do-expressions) - Proposal for `do` expressions
-- [spider-rs/html2md](https://github.com/spider-rs/html2md) - HTML to markdown for Rust
+- [spider-rs/html2md](https://github.com/spider-rs/html2md) - Low latency HTML to markdown for Rust
 - [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨
 - [rust-lang/arewewebyet](https://github.com/rust-lang/arewewebyet) - Are we web yet? A simple reckoning of Rust's readiness for Web-related things.
 - [Accudio/async-alpine](https://github.com/Accudio/async-alpine) - Async Alpine brings advanced code splitting and lazy-loading to Alpine.js components!

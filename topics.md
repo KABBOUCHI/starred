@@ -2545,7 +2545,7 @@
 - [rayliwell/tree-sitter-rstml](https://github.com/rayliwell/tree-sitter-rstml) - Rust + html grammar for the tree-sitter parser library.
 - [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [Automattic/juice](https://github.com/Automattic/juice) - Juice inlines CSS stylesheets into your HTML source.
-- [spider-rs/html2md](https://github.com/spider-rs/html2md) - HTML to markdown for Rust
+- [spider-rs/html2md](https://github.com/spider-rs/html2md) - Low latency HTML to markdown for Rust
 - [Lommix/bevy_hui](https://github.com/Lommix/bevy_hui) - Component based UI crate using Xml/Html with focus on hot reload for the bevy engine.
 - [fb55/htmlparser2](https://github.com/fb55/htmlparser2) - The fast & forgiving HTML and XML parser
 - [askama-rs/askama](https://github.com/askama-rs/askama) - A template rendering engine based on Jinja, generating type-safe Rust code at compile time.
@@ -3603,7 +3603,7 @@
 ## markdown 
 
 - [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
-- [spider-rs/html2md](https://github.com/spider-rs/html2md) - HTML to markdown for Rust
+- [spider-rs/html2md](https://github.com/spider-rs/html2md) - Low latency HTML to markdown for Rust
 - [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [mdit-vue/mdit-vue](https://github.com/mdit-vue/mdit-vue) - markdown-it plugins for Vue.js
@@ -6404,7 +6404,7 @@
 - [otter-sec/anchor](https://github.com/otter-sec/anchor) - ⚓ Solana Program Framework
 - [EricLBuehler/candle-lora](https://github.com/EricLBuehler/candle-lora) - Low rank adaptation (LoRA) for Candle.
 - [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) - A beautiful, native Kubernetes desktop client. Every cluster and cloud account in one place. Free and open source, no account, no telemetry.
-- [spider-rs/html2md](https://github.com/spider-rs/html2md) - HTML to markdown for Rust
+- [spider-rs/html2md](https://github.com/spider-rs/html2md) - Low latency HTML to markdown for Rust
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [rayon-rs/either](https://github.com/rayon-rs/either) - The enum Either with variants Left and Right is a general purpose sum type with two cases.

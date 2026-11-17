@@ -2086,7 +2086,6 @@
 - [Uzaaft/libghostty-rs](https://github.com/Uzaaft/libghostty-rs) - 
 - [oxidecomputer/omicron](https://github.com/oxidecomputer/omicron) - Omicron: Oxide control plane
 - [solana-foundation/surfpool](https://github.com/solana-foundation/surfpool) - Surfpool is where developers start their Solana journey.
-- [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - The unified toolchain and entry point for web development.
 - [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
 - [ubugeeei-prod/vize](https://github.com/ubugeeei-prod/vize) - blazing fast Vue.js toolchain. compiler, linter, type checker, formatter, lsp, story system, editors.  already 30k+ tests.
@@ -2475,7 +2474,7 @@
 - [Bluefinger/bevy_turborand](https://github.com/Bluefinger/bevy_turborand) - A plugin to enable random number generation for the Bevy game engine.
 - [pop-os/cosmic-text](https://github.com/pop-os/cosmic-text) - Pure Rust multi-line text handling
 - [politrons/FunctionalRust](https://github.com/politrons/FunctionalRust) - 
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3.1 and GLM 5.3
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
 - [bitshifter/glam-rs](https://github.com/bitshifter/glam-rs) - A simple and fast linear algebra library for games and graphics
 - [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
@@ -2907,6 +2906,7 @@
 - [Huxpro/vue-lynx](https://github.com/Huxpro/vue-lynx) - Vue on Lynx
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [rohanprasadofficial/localflare](https://github.com/rohanprasadofficial/localflare) - local cloudflare
+- [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - The unified toolchain and entry point for web development.
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework
 - [adonisjs/queue](https://github.com/adonisjs/queue) - Queue system for AdonisJS applications. Process background jobs with support for multiple drivers (Redis, Database), job retries, scheduling, and more.
 - [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev) - a fast, modern browser for the npm registry
@@ -3145,7 +3145,6 @@
 - [antfu/drauu](https://github.com/antfu/drauu) - Headless SVG-based drawboard in browser.
 - [poppinss/macroable](https://github.com/poppinss/macroable) - Extend classes from outside in using Macros and getters
 - [antfu-collective/birpc](https://github.com/antfu-collective/birpc) - Message-based two-way remote procedure call.
-- [antfu/vitesse-nuxt](https://github.com/antfu/vitesse-nuxt) - Vitesse for Nuxt 4 🏔💚⚡️
 - [shikijs/twoslash](https://github.com/shikijs/twoslash) - You take some Shiki, add a hint of TypeScript compiler, and 🎉 incredible static code samples
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
 - [vultix/ts-results](https://github.com/vultix/ts-results) - A typescript implementation of Rust's Result object.
@@ -3221,7 +3220,7 @@
 - [nuxt/ui](https://github.com/nuxt/ui) - The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.
 - [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 Content editing tech stack for the web - BlockSuite is a toolkit for building editors and collaborative applications.
 - [webfansplz/vite-plugin-vue-devtools](https://github.com/webfansplz/vite-plugin-vue-devtools) - Vite + Vue DevTools = DX  🔥
-- [johannschopplich/unlazy](https://github.com/johannschopplich/unlazy) - 🪧 Universal lazy loading library for placeholder images leveraging native browser APIs
+- [johannschopplich/unlazy](https://github.com/johannschopplich/unlazy) - 🪧 Native image lazy loading with BlurHash and ThumbHash placeholders – vanilla JS, Vue, React, Svelte, Solid and Nuxt
 - [hunyan-io/vite-plugin-vue-nested-sfc](https://github.com/hunyan-io/vite-plugin-vue-nested-sfc) - Nest SFCs within your SFC.
 - [unjs/pkg-types](https://github.com/unjs/pkg-types) - Node.js utilities and TypeScript definitions for package.json and tsconfig.json
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
@@ -3783,6 +3782,7 @@
 - [nuxt-ui-templates/dashboard](https://github.com/nuxt-ui-templates/dashboard) - Nuxt Dashboard Template made with Nuxt UI.
 - [xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner) - 🔔 An opinionated toast component for Vue & Nuxt.
 - [snapshot-labs/snapshot-v1](https://github.com/snapshot-labs/snapshot-v1) - V1 interface for Snapshot. Join us on Discord http://discord.snapshot.org
+- [antfu/vitesse-nuxt](https://github.com/antfu/vitesse-nuxt) - Vitesse for Nuxt 4 🏔💚⚡️
 - [nuxt-ui-templates/landing](https://github.com/nuxt-ui-templates/landing) - Nuxt Landing Template made with Nuxt UI and Nuxt Content.
 - [nuxt-ui-templates/docs](https://github.com/nuxt-ui-templates/docs) - Nuxt Docs Template made with Nuxt UI and Nuxt Content.
 - [nuxt-ui-templates/starter](https://github.com/nuxt-ui-templates/starter) - Nuxt Starter Template for Nuxt UI.

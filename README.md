@@ -485,7 +485,7 @@
 - [Milad-Akarie/auto_route_library](https://github.com/Milad-Akarie/auto_route_library) - Flutter route generator
 - [solid-software/flutter_vlc_player](https://github.com/solid-software/flutter_vlc_player) - 📺 Flutter VLC powered video player.
 - [pedromassango/build_context](https://github.com/pedromassango/build_context) - Access most used properties in your BuildContext instance.
-- [felangel/bloc](https://github.com/felangel/bloc) - A predictable state management library that helps implement the BLoC design pattern
+- [felangel/bloc](https://github.com/felangel/bloc) - A predictable state management library for Dart
 - [devrnt/movie-catalog](https://github.com/devrnt/movie-catalog) - 🎬 A movie catalog app for both Android & IOS ~ Flutter.io project in Dart | Dart, Bloc, Movies
 - [material-foundation/flutter-packages](https://github.com/material-foundation/flutter-packages) - A collection of useful Material Design packages
 - [Baseflow/flutter_cached_network_image](https://github.com/Baseflow/flutter_cached_network_image) - Download, cache and show images in a flutter app
@@ -1261,6 +1261,7 @@
 
 ## Others 
 
+- [zed-industries/gpui](https://github.com/zed-industries/gpui) - A GPU-accelerated, open-source UI framework for Rust that combines immediate and retained modes. 🚀
 - [kitlangton/skills](https://github.com/kitlangton/skills) - Here are some skills I use. Maybe you'll find them useful. Maybe not. Goodbye.
 - [ansuz/RIIR](https://github.com/ansuz/RIIR) - why not Rewrite It In Rust
 - [K11MCH1/AdrenoToolsDrivers](https://github.com/K11MCH1/AdrenoToolsDrivers) - A repository for Skyline, Strato, Vita3K and Yuzu Android compatible Adreno drivers.
@@ -1825,7 +1826,7 @@
 - [mcamara/laravel-localization](https://github.com/mcamara/laravel-localization) - Easy localization for Laravel
 - [fruitcake/laravel-cors](https://github.com/fruitcake/laravel-cors) - Adds CORS (Cross-Origin Resource Sharing) headers support in your Laravel application
 - [spatie/laravel-permission](https://github.com/spatie/laravel-permission) - Associate users with roles and permissions
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - Translations by native speakers for the Laravel ecosystem.
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - [READ ONLY] Subtree split of the Laravel-Lang Lang component (see Laravel-Lang/mona)
 - [laravel/socialite](https://github.com/laravel/socialite) - Laravel wrapper around OAuth 1 & OAuth 2 libraries.
 - [SpartnerNL/Laravel-Excel](https://github.com/SpartnerNL/Laravel-Excel) - 🚀 Supercharged Excel exports and imports in Laravel
 - [Intervention/image](https://github.com/Intervention/image) - PHP Image Processing
@@ -1842,7 +1843,7 @@
 - [spatie/eloquent-sortable](https://github.com/spatie/eloquent-sortable) - Sortable behaviour for Eloquent models
 - [always-open/laravel-totem](https://github.com/always-open/laravel-totem) - Manage Your Laravel Schedule From A Web Dashboard
 - [laravel/horizon](https://github.com/laravel/horizon) - Dashboard and code-driven configuration for Laravel queues.
-- [jorijn/laravel-security-checker](https://github.com/jorijn/laravel-security-checker) - Added Laravel functionality to Enlightn Security Checker. Adds a command to check for, and optionally emails you, vulnerabilities when they affect you.
+- [jorijn/laravel-security-checker](https://github.com/jorijn/laravel-security-checker) - Scheduled security checks for Laravel apps. Matches your composer.lock against Packagist's security advisories (the same source as composer audit) and alerts you by mail or Slack when a vulnerability 
 - [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax.
 - [spatie/browsershot](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string
 - [kitetail/zttp](https://github.com/kitetail/zttp) - A developer-experience focused HTTP client, optimized for most common use cases.
@@ -2060,6 +2061,7 @@
 - [lassejlv/gpui-starter](https://github.com/lassejlv/gpui-starter) - A basic starter template for GPUI
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [mishushakov/desktui](https://github.com/mishushakov/desktui) - A remote desktop for your terminal
+- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A real browser inside your terminal
 - [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
 - [forjedio/yerd](https://github.com/forjedio/yerd) - A powerful, developer-friendly tool for local PHP development
 - [zortax/gpui-terminal](https://github.com/zortax/gpui-terminal) - Terminal emulator component for GPUI
@@ -2128,7 +2130,7 @@
 - [plotters-rs/plotters](https://github.com/plotters-rs/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
 - [longbridge/wef](https://github.com/longbridge/wef) - Wef is a Rust library for embedding WebView functionality using Chromium Embedded Framework (CEF3) with offscreen rendering support.
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
-- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
+- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A safety oriented and memory safe implementation of sudo and su
 - [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) - A protocol for connecting any editor to any agent
 - [anza-xyz/agave-geyser-plugin-postgres](https://github.com/anza-xyz/agave-geyser-plugin-postgres) - A Geyser plugin using Postgres as the data store.
 - [anza-xyz/agave](https://github.com/anza-xyz/agave) - High-performance validator and RPC client for the Solana blockchain.
@@ -2482,7 +2484,7 @@
 - [Jake-Shadle/xwin](https://github.com/Jake-Shadle/xwin) - A utility for downloading and packaging the Microsoft CRT & Windows SDK headers and libraries needed for compiling and linking programs targeting Windows.
 - [open-source-cooperative/keyring-rs](https://github.com/open-source-cooperative/keyring-rs) - Cross-platform library and utility to manage passwords
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform native GUI library for 🦀 Rust
+- [freya-rs/freya](https://github.com/freya-rs/freya) - Cross-platform native GUI library for 🦀 Rust
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [maxday/lambda-perf](https://github.com/maxday/lambda-perf) - Lambda Cold Starts analysis, updated daily
@@ -2568,7 +2570,7 @@
 - [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
 - [rksm/hot-lib-reloader-rs](https://github.com/rksm/hot-lib-reloader-rs) - Reload Rust code without app restarts. For faster feedback cycles.
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
-- [joamag/boytacean](https://github.com/joamag/boytacean) - A GB emulator that is written in Rust 🦀!
+- [joamag/boytacean](https://github.com/joamag/boytacean) - A GB & GBA emulator that is written in Rust 🦀!
 - [Brendonovich/prisma-client-rust](https://github.com/Brendonovich/prisma-client-rust) - Type-safe database access for Rust
 - [askama-rs/askama-old](https://github.com/askama-rs/askama-old) - The original askama repo, please go to https://github.com/askama-rs/askama
 - [djeedai/bevy_hanabi](https://github.com/djeedai/bevy_hanabi) - 🎆 Hanabi — a GPU particle system plugin for the Bevy game engine.
@@ -2879,7 +2881,7 @@
 
 - [workingprototype/Fuobe](https://github.com/workingprototype/Fuobe) - The open creative studio on ComfyUI: images, video, 3D and audio on open weights, on your own GPU or the cloud. Camera motions, effects, apps, Cinema, Layers, Image to 3D and an AI agent.
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone
-- [danielroe/forges](https://github.com/danielroe/forges) - One client, every forge.
+- [made-in-common/forges](https://github.com/made-in-common/forges) - One client, every forge.
 - [voidzero-dev/void](https://github.com/voidzero-dev/void) - Build with Vite. Deploy with Void.
 - [elie222/rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
 - [kitlangton/skulk](https://github.com/kitlangton/skulk) - Your agent sleeps. The event wakes it. Durable timers and event triggers that wake OpenCode sessions.
@@ -2890,9 +2892,8 @@
 - [PaulRBerg/prb-effect](https://github.com/PaulRBerg/prb-effect) - Effect-ts monorepo with utilities for web3, next.js, and more
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [jakobhoeg/browser-ai](https://github.com/jakobhoeg/browser-ai) - In-browser AI model providers for the Vercel AI SDK, built to make client-side AI integration simpler and more consistent across vendors.
-- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A real browser inside your terminal
 - [Effect-TS/effect-smol](https://github.com/Effect-TS/effect-smol) - Core libraries and experimental work for Effect v4
-- [vercel-labs/emulate](https://github.com/vercel-labs/emulate) - Local API emulation for CI and no-network sandboxes
+- [vercel-labs/emulate](https://github.com/vercel-labs/emulate) - API emulators for local dev, CI and sandboxes
 - [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
 - [oribarilan/vimcode](https://github.com/oribarilan/vimcode) - Vim for OpenCode.
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) terminal-first AI-native development environment
@@ -2964,7 +2965,7 @@
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [eienjs/adonisjs-api-query](https://github.com/eienjs/adonisjs-api-query) - Easily build Lucid queries from API requests
 - [sxzz/tsgo-wasm](https://github.com/sxzz/tsgo-wasm) - TypeScript 7 WASM
-- [antfu-collective/vite-plugin-inspect](https://github.com/antfu-collective/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins
+- [made-in-common/vite-plugin-inspect](https://github.com/made-in-common/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins
 - [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink) - Two conversational AI agents switching from English to sound-level protocol after confirming they are both AI agents
 - [romhml/compodium](https://github.com/romhml/compodium) - A plug and play component playground for Vue and Nuxt.
 - [Comfy-Org/desktop](https://github.com/Comfy-Org/desktop) - [ARCHIVED] Superseded by https://github.com/Comfy-Org/Comfy-Desktop
@@ -3049,7 +3050,7 @@
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [newcat/baklavajs](https://github.com/newcat/baklavajs) - Graph / node editor in the browser using VueJS
 - [poppinss/defer](https://github.com/poppinss/defer) - A managed deferred queue to run async operations in the background
-- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
+- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - Image processing in pure JavaScript for Node.js and the browser, with zero native dependencies.
 - [codemirror/lang-javascript](https://github.com/codemirror/lang-javascript) - JavaScript language support for the CodeMirror code editor
 - [val-town/deno-ata](https://github.com/val-town/deno-ata) - support for type acquisition with url imports, npm, jsr prefixes
 - [val-town/codemirror-codeium](https://github.com/val-town/codemirror-codeium) - Codeium code completion integration for CodeMirror 6
@@ -3140,9 +3141,9 @@
 - [adonisjs/lucid](https://github.com/adonisjs/lucid) - AdonisJS SQL ORM. Supports PostgreSQL, MySQL, MSSQL, Redshift, SQLite and many more
 - [prosekit/prosekit](https://github.com/prosekit/prosekit) - Framework agnostic and headless rich text editor
 - [nfroidure/svg-pathdata](https://github.com/nfroidure/svg-pathdata) - Parse SVG PathDatas
-- [antfu/drauu](https://github.com/antfu/drauu) - Headless SVG-based drawboard in browser.
+- [made-in-common/drauu](https://github.com/made-in-common/drauu) - Headless SVG-based drawboard in browser.
 - [poppinss/macroable](https://github.com/poppinss/macroable) - Extend classes from outside in using Macros and getters
-- [antfu-collective/birpc](https://github.com/antfu-collective/birpc) - Message-based two-way remote procedure call.
+- [made-in-common/birpc](https://github.com/made-in-common/birpc) - Message-based two-way remote procedure call.
 - [shikijs/twoslash](https://github.com/shikijs/twoslash) - You take some Shiki, add a hint of TypeScript compiler, and 🎉 incredible static code samples
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
 - [vultix/ts-results](https://github.com/vultix/ts-results) - A typescript implementation of Rust's Result object.
@@ -3202,7 +3203,7 @@
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Lucide is an open-source icon library that provides 2000+ vector (svg) files for displaying icons and symbols in digital and non-digital proj
 - [mezg0/vue-ui](https://github.com/mezg0/vue-ui) - 
 - [Kaperskyguru/adonis-cache](https://github.com/Kaperskyguru/adonis-cache) - AdonisJS Cache makes it seamless to implement any Caching strategy in AdonisJS 5 applications.
-- [danielroe/fontaine](https://github.com/danielroe/fontaine) - Automatic font fallback based on font metrics
+- [made-in-common/fontaine](https://github.com/made-in-common/fontaine) - Automatic font fallback based on font metrics
 - [imagescript/ImageScript](https://github.com/imagescript/ImageScript) - Pure TypeScript image processing that runs everywhere
 - [dan-kwiat/openai-edge](https://github.com/dan-kwiat/openai-edge) - 
 - [Vuepic/vue-datepicker](https://github.com/Vuepic/vue-datepicker) - Datepicker component for Vue 3
@@ -3253,8 +3254,8 @@
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [cfortuner/promptable](https://github.com/cfortuner/promptable) - Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀
 - [mascii/vue-yup-form](https://github.com/mascii/vue-yup-form) - Headless form validation with Vue and Yup
-- [antfu-collective/changelogithub](https://github.com/antfu-collective/changelogithub) - Generate changelog for GitHub
-- [antfu-collective/bumpp](https://github.com/antfu-collective/bumpp) - Interactive CLI that bumps your version numbers and more
+- [made-in-common/changelogithub](https://github.com/made-in-common/changelogithub) - Generate changelog for GitHub
+- [made-in-common/bumpp](https://github.com/made-in-common/bumpp) - Interactive CLI that bumps your version numbers and more
 - [bombshell-dev/clack](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps
 - [vueuse/sound](https://github.com/vueuse/sound) - 🔊 A Vue composable for playing sound effects
 - [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
@@ -3502,7 +3503,7 @@
 - [tiged/tiged](https://github.com/tiged/tiged) - Community driven fork of degit
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [quirrel-dev/quirrel](https://github.com/quirrel-dev/quirrel) - The Task Queueing Solution for Serverless.
-- [antfu-collective/vite-node](https://github.com/antfu-collective/vite-node) - Vite as Node.js runtime
+- [made-in-common/vite-node](https://github.com/made-in-common/vite-node) - Vite as Node.js runtime
 - [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes.
 - [ReactUnity/core](https://github.com/ReactUnity/core) - React and HTML framework for Unity UI & UIToolkit
 - [ConsenSys-archive/ganache](https://github.com/ConsenSys-archive/ganache) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
@@ -3599,7 +3600,7 @@
 - [laravel/echo](https://github.com/laravel/echo) - Laravel Echo library for beautiful Reverb, Pusher, and Ably integration.
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
-- [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
+- [made-in-common/ni](https://github.com/made-in-common/ni) - 💡 Use the right package manager
 - [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
 - [nuxt/image](https://github.com/nuxt/image) - Plug-and-play image optimization for Nuxt applications.
@@ -3627,7 +3628,7 @@
 - [laravel-presets/pest](https://github.com/laravel-presets/pest) - A preset for installing @pestphp in a fresh Laravel project
 - [preset/preset](https://github.com/preset/preset) - Elegant, ecosystem-agnostic preset mechanism
 - [antfu-collective/vitesse](https://github.com/antfu-collective/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
-- [antfu-collective/taze](https://github.com/antfu-collective/taze) - 🥦 A modern cli tool that keeps your deps fresh
+- [made-in-common/taze](https://github.com/made-in-common/taze) - 🥦 A modern cli tool that keeps your deps fresh
 - [nuxt/typescript](https://github.com/nuxt/typescript) - TypeScript Support for Nuxt 2
 - [coreui/coreui-icons](https://github.com/coreui/coreui-icons) - CoreUI Free Icons -  Premium designed free icon set with marks in SVG, Webfont and raster formats
 - [vuedx/preview](https://github.com/vuedx/preview) - Quick prototyping and UI feedback tool built on top Vite
@@ -3641,6 +3642,7 @@
 - [vuejs/apollo](https://github.com/vuejs/apollo) - 🚀 Apollo/GraphQL integration for VueJS
 - [developit/mitt](https://github.com/developit/mitt) - 🥊 Tiny 200 byte functional event emitter / pubsub.
 - [antfu/reactivue](https://github.com/antfu/reactivue) - 🙊 Use Vue Composition API in React components
+- [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [rigor789/nativescript-vue-next](https://github.com/rigor789/nativescript-vue-next) - 
 - [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - A frontend library for React and Vue that helps developers quickly build fast, accessible, and beautiful storefronts. Made with 💚 by Vue Storefront team and contributors.
 - [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
@@ -3844,7 +3846,6 @@
 - [nuxtlabs/vue-telescope-extensions](https://github.com/nuxtlabs/vue-telescope-extensions) - Browser extensions for Vue Telescope
 - [laravel/vapor-ui](https://github.com/laravel/vapor-ui) - The Laravel Vapor UI.
 - [adamwathan/tailwind-take-home-project](https://github.com/adamwathan/tailwind-take-home-project) - 
-- [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [posva/vite-tailwind-starter](https://github.com/posva/vite-tailwind-starter) - Starter using Vite + Tailwind for super fast prototyping
 - [Akryum/vue-mention](https://github.com/Akryum/vue-mention) - Mention component for Vue.js
 - [mrcrmn/docc](https://github.com/mrcrmn/docc) - A starter documentation theme for Gridsome. Featuring instant search, great navigation and a dark mode!
@@ -3862,7 +3863,6 @@
 - [creativetimofficial/vue-black-dashboard](https://github.com/creativetimofficial/vue-black-dashboard) - Vue Black Dashboard
 - [cloudstudio/resource-generator](https://github.com/cloudstudio/resource-generator) - Resource generator for Laravel Nova
 - [InfinetyEs/Nova-Filemanager](https://github.com/InfinetyEs/Nova-Filemanager) - A Filemanager tool for Laravel Nova
-- [mrmonat/nova-translatable](https://github.com/mrmonat/nova-translatable) - Nova Field for spatie/laravel-translatable package.
 - [KABBOUCHI/nova-logs-tool](https://github.com/KABBOUCHI/nova-logs-tool) - A Laravel Nova tool to manage and keep track of each one of your logs files.
 - [beyondcode/nova-tinker-tool](https://github.com/beyondcode/nova-tinker-tool) - Use the power of Tinker within your Nova application.
 - [themsaid/nova-cashier-manager](https://github.com/themsaid/nova-cashier-manager) - Managing Stripe subscriptions inside the incredible Laravel Nova admin panel.

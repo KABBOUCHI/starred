@@ -513,7 +513,7 @@
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [deviceplug/btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library
-- [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform native GUI library for 🦀 Rust
+- [freya-rs/freya](https://github.com/freya-rs/freya) - Cross-platform native GUI library for 🦀 Rust
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
@@ -592,7 +592,7 @@
 
 ## api 
 
-- [danielroe/forges](https://github.com/danielroe/forges) - One client, every forge.
+- [made-in-common/forges](https://github.com/made-in-common/forges) - One client, every forge.
 - [oxidecomputer/omicron](https://github.com/oxidecomputer/omicron) - Omicron: Oxide control plane
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
@@ -1020,7 +1020,7 @@
 - [andriyor/ghtopdep](https://github.com/andriyor/ghtopdep) - :star: CLI tool for sorting dependents repo by stars
 - [renoki-co/echo-server](https://github.com/renoki-co/echo-server) - Echo Server is a container-ready, multi-scalable Node.js application used to host your own Socket.IO server for Laravel Broadcasting.
 - [mnapoli/silly](https://github.com/mnapoli/silly) - Silly CLI micro-framework based on Symfony Console
-- [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
+- [made-in-common/ni](https://github.com/made-in-common/ni) - 💡 Use the right package manager
 - [bitfumes/laravel-packer](https://github.com/bitfumes/laravel-packer) - Awesome Command Line Tool for speeding up your package creation.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -1299,7 +1299,7 @@
 - [rrousselGit/flutter_hooks](https://github.com/rrousselGit/flutter_hooks) - React hooks for Flutter. Hooks are a new kind of object that manages a Widget life-cycles. They are used to increase code sharing between widgets and as a complete replacement for StatefulWidget.
 - [steebchen/flutter](https://github.com/steebchen/flutter) - A Github action for the flutter CLI
 - [pedromassango/build_context](https://github.com/pedromassango/build_context) - Access most used properties in your BuildContext instance.
-- [felangel/bloc](https://github.com/felangel/bloc) - A predictable state management library that helps implement the BLoC design pattern
+- [felangel/bloc](https://github.com/felangel/bloc) - A predictable state management library for Dart
 - [xvrh/lottie-flutter](https://github.com/xvrh/lottie-flutter) - Render After Effects animations natively on Flutter. This package is a pure Dart implementation of a Lottie player.
 - [simc/dartx](https://github.com/simc/dartx) - Superpowers for Dart. Collection of useful static extension methods.
 - [gurleensethi/sailor](https://github.com/gurleensethi/sailor) - Easy page navigation and management in Flutter apps.
@@ -1700,7 +1700,7 @@
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 - [xkevio/kevboy](https://github.com/xkevio/kevboy) - A Game Boy and Game Boy Color emulator in Rust.
-- [joamag/boytacean](https://github.com/joamag/boytacean) - A GB emulator that is written in Rust 🦀!
+- [joamag/boytacean](https://github.com/joamag/boytacean) - A GB & GBA emulator that is written in Rust 🦀!
 - [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
 - [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PlayStation 3 emulator and debugger
@@ -1864,7 +1864,7 @@
 - [GabLeRoux/docker-flutter](https://github.com/GabLeRoux/docker-flutter) - 🐦 Flutter + Lcov for code Coverage reports!
 - [solid-software/flutter_vlc_player](https://github.com/solid-software/flutter_vlc_player) - 📺 Flutter VLC powered video player.
 - [pedromassango/build_context](https://github.com/pedromassango/build_context) - Access most used properties in your BuildContext instance.
-- [felangel/bloc](https://github.com/felangel/bloc) - A predictable state management library that helps implement the BLoC design pattern
+- [felangel/bloc](https://github.com/felangel/bloc) - A predictable state management library for Dart
 - [devrnt/movie-catalog](https://github.com/devrnt/movie-catalog) - 🎬 A movie catalog app for both Android & IOS ~ Flutter.io project in Dart | Dart, Bloc, Movies
 - [material-foundation/flutter-packages](https://github.com/material-foundation/flutter-packages) - A collection of useful Material Design packages
 - [Baseflow/flutter_cached_network_image](https://github.com/Baseflow/flutter_cached_network_image) - Download, cache and show images in a flutter app
@@ -2146,7 +2146,7 @@
 
 ## git 
 
-- [danielroe/forges](https://github.com/danielroe/forges) - One client, every forge.
+- [made-in-common/forges](https://github.com/made-in-common/forges) - One client, every forge.
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
@@ -2170,7 +2170,7 @@
 - [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests) - Showcase your Open Source Contributions (pull requests).
 - [actions-rs/toolchain](https://github.com/actions-rs/toolchain) - 🛠️ GitHub Action for `rustup` commands
 - [marc2332/ghboard](https://github.com/marc2332/ghboard) - 🦑 GitHub Dashboard
-- [antfu-collective/changelogithub](https://github.com/antfu-collective/changelogithub) - Generate changelog for GitHub
+- [made-in-common/changelogithub](https://github.com/made-in-common/changelogithub) - Generate changelog for GitHub
 - [game-ci/unity-builder](https://github.com/game-ci/unity-builder) - Build Unity projects for different platforms
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [antfu/github-doorcat](https://github.com/antfu/github-doorcat) - 😼 Supercharges GitHub navbar for fast navigation [WIP]
@@ -2302,6 +2302,7 @@
 
 ## gui 
 
+- [zed-industries/gpui](https://github.com/zed-industries/gpui) - A GPU-accelerated, open-source UI framework for Rust that combines immediate and retained modes. 🚀
 - [longbridge/nsh](https://github.com/longbridge/nsh) - Native Shell is a native UI framework for iOS, Android, macOS, Windows, Linux and the web, built in Rust.
 - [justjavac/gpui-router](https://github.com/justjavac/gpui-router) - A router for GPUI App.
 - [jarl-opensource/drakkar-vfx](https://github.com/jarl-opensource/drakkar-vfx) - VFX editor for Bevy and Hanabi
@@ -2312,7 +2313,7 @@
 - [outerbase/studio](https://github.com/outerbase/studio) - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite.
 - [dylanblokhuis/tpaint](https://github.com/dylanblokhuis/tpaint) - Build a native GUI with Dioxus on whatever platform that can render triangles
 - [anhosh/egui_dock](https://github.com/anhosh/egui_dock) - Docking support for egui – an immediate-mode GUI library for Rust
-- [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform native GUI library for 🦀 Rust
+- [freya-rs/freya](https://github.com/freya-rs/freya) - Cross-platform native GUI library for 🦀 Rust
 - [coderonion/awesome-rust-list](https://github.com/coderonion/awesome-rust-list) - This repository lists some awesome public Rust projects, Videos, Blogs and Jobs.
 - [fltk-rs/fltk-rs](https://github.com/fltk-rs/fltk-rs) - Rust bindings for the FLTK GUI library.
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
@@ -2384,7 +2385,7 @@
 - [NiklasEi/bevy_common_assets](https://github.com/NiklasEi/bevy_common_assets) - Collection of generic asset loaders for common file formats
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
-- [danielroe/fontaine](https://github.com/danielroe/fontaine) - Automatic font fallback based on font metrics
+- [made-in-common/fontaine](https://github.com/made-in-common/fontaine) - Automatic font fallback based on font metrics
 - [keyvank/femtoGPT](https://github.com/keyvank/femtoGPT) - Pure Rust implementation of a minimal Generative Pretrained Transformer
 - [NiklasEi/bevy_asset_loader](https://github.com/NiklasEi/bevy_asset_loader) - Bevy plugin helping with asset loading and organization
 - [CnCNet/cncnet-yr-client-package](https://github.com/CnCNet/cncnet-yr-client-package) - The official CnCNet Yuri's Revenge package for online.
@@ -2661,6 +2662,7 @@
 
 - [silvia-odwyer/photon](https://github.com/silvia-odwyer/photon) - ⚡ Rust/WebAssembly image processing library
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scr
+- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - Image processing in pure JavaScript for Node.js and the browser, with zero native dependencies.
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
 - [imagescript/ImageScript](https://github.com/imagescript/ImageScript) - Pure TypeScript image processing that runs everywhere
@@ -2770,6 +2772,7 @@
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [tursodatabase/libsql-client-ts](https://github.com/tursodatabase/libsql-client-ts) - TypeScript/JavaScript client API for libSQL
 - [node-oauth/node-oauth2-server](https://github.com/node-oauth/node-oauth2-server) - 🚀 The successor to oauthjs/oauth2-server. 🔒 Complete, compliant, maintained and well tested OAuth2 Server for node.js.  Includes native async await and PKCE.
+- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - Image processing in pure JavaScript for Node.js and the browser, with zero native dependencies.
 - [markmead/alpinejs-notifications](https://github.com/markmead/alpinejs-notifications) - Simple notifications in your projects using Alpine JS 🙋‍♀️
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's smallest, fastest validator. One prompt away.
 - [tree-sitter/tree-sitter-javascript](https://github.com/tree-sitter/tree-sitter-javascript) - Javascript grammar for tree-sitter
@@ -3073,7 +3076,7 @@
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [dart-lang/sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - Translations by native speakers for the Laravel ecosystem.
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - [READ ONLY] Subtree split of the Laravel-Lang Lang component (see Laravel-Lang/mona)
 - [24aitor/Localizer](https://github.com/24aitor/Localizer) - Package to change automatically the website language in laravel 5.5
 
 ## languages 
@@ -3258,7 +3261,6 @@
 - [beyondcode/laravel-comments](https://github.com/beyondcode/laravel-comments) - Add comments to your Laravel application
 - [InfinetyEs/Nova-Filemanager](https://github.com/InfinetyEs/Nova-Filemanager) - A Filemanager tool for Laravel Nova
 - [SpartnerNL/Laravel-Nova-Excel](https://github.com/SpartnerNL/Laravel-Nova-Excel) - 🚀 Supercharged Excel exports for Laravel Nova Resources
-- [mrmonat/nova-translatable](https://github.com/mrmonat/nova-translatable) - Nova Field for spatie/laravel-translatable package.
 - [franzdumfart/laravel-nova-localizations](https://github.com/franzdumfart/laravel-nova-localizations) - Localization files for Laravel Nova
 - [KABBOUCHI/nova-logs-tool](https://github.com/KABBOUCHI/nova-logs-tool) - A Laravel Nova tool to manage and keep track of each one of your logs files.
 - [its-awesome/awesome-laravel-nova](https://github.com/its-awesome/awesome-laravel-nova) - Curated list of Laravel Nova resources
@@ -3299,7 +3301,7 @@
 - [mcamara/laravel-localization](https://github.com/mcamara/laravel-localization) - Easy localization for Laravel
 - [fruitcake/laravel-cors](https://github.com/fruitcake/laravel-cors) - Adds CORS (Cross-Origin Resource Sharing) headers support in your Laravel application
 - [spatie/laravel-permission](https://github.com/spatie/laravel-permission) - Associate users with roles and permissions
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - Translations by native speakers for the Laravel ecosystem.
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - [READ ONLY] Subtree split of the Laravel-Lang Lang component (see Laravel-Lang/mona)
 - [laravel/socialite](https://github.com/laravel/socialite) - Laravel wrapper around OAuth 1 & OAuth 2 libraries.
 - [SpartnerNL/Laravel-Excel](https://github.com/SpartnerNL/Laravel-Excel) - 🚀 Supercharged Excel exports and imports in Laravel
 - [laravel-frontend-presets/tailwindcss](https://github.com/laravel-frontend-presets/tailwindcss) - A Tailwind CSS frontend preset for the Laravel Framework
@@ -3316,7 +3318,7 @@
 - [tighten/ziggy](https://github.com/tighten/ziggy) - Use your Laravel routes in JavaScript.
 - [sahibalejandro/form-object](https://github.com/sahibalejandro/form-object) - Form object to use with Vue components for sending data to a Laravel application using axios.
 - [laravel/horizon](https://github.com/laravel/horizon) - Dashboard and code-driven configuration for Laravel queues.
-- [jorijn/laravel-security-checker](https://github.com/jorijn/laravel-security-checker) - Added Laravel functionality to Enlightn Security Checker. Adds a command to check for, and optionally emails you, vulnerabilities when they affect you.
+- [jorijn/laravel-security-checker](https://github.com/jorijn/laravel-security-checker) - Scheduled security checks for Laravel apps. Matches your composer.lock against Packagist's security advisories (the same source as composer audit) and alerts you by mail or Slack when a vulnerability 
 - [tlaverdure/laravel-echo-server](https://github.com/tlaverdure/laravel-echo-server) - Socket.io server for Laravel Echo
 - [TimothyDJones/awesome-laravel](https://github.com/TimothyDJones/awesome-laravel) - A curated list of delightful Laravel PHP framework packages and resources
 - [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax.
@@ -3346,7 +3348,7 @@
 - [posva/vue-ts-lib](https://github.com/posva/vue-ts-lib) - Vue 3 library starter in TS with lint, auto release, changelog and tests
 - [profclems/postman-collection-generator](https://github.com/profclems/postman-collection-generator) - A package that automatically generates postman collection from laravel api/web routes
 - [arvidn/libtorrent](https://github.com/arvidn/libtorrent) - an efficient feature complete C++ bittorrent implementation
-- [felangel/bloc](https://github.com/felangel/bloc) - A predictable state management library that helps implement the BLoC design pattern
+- [felangel/bloc](https://github.com/felangel/bloc) - A predictable state management library for Dart
 - [Ramotion/paper-onboarding-android](https://github.com/Ramotion/paper-onboarding-android) - :octocat: PaperOnboarding is a material design slider made by @Ramotion
 - [needim/noty](https://github.com/needim/noty) - ⛔️ DEPRECATED - Dependency-free notification library that makes it easy to create alert - success - error - warning - information - confirmation messages as an alternative the standard alert dialog.
 
@@ -3455,7 +3457,7 @@
 
 - [Plume-org/rocket_i18n](https://github.com/Plume-org/rocket_i18n) - A crate to help you internationalize your Rocket applications.
 - [franzdumfart/laravel-nova-localizations](https://github.com/franzdumfart/laravel-nova-localizations) - Localization files for Laravel Nova
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - Translations by native speakers for the Laravel ecosystem.
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - [READ ONLY] Subtree split of the Laravel-Lang Lang component (see Laravel-Lang/mona)
 
 ## low-code 
 
@@ -3688,6 +3690,7 @@
 
 ## mobile 
 
+- [zed-industries/gpui](https://github.com/zed-industries/gpui) - A GPU-accelerated, open-source UI framework for Rust that combines immediate and retained modes. 🚀
 - [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant, optimized for DX/AX. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
@@ -3895,7 +3898,7 @@
 - [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - The Node.js version manager for Windows.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 - [nuxt/framework](https://github.com/nuxt/framework) - Old repo of Nuxt 3 framework, now on nuxt/nuxt
-- [antfu-collective/vite-node](https://github.com/antfu-collective/vite-node) - Vite as Node.js runtime
+- [made-in-common/vite-node](https://github.com/made-in-common/vite-node) - Vite as Node.js runtime
 - [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
 - [inspect-js/object-inspect](https://github.com/inspect-js/object-inspect) - string representations of objects in node and the browser
 - [ds300/patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨
@@ -3927,6 +3930,7 @@
 - [napi-rs/node-rs](https://github.com/napi-rs/node-rs) - Node.js bindings ❤️ Rust crates
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [node-oauth/node-oauth2-server](https://github.com/node-oauth/node-oauth2-server) - 🚀 The successor to oauthjs/oauth2-server. 🔒 Complete, compliant, maintained and well tested OAuth2 Server for node.js.  Includes native async await and PKCE.
+- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - Image processing in pure JavaScript for Node.js and the browser, with zero native dependencies.
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [elpheria/rpc-websockets](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets for Node.js and JavaScript/TypeScript
 - [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Secure, stateless, and cookie-based session library for Next.js or any JavaScript framework
@@ -4058,7 +4062,7 @@
 - [JS-DevTools/npm-publish](https://github.com/JS-DevTools/npm-publish) - GitHub Action to publish to NPM
 - [listr2/listr2](https://github.com/listr2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
 - [Yummygum/flagpack-core](https://github.com/Yummygum/flagpack-core) - Flagpack contains 250+ flag icons to easily use within your code project.
-- [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
+- [made-in-common/ni](https://github.com/made-in-common/ni) - 💡 Use the right package manager
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
 
@@ -4078,6 +4082,7 @@
 ## open-source 
 
 - [workingprototype/Fuobe](https://github.com/workingprototype/Fuobe) - The open creative studio on ComfyUI: images, video, 3D and audio on open weights, on your own GPU or the cloud. Camera motions, effects, apps, Cinema, Layers, Image to 3D and an AI agent.
+- [elie222/rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native OSS search engine for observability
 - [zeronsh/zeron](https://github.com/zeronsh/zeron) - A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.
 - [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 60+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
@@ -4181,7 +4186,7 @@
 - [forjedio/yerd](https://github.com/forjedio/yerd) - A powerful, developer-friendly tool for local PHP development
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [Effect-TS/effect-smol](https://github.com/Effect-TS/effect-smol) - Core libraries and experimental work for Effect v4
-- [vercel-labs/emulate](https://github.com/vercel-labs/emulate) - Local API emulation for CI and no-network sandboxes
+- [vercel-labs/emulate](https://github.com/vercel-labs/emulate) - API emulators for local dev, CI and sandboxes
 - [omerxx/tmux-sessionx](https://github.com/omerxx/tmux-sessionx) - A Tmux session manager, with preview, fuzzy finding, and MORE
 - [ytnrvdf/wha-spell-simulator](https://github.com/ytnrvdf/wha-spell-simulator) - A fan-made browser-based Witch Hat Atelier spell simulator.
 - [ExtendDB/extenddb](https://github.com/ExtendDB/extenddb) - ExtendDB
@@ -4252,7 +4257,7 @@
 - [lxsmnsyc/seroval](https://github.com/lxsmnsyc/seroval) - Stringify JS values
 - [sindresorhus/strip-indent](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from each line in a string
 - [adonisjs/http-transformers](https://github.com/adonisjs/http-transformers) - Serialize rich data-types with support for defining relationships with other transformers
-- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
+- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A safety oriented and memory safe implementation of sudo and su
 - [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) - A protocol for connecting any editor to any agent
 - [pi0/shiki-image](https://github.com/pi0/shiki-image) - Convert code snippets into images. Powered by shiki and takumi. Super fast 🚀
 - [anza-xyz/agave-geyser-plugin-postgres](https://github.com/anza-xyz/agave-geyser-plugin-postgres) - A Geyser plugin using Postgres as the data store.
@@ -4333,7 +4338,7 @@
 - [eienjs/adonisjs-api-query](https://github.com/eienjs/adonisjs-api-query) - Easily build Lucid queries from API requests
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [viridia/bevy_reactor_2](https://github.com/viridia/bevy_reactor_2) - Fine-grained reactivity framework for Bevy.
-- [antfu-collective/vite-plugin-inspect](https://github.com/antfu-collective/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins
+- [made-in-common/vite-plugin-inspect](https://github.com/made-in-common/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins
 - [huggingface/hf_transfer](https://github.com/huggingface/hf_transfer) - 
 - [kyutai-labs/kaudio](https://github.com/kyutai-labs/kaudio) - Rust crate for some audio utilities
 - [jax-ml/jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
@@ -4437,7 +4442,6 @@
 - [bytecodealliance/cargo-component](https://github.com/bytecodealliance/cargo-component) - A Cargo subcommand for creating WebAssembly components based on the component model proposal.
 - [gabrielmbmb/candle-holder](https://github.com/gabrielmbmb/candle-holder) - A Rust crate offering similar functionality to the Python transformers package using Candle.
 - [poppinss/defer](https://github.com/poppinss/defer) - A managed deferred queue to run async operations in the background
-- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 - [EricLBuehler/candle-vllm](https://github.com/EricLBuehler/candle-vllm) - Efficent platform for inference and serving local LLMs including an OpenAI compatible API server.
 - [codemirror/lang-javascript](https://github.com/codemirror/lang-javascript) - JavaScript language support for the CodeMirror code editor
 - [val-town/deno-ata](https://github.com/val-town/deno-ata) - support for type acquisition with url imports, npm, jsr prefixes
@@ -4599,12 +4603,12 @@
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [dominik-seeger/hyper-trace-id](https://github.com/dominik-seeger/hyper-trace-id) - Add trace ids to requests and responses
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
-- [antfu/drauu](https://github.com/antfu/drauu) - Headless SVG-based drawboard in browser.
+- [made-in-common/drauu](https://github.com/made-in-common/drauu) - Headless SVG-based drawboard in browser.
 - [rust-lang/docs.rs](https://github.com/rust-lang/docs.rs) - crates.io documentation generator
 - [iotaledger/stronghold.rs](https://github.com/iotaledger/stronghold.rs) - Stronghold is a secret management engine written in rust.
 - [poppinss/macroable](https://github.com/poppinss/macroable) - Extend classes from outside in using Macros and getters
 - [WebReflection/flatted](https://github.com/WebReflection/flatted) - A fast and minimal circular JSON parser.
-- [antfu-collective/birpc](https://github.com/antfu-collective/birpc) - Message-based two-way remote procedure call.
+- [made-in-common/birpc](https://github.com/made-in-common/birpc) - Message-based two-way remote procedure call.
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 - [KABBOUCHI/job_queue](https://github.com/KABBOUCHI/job_queue) - A simple, efficient Rust library for handling asynchronous job processing and task queuing.
 - [antfu/vitesse-nuxt](https://github.com/antfu/vitesse-nuxt) - Vitesse for Nuxt 4 🏔💚⚡️
@@ -4799,7 +4803,7 @@
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - The agent engineering platform
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [cfortuner/promptable](https://github.com/cfortuner/promptable) - Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀
-- [antfu-collective/bumpp](https://github.com/antfu-collective/bumpp) - Interactive CLI that bumps your version numbers and more
+- [made-in-common/bumpp](https://github.com/made-in-common/bumpp) - Interactive CLI that bumps your version numbers and more
 - [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
 - [m1guelpf/axum-signed-urls](https://github.com/m1guelpf/axum-signed-urls) - Signed URL middleware for Axum, using extractors.
 - [Enet4/faiss-rs](https://github.com/Enet4/faiss-rs) - Rust language bindings for Faiss
@@ -5233,7 +5237,7 @@
 - [m1guelpf/better-pest](https://github.com/m1guelpf/better-pest) - A better Pest test runner for VS Code
 - [adamwathan/tailwind-take-home-project](https://github.com/adamwathan/tailwind-take-home-project) - 
 - [antfu-collective/vitesse](https://github.com/antfu-collective/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
-- [antfu-collective/taze](https://github.com/antfu-collective/taze) - 🥦 A modern cli tool that keeps your deps fresh
+- [made-in-common/taze](https://github.com/made-in-common/taze) - 🥦 A modern cli tool that keeps your deps fresh
 - [dmitrybubyakin/nova-medialibrary-field](https://github.com/dmitrybubyakin/nova-medialibrary-field) - Laravel Nova field for managing the Spatie media library
 - [nuxt/typescript](https://github.com/nuxt/typescript) - TypeScript Support for Nuxt 2
 - [neomerx/json-api](https://github.com/neomerx/json-api) - Framework agnostic JSON API (jsonapi.org) implementation
@@ -5725,7 +5729,7 @@
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [ds300/patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨
-- [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
+- [made-in-common/ni](https://github.com/made-in-common/ni) - 💡 Use the right package manager
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
 
@@ -5959,7 +5963,7 @@
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
 - [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
 - [spatie/eloquent-sortable](https://github.com/spatie/eloquent-sortable) - Sortable behaviour for Eloquent models
-- [jorijn/laravel-security-checker](https://github.com/jorijn/laravel-security-checker) - Added Laravel functionality to Enlightn Security Checker. Adds a command to check for, and optionally emails you, vulnerabilities when they affect you.
+- [jorijn/laravel-security-checker](https://github.com/jorijn/laravel-security-checker) - Scheduled security checks for Laravel apps. Matches your composer.lock against Packagist's security advisories (the same source as composer audit) and alerts you by mail or Slack when a vulnerability 
 - [TimothyDJones/awesome-laravel](https://github.com/TimothyDJones/awesome-laravel) - A curated list of delightful Laravel PHP framework packages and resources
 - [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax.
 - [spatie/browsershot](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string
@@ -6342,6 +6346,7 @@
 
 ## rust 
 
+- [zed-industries/gpui](https://github.com/zed-industries/gpui) - A GPU-accelerated, open-source UI framework for Rust that combines immediate and retained modes. 🚀
 - [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
 - [kitlangton/scrawl](https://github.com/kitlangton/scrawl) - Show an agent a problem: mark up, record, send
 - [joris-gallot/gpui-devtools](https://github.com/joris-gallot/gpui-devtools) - Developer tools for inspecting and debugging GPUI applications
@@ -6533,7 +6538,7 @@
 - [bitshifter/glam-rs](https://github.com/bitshifter/glam-rs) - A simple and fast linear algebra library for games and graphics
 - [Jake-Shadle/xwin](https://github.com/Jake-Shadle/xwin) - A utility for downloading and packaging the Microsoft CRT & Windows SDK headers and libraries needed for compiling and linking programs targeting Windows.
 - [open-source-cooperative/keyring-rs](https://github.com/open-source-cooperative/keyring-rs) - Cross-platform library and utility to manage passwords
-- [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform native GUI library for 🦀 Rust
+- [freya-rs/freya](https://github.com/freya-rs/freya) - Cross-platform native GUI library for 🦀 Rust
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [thx/resvg-js](https://github.com/thx/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.
 - [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust
@@ -6578,7 +6583,7 @@
 - [riipandi/tauri-start-solid](https://github.com/riipandi/tauri-start-solid) - This project template should help get you started developing a multi-platform desktop application with tray menu support using Tauri, SolidJS, TanStack Router, Typescript, Tailwind CSS, and Vite.
 - [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
-- [joamag/boytacean](https://github.com/joamag/boytacean) - A GB emulator that is written in Rust 🦀!
+- [joamag/boytacean](https://github.com/joamag/boytacean) - A GB & GBA emulator that is written in Rust 🦀!
 - [Brendonovich/prisma-client-rust](https://github.com/Brendonovich/prisma-client-rust) - Type-safe database access for Rust
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [askama-rs/askama-old](https://github.com/askama-rs/askama-old) - The original askama repo, please go to https://github.com/askama-rs/askama
@@ -7318,6 +7323,7 @@
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [tursodatabase/libsql-client-ts](https://github.com/tursodatabase/libsql-client-ts) - TypeScript/JavaScript client API for libSQL
 - [FriendsOfAdonis/shopkeeper](https://github.com/FriendsOfAdonis/shopkeeper) - Adonis Shopkeeper provides an expressive, fluent interface to Stripe's subscription billing services.
+- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - Image processing in pure JavaScript for Node.js and the browser, with zero native dependencies.
 - [val-town/codemirror-ts](https://github.com/val-town/codemirror-ts) - lint, hover, goto, autocomplete, and twoslash extensions for CodeMirror + TypeScript
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [elpheria/rpc-websockets](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets for Node.js and JavaScript/TypeScript
@@ -8060,6 +8066,7 @@
 
 ## web 
 
+- [zed-industries/gpui](https://github.com/zed-industries/gpui) - A GPU-accelerated, open-source UI framework for Rust that combines immediate and retained modes. 🚀
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A real browser inside your terminal
 - [ferronweb/ferron](https://github.com/ferronweb/ferron) - A fast, modern web server built for production debugging.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
@@ -8071,7 +8078,7 @@
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant, optimized for DX/AX. Develop powerful apps, clouds & framework-agnostic libraries—faster.
-- [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform native GUI library for 🦀 Rust
+- [freya-rs/freya](https://github.com/freya-rs/freya) - Cross-platform native GUI library for 🦀 Rust
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly

@@ -626,7 +626,6 @@
 - [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
-- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
@@ -1119,7 +1118,6 @@
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 number one JavaScript library for interactive maps 🇺🇦
 - [sqreen/vue-authentication-example](https://github.com/sqreen/vue-authentication-example) - This repo aims to answer how to handle authentication in your vue app.
 - [pqina/vue-filepond](https://github.com/pqina/vue-filepond) - 🔌 A handy FilePond adapter component for Vue
-- [pqina/filepond](https://github.com/pqina/filepond) - 🌊 A flexible and fun JavaScript file upload library
 - [os-js/OS.js](https://github.com/os-js/OS.js) - OS.js - JavaScript Web Desktop Platform
 - [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
 - [deployd/deployd](https://github.com/deployd/deployd) - a toolkit for building realtime APIs
@@ -2816,6 +2814,7 @@
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [laravel/sail](https://github.com/laravel/sail) - Docker files for running a basic Laravel application.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
@@ -3714,6 +3713,7 @@
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - Windows 95 in an app. Runs on macOS, Linux, and Windows.
 - [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
+- [pqina/filepond](https://github.com/pqina/filepond) - 🌊 A flexible and fun JavaScript file upload library
 - [michitaro/vue-window](https://github.com/michitaro/vue-window) - Window component for vue2
 - [michitaro/vue-menu](https://github.com/michitaro/vue-menu) - Menu/Contextmenu Component for vue2
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
